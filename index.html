@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Select Quiz</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: flex-start;
+            height: 100vh;
+            background-color: #f0f0f0;
+            overflow-y: auto; /* Allow scrolling */
+        }
+
+        h1 {
+            margin-top: 20px;
+            font-size: 2em;
+            text-align: center;
+        }
+
+        #quiz-list {
+            width: 100%;
+            max-width: 600px; /* Max width for larger screens */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+
+        button {
+            margin: 10px 0;
+            padding: 15px;
+            font-size: 18px;
+            width: 100%; /* Take full width */
+            max-width: 90%; /* Max width of the button relative to container */
+            background-color: #007bff;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        /* Responsive media queries */
+        @media (max-width: 768px) {
+            h1 {
+                font-size: 1.8em;
+            }
+
+            button {
+                font-size: 16px;
+                padding: 12px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            h1 {
+                font-size: 1.5em;
+            }
+
+            button {
+                font-size: 14px;
+                padding: 10px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1>Select a Quiz</h1>
+    <div id="quiz-list"></div>
+
+    <script>
+        // Fetch list of JSON files
+        fetch('json_files/')
+            .then(response => response.text())
+            .then(data => {
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(data, 'text/html');
+                const links = doc.querySelectorAll('a');
+                const quizList = document.getElementById('quiz-list');
+
+                links.forEach(link => {
+                    if (link.href.endsWith('.json')) {
+                        const fileName = link.href.split('/').pop();
+                        const quizName = fileName.replace('.json', '').replace(/_/g, ' ').replace(/%20/g, ' '); // Handle underscores and spaces
+                        const button = document.createElement('button');
+                        button.textContent = quizName; // Display without .json
+                        button.onclick = () => {
+                            window.location.href = `quiz.html?file=${encodeURIComponent(fileName)}`; // Encode file name
+                        };
+                        quizList.appendChild(button);
+                    }
+                });
+            })
+            .catch(error => {
+                console.error('Error fetching quiz data:', error);
+            });
+    </script>
+</body>
+</html>
