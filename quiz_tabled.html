@@ -103,6 +103,7 @@
             border-collapse: collapse;
             margin: 20px 0;
             font-size: 0.8em; /* Decrease font size for tables */
+            overflow-x: hidden; /* Prevent horizontal scroll */
         }
 
         table, th, td {
@@ -117,6 +118,13 @@
         th {
             background-color: #007BFF;
             color: white;
+        }
+
+        /* Make tables responsive */
+        .table-responsive {
+            overflow-x: auto; /* Allow horizontal scroll for smaller screens */
+            margin-bottom: 20px; /* Add some margin at the bottom */
+            max-width: 100%; /* Ensure it does not exceed container width */
         }
     </style>
 </head>
@@ -189,7 +197,7 @@
 
                     // Append the cleaned question text (before and after table data)
                     quizContainer.innerHTML = `<p class="question">${currentQuestionIndex + 1}. ${beforeTable}</p>`;
-                    quizContainer.innerHTML += generateTableFromData(tableData);
+                    quizContainer.innerHTML += `<div class="table-responsive">${generateTableFromData(tableData)}</div>`;
                     quizContainer.innerHTML += `<p class="question">${afterTable}</p>`;
                 } else {
                     quizContainer.innerHTML = `<p class="question">${currentQuestionIndex + 1}. ${q.Question}</p>`;
