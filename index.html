@@ -111,7 +111,7 @@
             const button = document.createElement('button');
             button.textContent = quizName; // Display without .json
             button.onclick = () => {
-                window.location.href = `quiz_page_with_pager.html?file=${encodeURIComponent(fileName)}`; // Encode file name
+                window.location.href = `quiz.html?file=${encodeURIComponent(fileName)}`; // Encode file name
             };
             quizList.appendChild(button);
         });
