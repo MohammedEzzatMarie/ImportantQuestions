@@ -1,0 +1,114 @@
+    [
+        {
+            "Question":"What is affected gland in this disease appears in picture? ",
+            "Option 1":"Minor salivary gland",
+            "Option 2":"Submandibular gland",
+            "Option 3":"Sublingual gland",
+            "Option 4":"Parotid gland",
+            "Option 5":"Sweat gland",
+            "Correct Answer":"Sublingual gland",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Ranula_human_09.jpg/640px-Ranula_human_09.jpg"
+        },
+        {
+            "Question":"43 year old man presented with recent onset right eye diplopia. When she looks towards left, this is what happens. Which cranial nerve is affected?",
+            "Option 1":"trochlear",
+            "Option 2":"oculomotor",
+            "Option 3":"abducens",
+            "Option 4":"optic tract",
+            "Option 5":"vagus",
+            "Correct Answer":"trochlear",
+            "image":"https://www.researchgate.net/profile/Gabriel-Braga-4/publication/51826262/figure/fig2/AS:667849043484672@1536239028189/Trochlear-nerve-palsy-and-Claude-Bernard-Horner-syndrome-a-Slight-ptosis-on-the-right_Q320.jpg"
+        },
+        {
+            "Question":"What is the number of vertebra at which the arrow refers to ?",
+            "Option 1":"C1",
+            "Option 2":"C2",
+            "Option 3":"C3",
+            "Option 4":"C4",
+            "Option 5":"C5",
+            "Correct Answer":"C2",
+            "image":"https://www.researchgate.net/publication/225085479/figure/fig1/AS:196047247810563@1423752714206/Lateral-radiograph-of-the-cervical-spine-shows-a-fracture-in-the-body-of-the-C2-vertebra.png"
+        },
+        {
+            "Question":"An incision is made at the marked line on the  picture. This incision is most likely to cause injury of which of the following?",
+            "Option 1":"Saphenous nerve",
+            "Option 2":"Tibial nerve",
+            "Option 3":"Lateral planter nerve",
+            "Option 4":"Lateral cutaneous nerve of the thigh",
+            "Option 5":"Sural nerve",
+            "Correct Answer":"Sural nerve",
+            "image":"https://www.eorthopod.com/images/ContentImages/ankle/ankle_peroneal_subluxation/ankle_peroneal_sublux_surg03.jpg"
+        },
+        {
+            "Question":"A 22 years old man presented with a wound on the  lateral aspect of his forearm. 2 days later, the wound  appeared erythematous as in the picture. What is the most  likely underlying organism?",
+            "Option 1":"Strept pyogenes",
+            "Option 2":"E coli",
+            "Option 3":"Staphylococcus aureus",
+            "Option 4":"Clostridium deficile",
+            "Option 5":"Bacteroides",
+            "Correct Answer":"Strept pyogenes",
+            "image":"https://www.shutterstock.com/image-photo/lymphangitis-human-bite-wound-right-260nw-1616285872.jpg"
+        },
+        {
+            "Question":"36 year old heavy lifter complained of back pain radiating to his leg. MRI ordered and is shown in picture. What is the level of lesion?",
+            "Option 1":"L3-4",
+            "Option 2":"L4-5",
+            "Option 3":"L5-S1",
+            "Option 4":"L2-3",
+            "Option 5":"S1-2",
+            "Correct Answer":"L4-5",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/6/63/L4-l5-disc-herniation.png"
+        },
+        {
+            "Question":"50 years old patient is in ICU with this ECG. What to do next for treatment?",
+            "Option 1":"Atropine",
+            "Option 2":"Urgent pacing",
+            "Option 3":"Clopidogrel",
+            "Option 4":"Aspirin",
+            "Option 5":"Streptokinase",
+            "Correct Answer":"Urgent pacing",
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/CompleteHeartBlock.jpg/1920px-CompleteHeartBlock.jpg"
+        },
+        {
+            "Question":"This ECG made to 50 years old patient post-operative suffered from chest pain. what is  your diagnosis?",
+            "Option 1":"Myocardial infarction",
+            "Option 2":"Heart block",
+            "Option 3":"ARDS",
+            "Option 4":"Pulmonary embolism",
+            "Option 5":"Supraventricular tachycardia",
+            "Correct Answer":"Pulmonary embolism",
+            "image":"https://litfl.com/wp-content/uploads/2018/08/ECG-Massive-bilateral-pulmonary-embolus-2.jpeg"
+        },
+        {
+            "Question":"A 3 years old child was admitted to the Emergency Department having inhaled a  foreign body. Where will the foreign body most likely to have lodged?",
+            "Option 1":"Left upper lobe bronchus",
+            "Option 2":"Middle lobe bronchus",
+            "Option 3":"Right lower lobe bronchus",
+            "Option 4":"Right upper lobe bronchus",
+            "Option 5":"Right main bronchus",
+            "Correct Answer":"Right main bronchus",
+            "image":"https://specialist-ent.com/wp-content/uploads/2020/11/Screenshot_2020-11-30-trachea-book-almost-final4.png"
+        },
+        {
+            "Question":"5 years old female with history of left renal mass about 10 cm then presented with  dullness of percussion on the left side and her chest X-ray is attached. What is your  management?",
+            "Option 1":"Chest tube insertion",
+            "Option 2":"2nd  intercostal midclavicular needle insertion",
+            "Option 3":"Pleural aspiration",
+            "Option 4":"2nd  intercostal midaxillary tube insertion",
+            "Option 5":"5th  intercostal midaxillary tube insertion",
+            "Correct Answer":"Pleural aspiration",
+            "image":"https://prod-images-static.radiopaedia.org/images/53183623/f69b9ba15aa08e02024c4dc168ab80aa0dfc09c8bde1662cd7ce62d13c7b016d_big_gallery.jpeg"
+        },
+        {
+            "Question":"30 year-old male is involved in a road traffic accident he thrown from his motorbike onto the pavement and his X-ray as following, what is the management of this case?",
+            "Option 1":"CT thorax",
+            "Option 2":"IV cannula 2nd intercostal space",
+            "Option 3":"Chest drain 5th intercostal space midaxillary line",
+            "Option 4":"Thoracotomy",
+            "Option 5":"Chest drain 4th intercostal space midaxillary line",
+            "Correct Answer":"Chest drain 5th intercostal space midaxillary line",
+            "image":"https://img.medscapestatic.com/pi/meds/ckb/74/39374tn.jpg"
+        }
+        
+
+    ]
