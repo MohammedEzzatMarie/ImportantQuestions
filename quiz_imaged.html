@@ -148,7 +148,7 @@
         let currentQuestionIndex = 0;
 
         // Fetch the questions from the selected JSON file
-        fetch(`imaged_json_file/imaged_questions.json`)
+        fetch(`./imaged_questions.json`)
             .then(response => response.json())
             .then(data => {
                 questions = data;
@@ -208,3 +208,4 @@
     </script>
 </body>
 </html>
+>>>>>>> 16cf2c24292b0c529c7c8d85710ba1b3053c17f3
