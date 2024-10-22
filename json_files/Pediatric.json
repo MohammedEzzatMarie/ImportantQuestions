@@ -1,0 +1,587 @@
+[
+    {
+        "Question":"A 2 days newborn was found to have a spinal cord anomaly. There is a sac protruding  from his back containing CSF only. What is the most likely diagnosis?",
+        "Option 1":"Spina bifida occulta",
+        "Option 2":"Meningomyelocele",
+        "Option 3":"Meningocele",
+        "Option 4":"Spinal canal stenosis",
+        "Option 5":"Sacrococcygeal teratoma",
+        "Correct Answer":"Meningocele"
+    },
+    {
+        "Question":"A 3 days newborn was found to have a spinal cord anomaly. There is a sac protruding  from his back containing CSF and spinal nerves. What is the most likely diagnosis?",
+        "Option 1":"Spina bifida occulta",
+        "Option 2":"Meningomyelocele",
+        "Option 3":"Meningocele",
+        "Option 4":"Spinal canal stenosis",
+        "Option 5":"Sacrococcygeal teratoma",
+        "Correct Answer":"Meningomyelocele"
+    },
+    {
+        "Question":"Congenital anomaly results from failure of fusion of neural crest which migrates to the  back without protrusion of meninges or spinal nerves. What is the most likely diagnosis?",
+        "Option 1":"Spina bifida occulta",
+        "Option 2":"Meningomyelocele",
+        "Option 3":"Meningocele",
+        "Option 4":"Spinal canal stenosis",
+        "Option 5":"Sacrococcygeal teratoma",
+        "Correct Answer":"Spina bifida occulta"
+    },
+    {
+        "Question":"1-day neonate presented by bilious vomiting since birth and on examination, his  abdomen is scaphold and no passage of meconium. What ls your diagnosis?",
+        "Option 1":"Esophageal atresia",
+        "Option 2":"idiopathic hypertrophic pyloric stenosis",
+        "Option 3":"Duodenal atresia",
+        "Option 4":"Hirschsprung disease",
+        "Option 5":"Volvulus",
+        "Correct Answer":"Duodenal atresia"
+    },
+    {
+        "Question":"A 4-week-old girl presents with non-bilious vomiting after feeds, She also shows failure to  thrive and his labs show high serum bicarbonate (34 mmol\/L). What is your diagnosis?",
+        "Option 1":"Esophageal atresia",
+        "Option 2":"CHPS",
+        "Option 3":"Duodenal atresia",
+        "Option 4":"HSD",
+        "Option 5":"Volvulus",
+        "Correct Answer":"CHPS"
+    },
+    {
+        "Question":"A newborn is born with respiratory distress grade 2 and cyanosis. One examination,  trachea is shifted to right side and by auscultation of the chest, cardiac apex is displaced  to right with decrease breath sounds on left side, what is your provisional diagnosis?",
+        "Option 1":"Congenital diaphragmatic hernia",
+        "Option 2":"Tracheoesophageal fistula",
+        "Option 3":"Hirschsprung",
+        "Option 4":"Choanal atresia",
+        "Option 5":"Volvulus",
+        "Correct Answer":"Congenital diaphragmatic hernia"
+    },
+    {
+        "Question":"A newborn shortly after birth is noted to have dyspnea and cyanosis. A plain X-ray shows  that the left chest compartment contains multiple gas filled bowels. What is the most  likely developmental anomaly",
+        "Option 1":"Hernia due to failure of closure the pleuro-peritoneal membrane",
+        "Option 2":"Hernia through the central tendon of the diaphragm",
+        "Option 3":"Hernia between the sternal and costal attachment of diaphragm",
+        "Option 4":"A rolling type of hernia through esophageal hiatus",
+        "Option 5":"A sliding type of hernia through esophageal hiatus",
+        "Correct Answer":"Hernia due to failure of closure the pleuro-peritoneal membrane"
+    },
+    {
+        "Question":"Mother complained that her 3 day neonate is cyanotic and this cyanosis improves with  crying and worse with feeding, what is the cause of this respiratory distress?",
+        "Option 1":"congenital dsaphragmatic hernia",
+        "Option 2":"Tracheoesophageal fistula",
+        "Option 3":"Hirschsprung",
+        "Option 4":"Choanal atresia",
+        "Option 5":"Vascular ring",
+        "Correct Answer":"Choanal atresia"
+    },
+    {
+        "Question":"1-day neonate presented in NICU with excessive fluid coming from his mouth since birth  and pediatrician is unable to pass nasogastric tube to the stomach. His chest and  abdomen x-ray show alr in stomach. What Is your provislonal diagnosks?",
+        "Option 1":"Congenital esophageal atresia with tracheoesophageal fistula",
+        "Option 2":"congenital diaphragmatic hernia",
+        "Option 3":"duodenal atresia",
+        "Option 4":"Hirschsprung",
+        "Option 5":"Pure esophageal atresia",
+        "Correct Answer":"Congenital esophageal atresia with tracheoesophageal fistula"
+    },
+    {
+        "Question":"4 Month child with failure to thrive and recurrent chest infection. History shows that  dyspnea increase with lying flat in the night and awakes him from sleep. What is the most  likely diagnosis?",
+        "Option 1":"Congenital esophageal atresia with tracheoesophageal fistula",
+        "Option 2":"Congenital diaphragmatic hernia",
+        "Option 3":"Asthma",
+        "Option 4":"Gastro esophageal reflux",
+        "Option 5":"Idiopathic hypertrophic pyloric stenosis",
+        "Correct Answer":"Gastro esophageal reflux"
+    },
+    {
+        "Question":"A neonate has congenital anomaly formed of defect in left pleuro-peritoneal membrane.  What is the most likely the diagnosis of that anomaly?",
+        "Option 1":"Morgagni hernia",
+        "Option 2":"Bochdalek hernia",
+        "Option 3":"Hiatus hernia",
+        "Option 4":"Ectopia cardia",
+        "Option 5":"Gastric volvulus",
+        "Correct Answer":"Bochdalek hernia"
+    },
+    {
+        "Question":"10 months boy is screaming with passing dark stool, On examination, sausage shaped  mass in his abdominal examination with free Digital rectal examination. What is your diagnosis?",
+        "Option 1":"Intussusception",
+        "Option 2":"Meckel's diverticulum",
+        "Option 3":"Juvenile polyp",
+        "Option 4":"Anal fissure",
+        "Option 5":"Anal hemorrhoid",
+        "Correct Answer":"Intussusception"
+    },
+    {
+        "Question":"An 8 months screaming child was brought by his mother who described that he passed a red jelly stool this morning. What is the most likely underlying diagnosis?",
+        "Option 1":"Intussusception",
+        "Option 2":"Meckel diverticulum",
+        "Option 3":"Necrotizing enterocolitis",
+        "Option 4":"Juvenile polyp",
+        "Option 5":"Anal fissure",
+        "Correct Answer":"Intussusception"
+    },
+    {
+        "Question":"4 years old boy admitted for assessment of rectal bleeding. His mother  describes as bright red blood in toilet, and he has no abdominal pain or pain with  defecation with no family history. What is your diagnosis?",
+        "Option 1":"Intussusception",
+        "Option 2":"Meckel diverticulum",
+        "Option 3":"Necrotizing enterocolitis",
+        "Option 4":"Juvenile polyp",
+        "Option 5":"Anal fissure",
+        "Correct Answer":"Juvenile polyp"
+    },
+    {
+        "Question":"A preterm baby was brought 10 days after birth with bile vomiting, abdominal distention  and bloody diarrhoea or bleeding per rectum. What is the most likely underlying diagnosis?",
+        "Option 1":"Intussusception",
+        "Option 2":"Meckel diverticulum",
+        "Option 3":"Necrotizing enterocolitis",
+        "Option 4":"Juvenile polyp",
+        "Option 5":"Duodenal atresia",
+        "Correct Answer":"Necrotizing enterocolitis"
+    },
+    {
+        "Question":"A 2-year-old girl presents with dark red rectal bleeding and pallor, There is no vomiting  and her abdominal examination is unremarkable. What is the most likely underlying  diagnosis?",
+        "Option 1":"Intussusception",
+        "Option 2":"Meckel diverticulum",
+        "Option 3":"Necrotizing enterocolitis",
+        "Option 4":"Juvenile polyp",
+        "Option 5":"Anal fissure",
+        "Correct Answer":"Meckel diverticulum"
+    },
+    {
+        "Question":"A 6-week-old baby presents with intermittent bilious vomiting. On examination, there Is tender abdomen and no palpable mass but there is blood on rectal examination. What is your diagnosis?",
+        "Option 1":"Gastro-osophageal refiux",
+        "Option 2":"Intestinal duplication",
+        "Option 3":"Intussusception",
+        "Option 4":"Meckel diverticulum",
+        "Option 5":"Mid-gut volvulus",
+        "Correct Answer":"Mid-gut volvulus"
+    },
+    {
+        "Question":"Which of the following serves as the axis of gut rotation during development?",
+        "Option 1":"Celiac trunk",
+        "Option 2":"Superior mesenteric artery",
+        "Option 3":"Inferior mesenteric artery",
+        "Option 4":"Umbilical vessels",
+        "Option 5":"Middle colic artery",
+        "Correct Answer":"Superior mesenteric artery"
+    },
+    {
+        "Question":"4 years old boy admitted for assessment of rectal bleeding. His mother describes  as bright red blood in toilet with abdominal pain but no rectal pain and diagnosed as  Mickel's diverticulum. What is the most common site of Mickel diverticulum?",
+        "Option 1":"Jejunum",
+        "Option 2":"Duodenum",
+        "Option 3":"Ileum",
+        "Option 4":"Ascending colon",
+        "Option 5":"Rectum",
+        "Correct Answer":"Ileum"
+    },
+    {
+        "Question":"7 years old boy presents with abdominal pain with attack of bloody stool and diagnosed  as Meckel diverticulum, which of the following ectopic mucosa mostly found in Meckel?",
+        "Option 1":"Pancreatic",
+        "Option 2":"Ileal",
+        "Option 3":"Gastric",
+        "Option 4":"Duodenal",
+        "Option 5":"Jejunal",
+        "Correct Answer":"Gastric"
+    },
+    {
+        "Question":"7 years old boy presents with abdominal pain with attack of bloody stool and diagnosed  as Meckel diverticulum, What is the blood supply of Meckel diverticulum?",
+        "Option 1":"iliocolic artery",
+        "Option 2":"Superior mesenteric artery",
+        "Option 3":"Inferior mesenteric artery",
+        "Option 4":"Left colic artery",
+        "Option 5":"Right colic artery",
+        "Correct Answer":"Superior mesenteric artery"
+    },
+    {
+        "Question":"Child with history of painless rectal bleeding and presents notice a cherry red mass protruded after defecation from his anus. What is your diagnosis?",
+        "Option 1":"Juvenile polyp",
+        "Option 2":"Intussusception",
+        "Option 3":"Hamartoma",
+        "Option 4":"Rectal prolapse",
+        "Option 5":"Anal fissure",
+        "Correct Answer":"Juvenile polyp"
+    },
+    {
+        "Question":"10 year old child with persistent bloody diarrhea, failure to thrive and anemia. What is your provisional diagnosis?",
+        "Option 1":"AV malformation",
+        "Option 2":"Carcinoma of the colon",
+        "Option 3":"Hirschsprung disease",
+        "Option 4":"Inflammatory bowel disease",
+        "Option 5":"Juvenile polyp",
+        "Correct Answer":"Inflammatory bowel disease"
+    },
+    {
+        "Question":"7 year old boy presents with abdominal pain with attack of bloody stool and diagnosed as Meckel\u2019s diverticulum containing heterotropic pancreatic mucosa in histology picture. What is the common microscopic picture of heterotropic pancreatic mucosa?",
+        "Option 1":"Accumulation of beta cells islets of Langerhans",
+        "Option 2":"Mucoserous acini cells",
+        "Option 3":"Mucoid acini cells",
+        "Option 4":"Basophilic acini cells and duct",
+        "Option 5":"Accumulation of all islets of Langerhans cells",
+        "Correct Answer":"Basophilic acini cells and duct"
+    },
+    {
+        "Question":"A neonate has seen with abdominal distention mainly on the right side and vomiting.  after two days from birth he passed mucus plug but still ongoing symptoms what is the  most likely diagnosis?",
+        "Option 1":"Intussusception",
+        "Option 2":"Hirschsprung's disease",
+        "Option 3":"Duodenal atresia",
+        "Option 4":"Pyloric stenosis",
+        "Option 5":"Meconium ileus",
+        "Correct Answer":"Meconium ileus"
+    },
+    {
+        "Question":"A child presented in the neonatal period by abdominal distention and infrequent passage of meconium and he has family history of cystic fibrosis, what is your diagnosis?",
+        "Option 1":"Duodenal atresia",
+        "Option 2":"Meconium ileus",
+        "Option 3":"Hirschsprung",
+        "Option 4":"Malrotation",
+        "Option 5":"Pyloric stenosis",
+        "Correct Answer":"Meconium ileus"
+    },
+    {
+        "Question":"A 7 years old boy presents with recurrent attacks of pneumonia. Culture showed.  Pseudomonas aeruginosa. His mother confirms that he had meconium ileus in the  neonatal period. Which of the following is the most likely finding in this boy?",
+        "Option 1":"Increased sweat alanine transaminase",
+        "Option 2":"Increased sweat chloride",
+        "Option 3":"increased sweat creatinine",
+        "Option 4":"Increased sweat potassium",
+        "Option 5":"Increased sweat urea",
+        "Correct Answer":"Increased sweat chloride"
+    },
+    {
+        "Question":"Neonate presented with bilious vomiting, distended abdomen and meconium  plug was passed after 3 days from delivery by suppository. What Is your diagnosis?",
+        "Option 1":"Hirschsprung",
+        "Option 2":"Duodenal atresia",
+        "Option 3":"Ileal atresia",
+        "Option 4":"Malrotation",
+        "Option 5":"Meconium ileus",
+        "Correct Answer":"Hirschsprung"
+    },
+    {
+        "Question":"8 weeks old infant is brought to clinic with history of 18 days of jaundice. The mother is breast feeding. He was a full term baby. There was no family history of liver disease. what  is the most appropriate next step",
+        "Option 1":"Ultrasound liver",
+        "Option 2":"Unconjugated bilirubin measurement",
+        "Option 3":"Conjugated bilirubin measurement",
+        "Option 4":"ERCP",
+        "Option 5":"Reassurance and discharge",
+        "Correct Answer":"Conjugated bilirubin measurement"
+    },
+    {
+        "Question":"What is the congenital disease resulted from failure of neural crest cells to migrate to GIT wall?",
+        "Option 1":"CHPS",
+        "Option 2":"Duodenal atresia",
+        "Option 3":"Congenital diaphragmatic hernia",
+        "Option 4":"Hirschsprung disease",
+        "Option 5":"Imperforate anus",
+        "Correct Answer":"Hirschsprung disease"
+    },
+    {
+        "Question":"2 year old child presented by groin swelling and make ultrasound which show patent processes vaginalis. What is the disease is resulted from patent processes vaginalis?",
+        "Option 1":"Indirect hernia",
+        "Option 2":"Direct hernia",
+        "Option 3":"Undescended testis",
+        "Option 4":"Torsion testis",
+        "Option 5":"Torsion Morgagni testis",
+        "Correct Answer":"Indirect hernia"
+    },
+    {
+        "Question":"32. A 3 years old male child with hemi scrotal occasional swelling which trans-illuminate and non-separable from the testis. What is your diagnosis?",
+        "Option 1":"Indirect inguinal hernia",
+        "Option 2":"Direct hernia",
+        "Option 3":"Hydrocele",
+        "Option 4":"Undescended testis",
+        "Option 5":"Ectopic testis",
+        "Correct Answer":"Hydrocele"
+    },
+    {
+        "Question":"A 6 years child with sudden onset scrotal pain with black spot above the testis. What is  your diagnosis?",
+        "Option 1":"Torsion testis",
+        "Option 2":"Orchitis",
+        "Option 3":"Morgagni cyst torsion",
+        "Option 4":"Undescended testis",
+        "Option 5":"Ectopic testis",
+        "Correct Answer":"Morgagni cyst torsion"
+    },
+    {
+        "Question":"6 years brought with his mother with a groin swelling increase with playing and decrease  with lying down, what is your diagnosis?",
+        "Option 1":"Indirect inguinal hernia",
+        "Option 2":"Direct inguinal hernia",
+        "Option 3":"Undescended testis",
+        "Option 4":"Ectopic testis",
+        "Option 5":"Torsion testis",
+        "Correct Answer":"Indirect inguinal hernia"
+    },
+    {
+        "Question":"Premature baby presented by inguinal tender swelling on emergency room. What is your  provisional diagnosis?",
+        "Option 1":"Direct hernia",
+        "Option 2":"Strangulated indirect hernia",
+        "Option 3":"Femoral hernia",
+        "Option 4":"Hydrocele of the cord",
+        "Option 5":"Hydrocele",
+        "Correct Answer":"Strangulated indirect hernia"
+    },
+    {
+        "Question":"A 3 years child presented by hydrocele with patent Processes vaginalis. Process vaginalis comes from which structure?",
+        "Option 1":"Peritoneum",
+        "Option 2":"Fascia transversalis",
+        "Option 3":"Internal oblique muscle",
+        "Option 4":"Cremasteric muscle",
+        "Option 5":"External oblique muscle",
+        "Correct Answer":"Peritoneum"
+    },
+    {
+        "Question":"A 3 years child presented by right empty scrotum and there is rounded structure in inguinal region what is the site of ectopic testis?",
+        "Option 1":"Abdominal",
+        "Option 2":"Inguinal canal",
+        "Option 3":"High scrotum",
+        "Option 4":"Superficial inguinal pouch",
+        "Option 5":"Superficial inguinal ring",
+        "Correct Answer":"Superficial inguinal pouch"
+    },
+    {
+        "Question":"A 3 year old child presented by right empty scrotum and there is rounded structure in inguinal region. What is the site of ectopic testis?",
+        "Option 1":"Abdominal",
+        "Option 2":"Inguinal canal",
+        "Option 3":"High scrotum",
+        "Option 4":"Root of penis",
+        "Option 5":"Superficial inguinal ring",
+        "Correct Answer":"Root of penis"
+    },
+    {
+        "Question":"A 3 month old boy presents with irreducible groin swelling that's found to be strong positive trans-illumination with both testes felt normally lying at their place, which of the following is the most likely diagnosis?",
+        "Option 1":"Direct inguinal hernia",
+        "Option 2":"Indirect inguinal hernia",
+        "Option 3":"Ectopic testis",
+        "Option 4":"Hydrocele of the cord",
+        "Option 5":"Inguinal lymphadenitis",
+        "Correct Answer":"Hydrocele of the cord"
+    },
+    {
+        "Question":"A 3 years child presented by right empty scrotum and there is rounded structure in inguinal region. Descend of testis to scrotum guided by which structure?",
+        "Option 1":"Gubernaculum",
+        "Option 2":"Lateral umbilical ligament",
+        "Option 3":"Medial umbilical ligament",
+        "Option 4":"Urachus",
+        "Option 5":"Vitello intestinal duct",
+        "Correct Answer":"Gubernaculum"
+    },
+    {
+        "Question":"7 years old child has pain on his scrotum for 6 hours with chocolate eating. He has same pain 4 months ago which relieved spontaneously. What is the next step?",
+        "Option 1":"Perform an ultrasound",
+        "Option 2":"Reassure and discharge",
+        "Option 3":"Immediate scrotal exploration",
+        "Option 4":"Anti-inflammatory",
+        "Option 5":"Antibiotics",
+        "Correct Answer":"Immediate scrotal exploration"
+    },
+    {
+        "Question":"Mother notices her child 3 years old with empty right scrotum. On examination, right testis is impalpable. What is the next step?",
+        "Option 1":"Abdominal ultrasound",
+        "Option 2":"Inguinal-scrotal ultrasound",
+        "Option 3":"MRI pelvis",
+        "Option 4":"CT abdomen with contrast",
+        "Option 5":"Laparoscopy",
+        "Correct Answer":"Laparoscopy"
+    },
+    {
+        "Question":"18 years old male comes to outpatient clinic presenting by mass felt in the scrotum which  appears separatable from testis. Which is the most likely diagnosis?",
+        "Option 1":"Lipoma of cord",
+        "Option 2":"Epididymal cyst",
+        "Option 3":"Hernia",
+        "Option 4":"Torsion testis",
+        "Option 5":"Torsion appendices testis",
+        "Correct Answer":"Epididymal cyst"
+    },
+    {
+        "Question":"44. What is affected gland in this disease appears in picture?",
+        "Option 1":"Minor salivary gland",
+        "Option 2":"Submandibular gland",
+        "Option 3":"Sublingual gland",
+        "Option 4":"Parotid gland",
+        "Option 5":"Sweat gland",
+        "Correct Answer":"Sublingual gland"
+    },
+    {
+        "Question":"13 months baby with Bilious vomiting, abdominal distension, jaundice and painful swelling in groin without previous history. What is your diagnosis?",
+        "Option 1":"Strangulated Inguinal hernia",
+        "Option 2":"Intussusception",
+        "Option 3":"Hirschsprung",
+        "Option 4":"Meconium ileus",
+        "Option 5":"Duodenal atresia",
+        "Correct Answer":"Strangulated Inguinal hernia"
+    },
+    {
+        "Question":"3 years with scrotal swelling and the mother is noticed when this swelling present, the child is crying and she think this swelling makes him crying. What is your diagnosis?",
+        "Option 1":"Inguinal hernia",
+        "Option 2":"Torsion testis",
+        "Option 3":"Torsion Morgagni cyst",
+        "Option 4":"Hydrocele",
+        "Option 5":"Undescended testis",
+        "Correct Answer":"Inguinal hernia"
+    },
+    {
+        "Question":"2 years old child consulted for Bluish coloured fluctuant swelling below the tongue due to Sublingual gland obstruction. What is your diagnosis?",
+        "Option 1":"Branchial cyst",
+        "Option 2":"Thyroglossal cyst",
+        "Option 3":"Epidermoid cyst",
+        "Option 4":"Ranula",
+        "Option 5":"Submandibular abscess",
+        "Correct Answer":"Ranula"
+    },
+    {
+        "Question":"5 years Male with history of chest infection, 5 days later developed neck swelling which is  cystic and fluctuating at anterior sternomastoid border. What is this swelling?",
+        "Option 1":"Thyroglossal cyst",
+        "Option 2":"Cystic hygroma",
+        "Option 3":"Branchial cyst",
+        "Option 4":"Congenital epidermoid",
+        "Option 5":"Acquired epidermoid",
+        "Correct Answer":"Branchial cyst"
+    },
+    {
+        "Question":"49. 2 years old child presented by bluish cystic lesion below the tongue and diagnosed as  ranula. Which gland does it originate from?",
+        "Option 1":"Submandibular gland",
+        "Option 2":"Dermoid cyst",
+        "Option 3":"Thyroglossal cyst",
+        "Option 4":"Sublingual gland",
+        "Option 5":"Parotid gland",
+        "Correct Answer":"Sublingual gland"
+    },
+    {
+        "Question":"5 years old Infant with fever and tender red mass below angle of mandible. What is the provisional diagnosis?",
+        "Option 1":"Branchial cyst",
+        "Option 2":"Thyroglossal cyst",
+        "Option 3":"Epidermoid cyst",
+        "Option 4":"Ranula",
+        "Option 5":"Submandibular abscess",
+        "Correct Answer":"Submandibular abscess"
+    },
+    {
+        "Question":"A 3 years old child is brought to clinic by his mother and he developed a smooth cyst is  identified above the hyoid bone on the ultrasound, it is heterogeneous and  multiloculated mass. What is your diagnosis?",
+        "Option 1":"Cystic hygroma",
+        "Option 2":"Thyroglossal cyst",
+        "Option 3":"Dermoid cyst",
+        "Option 4":"Branchial cyst",
+        "Option 5":"Rhabdomyosarcoma",
+        "Correct Answer":"Dermoid cyst"
+    },
+    {
+        "Question":"5 years old child presented by midline neck swelling below hyoid bone moves  with deglutition and protrusion of the tongue, What is your diagnosis?",
+        "Option 1":"Thyroglossal cyst",
+        "Option 2":"Cystic hygroma",
+        "Option 3":"Branchial cyst",
+        "Option 4":"Congenital epidermoid",
+        "Option 5":"Acquired epidermoid",
+        "Correct Answer":"Thyroglossal cyst"
+    },
+    {
+        "Question":"40 years with anterior triangle swelling at level of C3 which moving with swallowing.  What is your provisional diagnosis?",
+        "Option 1":"Dermoid cyst",
+        "Option 2":"Lymph node",
+        "Option 3":"Thyroglossal cyst",
+        "Option 4":"Branchial cyst",
+        "Option 5":"Thyroid nodule",
+        "Correct Answer":"Thyroid nodule"
+    },
+    {
+        "Question":"A 10 years old child presented by sudden mildly tender swelling In the dorsum of the  wrist. What is your diagnosis?",
+        "Option 1":"Ganglion cyst",
+        "Option 2":"Epidermoid cyst",
+        "Option 3":"Branchial cyst",
+        "Option 4":"Sebaceous cyst",
+        "Option 5":"Lipoma",
+        "Correct Answer":"Ganglion cyst"
+    },
+    {
+        "Question":"What is the most common complication of thyroglossal cyst in children?",
+        "Option 1":"Contain thyroid aberrant tissue",
+        "Option 2":"Recurrent infection",
+        "Option 3":"Risk of cancer",
+        "Option 4":"Risk of bleeding",
+        "Option 5":"Rupture",
+        "Correct Answer":"Recurrent infection"
+    },
+    {
+        "Question":"A 32 years old woman notices a painless swelling in the anterior triangle of her neck following a respiratory tract Infection. Examinations reveals a soft lump bulging forward from the deep surface of the sternomastoid muscle at the junction between upper third and lower two third, 3 cm in diameter, Which of the following is the most likely diagnosis?",
+        "Option 1":"Thyroglossal cyst",
+        "Option 2":"Cystic hygroma",
+        "Option 3":"[Lympho-epithelial) Branchial cyst",
+        "Option 4":"Congenital epidermoid",
+        "Option 5":"Acquired epidermoid",
+        "Correct Answer":"[Lympho-epithelial) Branchial cyst"
+    },
+    {
+        "Question":"6 years old child has midline swelling move with deglutition and protrusion of tongue and  diagnosed as thyroglossal cyst. Between which muscles this cyst is present in the neck?",
+        "Option 1":"Cricothyrold and thyroglossus",
+        "Option 2":"Thyropharyngeus and thyroglossus",
+        "Option 3":"Omohyoid and steromastoid",
+        "Option 4":"Sternothyroid and sternohyoid",
+        "Option 5":"Sternothyroid and omohyoid",
+        "Correct Answer":"Sternothyroid and sternohyoid"
+    },
+    {
+        "Question":"1 month old child feeds on milk and vomits after sometime but he gains weight. ABG and  electrolytes table was provided and all under normal range. What's your diagnosis?",
+        "Option 1":"Gastroesophageal reflux",
+        "Option 2":"Hypertrophic pyloric stenosis",
+        "Option 3":"Pyloric atresia",
+        "Option 4":"Duodenal webs",
+        "Option 5":"Intussusception",
+        "Correct Answer":"Gastroesophageal reflux"
+    },
+    {
+        "Question":"1 month child has projectile non bilious vomiting. Abdomen not distended with failure to thrive and diagnosed as pyloric stenosis. What is the initial management?",
+        "Option 1":"Pyloromyotomy operation",
+        "Option 2":"IV fluid rehydration",
+        "Option 3":"Fluoroscopic reduction",
+        "Option 4":"Pyloroplasty",
+        "Option 5":"Resection and anastomosis",
+        "Correct Answer":"IV fluid rehydration"
+    },
+    {
+        "Question":"What is the embryology of thyroglossal cyst",
+        "Option 1":"4th branchial arch",
+        "Option 2":"3rd branchial arch",
+        "Option 3":"Thyroglossal duct",
+        "Option 4":"Isthmus of thyroid gland",
+        "Option 5":"4th branchial arch",
+        "Correct Answer":"Thyroglossal duct"
+    },
+    {
+        "Question":"9 month child presented with impal pable undescended testis. what is the next step for management?",
+        "Option 1":"Surgical exploration",
+        "Option 2":"B-HCG",
+        "Option 3":"Laparotomy with anesthesia in 3 months",
+        "Option 4":"Orchidectomy",
+        "Option 5":"Abdominal ultrasound",
+        "Correct Answer":"Surgical exploration"
+    },
+    {
+        "Question":"4 years old male patient has penis skin not retracted . What is the best management?",
+        "Option 1":"Circumcision",
+        "Option 2":"Steroids",
+        "Option 3":"Dorsal slit",
+        "Option 4":"Antibiotics",
+        "Option 5":"Aspiration",
+        "Correct Answer":"Circumcision"
+    },
+    {
+        "Question":"50 years old patient has severe penis pain after catheter insertion. By examination,  prepuce is retracted, glans penis is swollen and engorged. What is your diagnosis?",
+        "Option 1":"Balanitis",
+        "Option 2":"Balanoposthitis",
+        "Option 3":"Paraphimosis",
+        "Option 4":"Phimosis",
+        "Option 5":"Urinary tract infection",
+        "Correct Answer":"Paraphimosis"
+    },
+    {
+        "Question":"11 days newborn with abdominal distention and bilious vomiting. Some features as  abundant neck skin, epicanthus fold, protruded tongue, single palmar crease, gap  between 1st and 2nd toe and neonatologist suspected to be down syndrome. What is  provisional diagnosis?",
+        "Option 1":"Duodenal atresia",
+        "Option 2":"Hirschsprung disease",
+        "Option 3":"Imperforate anus",
+        "Option 4":"Malrotation",
+        "Option 5":"None of the above",
+        "Correct Answer":"Hirschsprung disease"
+    },
+    {
+        "Question":"After delivery of newborn baby, the small bowel was protruded from abdomen. What is correct related to this case?",
+        "Option 1":"Immediate removal of membrane or sac if patient",
+        "Option 2":"The defect usually present right to umbilicus",
+        "Option 3":"Defect more than 4 cm",
+        "Option 4":"Surgery not mandatory as mostly failed reduction",
+        "Option 5":"Conservative treatment as it resolves spontaneously",
+        "Correct Answer":"The defect usually present right to umbilicus"
+    }
+]

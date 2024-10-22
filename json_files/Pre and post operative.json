@@ -1,0 +1,1325 @@
+[
+    {
+        "Question":"A 66-year-old man is admitted following a collapse while waiting for a bus. Clinical  examination confirms a ruptured abdominal aortic aneurysm. He is moribund and  hypotensive. What is his ASA grade?",
+        "Option 1":"ASA 1",
+        "Option 2":"ASA 2",
+        "Option 3":"ASA 3",
+        "Option 4":"ASA 4",
+        "Option 5":"ASA 5",
+        "Correct Answer":"ASA 5"
+    },
+    {
+        "Question":"A 23-year-old man has 4cm lipoma on his flank and he is prepared to remove it as a day  case surgery. He is otherwise well with no history of organ failure. What is his ASA grade?",
+        "Option 1":"ASA 1",
+        "Option 2":"ASA 2",
+        "Option 3":"ASA 3",
+        "Option 4":"ASA 4",
+        "Option 5":"ASA 5",
+        "Correct Answer":"ASA 1"
+    },
+    {
+        "Question":"A 72-year-old man is due to undergo an inguinal hernia repair. He suffers from COPD and  has an exercise tolerance of 10 yards. He also has pitting edema to the thighs. What is his  ASA grade regarding data before?",
+        "Option 1":"ASA 1",
+        "Option 2":"ASA 2",
+        "Option 3":"ASA 3",
+        "Option 4":"ASA 4",
+        "Option 5":"ASA 5",
+        "Correct Answer":"ASA 4"
+    },
+    {
+        "Question":"45 years old Lady is diabetic, hypertensive and with history of kidney failure prepared for hysterectomy surgery, which of the following scores Is not relevant in the perioperative period?",
+        "Option 1":"ASA",
+        "Option 2":"POSSUM",
+        "Option 3":"Charison",
+        "Option 4":"APACHE",
+        "Option 5":"All of the above",
+        "Correct Answer":"Charison"
+    },
+    {
+        "Question":"A 7-year-old girl is admitted for an elective tonsillectomy. She has had normal development and her pulse, pressure and weight are normal for her age she is being prepared for surgery. Which of the following preoperative tests are required?",
+        "Option 1":"Clotting test",
+        "Option 2":"Full blood count",
+        "Option 3":"Renal function test",
+        "Option 4":"All of the above",
+        "Option 5":"No needed investigation",
+        "Correct Answer":"No needed investigation"
+    },
+    {
+        "Question":"A 23-year-old asthmatic man is admitted with a bilateral fracture of fibula and tibia following a road traffic accident. He is on 15 mg of prednisolone daily and is to undergo surgery the following day, which of the following regimes should be implemented?",
+        "Option 1":"Continue normal steroids in the perioperative period",
+        "Option 2":"Omit steroids on day of surgery then continue normal steroids",
+        "Option 3":"Reduce steroids on day of surgery then continue normal steroids",
+        "Option 4":"Increase steroids on day of surgery and for three days postoperatively",
+        "Option 5":"Increase steroids on day of surgery and for one month following surgery",
+        "Correct Answer":"Increase steroids on day of surgery and for three days postoperatively"
+    },
+    {
+        "Question":"63-year-old woman with a caecal cancer is booked for an elective right hemicolectomy. She is otherwise fit and well. In the pre-assessment clinic, she asks about the benefits of the enhanced recovery program. Which of the following is a potential benefit?",
+        "Option 1":"Reduced length of hospital stay",
+        "Option 2":"Reduced Likelihood of chronic pain",
+        "Option 3":"Routine use of abdominal drains",
+        "Option 4":"Routine use of nasogastric tube",
+        "Option 5":"Decrease the size of wound",
+        "Correct Answer":"Reduced length of hospital stay"
+    },
+    {
+        "Question":"A 75-year-old man is-scheduled for abdominoperineal resection for a rectal carcinoma, the enhanced recovery program he was given a carbohydrate drink the night before. How does preoperative carbohydrate loading  to improve the outcome of surgery?",
+        "Option 1":"It decreases the utilization of fat resources",
+        "Option 2":"It improves abdominal more function",
+        "Option 3":"It improves nitrogen balance and reduce insulin resistance",
+        "Option 4":"It improves respiratory muscle function",
+        "Option 5":"It improves sugar levels in the perioperative period",
+        "Correct Answer":"It improves nitrogen balance and reduce insulin resistance"
+    },
+    {
+        "Question":"Which of the following statement Is not considered a measure to enhance rapid recovery after a hip surgery?",
+        "Option 1":"A carbohydrate rich solution 2 hours preoperatively",
+        "Option 2":"Preoperative anti emetic",
+        "Option 3":"No nasogastric tube",
+        "Option 4":"Limit IV fluids",
+        "Option 5":"Mobilize early",
+        "Correct Answer":"Preoperative anti emetic"
+    },
+    {
+        "Question":"49 years old man with body weight 120 kg and prepared for hip surgery. Which of the  following is not considered a measure to enhance rapid recovery?",
+        "Option 1":"Oral carbohydrate 2 hours preoperatively",
+        "Option 2":"Weight reduction before surgery",
+        "Option 3":"Anti-emetic",
+        "Option 4":"Diazepam",
+        "Option 5":"Epidural analgesia",
+        "Correct Answer":"Diazepam"
+    },
+    {
+        "Question":"60 years old man presented by weight loss and bleeding per rectum and diagnosed having  mid sigmoid cancer and prepared for cancer removal. Which is best practice regarding  enhanced recovery?",
+        "Option 1":"Cail up initially follow up after 30 days",
+        "Option 2":"Remove catheter day one post-operative",
+        "Option 3":"Postoperative opiates for pain",
+        "Option 4":"Preoperative bowel preparation",
+        "Option 5":"Diazepam",
+        "Correct Answer":"Remove catheter day one post-operative"
+    },
+    {
+        "Question":"50 years old man is undergoing cancer removal surgery due to cancer sigmoid. What to do according enhanced recovery program?",
+        "Option 1":"Small Incision For Resection",
+        "Option 2":"Opioid Use",
+        "Option 3":"Limit fluid intake",
+        "Option 4":"Nasogastric Tube",
+        "Option 5":"Catheterization",
+        "Correct Answer":"Limit fluid intake"
+    },
+    {
+        "Question":"A 65 years old man with a cecal tumor has been scheduled for a right hemi-colectomy. he is type 2 DM (diet control). As part of enhanced recovery, he was given oral carbohydrate drink in pre-operative period. How should his diabetes managed during perioperative period?",
+        "Option 1":"Blood glucose levels should be monitored regularly",
+        "Option 2":"Blood glucose should be managed with sub cutaneous insulin infusion",
+        "Option 3":"Blood glucose should be managed with variable rate insulin infusion",
+        "Option 4":"HBA1c should be monitored at regular intervals",
+        "Option 5":"Patient should be monitor his own blood glucose",
+        "Correct Answer":"Blood glucose levels should be monitored regularly"
+    },
+    {
+        "Question":"Which statement relating to the peri-operative management of patients with diabetes mellitus is false?",
+        "Option 1":"They should be placed first on the operating list",
+        "Option 2":"An intravenous sliding scale should be used in all cases",
+        "Option 3":"Potassium supplementation is likely to be required in diabetics on a sliding scale",
+        "Option 4":"Electrolyte abnormalities are more common after major visceral resections",
+        "Option 5":"Blood glucose monitoring hourly is required during general anaesthesia",
+        "Correct Answer":"An intravenous sliding scale should be used in all cases"
+    },
+    {
+        "Question":"A 50-year-old man with type 1 diabetes and an autonomic neuropathy undergoes an inguinal hernia repair as a day case, Which of the following ls most likely to be a problem for him as a day case surgery?",
+        "Option 1":"Constipation",
+        "Option 2":"Orthostatic hypotension",
+        "Option 3":"Peripheral neuropathy",
+        "Option 4":"Reduced pulse rate variability",
+        "Option 5":"Sinus tachycardia",
+        "Correct Answer":"Orthostatic hypotension"
+    },
+    {
+        "Question":"A 28 year old man is found in the sea by emergency services. He is alert but confused. His core temperature is below 33 C. ECG changes that may occur include which one of the following?",
+        "Option 1":"Atrial flutter",
+        "Option 2":"Inverted T wave at the junction of the QRS & T wave",
+        "Option 3":"Narrowed QRS complex",
+        "Option 4":"Prolonged PR interval",
+        "Option 5":"Shortened QT interval",
+        "Correct Answer":"Prolonged PR interval"
+    },
+    {
+        "Question":"A 28 year old man is found in the sea by emergency services. He is alert but confused. His core temperature is below 33 C. ECG changes that may occur include which one of the following?",
+        "Option 1":"Atrial flutter",
+        "Option 2":"Inverted T wave at the junction of the QRS & T wave",
+        "Option 3":"Narrowed QRS complex",
+        "Option 4":"J wave between T and QRS",
+        "Option 5":"Shortened QT interval",
+        "Correct Answer":"J wave between T and QRS"
+    },
+    {
+        "Question":"A 21-year-old man falls down a ravine while skiing and is trapped for several hours. He is finally brought to the emergency department profoundly hypothermic with a core temperature of 29 C. Which method is most effective at raising the core temperature?",
+        "Option 1":"Re-warming with electric blankets",
+        "Option 2":"Increasing the room temperature",
+        "Option 3":"Instillation of warm intra-vesical fluid",
+        "Option 4":"Instillation of warmed rectal fluid",
+        "Option 5":"Instillation of warmed intra peritoneal fluid",
+        "Correct Answer":"Instillation of warmed intra peritoneal fluid"
+    },
+    {
+        "Question":"A 59 years old patient prepared for elective hernia repair. In the recovery room, nurses found he has hypothermia 35C, how will you deal with patient?",
+        "Option 1":"Do not operate before core temperature of 36C",
+        "Option 2":"Intra-peritoneal lavage and proceed",
+        "Option 3":"Warm intra-vesical fluid to the patient an proceed",
+        "Option 4":"Raise temperature of the room",
+        "Option 5":"Do the operation under local anesthesia",
+        "Correct Answer":"Do not operate before core temperature of 36C"
+    },
+    {
+        "Question":"An elderly woman admitted after a fall. Initial assessment show she has core temperature of 32 What would expected early physiological response to her body temperature",
+        "Option 1":"Peripheral vasoconstriction",
+        "Option 2":"Increase fat metabolism",
+        "Option 3":"Increase hypothalamic set point",
+        "Option 4":"Increase metabolic rate",
+        "Option 5":"Increase thyroid activity",
+        "Correct Answer":"Peripheral vasoconstriction"
+    },
+    {
+        "Question":"A 59 years old patient prepared for elective hernia repair. In the recovery room, nurses found he has hypothermia 35C, how will you deal with patient?",
+        "Option 1":"Critical incident report",
+        "Option 2":"IV warm saline",
+        "Option 3":"Make ambient temperature",
+        "Option 4":"Warm by bur huger and do the operation under general anesthesia",
+        "Option 5":"Do the operation under local anesthesia",
+        "Correct Answer":"Critical incident report"
+    },
+    {
+        "Question":"60 years old patient prepared for sigmoid colectomy anticoagulant prophylaxis given to this patient post-operative?",
+        "Option 1":"LMWH",
+        "Option 2":"LMWH and stocking",
+        "Option 3":"Vena cava filter",
+        "Option 4":"Warfarin",
+        "Option 5":"Aspirin",
+        "Correct Answer":"LMWH and stocking"
+    },
+    {
+        "Question":"60 years old patient prepared for sigmold colectomy with history of recurrent pulmonary embolism despite of heparin use. What is post-operative prophylaxis anticoagulant?",
+        "Option 1":"LMWH",
+        "Option 2":"LMWH and stocking",
+        "Option 3":"Vena cava filter",
+        "Option 4":"Warfarin",
+        "Option 5":"Aspirin",
+        "Correct Answer":"Vena cava filter"
+    },
+    {
+        "Question":"55 years old patient prepared for sigmold colectomy with history of ischemic heart disease and peripheral vascular disease. What is post-operative prophylaxis anticoagulant?",
+        "Option 1":"LMWH",
+        "Option 2":"LMWH and stocking",
+        "Option 3":"Vena cava filter",
+        "Option 4":"Warfarin",
+        "Option 5":"Aspirin",
+        "Correct Answer":"LMWH"
+    },
+    {
+        "Question":"55 years old male will go for total knee arthroplasty and you need a Tourniquet application to have a bloodless field. To which level you will adjust the Tourniquet pressure?",
+        "Option 1":"Above the mean arterial pressure after exsanguination",
+        "Option 2":"Above systolic blood pressure after exsanguination",
+        "Option 3":"Above the mean arterial pressure before exsanguination",
+        "Option 4":"Above systolic blood pressure before exsanguination",
+        "Option 5":"Equal to the mean arterial pressure",
+        "Correct Answer":"Above systolic blood pressure after exsanguination"
+    },
+    {
+        "Question":"38 years old male has Colle's fracture and he is prepared for operation. What is the best local anaesthesia used for Colle's fracture correction?",
+        "Option 1":"Lidocaine",
+        "Option 2":"Bupivacaine",
+        "Option 3":"Xylocaine",
+        "Option 4":"Bier block",
+        "Option 5":"Lignocaine",
+        "Correct Answer":"Bier block"
+    },
+    {
+        "Question":"38 years old male has Colle's fracture and he is prepared for operation. What is the local anaesthesia used in biers block?",
+        "Option 1":"Lidocaine",
+        "Option 2":"Bupivacaine",
+        "Option 3":"Xylocaine",
+        "Option 4":"Prilocaine",
+        "Option 5":"Cocaine",
+        "Correct Answer":"Prilocaine"
+    },
+    {
+        "Question":"18 years old man with leg wound about 20 cm and prepared for suture under local anesthesia. What is the lignocaine common side effect?",
+        "Option 1":"Cardiotoxicity",
+        "Option 2":"Hepatotoxicity",
+        "Option 3":"Malignant hyperthermia",
+        "Option 4":"Renal impairment",
+        "Option 5":"None of the above",
+        "Correct Answer":"Cardiotoxicity"
+    },
+    {
+        "Question":"34 years old patient injured on his tip of index finger in his work, what is the best type of anaesthesia is used in ring block?",
+        "Option 1":"Lidocaine",
+        "Option 2":"Lidocaine with adrenaline",
+        "Option 3":"Bupivacaine",
+        "Option 4":"Bupivacaine with adrenaline",
+        "Option 5":"Prilocaine",
+        "Correct Answer":"Lidocaine"
+    },
+    {
+        "Question":"34 years old patient has pilar cyst In his scalp. What is the best type of anesthesia used in pillar cyst in the scalp?",
+        "Option 1":"Lidocaine",
+        "Option 2":"Lidocaine with adrenaline",
+        "Option 3":"Bupivacaine",
+        "Option 4":"Bupivacaine with adrenaline",
+        "Option 5":"Prilocaine",
+        "Correct Answer":"Lidocaine with adrenaline"
+    },
+    {
+        "Question":"20 years old man traps his finger in a door and presents with a crushed Index finger tip sustaining a bursting of the pulp. Which of the following is the most appropriate technique to administer local anaesthesia ?",
+        "Option 1":"Bier block",
+        "Option 2":"Digital ring block",
+        "Option 3":"Median nerve block",
+        "Option 4":"Ulnar nerve block",
+        "Option 5":"Radial nerve block",
+        "Correct Answer":"Digital ring block"
+    },
+    {
+        "Question":"34 years old patient injured on his tip of index finger in his work and prepared for suture  under local anaesthesia (lignocaine). What is the mechanism of action of Local lignocaine?",
+        "Option 1":"Sodium channel block",
+        "Option 2":"Sodium channel opening",
+        "Option 3":"K channel block",
+        "Option 4":"Mu receptor blocker",
+        "Option 5":"Posterior horn cell inhibition",
+        "Correct Answer":"Sodium channel block"
+    },
+    {
+        "Question":"TENS or transcutaneous electrical nerve stimulation can relieve pain by which method?",
+        "Option 1":"Sodium channel block",
+        "Option 2":"Reticular formation inhibition",
+        "Option 3":"K channel block",
+        "Option 4":"Mu receptor blocker",
+        "Option 5":"Posterior horn cell inhibition (spinal gate theory)",
+        "Correct Answer":"Posterior horn cell inhibition (spinal gate theory)"
+    },
+    {
+        "Question":"Transcutaneous electrical nerve stimulation can relleve paln by whlch method?",
+        "Option 1":"A beta fiber of touch cause lateral inhibition of C fibers of pain",
+        "Option 2":"A beta fiber of pain cause lateral inhibition of C fibers of touch",
+        "Option 3":"Na channel block",
+        "Option 4":"K channel block",
+        "Option 5":"Mu receptor blocker",
+        "Correct Answer":"A beta fiber of touch cause lateral inhibition of C fibers of pain"
+    },
+    {
+        "Question":"Patient has low back pain and erythema due to hot compression on pain site. What mechanism of this hot fomentation carrying fibers relief pain?",
+        "Option 1":"A Alpha modulates C fibers",
+        "Option 2":"A beta modulates C fibers",
+        "Option 3":"C fibers modulates A beta fibers",
+        "Option 4":"C fibers modulates A delta fibers",
+        "Option 5":"A delta modulates A beta fibers",
+        "Correct Answer":"A beta modulates C fibers"
+    },
+    {
+        "Question":"A 22-year-old lady receives intravenous morphine for acute abdominal pain. Which of the following best accounts for its analgesic properties?",
+        "Option 1":"Binding to gamma opicid receptors in the brainstem",
+        "Option 2":"Binding to gamma opicid receptors at peripheral nerve sites",
+        "Option 3":"Binding to B opioid receptors within the CNS",
+        "Option 4":"Binding to a opioid receptors within the CNS",
+        "Option 5":"Binding to Mu opioid receptors within the CNS",
+        "Correct Answer":"Binding to Mu opioid receptors within the CNS"
+    },
+    {
+        "Question":"40 years old man underwent laparotomy and he is on morphine. Postoperative, there is respiratory center depression (respiratory rate 6 breath per minute). Which of the following receptor morphine cause respiratory center depression?",
+        "Option 1":"Mu and kappa receptor",
+        "Option 2":"Delta receptor",
+        "Option 3":"Dopamine",
+        "Option 4":"Serotonin",
+        "Option 5":"B receptor",
+        "Correct Answer":"Mu and kappa receptor"
+    },
+    {
+        "Question":"45 years old patient undergoing colonoscopy but nurse says patient is still awake. Anesthetic doctor checks patient and founds he is sleeping but notices pinpoint pupil. Which of this medication may be given for induction?",
+        "Option 1":"Flumazenil",
+        "Option 2":"Fentanyl",
+        "Option 3":"Naloxone",
+        "Option 4":"Midazolam",
+        "Option 5":"Ketamine",
+        "Correct Answer":"Fentanyl"
+    },
+    {
+        "Question":"45 years old man underwent laparotomy and he is on morphine. Postoperative, there is respiratory center depression (respiratory rate 6 breath per minute). Which of the following drugs used for reversal of morphine toxicity?",
+        "Option 1":"Dantrolene",
+        "Option 2":"Flumazenil",
+        "Option 3":"Naloxone",
+        "Option 4":"Intralipid",
+        "Option 5":"Neostigmine",
+        "Correct Answer":"Naloxone"
+    },
+    {
+        "Question":"A 65-year-old woman has been given a total of 15 mg of morphine\/over a 30-minute period for pain relief following a femoral neck fracture, following observations are found: Sp02 80%, blood pressure 90\/60, respiratory rate 6 breaths\/minute. What is the immediate intervention?",
+        "Option 1":"High flow oxygen",
+        "Option 2":"Intravenous fluld replacement",
+        "Option 3":"Intravenous naloxone",
+        "Option 4":"Monitor her ECG",
+        "Option 5":"Tracheal intubation",
+        "Correct Answer":"Tracheal intubation"
+    },
+    {
+        "Question":"Patient in RTA presented by fracture ribs 5 and 6 then after 3 days suffered from Dyspne\u0259, Tachycardia 90, blood pressure 170\/90 , sweating and on examination; there is poor air entry and no abnormal sounds",
+        "Option 1":"Ineffective analgesia",
+        "Option 2":"Pneumonia",
+        "Option 3":"Pulmonary embolism",
+        "Option 4":"ARDS",
+        "Option 5":"COPD",
+        "Correct Answer":"Ineffective analgesia"
+    },
+    {
+        "Question":"42 After RTA, 40 years old man has severe chest pain. After examination, 4-5 rib flail fracture segment was found and his saturation Is 74% on 15 liter O2 and other vitals were normal. What is best management?",
+        "Option 1":"0.5 % bupivacaine",
+        "Option 2":"2 % lidocaine",
+        "Option 3":"Intubate & assisted ventilation",
+        "Option 4":"Insertion of Chest drain in anterior chest",
+        "Option 5":"Insertion of Chest drain on mid axillary line",
+        "Correct Answer":"Intubate & assisted ventilation"
+    },
+    {
+        "Question":"23 years old athlete man came with single rib fracture with severe pain and he was stable. What is appropriate pain management?",
+        "Option 1":"Oral analgesic",
+        "Option 2":"Admission, observation and analgesia",
+        "Option 3":"Infiltration of wound with .5% bupivacaine",
+        "Option 4":"Chest drain insertion at 5th intercostal space",
+        "Option 5":"Intubation",
+        "Correct Answer":"Oral analgesic"
+    },
+    {
+        "Question":"60 years old patient with history of chronic bronchitis came with single rib fracture, x-ray done with no hemothorax or pneumothorax but the patient is in pain. What is appropriate pain management?",
+        "Option 1":"Oral analgesic",
+        "Option 2":"Admission, observation and analgesia",
+        "Option 3":"Infiltration of wound with 0.5% bupivacaine",
+        "Option 4":"Chest drain insertion at 5th intercostal space",
+        "Option 5":"Intubation",
+        "Correct Answer":"Admission, observation and analgesia"
+    },
+    {
+        "Question":"34 years old presented by severe abdominal pain after open cholecystectomy. What Is proper pain management?",
+        "Option 1":"NSAID",
+        "Option 2":"Paracetamol",
+        "Option 3":"Epidural",
+        "Option 4":"Local lidocaine in the wound",
+        "Option 5":"Patient controlled analgesia",
+        "Correct Answer":"Epidural"
+    },
+    {
+        "Question":"40 years old female with Down syndrome undergone open cholecystectomy and admitted to high dependency unit. 12 hours later she was in severe pain. What is the best management for pain control?",
+        "Option 1":"Paracetamol oral",
+        "Option 2":"Patient controlled analgesia",
+        "Option 3":"Nerve block",
+        "Option 4":"Epidural analgesia",
+        "Option 5":"Opioid-Immediate IV bolus of morphine",
+        "Correct Answer":"Epidural analgesia"
+    },
+    {
+        "Question":"60 years old patient with advanced pancreatic cancer and persistent back pain. Which of the following is the most appropriate treatment?",
+        "Option 1":"Corticosteroids",
+        "Option 2":"Nerve block",
+        "Option 3":"NSAIDS",
+        "Option 4":"Paracetamol",
+        "Option 5":"TENS",
+        "Correct Answer":"Nerve block"
+    },
+    {
+        "Question":"50 year old patient with renal cancer has left mid humorous metastasis and pain. Which of the following is the most appropriate treatment?",
+        "Option 1":"Paracetamol",
+        "Option 2":"Radiation",
+        "Option 3":"Non-steroids",
+        "Option 4":"Morphine",
+        "Option 5":"Nerve block",
+        "Correct Answer":"Radiation"
+    },
+    {
+        "Question":"Mechanism of action of aspirin that it causes bleeding?",
+        "Option 1":"By inhibition of COX2 and decrease PG",
+        "Option 2":"By inhibition of COX 1 and decrease thromboxane",
+        "Option 3":"By inhibition of clotting factors",
+        "Option 4":"By inhibition of clotting factors formation from the liver",
+        "Option 5":"None of the above",
+        "Correct Answer":"By inhibition of COX 1 and decrease thromboxane"
+    },
+    {
+        "Question":"55 years old female has osteoarthritis on his knees and takes regular medical treatment including ibuprofen. What is the mechanlsm of action of analgesia of Ibuprofen?",
+        "Option 1":"Inhibition of Cyclooxygenase 1",
+        "Option 2":"inhibition of Cyclooxygenase 2",
+        "Option 3":"Stimulation of Histamine receptors",
+        "Option 4":"Acetylcholine release",
+        "Option 5":"Dopamine release",
+        "Correct Answer":"inhibition of Cyclooxygenase 2"
+    },
+    {
+        "Question":"46 years old patient admitted with hematemesis 3 times. He has long history of taking aspirin. What is the mechanism of action of aspirin that cause gastric ulcer?",
+        "Option 1":"Inhibit Prostaglandin",
+        "Option 2":"Inhibit Somatostatin",
+        "Option 3":"Inhibit Gastrin",
+        "Option 4":"Inhibit secretin",
+        "Option 5":"Inhibit CCK",
+        "Correct Answer":"Inhibit Prostaglandin"
+    },
+    {
+        "Question":"A 28-year-old man is in the surgical intensive care unit. He suffered from a flail chest several hours earlier and he was intubated and ventilated. Over the past few minutes, he has become increasingly hypoxic and now needs increased ventilation pressures. What is the most common cause?",
+        "Option 1":"Pulmonary embolism",
+        "Option 2":"Cardiac tamponade",
+        "Option 3":"Fat embolism",
+        "Option 4":"Tension pneumothorax",
+        "Option 5":"Adult respiratory distress syndrome",
+        "Correct Answer":"Tension pneumothorax"
+    },
+    {
+        "Question":"A 40 years old man undergoes inguinal hernia repair under local anaesthesia Postoperatively, he is prescribed ibuprofen orally. What is the mechanism of action of drug  on stomach?",
+        "Option 1":"Inhibition of dopamine receptors in chemo trigger zone",
+        "Option 2":"Inhibition of prostaglandin to reduce bicarbonate and mucous secretion",
+        "Option 3":"Stimulation of acetylcholine and H2 receptors",
+        "Option 4":"Stimulation of proton pump inhibitors",
+        "Option 5":"Stimulation of serotonin in chemo trigger zone",
+        "Correct Answer":"Inhibition of prostaglandin to reduce bicarbonate and mucous secretion"
+    },
+    {
+        "Question":"A man has continuous ooze from wound for 2 days after a femoropopliteal bypass. He was  on aspirin and clopidogrel till 48 hours before operation. Why do you think Is the cause of  bleeding?",
+        "Option 1":"Side effects of Aspirin and clopidogrel",
+        "Option 2":"Anastomotic disruption at the proximal site",
+        "Option 3":"Loose suture in the skin",
+        "Option 4":"No hemostasis in the operation",
+        "Option 5":"No compression",
+        "Correct Answer":"Side effects of Aspirin and clopidogrel"
+    },
+    {
+        "Question":"What is the type of general anesthesia cause liver damage and hepatitis postoperative?",
+        "Option 1":"Halothane",
+        "Option 2":"Nitric oxide",
+        "Option 3":"Isoflurane",
+        "Option 4":"sevoflurane",
+        "Option 5":"lidocaine",
+        "Correct Answer":"Halothane"
+    },
+    {
+        "Question":"What is the best General aesthetic medication is relatively safe and used in induction anaesthesia in shock for a patient came in trauma?",
+        "Option 1":"Ketamine",
+        "Option 2":"Thiopentone",
+        "Option 3":"Propofol",
+        "Option 4":"Etomidate",
+        "Option 5":"Neostigmine",
+        "Correct Answer":"Ketamine"
+    },
+    {
+        "Question":"40 years old patient on laparotomy operation and take Atrachium as non-depolarizing muscle relaxant. What is the Drug used for reversal of non-depolarizing muscle relaxant?",
+        "Option 1":"Neostigmine",
+        "Option 2":"Dantrolene",
+        "Option 3":"Naloxone",
+        "Option 4":"Intralipid",
+        "Option 5":"Flumazenil",
+        "Correct Answer":"Neostigmine"
+    },
+    {
+        "Question":"40 years old patient on laparotomy operation and take a depolarizing muscle  relaxant. What is the name of Depolarizing agent for muscle relaxant used In anaesthesia?",
+        "Option 1":"Succinyl choline",
+        "Option 2":"Vecuronium",
+        "Option 3":"Pancronium",
+        "Option 4":"Atracium",
+        "Option 5":"Neostigmine",
+        "Correct Answer":"Succinyl choline"
+    },
+    {
+        "Question":"A 6 year old child requires long term drug therapy to treat a rare genetic disorder. The  drug must be given intravenously. Recently, there have been issues with the child pulling  at current system of the Hickman line and the parents are requesting an alternative. What  is the best option?",
+        "Option 1":"Triple lumen subclavian line",
+        "Option 2":"Portacath device",
+        "Option 3":"Intermittent cannulation as needed",
+        "Option 4":"PICC line",
+        "Option 5":"Broviac line",
+        "Correct Answer":"Portacath device"
+    },
+    {
+        "Question":"50 years old patient is in ICU with this ECG. What to do next for treatment?",
+        "Option 1":"Atropine",
+        "Option 2":"Urgent pacing",
+        "Option 3":"Clopidogrel",
+        "Option 4":"Aspirin",
+        "Option 5":"Streptokinase",
+        "Correct Answer":"Urgent pacing"
+    },
+    {
+        "Question":"Male pre-operative ECG shows bradycardia, widened QRS and p wave not assoclated with QRS and Incoherent. What is the appropriate management?",
+        "Option 1":"Atropine",
+        "Option 2":"Adrenaline",
+        "Option 3":"Urgent pacing",
+        "Option 4":"IV hydration",
+        "Option 5":"None of the above",
+        "Correct Answer":"Urgent pacing"
+    },
+    {
+        "Question":"40 years old patient develops extreme bradycardia during cholecystectomy. He  has a history of cardiac transplant 5 years ago. Which drug will be used in this  bradycardia?",
+        "Option 1":"Atropine",
+        "Option 2":"Glycopyrrolate",
+        "Option 3":"Ephedrine",
+        "Option 4":"Isoproterenol",
+        "Option 5":"None of the above",
+        "Correct Answer":"Isoproterenol"
+    },
+    {
+        "Question":"24 hours after a routine aortic valve replacement for a heavily calcified valve the patient's  heart rate abruptly falls to 40 beats \/minute. The systolic pressure decreases and central  venous pressure increases which was 7 mmHg and then become 15 mmHg. Which of the  following is the most likely diagnosis?",
+        "Option 1":"Atrial fibrillation",
+        "Option 2":"Cardiac tamponade",
+        "Option 3":"Digoxin toxicity",
+        "Option 4":"Heart block",
+        "Option 5":"Left ventricular failure",
+        "Correct Answer":"Heart block"
+    },
+    {
+        "Question":"Atropine used as medication prior to operation. Which is least likely occurring?",
+        "Option 1":"Bradycardia",
+        "Option 2":"Dry secretion",
+        "Option 3":"Skin flush",
+        "Option 4":"Bronchodilatation",
+        "Option 5":"Retention",
+        "Correct Answer":"Bradycardia"
+    },
+    {
+        "Question":"Diabetic patient underwent a below knee amputation, then developed a swollen stump, shortness of breath and chest pain, what is the most likely diagnosis?",
+        "Option 1":"Pulmonary embolism",
+        "Option 2":"Gas gangrene",
+        "Option 3":"Myocardial infarction",
+        "Option 4":"Cellulitis",
+        "Option 5":"Pneumonia",
+        "Correct Answer":"Pulmonary embolism"
+    },
+    {
+        "Question":"26-year-old primigravida presents in the Emergency Department extremely breathless. Complaining of tightness in her chest. She is Cyanosed and the neck veins are distended. Her 62-year-old father has recently died of myocardial infarction.",
+        "Option 1":"Acute massive pulmonary embolism",
+        "Option 2":"Aortic dissection",
+        "Option 3":"Myocardial infarction",
+        "Option 4":"Puerperal sepsis",
+        "Option 5":"Pulmonary infarction",
+        "Correct Answer":"Acute massive pulmonary embolism"
+    },
+    {
+        "Question":"28-year-old primigravida presents In the Emergency Department with history of sudden chest pain, her father died at 42 years of age of a heart attack. She is strikingly tall and  slim. On examination, there are no abnormal physical signs other than a tachycardia of 90  beats per minute with her anxiety. What is the appropriate diagnosis?",
+        "Option 1":"Acute massive pulmonary embolism",
+        "Option 2":"Aortic dissection",
+        "Option 3":"Myocardial infarction",
+        "Option 4":"Puerperal sepsis",
+        "Option 5":"Pulmonary infarction",
+        "Correct Answer":"Aortic dissection"
+    },
+    {
+        "Question":"28-year-old primigravida presents in the Emergency Department with history of sharp pleuritic chest pain. Her father died at 67 years of age from stomach cancer. She coughed  up some blood at morning. What is the appropriate pathology of that discase?",
+        "Option 1":"Acute massive pulmonary embolism",
+        "Option 2":"Aortic dissection",
+        "Option 3":"Myocardial infarction",
+        "Option 4":"Puerperal sepsis",
+        "Option 5":"Pulmonary infarction",
+        "Correct Answer":"Pulmonary infarction"
+    },
+    {
+        "Question":"45 years old female came to ER with shortness of breathing, pain with deep breathing and  fever of one day duration. Twelve days ago, the patient has varicose vein surgery. On  examination, the patient has sinus rhythm with pulse beats per minute, temperature 38  and oxygen saturation was 92. by CT angiography, the diagnosis was pulmonary embolism. What is the appropriate treatment for this female?",
+        "Option 1":"Low molecular weight heparinization",
+        "Option 2":"Placement of inferior vena cava filter",
+        "Option 3":"Pulmonary embolectomy",
+        "Option 4":"Thrombolysis",
+        "Option 5":"Warfarinization",
+        "Correct Answer":"Low molecular weight heparinization"
+    },
+    {
+        "Question":"27 years old female student presented with 4 day history of progressive cough and shortness of breath. By examination, there Is right lower lobe lung dullness on percussion. ABG shows pH 7.41, pO2 normal, pCO2 low, HC03 normal. What is the expected cause?",
+        "Option 1":"Pulmonary embolism",
+        "Option 2":"Pneumococcal pneumonia",
+        "Option 3":"Pulmonary edema",
+        "Option 4":"Bronchopneumonia",
+        "Option 5":"Fat embolism",
+        "Correct Answer":"Pneumococcal pneumonia"
+    },
+    {
+        "Question":"30 years old healthy man wakes up in the morning with sudden shortness of breathing  with fall in spo2, low blood pressure, and tachycardia with absent breath sounds on the  left side. What is the probable diagnosis?",
+        "Option 1":"Spontancous pneumothorax",
+        "Option 2":"Pneumonia",
+        "Option 3":"Pleural effusion",
+        "Option 4":"Pneumothorax",
+        "Option 5":"Pericardial effusion",
+        "Correct Answer":"Spontancous pneumothorax"
+    },
+    {
+        "Question":"65-year-old woman collapses after a total hip replacement. A pulmonary embolism is  suspected. Which of the following electrocardiogram changes would support this  diagnosis?",
+        "Option 1":"Dominant R wave in V6",
+        "Option 2":"Left axis deviation",
+        "Option 3":"Left bundle branch block",
+        "Option 4":"ST elevation in V1-V3",
+        "Option 5":"T wave inversion in V1-V3",
+        "Correct Answer":"T wave inversion in V1-V3"
+    },
+    {
+        "Question":"This ECG made to 50 years old patient post-operative suffered from chest pain. what is  your diagnosis?",
+        "Option 1":"Myocardial infarction",
+        "Option 2":"Heart block",
+        "Option 3":"ARDS",
+        "Option 4":"Pulmonary embolism",
+        "Option 5":"Supraventricular tachycardia",
+        "Correct Answer":"Pulmonary embolism"
+    },
+    {
+        "Question":"45 years old female underwent total colectomy. Post-operative, he is suspected  to have pulmonary embolism and his blood pressure is 80\/30.what is best diagnostic  Investigation for pulmonary embolism?",
+        "Option 1":"Chest X-ray",
+        "Option 2":"V\/Q scan",
+        "Option 3":"D dimer",
+        "Option 4":"Echo",
+        "Option 5":"CT pulmonary angiography",
+        "Correct Answer":"CT pulmonary angiography"
+    },
+    {
+        "Question":"A 25-year old motorcyclist is admitted following a road traffic accident, having sustained:  bilateral femoral fractures and a ruptured spleen. Three days postoperatively He is noted  to be confused, hypoxemic and difficult to ventilate. His observations show a blood  pressure of 120\/80mmHg, regular pulse of 88 beats\/minute and he is apyrexial. A chest X.  ray shows bilateral diffuse lung infiltrates. What is the most likely underlying diagnosis?",
+        "Option 1":"Adult respiratory distress syndrome",
+        "Option 2":"Atelectasis",
+        "Option 3":"Bronchopneumonia",
+        "Option 4":"Pulmonary edema",
+        "Option 5":"Pulmonary thromboembolism",
+        "Correct Answer":"Adult respiratory distress syndrome"
+    },
+    {
+        "Question":"After being stabbed in the left groin, a previously healthy 20-year-old man was admitted  to the emergency Department. He developed haemorrhagic shock. During resuscitation, 10  units of type O negative red cells and 6 L of colloid were administered; Twenty-four hours later, he noted to have severe dyspnoea for which he required intubation and ventilation on the intensive care unit. Which of the following would be the most likely cause of his respiratory insufficiency?",
+        "Option 1":"ABO blood incompatibility",
+        "Option 2":"ARDS",
+        "Option 3":"Congestive cardiac failure",
+        "Option 4":"Tension pneumothorax",
+        "Option 5":"Viral pneumonitis",
+        "Correct Answer":"ARDS"
+    },
+    {
+        "Question":"A 25-year-old male pedestrian is involved in a road traffic accident. He sustains multiple injuries and is admitted to the Intensive care unit, Intubated and ventilated. Over the week he develops adult respiratory distress syndrome. What is the main reason for hypoxemla in this condition?",
+        "Option 1":"Increased lung compliance",
+        "Option 2":"Reduced diffusion",
+        "Option 3":"Reduced surfactant",
+        "Option 4":"Reduced elastase",
+        "Option 5":"Left to right shunt",
+        "Correct Answer":"Reduced diffusion"
+    },
+    {
+        "Question":"32-year-old man presents to the acute surgical unit with acute pancreatitis. He suddenly becomes dyspnoeic and his saturations are 89% on air, A CXR shows bilateral pulmonary infiltrates. His CVP pressure is 16mmHg. What is the most likely diagnosis?",
+        "Option 1":"Pulmonary edema",
+        "Option 2":"Pneumococcal pneumonia",
+        "Option 3":"Staphylococcal pneumonia",
+        "Option 4":"Pneumocystis carinii",
+        "Option 5":"Adult respiratory distress syndrome",
+        "Correct Answer":"Adult respiratory distress syndrome"
+    },
+    {
+        "Question":"A 56-year-old woman ventilated In Intensive care has increasing oxygen requirements one day after elective aortic aneurysm repair. Her pulmonary capillary wedge pressure (PCWP) ls 20 mmHg (normal range 8-12 mmHg) and she has obvious bilateral diffuse opacities on chest X-ray. Which of the following is the most likely diagnosis?",
+        "Option 1":"Acute respiratory distress syndrome (ARDS)",
+        "Option 2":"Aspiration pneumonia",
+        "Option 3":"Lobar pneumonia",
+        "Option 4":"Pulmonary embolus",
+        "Option 5":"Pulmonary edema secondary to heart failure",
+        "Correct Answer":"Pulmonary edema secondary to heart failure"
+    },
+    {
+        "Question":"76 years old male had hemiarthroplasty. He receives enoxaparin and antibiotic. After 7 days, he came hypotensive (blood pressure = 85\/65) and tachycardia (pulse = 120) and pleural chest pain with deep inhalation. What is your diagnosis?",
+        "Option 1":"Thromboembolism",
+        "Option 2":"Fat embolism",
+        "Option 3":"Lobar pneumonia",
+        "Option 4":"Tension pneumothorax",
+        "Option 5":"Bronchopneumonia",
+        "Correct Answer":"Thromboembolism"
+    },
+    {
+        "Question":"Patient presented with knee pain and operated in his left knee. After 5 days, he develops chest pain, haemoptysis and shortness of breathing. What underline haematological problem predispose to his presentation?",
+        "Option 1":"Anaemia",
+        "Option 2":"Thrombocytosis",
+        "Option 3":"Thrombocytopenia",
+        "Option 4":"Neutrophilia",
+        "Option 5":"Lymphocytosis",
+        "Correct Answer":"Thrombocytosis"
+    },
+    {
+        "Question":"76-year-cld man has become difficult to rouse after elective repair of an abdominal aortic aneurysm. His pulse is 84 beats\/minute and blood pressure 145\/85  mmHg and respiratory rate 8 breaths\/minute. What is the cause of this finding?",
+        "Option 1":"Deep vein thrombosis",
+        "Option 2":"Overdose of opiate analgesia",
+        "Option 3":"Pulmonary embolus",
+        "Option 4":"Subphrenic abscess",
+        "Option 5":"Wound sepsis",
+        "Correct Answer":"Overdose of opiate analgesia"
+    },
+    {
+        "Question":"60 years old man has bilateral femur shaft fracture due to car accident underwent fixation  surgery, the Intra operative blood loss was a 800 ml. 1 hour post-operative, he became  tachypneic and then arrested. What is mostly diagnosis?",
+        "Option 1":"Fat embolism",
+        "Option 2":"Tension pneumothorax",
+        "Option 3":"Pulmonary embolism",
+        "Option 4":"Acute left ventricular failure",
+        "Option 5":"Adult respiratory distress syndrome",
+        "Correct Answer":"Fat embolism"
+    },
+    {
+        "Question":"40 years old man presented by Fracture shaft of femur after car accident and diagnosed as  fat embolism after 24 hours. What is the best management to fat embolism?",
+        "Option 1":"Best supportive care",
+        "Option 2":"Elevation of Albumin above 30 gm",
+        "Option 3":"Methyl prednisone",
+        "Option 4":"Warfarin",
+        "Option 5":"Heparin until PT > 50%",
+        "Correct Answer":"Best supportive care"
+    },
+    {
+        "Question":"38 years old female complains of fever (his temperature Is 38) 24 hours after cholecystectomy operation, what is the cause of this fever?",
+        "Option 1":"Pulmonary atelectasis",
+        "Option 2":"UTI",
+        "Option 3":"DVT",
+        "Option 4":"Drug fever",
+        "Option 5":"Wound infection",
+        "Correct Answer":"Pulmonary atelectasis"
+    },
+    {
+        "Question":"25 years old boy presented to ER with fever 5 days post- appendectomy and some  discharge from sutures, what is mostly cause of fever?",
+        "Option 1":"Pulmonary atelectasis",
+        "Option 2":"UTI",
+        "Option 3":"DVT",
+        "Option 4":"Drug fever",
+        "Option 5":"Wound infection",
+        "Correct Answer":"Wound infection"
+    },
+    {
+        "Question":"70 years old at HDU suffered from low grade persistent pyrexia 10 days after colectomy  without local symptoms to abdomen. What is the cause of this fever?",
+        "Option 1":"Pulmonary atelectasis",
+        "Option 2":"UTI",
+        "Option 3":"DVT",
+        "Option 4":"Pneumonia",
+        "Option 5":"Wound infection",
+        "Correct Answer":"DVT"
+    },
+    {
+        "Question":"Ten days after open cholecystectomy, a 51-year-old woman complains of pain in her right  shoulder and has a temperature of 39\" C. She is slightly tender over her scar and has a  decreased chest expansion on the right side. What is the cause of fever?",
+        "Option 1":"Deep vein thrombosis",
+        "Option 2":"Overdose of opiate analgesia",
+        "Option 3":"Pulmonary embolus",
+        "Option 4":"Sub-phrenic abscess",
+        "Option 5":"Wound sepsis",
+        "Correct Answer":"Sub-phrenic abscess"
+    },
+    {
+        "Question":"7 days after left side sigmoid surgery, 50 years old man presented with lower abdominal  pain and high grade fever. What is mostly cause of fever?",
+        "Option 1":"Atelectasis",
+        "Option 2":"Pulmonary embolism",
+        "Option 3":"Urinary tract infection",
+        "Option 4":"Intra-abdominal Sepsis",
+        "Option 5":"Overdose of opiate analgesia",
+        "Correct Answer":"Intra-abdominal Sepsis"
+    },
+    {
+        "Question":"A 72-year-old man has just undergone an emergency repair for a ruptured abdominal aortic aneurysm. Preoperatively he was taking aspirin, clopidogrel and warfarin. Intra operatively he received 5000 units of unfractionated heparin prior to application of the aortic cross clamp. His blood results on admission to the critical care unit are as follows: Full blood count: Hb 8 g\/dl, Platelets 40 * 109\/l and WBC 7.1 109\/1, His fibrin degradation products are measured and found to be markedly elevated. Which of the following accounts for these results?",
+        "Option 1":"Anastomotic leak",
+        "Option 2":"Disseminated intravascular coagulation",
+        "Option 3":"Heparin induced thrombocytopenia",
+        "Option 4":"Adverse effect of warfarin",
+        "Option 5":"Adverse effects of antiplatelet agents",
+        "Correct Answer":"Disseminated intravascular coagulation"
+    },
+    {
+        "Question":"50 years old man undergoes sigmoid surgery. What is the best method done for reducing risk of post-operative infection?",
+        "Option 1":"Shaving of the surgical site immediately pre-operative",
+        "Option 2":"Pre-operative cleaning with antiseptic solution",
+        "Option 3":"Regular sterilization of the walls and floor",
+        "Option 4":"Zooning of the operation room",
+        "Option 5":"Good aeration of the operation room",
+        "Correct Answer":"Pre-operative cleaning with antiseptic solution"
+    },
+    {
+        "Question":"A patient will do hemorrhoids and his HB is 9. He is put in an operative list after 6 weeks. How would manage him to correct this anemia?",
+        "Option 1":"Blood transfusion",
+        "Option 2":"Plasma transfusion",
+        "Option 3":"IV iron",
+        "Option 4":"Oral iron",
+        "Option 5":"Folic acid",
+        "Correct Answer":"Oral iron"
+    },
+    {
+        "Question":"26 years old receives gunshot on his abdomen. He is unstable, FAST scan is positive, Laparotomy is done and show laceration of right lobe of the liver and involvement IVC with massive haemorrhage, What is blood component therapy transfused?",
+        "Option 1":"Transfuse PRBC, FFP, platelets in ratios 1:1:1",
+        "Option 2":"Transfuse RBS only",
+        "Option 3":"Transfuse plasma only",
+        "Option 4":"Transfuse RBCS and plasma in ration 3: 1",
+        "Option 5":"Transfuse RBCS and plasma in ration 2:1",
+        "Correct Answer":"Transfuse PRBC, FFP, platelets in ratios 1:1:1"
+    },
+    {
+        "Question":"In the U.K, the national institute of health and care excellence guidance recommends the persons that had blood transfusion before, they informed that they can",
+        "Option 1":"Donate the blood after sixth months",
+        "Option 2":"Donate the blood after twelve months",
+        "Option 3":"Donate if his blood haemoglobin over 13.5 km",
+        "Option 4":"Donate if the blood born infection done for him and it is negative",
+        "Option 5":"No longer a blood donor",
+        "Correct Answer":"No longer a blood donor"
+    },
+    {
+        "Question":"Which of the following is correct regarding fresh frozen plasma?",
+        "Option 1":"It should be used Within 24 hours",
+        "Option 2":"It is leucodepleted",
+        "Option 3":"Cross matching must be done",
+        "Option 4":"Urticaria is not common complication of plasma transfusion",
+        "Option 5":"None of the above",
+        "Correct Answer":"It should be used Within 24 hours"
+    },
+    {
+        "Question":"A 23 years old patient received blood transfusion. 30 min later he developed hypotension, tachypnea and back pain. What is the type of complication has done ?",
+        "Option 1":"Acute hemolytic reaction",
+        "Option 2":"Non hemolytic reaction",
+        "Option 3":"Delayed hemolytic reaction",
+        "Option 4":"Transfusion related lung injury",
+        "Option 5":"Jaundice",
+        "Correct Answer":"Acute hemolytic reaction"
+    },
+    {
+        "Question":"70 years old man receiving blood transfusion following multiple hematemesis. Within the first hour of transfusion, he is feeling unwell. Which one of the following is delayed complication of blood transfusion reactions?",
+        "Option 1":"Fever",
+        "Option 2":"Anxiety",
+        "Option 3":"Jaundice",
+        "Option 4":"Dyspnea",
+        "Option 5":"Rigors",
+        "Correct Answer":"Jaundice"
+    },
+    {
+        "Question":"45 years old man in Rood traffic accident, complained of LL pain and lower abdominal pain. His blood pressure is 85\/60, heart rate is 110 and he is conscious. What is the initial management?",
+        "Option 1":"Massive hemorrhagic protocol",
+        "Option 2":"Morphine for pain",
+        "Option 3":"Tracheal intubation",
+        "Option 4":"Platelet transfusion",
+        "Option 5":"Chest tube insertion",
+        "Correct Answer":"Massive hemorrhagic protocol"
+    },
+    {
+        "Question":"A 30 years old man presents with blunt abdominal trauma, he feels unwell, his blood  pressure is 100\/50 mmHg and his pulse is 110 beats\/minutes. What is the first step in  management of this patient?",
+        "Option 1":"CT of the abdomen",
+        "Option 2":"Erect abdomen X ray to rule out damage in hollow viscous",
+        "Option 3":"Intravenous fluids and sending blood sample for cross matching",
+        "Option 4":"Peritoneal lavage",
+        "Option 5":"Urine testing for blood",
+        "Correct Answer":"Intravenous fluids and sending blood sample for cross matching"
+    },
+    {
+        "Question":"A 23-year-old man is recovering from an appendectomy. The operation was  complicated by the presence of perforation. He ls now recovering on the ward, However,  his urine output is falling, and he has been vomiting. Which of the following intravenous  fluids should be Initially administered pending on analysis of his urea and electrolyte  levels?",
+        "Option 1":"Hartman's solution",
+        "Option 2":"Dextran 70",
+        "Option 3":"Pentastarch",
+        "Option 4":"Gelofusin",
+        "Option 5":"5% Dextrose",
+        "Correct Answer":"Hartman's solution"
+    },
+    {
+        "Question":"45-year-old man is undergoing a small bowel resection. The anesthetist decides to administer an intravenous fluid which is electrolyte rich. Which of the following most closely matches this requirement?",
+        "Option 1":"Dextrose \/Saline",
+        "Option 2":"Pentastarch",
+        "Option 3":"Gelofusine",
+        "Option 4":"Hartmans",
+        "Option 5":"5% Dextrose with added potassium 20mmol\/ L",
+        "Correct Answer":"Hartmans"
+    },
+    {
+        "Question":"Woman had severe hemorrhage and given IV fluids, plasma, R8C but then started complaining of nausea and vomiting but vitals are normal. Table of electrolyte > Chloride high at 118, Bicarbonate low at 18 . pH low at 7.16 and Other electrolyte given but were within normal range. This is due to infusion of which of the following?",
+        "Option 1":"0.9% NaCl",
+        "Option 2":"80 ml sodium bicarbonate",
+        "Option 3":"Ringers lactate",
+        "Option 4":"Plasma transfusion",
+        "Option 5":"Dextrose saline",
+        "Correct Answer":"0.9% NaCl"
+    },
+    {
+        "Question":"A 30-year-old man is brought into the Emergency Department having been involved in motorbike accident. His Glasgow coma score is 15. His blood pressure is 100\/60 mmHg and the ECG monitoring show a hearty rate is 120 beats minute. Intravenous fluids are required. Which one of the following solutions is isotonic and suitable for administration in this patient?",
+        "Option 1":"0.18% saline with 5% dextrose",
+        "Option 2":"0.45% saline",
+        "Option 3":"0.45% saline with dextrose",
+        "Option 4":"0.9% saline",
+        "Option 5":"1.8% saline",
+        "Correct Answer":"0.9% saline"
+    },
+    {
+        "Question":"Which of these IV fluids have the highest sodium or chloride content?",
+        "Option 1":"Saline glucose fluid",
+        "Option 2":"Normal saline",
+        "Option 3":"Hartman solution",
+        "Option 4":"Glucose 5%",
+        "Option 5":"Glucose 10%",
+        "Correct Answer":"Normal saline"
+    },
+    {
+        "Question":"Which of these IV fluids have the highest sodium content?",
+        "Option 1":"Saline glucose fluid",
+        "Option 2":"Normal saline",
+        "Option 3":"Hartman solution",
+        "Option 4":"Glucose 5%",
+        "Option 5":"8.4% sodium bicarbonate",
+        "Correct Answer":"8.4% sodium bicarbonate"
+    },
+    {
+        "Question":"48 year old man is recovering following appendectomy in the ward but his follow up charts show oliguria. What is the initial management for correction this oliguria?",
+        "Option 1":"500 ml Hartman solution and observe in half hour",
+        "Option 2":"2 liter Hartman rapidly",
+        "Option 3":"Start an infusion of noradrenaline",
+        "Option 4":"Administer intravenous furosemide",
+        "Option 5":"Insert a swann ganz catheter",
+        "Correct Answer":"500 ml Hartman solution and observe in half hour"
+    },
+    {
+        "Question":"A 75-year-old man is admitted for elective repair of an abdominal aortic aneurysm. Following the operation, his systolic blood pressure falls below 90 mmHg and during resuscitation he is given an infusion of fluids. There is a choice of colloid or crystalloid. Which of the following best describes why the intensive therapy unit registrar decides to administer a colloid?",
+        "Option 1":"Colloids are not freely filterable across semi-permeable membranes",
+        "Option 2":"Colloids Can prevent pulmonary edema by inducing fluid flow out of the interstitial  space",
+        "Option 3":"Colloids decrease the trans capillary oncotic pressure gradient",
+        "Option 4":"Colloids expand the plasma volume by 200 ml for each liter infused",
+        "Option 5":"Colloids migrate from the intravascular space",
+        "Correct Answer":"Colloids are not freely filterable across semi-permeable membranes"
+    },
+    {
+        "Question":"A 65-year-old man remains on the high dependency unit following a gastrectomy three days previously. His urine output 80 ml\/hour for the last 24 hours, He has one abdominal drain and no nasogastric losses, His urea and electrolytes are normal, He still nil by mouth for a further 24 hours. Which of the following fluid regimes is most appropriate to his electrolyte and water requirements over the next 24 hours?",
+        "Option 1":"1L  of 0.9%saline plus 1,5 L. of 4 % dextrose\/0.18 % saline",
+        "Option 2":"1L of 0.9 % saline plus 1.5 L of 5 % dextrose",
+        "Option 3":"1 L of 0.9 % saline plus 1.5 L of Hartmann's solution",
+        "Option 4":"2 L of 0.9% saline",
+        "Option 5":"2 Lof 4 % dextrose\/0,18 % saline",
+        "Correct Answer":"1L of 0.9 % saline plus 1.5 L of 5 % dextrose"
+    },
+    {
+        "Question":"50 years old man known to be hypertensive collapsed at Home. His Blood Pressure Is  100\/60. On Examination, There is a pulsatile mass in his Chest. What is the fluid regimen  prescribed for that patient?",
+        "Option 1":"2 L Normal Saline 0. 9% in 24 Hours",
+        "Option 2":"2 L Hartman Solution In 24 Hours",
+        "Option 3":"2 Unit Of O Negative Blood",
+        "Option 4":"500 ml Hartmann solution in 30 minutes and folliow urine output",
+        "Option 5":"500 ml Dextrose 5 % in 30 minutes and follow urine output",
+        "Correct Answer":"2 L Hartman Solution In 24 Hours"
+    },
+    {
+        "Question":"32 years old man after car accident transferred to emergency room. Resuscitation is  begun for him in the emergency room by which of the following fluids?",
+        "Option 1":"Normal saline",
+        "Option 2":"Fresh frozen plasma",
+        "Option 3":"Packed RBCS",
+        "Option 4":"Dextrose 5%",
+        "Option 5":"Dextrose 10%",
+        "Correct Answer":"Normal saline"
+    },
+    {
+        "Question":"50 years old man diabetic and hypertensive in HDU and suddenly nurses called  doctors for sudden loss of conscious and there is no response from him. What are the main criteria to declare death?",
+        "Option 1":"Bilateral dilated fixed pupil",
+        "Option 2":"No corneal reflex",
+        "Option 3":"No cough reflexes",
+        "Option 4":"No respiratory effort in response to disconnection of ventilator for long enough typically 5 minutes",
+        "Option 5":"All of the above",
+        "Correct Answer":"All of the above"
+    },
+    {
+        "Question":"Patient has injury to his oesophagus during upper Gl endoscopy. He is being managed conservatively for a limited perforation and mediastinitis by Nil by Mouth. What is the most suitable way of providing him with the necessary nutritional support?",
+        "Option 1":"Nil by mouth and intravenous fluids alone",
+        "Option 2":"Intravenous fluids and sips orally",
+        "Option 3":"Total parenteral nutrition",
+        "Option 4":"Nasogastric feeding",
+        "Option 5":"PEG tube feeding",
+        "Correct Answer":"Total parenteral nutrition"
+    },
+    {
+        "Question":"72-year-old man was underwent an esophagectomy for treatment of cancer esophagus. His BMI ls 17.5, his weight is 80 kg and height is 170 cm. What is the best feeding regime immediately following that surgery?",
+        "Option 1":"Total parenteral nutrition",
+        "Option 2":"Feeding jejunostomy",
+        "Option 3":"Feeding duodenostomy",
+        "Option 4":"Liquid diet orally",
+        "Option 5":"Soft solids orally",
+        "Correct Answer":"Feeding jejunostomy"
+    },
+    {
+        "Question":"A 25 years old patient known to be Crohn's disease. He suffered from multiple  strictures in GIT and prepared for resection of distal ileum and many stricturoplasties. He  develops high output fistula with an output of 1800ml. What is the best way to provide  him nutritional support?",
+        "Option 1":"Elemental diet",
+        "Option 2":"High nutrition oral or enteral diet",
+        "Option 3":"Total parental nutrition",
+        "Option 4":"Feeding Jejunostomy",
+        "Option 5":"Percutaneous endoscopic gastrostomy",
+        "Correct Answer":"Total parental nutrition"
+    },
+    {
+        "Question":"A 34 years old patient presented by mid gut volvulus and underwent massive small  bowel resection and just 5 cm of jejunum anastomosed with middle colon, what is the  regime of feeding used after. discharge?",
+        "Option 1":"Total parental nutrition at home",
+        "Option 2":"Special formula (glutamine)",
+        "Option 3":"Nasogastric tube",
+        "Option 4":"Enteral feeding",
+        "Option 5":"Gastrostomy",
+        "Correct Answer":"Total parental nutrition at home"
+    },
+    {
+        "Question":"A young guy with mid gut volvulus underwent massive small bowel resection and has  250 cm of small bowel left for anastomosis. What Is the option of nutrition for this  patient?",
+        "Option 1":"Total parenteral nutrition",
+        "Option 2":"Can be fed orally",
+        "Option 3":"Feeding jejunostomy",
+        "Option 4":"Percutaneous endoscopic gastrostomy",
+        "Option 5":"Nasogastric tube",
+        "Correct Answer":"Can be fed orally"
+    },
+    {
+        "Question":"51 years old patient with crohn's disease made an urgent operation for Intestinal obstruction and removing terminal ileum inside the operation, what do you think the best nutrition given postoperative?",
+        "Option 1":"Start oral",
+        "Option 2":"Start oral with special formula",
+        "Option 3":"Nasogastric tube",
+        "Option 4":"TPN with peripheral line",
+        "Option 5":"TPN at home",
+        "Correct Answer":"Start oral with special formula"
+    },
+    {
+        "Question":"24 years old man with long term history of Crohn's disease. He has recurrent abdominal pain and loss of appetite. His labs show Albumin is 29 (low). What is the best feeding option for that patient?",
+        "Option 1":"Central parenteral nutrition",
+        "Option 2":"Peripheral parenteral nutrition",
+        "Option 3":"High protein diet",
+        "Option 4":"Elemental diet",
+        "Option 5":"Gastrostomy",
+        "Correct Answer":"Elemental diet"
+    },
+    {
+        "Question":"A 28-year-old man is comatose after head injuries. On the neurosurgical intensive care unit, He is recovering well and should be extubated soon. What is the option of nutrition for this patient?",
+        "Option 1":"Nil by mouth and intravenous fluids alone",
+        "Option 2":"Intravenous fluids and sips orally",
+        "Option 3":"Total parenteral nutrition",
+        "Option 4":"Nasogastric feeding",
+        "Option 5":"PEG tube feeding",
+        "Correct Answer":"Nasogastric feeding"
+    },
+    {
+        "Question":"A 45-year-old man is comatose after head injuries on the neurosurgical intensive care  unit with rapid recovery. What is the best option of nutrition for this patient?",
+        "Option 1":"Nil by mouth and intravenous fluids alone",
+        "Option 2":"Intravenous fluids and sips orally",
+        "Option 3":"Total parenteral nutrition",
+        "Option 4":"Naso enteric feeding",
+        "Option 5":"PEG tube feeding",
+        "Correct Answer":"Naso enteric feeding"
+    },
+    {
+        "Question":"45 years old patient with severe head injury 14 days ago. He is now has slow recovery,  what type of feeding this patient will you need?",
+        "Option 1":"Parenteral feeding",
+        "Option 2":"Nasogastric tube",
+        "Option 3":"Nasoentric fine tube feeding",
+        "Option 4":"Intraoperative Feeding jejunostomy",
+        "Option 5":"Gastrostomy or PEG",
+        "Correct Answer":"Gastrostomy or PEG"
+    },
+    {
+        "Question":"A 5 years old Child with kwashiorkor developed hepatomegaly. What Is the substance  is deposited in liver regarding kwashiorkor?",
+        "Option 1":"Sarcoid",
+        "Option 2":"Melanin",
+        "Option 3":"Lipofuscin",
+        "Option 4":"Amyloid",
+        "Option 5":"Fat",
+        "Correct Answer":"Fat"
+    },
+    {
+        "Question":"59 years old on ventilator due to severe acute pancreatitis, he stayed in ICU for 2 weeks and he was planned to wean. What is the mode of ventilation used helping In weaning due to decrease work of breathing?",
+        "Option 1":"CPAP",
+        "Option 2":"Tracheostomy",
+        "Option 3":"SIMV",
+        "Option 4":"Cricothyroid membrane",
+        "Option 5":"None of the above",
+        "Correct Answer":"Tracheostomy"
+    },
+    {
+        "Question":"** 23 years old patient 50 kg has scalp wound and prepared for suture under local anaesthesia by lignocaine 1% and adrenaline. What is the amount of Lidocaine in ml used?",
+        "Option 1":"15",
+        "Option 2":"25",
+        "Option 3":"35",
+        "Option 4":"45",
+        "Option 5":"55",
+        "Correct Answer":"35"
+    },
+    {
+        "Question":"** 50 years old patient had gastrectomy operation and he was NPO and on fluid therapy for 10 days before insertion of TPN. What is the expected electrolyte Abnormality after re- feeding again?",
+        "Option 1":"Hypercalcaemia",
+        "Option 2":"Hyperkalemia",
+        "Option 3":"Hypoglycaemia",
+        "Option 4":"Hypophosphatemia",
+        "Option 5":"Hypermagnesemia",
+        "Correct Answer":"Hypophosphatemia"
+    },
+    {
+        "Question":"ICU patient was on morphine. You notice he has pinpoint. Pupils and respiratory depression. You prescribe to him naloxone. What Is the mechanism of action of naloxone?",
+        "Option 1":"Competitive antagonism",
+        "Option 2":"Non-competitive antagonism",
+        "Option 3":"Synergism",
+        "Option 4":"Additive",
+        "Option 5":"Agonist",
+        "Correct Answer":"Competitive antagonism"
+    },
+    {
+        "Question":"** 11 years old girl is felling unwell with pyrexia. Her weight is 32 kg, What is the initial fluid management?",
+        "Option 1":"380 cc glucose 5%",
+        "Option 2":"640 cc glucose 5%",
+        "Option 3":"640 cc saline 0.9 %",
+        "Option 4":"1090 cc glucose over an hour",
+        "Option 5":"1000 cc saline over an hour",
+        "Correct Answer":"640 cc saline 0.9 %"
+    },
+    {
+        "Question":"** 80 years alcoholic 7 units per week, history df few times previous confusiod & patient Is taking thiazides diuretics for hypertension. His pre-operative Na is 130. There ls postoperative confusion. Which one of the following is more risk for confusion?",
+        "Option 1":"Age",
+        "Option 2":"Previous confusion",
+        "Option 3":"Sodium",
+        "Option 4":"Alcohol",
+        "Option 5":"Hypertension",
+        "Correct Answer":"Age"
+    },
+    {
+        "Question":"Young patient smoker for about 5 cig per day and prepared for appendectomy operation. What is the ASA score for the patient?",
+        "Option 1":"1",
+        "Option 2":"2",
+        "Option 3":"3",
+        "Option 4":"4",
+        "Option 5":"5",
+        "Correct Answer":"2"
+    },
+    {
+        "Question":"34 years old patient has paralytic ileus after surgery. His weight is about 70 kg. Now he  is hypokalemic. what is the daily potassium requlrement for him?",
+        "Option 1":"15 meq",
+        "Option 2":"35 meq",
+        "Option 3":"70 meq",
+        "Option 4":"40 meq",
+        "Option 5":"240 meq",
+        "Correct Answer":"70 meq"
+    },
+    {
+        "Question":"4 month old child and his weight about 6 kg and he is NPO postoperative and needs  taking maintenance fluld. What is the regimen of fluld taking?",
+        "Option 1":"600 saline 0.9%",
+        "Option 2":"600 ringer lactate",
+        "Option 3":"600 glucose 5%",
+        "Option 4":"600 glucose 10%",
+        "Option 5":"600 ringer acetate",
+        "Correct Answer":"600 saline 0.9%"
+    },
+    {
+        "Question":"What is the fluid taken for 24 kg child in shock state as resuscitation fluids?",
+        "Option 1":"20 ml\/h",
+        "Option 2":"34 ml\/h",
+        "Option 3":"44 ml\/h",
+        "Option 4":"54 ml\/h",
+        "Option 5":"64 ml\/h",
+        "Correct Answer":"20 ml\/h"
+    },
+    {
+        "Question":"** Goal directed treatment (GDT) Is protocol used to improve outcome of operation by which of the following method?",
+        "Option 1":"Improve cardiac output",
+        "Option 2":"Maintain normoglycemia",
+        "Option 3":"Giving Diuretics",
+        "Option 4":"Giving Prophylactic antibiotics",
+        "Option 5":"Restriction of IV fluids",
+        "Correct Answer":"Restriction of IV fluids"
+    },
+    {
+        "Question":"What is the most reliable score for detection of perioperative morbidity and mortality?",
+        "Option 1":"NELA (national emergency laparotomy for audit)",
+        "Option 2":"ASA",
+        "Option 3":"Apache II",
+        "Option 4":"POSSUM (physiological and operative severity scoring System)",
+        "Option 5":"Charlson score",
+        "Correct Answer":"POSSUM (physiological and operative severity scoring System)"
+    },
+    {
+        "Question":"Diabetic patient takes insulin and 3L of saline .9%6 and dextrose 5%. What is relation of normal saline to plasma?",
+        "Option 1":"Isomolar & isotonic",
+        "Option 2":"Hyposmolar & isotonic",
+        "Option 3":"Hyperosmolar & hypotonic",
+        "Option 4":"Hyperosmolar & isotonic",
+        "Option 5":"Hyposmolar & hypotonic",
+        "Correct Answer":"Isomolar & isotonic"
+    },
+    {
+        "Question":"** Patient has right renal mass and made surgery through loin incision then developed respiratory stress, saturation 95 % on O2 mask, increase respiratory rate or tachypnea. What is the cause?",
+        "Option 1":"Pneumothorax",
+        "Option 2":"Sub diaphragmatic hematoma",
+        "Option 3":"Liver injury",
+        "Option 4":"Right phrenic nerve injury",
+        "Option 5":"Pericardial injury",
+        "Correct Answer":"Pneumothorax"
+    },
+    {
+        "Question":"20 years old man suffered from jaundice after he take blood transfusion by about three months. What is the cause of jaundice?",
+        "Option 1":"Infection by Hepatitis C",
+        "Option 2":"Infection by Hepatitis B",
+        "Option 3":"Infection by Hepatitis A",
+        "Option 4":"Haemolysis of transfused blood",
+        "Option 5":"ABO incompatibility",
+        "Correct Answer":"Haemolysis of transfused blood"
+    },
+    {
+        "Question":"40 years old female known suffered from Sternum metastasis from breast cancer. what is the appropriate management",
+        "Option 1":"NSAIDS",
+        "Option 2":"Radiotherapy",
+        "Option 3":"Morphine",
+        "Option 4":"Ondansteron",
+        "Option 5":"Nerve block",
+        "Correct Answer":"Radiotherapy"
+    },
+    {
+        "Question":"55 years old patient with(uncontrolled DM and HTN, recent Angia attack and made Stent\/EF less than 40%) He is prepared for surgery. What is his ASA scoring",
+        "Option 1":"ASA1",
+        "Option 2":"ASA 2",
+        "Option 3":"ASA 3",
+        "Option 4":"ASA 4",
+        "Option 5":"ASA 5",
+        "Correct Answer":"ASA 4"
+    },
+    {
+        "Question":"Diagnosis or brain-stem death by which of the following?",
+        "Option 1":"No spontaneous opening of the eye",
+        "Option 2":"No response to supra orbital pressure",
+        "Option 3":"Absence spinal reflexes",
+        "Option 4":"Absence of bilateral Corneal reflex",
+        "Option 5":"No continence",
+        "Correct Answer":"Absence of bilateral Corneal reflex"
+    },
+    {
+        "Question":"45 years old female came to ER with shortness of breathing, pain with deep breathing and fever of one day duration. Twelve days ago, the patient has varicose vein surgery. On examination, the patient has sinus rhythm with pulse beats per minute, temperature 38 and oxygen saturation was 92. By CT angiography, the diagnosis was pulmonary embolism. What is the pathology happened in pulmonary embolism?",
+        "Option 1":"Increased PO2",
+        "Option 2":"Increased PCO2",
+        "Option 3":"Increased arterial O2",
+        "Option 4":"Increased Ventilation perfusion ratio",
+        "Option 5":"Increased diffusion",
+        "Correct Answer":"Increased Ventilation perfusion ratio"
+    },
+    {
+        "Question":"** 34 years old patient with history of gastric bypass 2 years ago and admitted for elective hernia repair in 6 weeks. Hemoglobin is 9. How would you correct his anemia?",
+        "Option 1":"Blood transfusion",
+        "Option 2":"Plasma transfusion",
+        "Option 3":"IV iron",
+        "Option 4":"Oral iron",
+        "Option 5":"Folic acid",
+        "Correct Answer":"IV iron"
+    },
+    {
+        "Question":"Child about 18 kg needs maintenance fluid postoperative as he is NPO. What is the amount of saline needed for this child?",
+        "Option 1":"15 ml\/hour",
+        "Option 2":"30 ml\/hour",
+        "Option 3":"38ml\/hour",
+        "Option 4":"56 ml\/hour",
+        "Option 5":"65 ml\/hour",
+        "Correct Answer":"56 ml\/hour"
+    },
+    {
+        "Question":"** Patient in ICU, after taking PCA injection as analgesia, he complains of itching. What is the cause of pruritis?",
+        "Option 1":"Increased morphine dose in epidural",
+        "Option 2":"Decrease local anesthetic dose in epidural.",
+        "Option 3":"Anaphylaxis",
+        "Option 4":"Side effects of morphine",
+        "Option 5":"Generalized itching",
+        "Correct Answer":"Side effects of morphine"
+    },
+    {
+        "Question":"55 years old patient diagnosed having heart ischemia and his lipid profile show increasing of which of the following?",
+        "Option 1":"LDL",
+        "Option 2":"VLDL",
+        "Option 3":"HDL",
+        "Option 4":"Apolipoprotein",
+        "Option 5":"Triglycerides",
+        "Correct Answer":"LDL"
+    },
+    {
+        "Question":"55 years old with intracranial insult causing bulbar palsy and admitted in ICU and now made tracheostomy and need to prevent aspiration. What is the procedure used?",
+        "Option 1":"Enteral tube feeding",
+        "Option 2":"Give antibiotic to prevent aspiration",
+        "Option 3":"Cuffed tracheostomy tube",
+        "Option 4":"Cuffed endotracheal tube",
+        "Option 5":"None of the above",
+        "Correct Answer":"Cuffed tracheostomy tube"
+    },
+    {
+        "Question":"50 years old man undergoes sigmoid surgery. What makes infection mainly after operation?",
+        "Option 1":"Not madding shaving of the surgical site immediately pre-operative",
+        "Option 2":"Bad antiseptic measure",
+        "Option 3":"Bad sterilization of the walls and floor",
+        "Option 4":"Bad zooning of the operation room",
+        "Option 5":"Not take antibiotic at anaesthesia induction",
+        "Correct Answer":"Bad antiseptic measure"
+    }
+]

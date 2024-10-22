@@ -1,0 +1,542 @@
+[
+    {
+        "Question":"Female with a two-year history of intermittent right upper abdomen pain.  Now she has constant right upper abdominal pain and fever. Now her WBC is 15x10  and the bilirubin is elevated, What is the next step?",
+        "Option 1":"ERCP",
+        "Option 2":"MRCP",
+        "Option 3":"Ultrasound",
+        "Option 4":"MRI",
+        "Option 5":"C.T",
+        "Correct Answer":"ERCP"
+    },
+    {
+        "Question":"A female patient underwent a lap cholecystectomy, 2 days post-operative she  began to complain of fever, acute abdominal pain, jaundice, and increased  drainage from the abdominal  drain that gave 500 cc greenish clear fluid for the past 24 hours. What is the accepted diagnosis?",
+        "Option 1":"Surgical site infection",
+        "Option 2":"Biliary peritonitis",
+        "Option 3":"Feculent peritonitis",
+        "Option 4":"Normal sequence after operation",
+        "Option 5":"Secondary hemorrhage",
+        "Correct Answer":"Biliary peritonitis"
+    },
+    {
+        "Question":"A 50-year-old male presents with recurrent episodes of abdominal pain and diarrhoea. Blood tests revealed mild iron deficiency anaemia. upper gastrointestinal endoscopy demonstrates multiple ulcers in the first part of the duodenum. What is the most likely diagnosis?",
+        "Option 1":"Insulinoma",
+        "Option 2":"Adenocarcinoma",
+        "Option 3":"Glucagonoma",
+        "Option 4":"Gastrinoma",
+        "Option 5":"Gastric cancer",
+        "Correct Answer":"Gastrinoma"
+    },
+    {
+        "Question":"A 35-year-old lady presented with recurrent episodes of right upper quadrant  colicky pain. Abdominal ultrasound showed multiple small gall stones with  increased thickness of the wall with normal CBD, what to do next?",
+        "Option 1":"Elective cholecystectomy",
+        "Option 2":"MRCP",
+        "Option 3":"Urgent cholecystectomy",
+        "Option 4":"Liver function tests",
+        "Option 5":"ERCP",
+        "Correct Answer":"Liver function tests"
+    },
+    {
+        "Question":"A 43-lady presented with chronic jaundice. She was diagnosed with primary  biliary cirrhosis. Which antibody can you test positive in this situation?",
+        "Option 1":"ANA",
+        "Option 2":"ANCA",
+        "Option 3":"Alkaline phosphatase",
+        "Option 4":"Antimitochondrial antibodies",
+        "Option 5":"CEA",
+        "Correct Answer":"Antimitochondrial antibodies"
+    },
+    {
+        "Question":"A 46-year-old lady underwent Lap Cholecystectomy for chronic calcular cholecystitis. One month later she presented with progressive unremitting jaundice with pale stool and dark urine, what is the most probable diagnosis?",
+        "Option 1":"Bile duct injury",
+        "Option 2":"Collection on the surgical bed of the gallbladder",
+        "Option 3":"Residual CBD stone",
+        "Option 4":"Acute pancreatitis",
+        "Option 5":"None of the above",
+        "Correct Answer":"Residual CBD stone"
+    },
+    {
+        "Question":"A 63-year-old woman presents with a history of right upper quadrant pain and jaundice which is progressive and unremitting. On examination, there is a palpable mass in the right upper quadrant region. Which of the following is the most likely diagnosis?",
+        "Option 1":"Chronic calcular cholecystitis",
+        "Option 2":"Primary biliary cirrhosis",
+        "Option 3":"Gallbladder abscess",
+        "Option 4":"Carcinoma head of the pancreas",
+        "Option 5":"CBD stones",
+        "Correct Answer":"Carcinoma head of the pancreas"
+    },
+    {
+        "Question":"A 68-year-old male presented to your surgical unit complaining of severe weight loss, epigastric pain and epigastric fullness. Investigations showed a cancer head pancreas and two nodules in the right lobe of the Liver. What is the best management?",
+        "Option 1":"Whipple's operation",
+        "Option 2":"Fine needle aspiration from the mass",
+        "Option 3":"Palliative care with chemotherapy",
+        "Option 4":"Segmental resection Pancreas",
+        "Option 5":"Hepaticojejunostomy",
+        "Correct Answer":"Palliative care with chemotherapy"
+    },
+    {
+        "Question":"A 67-year-old lady was diagnosed with a carcinoma of the pancreatic head. She presented with jaundice and abdominal pain. Her investigations showed a dilated common bile duct with compression of the pancreatic duct. Her liver contains bi-lobar metastasis. What is the best intervention?",
+        "Option 1":"Gastrojejunostomy",
+        "Option 2":"Medical treatment",
+        "Option 3":"Pancreatecoduodenoectomy",
+        "Option 4":"MRI-guided pancreatic stent",
+        "Option 5":"Endoscopic CBD stent (Endoscopic pancreatic stent)",
+        "Correct Answer":"Endoscopic CBD stent (Endoscopic pancreatic stent)"
+    },
+    {
+        "Question":"A70-year-old male complained of HBV infection 7 years ago. One month ago, he started to develop severe jaundice with weight loss. What is the most possible diagnosis?",
+        "Option 1":"Hepatocellular abscess",
+        "Option 2":"Hepatocellular carcinoma",
+        "Option 3":"Gilbert syndrome",
+        "Option 4":"Hepatorenal syndrome",
+        "Option 5":"HCV infection",
+        "Correct Answer":"Hepatocellular carcinoma"
+    },
+    {
+        "Question":"11. A 45-year-old female patient underwent laparoscopic cholecystectomy 4  days ago and was discharged without any complications. Today, the patient came to ER with severe colicky abdominal pain with HR 90, BP 100\/90, Temp 36, RR 25,  WBC 3.5, and Hb 10, What is the most accepted cause?",
+        "Option 1":"Biliary trauma",
+        "Option 2":"Post-cholecystectomy syndrome",
+        "Option 3":"Gram-negative sepsis",
+        "Option 4":"Post-operative bleeding",
+        "Option 5":"Obstructive jaundice",
+        "Correct Answer":"Post-cholecystectomy syndrome"
+    },
+    {
+        "Question":"A 32-year-old female patient underwent laparoscopic cholecystectomy 2 days ago and was discharged without any complications. The patient came to A&E  with severe abdominal pain and a 500-cc greenish discharge from the abdominal drain in addition to developing jaundice. What is the most accepted first  investigation?",
+        "Option 1":"Liver CT",
+        "Option 2":"MRCP",
+        "Option 3":"Abdominal US",
+        "Option 4":"ERCP",
+        "Option 5":"Upper GI endoscopy",
+        "Correct Answer":"Abdominal US"
+    },
+    {
+        "Question":"a 35 year old female patient underwent laparoscopic cholecystectomy and discharged home in good general condition. One month later, she returned with unremitting jaundice, pale stool and dark urine. What is the most accepted diagnosis?",
+        "Option 1":"Cystic duct leak",
+        "Option 2":"CBD injury",
+        "Option 3":"Missed CBD stone",
+        "Option 4":"Cancer pancreas",
+        "Option 5":"Hepatocellular carcinoma",
+        "Correct Answer":"Missed CBD stone"
+    },
+    {
+        "Question":"A 43-year-old lady underwent lap cholecystectomy and presented post- operative with colicky abdominal pain and jaundice. Therefore, she proceeded for  ERCP and after this procedure, she developed a hectic fever and her jaundice became more intense. What is the most likely diagnosis?",
+        "Option 1":"Pancreatitis",
+        "Option 2":"Cholangitis",
+        "Option 3":"Missed stone",
+        "Option 4":"Perforated Duodenal ulcer",
+        "Option 5":"Liver abscess",
+        "Correct Answer":"Cholangitis"
+    },
+    {
+        "Question":"A 60-year-old woman presents with a seven-month history of itching and dark  urine. She reported no abdominal pain, however she is mildly jaundiced on  examination. Which of the following is the most accepted diagnosis?",
+        "Option 1":"Carcinoma of the duodenum",
+        "Option 2":"Choledocholithiasis",
+        "Option 3":"Gilbert syndrome",
+        "Option 4":"Hepatitis C",
+        "Option 5":"Primary biliary cirrhosis",
+        "Correct Answer":"Primary biliary cirrhosis"
+    },
+    {
+        "Question":"A 57-year-old male presents with jaundice and abdominal pain. Her investigations show a cancer head pancreas with dilated common bile. Her liver contains bi-lobar Mets. You tried to put a CBD stent using an ERCP, but you can't cannulate the ampulla of Vater. What is the next step to relieve the problem?",
+        "Option 1":"Gastrojejunostomy",
+        "Option 2":"Pancreatoduodenectomy",
+        "Option 3":"MRI-guided pancreatic stent",
+        "Option 4":"Endoscopic pancreatic stent",
+        "Option 5":"PTC with drain placement",
+        "Correct Answer":"PTC with drain placement"
+    },
+    {
+        "Question":"A 43-year-old lady with known gallstones is admitted with a high fever and  jaundice. On examination, she looks extremely unwell. Her abdomen is generally  soft although there is some mild tenderness in the right upper quadrant. What is  the most accepted diagnosis?",
+        "Option 1":"Acute cholecystitis",
+        "Option 2":"Cholangitis",
+        "Option 3":"Gallbladder abscess",
+        "Option 4":"Acalculous cholecystitis",
+        "Option 5":"Pancreatitis",
+        "Correct Answer":"Cholangitis"
+    },
+    {
+        "Question":"A 34-year-old lady is admitted with a 3-day history of colicky right upper quadrant pain which radiates to her back. The pain is now more constant. On  examination, she is not jaundiced but has a temperature of 38.5C. She has  localized peritonism in the right upper quadrant. What is the most accepted diagnosis?",
+        "Option 1":"Acute cholecystitis",
+        "Option 2":"Cholangitis",
+        "Option 3":"Gallbladder abscess",
+        "Option 4":"Acalculous cholecystitis",
+        "Option 5":"Pancreatitis",
+        "Correct Answer":"Acute cholecystitis"
+    },
+    {
+        "Question":"What are the most common biliary complications after lap cholecystectomy?",
+        "Option 1":"Bile leak from cystic duct stump",
+        "Option 2":"Common bile duct injury",
+        "Option 3":"Hepatic duct injury",
+        "Option 4":"Cholangitis",
+        "Option 5":"Duodenal injury",
+        "Correct Answer":"Bile leak from cystic duct stump"
+    },
+    {
+        "Question":"A 54y male Patient with recurrent fainting attacks that improve by taking sugar drinks, CT abdomen show a pancreatic lesion of 3 cm in size what is the best laboratory finding?",
+        "Option 1":"High CEA",
+        "Option 2":"High CA 19-9",
+        "Option 3":"High c-peptide",
+        "Option 4":"High Glucose",
+        "Option 5":"None of the above",
+        "Correct Answer":"High c-peptide"
+    },
+    {
+        "Question":"A 2 cm mass in the lung of a smoker, and another 1 cm mass in the liver are  suspected to be hemangioma. No systemic signs. What is the best investigation to  evaluate the state of the liver?",
+        "Option 1":"MRI whole body",
+        "Option 2":"MRI liver",
+        "Option 3":"CT chest",
+        "Option 4":"FDG PET CT",
+        "Option 5":"None of the above",
+        "Correct Answer":"MRI liver"
+    },
+    {
+        "Question":"A 38 female patient had Cholecystectomy 2 weeks ago and presented now with epigastric pain and unremitted Jaundice. What Is the Best Investigation?",
+        "Option 1":"CT Abdomen",
+        "Option 2":"MRCP",
+        "Option 3":"Angiography",
+        "Option 4":"Barium swallow",
+        "Option 5":"ERCP",
+        "Correct Answer":"ERCP"
+    },
+    {
+        "Question":"A 50-year-old patient shepherd presented with weight loss and hepatomegaly which is tender on examination. MRI liver shows well-round calcifications inside the liver, what is your diagnosis?",
+        "Option 1":"HCC",
+        "Option 2":"Pyogenic liver Abscess",
+        "Option 3":"Hydatid disease of the liver",
+        "Option 4":"Cholangiocarcinoma",
+        "Option 5":"Liver Mets",
+        "Correct Answer":"Hydatid disease of the liver"
+    },
+    {
+        "Question":"What is the involved organism in the hydatid cyst of the liver?",
+        "Option 1":"Echinococcus granulosis",
+        "Option 2":"E-Coli",
+        "Option 3":"H-influenza",
+        "Option 4":"Staph aureus",
+        "Option 5":"None of the above",
+        "Correct Answer":"Echinococcus granulosis"
+    },
+    {
+        "Question":"80-year-old man is admitted to the surgical emergency with severe epigastric pain jaundice, fever, and rigors. He gives a history of intermittent attacks of similar pain in the previous five years. What is the most probable diagnosis?",
+        "Option 1":"Choledocholithiasis",
+        "Option 2":"Gastric carcinoma",
+        "Option 3":"Hepatitis C",
+        "Option 4":"Hepatocellular carcinoma",
+        "Option 5":"Primary biliary cirrhosis",
+        "Correct Answer":"Choledocholithiasis"
+    },
+    {
+        "Question":"A 52-year-old alcoholic man who has attended to the hospital frequently with abdominal pain, weight loss and diarrhea. He is also known to be diabetic. What is the most accepted cause for these repeated symptoms?",
+        "Option 1":"Choledocholithiasis",
+        "Option 2":"Chronic pancreatitis",
+        "Option 3":"Hepatitis C",
+        "Option 4":"Hepatocellular carcinoma",
+        "Option 5":"Primary biliary cirrhosis",
+        "Correct Answer":"Chronic pancreatitis"
+    },
+    {
+        "Question":"A 46-year-old lady presents with symptoms of diarrhea, weight loss of 10 Kg and a skin rash of erythematous blisters involving the abdomen and buttocks. The blisters have an irregular border and both intact and ruptured vesicles. What is the most likely diagnosis?",
+        "Option 1":"Colonic adenocarcinoma",
+        "Option 2":"Pancreatic adenocarcinoma",
+        "Option 3":"Tropical sprue",
+        "Option 4":"Glucagonoma",
+        "Option 5":"Insulinoma",
+        "Correct Answer":"Glucagonoma"
+    },
+    {
+        "Question":"A 40-year-old lady presents with new-onset dyspepsia. She is diagnosed as having a localized carcinoma of the pancreatic head, PET scan shows no mets, what is the best treatment?",
+        "Option 1":"Gastrojejunostomy",
+        "Option 2":"Pancreatoduodenectomy",
+        "Option 3":"MRI-guided pancreatic stent",
+        "Option 4":"Radiotherapy",
+        "Option 5":"Duodenoduodenostomy",
+        "Correct Answer":"Pancreatoduodenectomy"
+    },
+    {
+        "Question":"A 68-year-old man with type 2 diabetes is admitted to the hospital unwell. On examination, he has features of septic shock and right upper quadrant tenderness. He is not jaundiced. Imaging shows a normal caliber bile duct and no stones in the gallbladder. What is the most probable diagnosis?",
+        "Option 1":"Acute cholecystitis",
+        "Option 2":"Cholangitis",
+        "Option 3":"Gallbladder abscess",
+        "Option 4":"Acalculous cholecystitis",
+        "Option 5":"Pancreatitis",
+        "Correct Answer":"Acalculous cholecystitis"
+    },
+    {
+        "Question":"A 48-year-old lady is admitted with attacks of biliary colic and investigations show gallstones. A laparoscopic cholecystectomy is performed. The operation is technically challenging due to a large stone impacted in Hartman's pouch. Following the operation, she fails to settle and becomes jaundiced and has bile draining into a drain placed at the surgical site. What is the best intervention?",
+        "Option 1":"ERCP",
+        "Option 2":"MRCP",
+        "Option 3":"Percutaneous transhepatic cholangiogram",
+        "Option 4":"CT scan",
+        "Option 5":"Follow up",
+        "Correct Answer":"ERCP"
+    },
+    {
+        "Question":"2 cm mass in the lung in a smoker, another 1 cm mass in the liver suspected to be hemangioma. No systemic signs. What is the best investigation to evaluate the state of the liver?",
+        "Option 1":"MRI whole body",
+        "Option 2":"MRI liver",
+        "Option 3":"CT chest",
+        "Option 4":"FDG PET CT",
+        "Option 5":"None of the above",
+        "Correct Answer":"MRI liver"
+    },
+    {
+        "Question":"What is the enzyme responsible for Pancreatic Autodigestion?",
+        "Option 1":"Gastrin",
+        "Option 2":"Somatostatin",
+        "Option 3":"Lipase",
+        "Option 4":"Amylase",
+        "Option 5":"Trypsinogen",
+        "Correct Answer":"Trypsinogen"
+    },
+    {
+        "Question":"A 50-year-old male with pancreatitis presented with severe abdominal pain and no improvement in the general condition despite the medical treatment, follow up CT scan showed pancreatic necrosis, what is the next step?",
+        "Option 1":"Laparotomy and Necrosectomy",
+        "Option 2":"Pancreatic stent",
+        "Option 3":"FNAS from the necrosis",
+        "Option 4":"Active conservation",
+        "Option 5":"Pancreaticoduodenectomy",
+        "Correct Answer":"FNAS from the necrosis"
+    },
+    {
+        "Question":"A 34-year-old lady is admitted with jaundice and undergoes an ERCP. The procedure is technically difficult, and she is returned to the ward still jaundiced. Unfortunately, she now has severe generalized abdominal pain. What is the best next investigation?",
+        "Option 1":"ERCP",
+        "Option 2":"MRCP",
+        "Option 3":"Percutaneous transhepatic cholangiogram",
+        "Option 4":"Laparoscopic biliary bypass",
+        "Option 5":"CT scan with contrast",
+        "Correct Answer":"CT scan with contrast"
+    },
+    {
+        "Question":"A male worker in a PVC factory then develops right upper quadrant pain with increased liver function tests with marked weight loss and malaise, what is the most probable diagnosis?",
+        "Option 1":"Hepatocellular carcinoma",
+        "Option 2":"Chronic Cholecystitis",
+        "Option 3":"Cholangiocarcinoma",
+        "Option 4":"Angiosarcoma liver",
+        "Option 5":"Liver cirrhosis",
+        "Correct Answer":"Angiosarcoma liver"
+    },
+    {
+        "Question":"A 19-year-old Caucasian girl with right upper quadrant pain and  diagnosed with the US to have a gallstone. She was prepared for elective  cholecystectomy with preoperative investigations showing HB= 7. What is your  accepted cause for this gallstone?",
+        "Option 1":"Decrease Absorption of bile salts.",
+        "Option 2":"High cholesterol",
+        "Option 3":"Hereditary SPHEROCYTOSIS",
+        "Option 4":"Defect in conjugation",
+        "Option 5":"CBD obstruction",
+        "Correct Answer":"Hereditary SPHEROCYTOSIS"
+    },
+    {
+        "Question":"What is the most common type of liver abscess?",
+        "Option 1":"Amoebic abscess",
+        "Option 2":"Pyogenic liver abscess",
+        "Option 3":"Infected hydatid cyst",
+        "Option 4":"Infected liver necrosis",
+        "Option 5":"Infection on top of malignancy",
+        "Correct Answer":"Pyogenic liver abscess"
+    },
+    {
+        "Question":"Which of the following structures is preserved during a Whipple procedure?",
+        "Option 1":"CBD",
+        "Option 2":"Gall bladder",
+        "Option 3":"Body of pancreas",
+        "Option 4":"Head of pancreas",
+        "Option 5":"Pylorus",
+        "Correct Answer":"Body of pancreas"
+    },
+    {
+        "Question":"A 43-year-old lady underwent ERCP and presented post-operative with severe rigid abdominal pain and fever. What is the most likely diagnosis?",
+        "Option 1":"Appendicitis",
+        "Option 2":"Cholangitis",
+        "Option 3":"Missed stone",
+        "Option 4":"Perforated Duodenum",
+        "Option 5":"Liver abscess",
+        "Correct Answer":"Perforated Duodenum"
+    },
+    {
+        "Question":"A 30-year-old man presented after a road traffic accident with liver laceration grade 3 and he is hemodynamically stable, what is the best management?",
+        "Option 1":"Conservative",
+        "Option 2":"Transfer to high dependency for strict care",
+        "Option 3":"Wash out and close drain monitoring.",
+        "Option 4":"Laparotomy and packing",
+        "Option 5":"Refer to hepatobiliary Centre.",
+        "Correct Answer":"Conservative"
+    },
+    {
+        "Question":"A 53 male patient has been found on the floor with blood everywhere, floor,  wall, hand, and mouth. The patient was unconscious. Investigations revealed  prolonged prothrombin time. What is the most likely cause?",
+        "Option 1":"Liver coma",
+        "Option 2":"Rupture esophageal varices",
+        "Option 3":"Mallory Weiss tear",
+        "Option 4":"Complete esophageal rupture",
+        "Option 5":"None of the above",
+        "Correct Answer":"Rupture esophageal varices"
+    },
+    {
+        "Question":"A 34-year-old lady is admitted with a 3-day history of colicky right upper  quadrant pain which radiates to her back. The pain is now more constant. On  examination, she is not jaundiced but has a temperature of 38.5oC. She has  localized peritonism in the right upper quadrant. What is the most accepted  diagnosis?",
+        "Option 1":"Acute cholecystitis",
+        "Option 2":"Cholangitis",
+        "Option 3":"Gallbladder abscess",
+        "Option 4":"Acalculous cholecystitis",
+        "Option 5":"Pancreatitis",
+        "Correct Answer":"Acute cholecystitis"
+    },
+    {
+        "Question":"A 35-year-old lady has been complaining of postprandial abdominal pain and nausea for 6 months, especially after meals treated with a PPI with no improvement. Her investigations revealed slightly deranged LFTs. What is the most accepted diagnosis?",
+        "Option 1":"Cholelithiasis",
+        "Option 2":"Cholangitis",
+        "Option 3":"Primary biliary cirrhosis",
+        "Option 4":"Hepatitis",
+        "Option 5":"Cholangiocarcinoma",
+        "Correct Answer":"Cholelithiasis"
+    },
+    {
+        "Question":"What is the most common cause of Abdominal pain in adults?",
+        "Option 1":"Appendicitis",
+        "Option 2":"PID",
+        "Option 3":"Cholecystitis",
+        "Option 4":"Nonspecific abdominal pain",
+        "Option 5":"Irritable bowel syndrome",
+        "Correct Answer":"Nonspecific abdominal pain"
+    },
+    {
+        "Question":"A 50-year-old male complained of esophageal perforation after upper GI endoscopy one month ago. He managed by conservative treatment. What is the best Investigation to check for healing?",
+        "Option 1":"Barium swallow",
+        "Option 2":"Water soluble contrast",
+        "Option 3":"CT without contrast",
+        "Option 4":"MRI",
+        "Option 5":"Upper GI endoscopy",
+        "Correct Answer":"Water soluble contrast"
+    },
+    {
+        "Question":"A 25-year-old female patient presented to the ER with sudden onset Abdominal and Bp at 90-60 with 120 pulse rates. On examination, there was tenderness over the right iliac fossa. She confirmed that the pain started sudden with no similar attacks in the past. What is the most accepted diagnosis?",
+        "Option 1":"Acute appendicitis",
+        "Option 2":"Rupture ectopic pregnancy",
+        "Option 3":"Salpingitis",
+        "Option 4":"Perforated duodenal ulcer",
+        "Option 5":"PID",
+        "Correct Answer":"Rupture ectopic pregnancy"
+    },
+    {
+        "Question":"4. A 34-pregnant lady presented to the emergency with acute abdomen. She was suspected to have a perforated viscus, What Is the best investigation for diagnosis?",
+        "Option 1":"Erect Chest X-Ray",
+        "Option 2":"CT scan with contrast",
+        "Option 3":"US scan",
+        "Option 4":"Lateral decubitus abdominal X-Ray",
+        "Option 5":"MRI Scan",
+        "Correct Answer":"CT scan with contrast"
+    },
+    {
+        "Question":"What is the initial investigation to detect air under the diaphragm?",
+        "Option 1":"CT without contrast",
+        "Option 2":"US scan",
+        "Option 3":"CT colonography",
+        "Option 4":"MRI",
+        "Option 5":"Chest abdomen X-ray erect",
+        "Correct Answer":"Chest abdomen X-ray erect"
+    },
+    {
+        "Question":"What is the initial investigation to bowel obstruction?",
+        "Option 1":"CT without contrast",
+        "Option 2":"US scan",
+        "Option 3":"CT colonography",
+        "Option 4":"MRI",
+        "Option 5":"Supine abdomen X-ray",
+        "Correct Answer":"Supine abdomen X-ray"
+    },
+    {
+        "Question":"A 23-year-old man complaining of 8 days history of acute right-sided  abdominal pain in addition to low-grade fever, nausea, and vomiting. He reported  no constipation. On examination, he has a palpable mass on the right iliac fossa,  and the rest of the abdomen is soft. CT scan shows matted bowel loops surrounding  the appendix, what is the best action?",
+        "Option 1":"Gridiron incision and appendectomy",
+        "Option 2":"Laparoscopic appendectomy",
+        "Option 3":"Right hemicolectomy",
+        "Option 4":"MRI abdomen",
+        "Option 5":"Conservative management",
+        "Correct Answer":"Conservative management"
+    },
+    {
+        "Question":"A 78-year-old lady was admitted with persistent vomiting and constipation for  2 days. On examination, she has a tympanic abdomen and a semi-flexed right leg  She has right groin pain radiating to the ipsilateral knee. What is the most  acceptable diagnosis?",
+        "Option 1":"femoral hernia",
+        "Option 2":"Inguinal hernia",
+        "Option 3":"Richters hernia",
+        "Option 4":"Obturator hernia",
+        "Option 5":"Incisional hernia",
+        "Correct Answer":"Obturator hernia"
+    },
+    {
+        "Question":"A 56-year-old lady underwent right hemicolectomy for caecal cancer. Later  on, she presented with rigid abdomen and fever. What is the best investigation to  rule out an anastomotic leak?",
+        "Option 1":"CT with contrast",
+        "Option 2":"MRI",
+        "Option 3":"Barium Enema",
+        "Option 4":"Water soluble contrast enema",
+        "Option 5":"Colonoscopy",
+        "Correct Answer":"Water soluble contrast enema"
+    },
+    {
+        "Question":"Male patient 45 years man has of a long history of gastritis due to chronic use  of analgesics. Today, he presented with severe agonizing abdominal pain and you  suspect that he has a perforated duodenal ulcer. What is the best initial  investigation modality to detect free air in this abdomen?",
+        "Option 1":"CT Abdomen pelvis with contrast",
+        "Option 2":"CT Abdomen pelvis without contrast",
+        "Option 3":"Barium swallow",
+        "Option 4":"Erect chest-abdomen x-ray",
+        "Option 5":"Water soluble contrast",
+        "Correct Answer":"Erect chest-abdomen x-ray"
+    },
+    {
+        "Question":"A 65-year-old male underwent a loop colostomy as a management for an  emergency obstructing rectal tumor. He comes nowadays to re-gain continuity  again. What is the best investigation to discover any pathology?",
+        "Option 1":"Barium enema",
+        "Option 2":"Unenhanced CT",
+        "Option 3":"Unenhanced MRI",
+        "Option 4":"Water soluble enema",
+        "Option 5":"Colonoscope",
+        "Correct Answer":"Water soluble enema"
+    },
+    {
+        "Question":"A 35-year-old female presented with a 3-days history of persistent vomiting  and constipation. On examination, she has painful tender swelling below the  inguinal ligament. It is not reducible, has no cough impulse with no palpable thrill  over it. What is the probable diagnosis?",
+        "Option 1":"Femoral Hernia",
+        "Option 2":"Saphena Varix",
+        "Option 3":"Inguinal Hernia",
+        "Option 4":"Femoral Aneurysm",
+        "Option 5":"Obturator Hernia",
+        "Correct Answer":"Femoral Hernia"
+    },
+    {
+        "Question":"What is the best surgical to be used in a 16-year-old female diagnosed with  appendicitis?",
+        "Option 1":"Gridiron incision",
+        "Option 2":"Pfannenstiel incision",
+        "Option 3":"Lanz incision",
+        "Option 4":"Paramedian incision",
+        "Option 5":"Lower midline incision",
+        "Correct Answer":"Lanz incision"
+    },
+    {
+        "Question":"A 12-year-old boy presents with a five-day history of right iliac fossa pain and  high-grade fever. On examination, his abdomen is soft and mildly tender in the right  illiac fossa. What is the most acceptable diagnosis?",
+        "Option 1":"Appendicitis",
+        "Option 2":"Mesenteric adenitis",
+        "Option 3":"Inflammatory bowel disease",
+        "Option 4":"Appendicular abscess",
+        "Option 5":"Spontaneous bacterial peritonitis",
+        "Correct Answer":"Mesenteric adenitis"
+    },
+    {
+        "Question":"A 65-year-old male presented with inguinal swelling which is easily reducible to the abdomen. During surgery to fix the problem the surgeon finds the swelling is to be medial to the inferior epigastric vessels, what is your diagnosis?",
+        "Option 1":"Direct inguinal hernia",
+        "Option 2":"Subcutaneous Lipoma",
+        "Option 3":"Femoral artery pseudoaneurysm",
+        "Option 4":"Femoral hernia",
+        "Option 5":"Indirect inguinal hernia",
+        "Correct Answer":"Direct inguinal hernia"
+    },
+    {
+        "Question":"A 68-year-old man presented with a two-day history of right iliac fossa pain associated with low-grade fever with mild tenderness and guarding on examination. His Labs show WBC at 13.3, Hb at 8 mg, what is the best next course of action?",
+        "Option 1":"Open Appendectomy",
+        "Option 2":"CT abdomen and pelvis with contrast",
+        "Option 3":"Laparoscopic appendectomy",
+        "Option 4":"Medical Treatment",
+        "Option 5":"MRI pelvis",
+        "Correct Answer":"CT abdomen and pelvis with contrast"
+    },
+    {
+        "Question":"A 19-year-old lady is admitted with a 72-hour history of progressive right iliac fossa pain. She has been nauseated for 3 days, had anorexia and vomited twice. On examination, she has markedly tenderness over the right iliac fossa with rebound pain. Vaginal examination is unremarkable. Urine dipstick (including beta HCG) is negative. Blood tests show a WBC of 17. What is the most appropriate course of action?",
+        "Option 1":"Open appendicectomy",
+        "Option 2":"Lower midline Laparotomy",
+        "Option 3":"Abdominal ultrasound",
+        "Option 4":"Laparoscopic appendectomy",
+        "Option 5":"Abdominal CT scan",
+        "Correct Answer":"Laparoscopic appendectomy"
+    }
+]

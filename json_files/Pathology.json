@@ -1,0 +1,758 @@
+[
+    {
+        "Question":"A 26-year-old woman presents with severe headache,photophobia and neck stiffness. Among other investigations, a lumber puncture is earned out and CSF is sent for microscopy and culture, culture shows a growth of Neisseria meningetidis. What is likely to be the predominant cell type in the CSF?",
+        "Option 1":"Basophils",
+        "Option 2":"Eosinophils",
+        "Option 3":"Lymphocytes",
+        "Option 4":"Macrophages",
+        "Option 5":"Neutrophils",
+        "Correct Answer":"Neutrophils"
+    },
+    {
+        "Question":"A fit 21 year old man is admitted with an acute abdomen, subsequently diagnosed gastroenteritis. As part of the host immune response, which of the following immunoglobulins and cells are correctly paired?",
+        "Option 1":"IgA-Macrophage",
+        "Option 2":"IgD-small bowel epithelium",
+        "Option 3":"IgE-endothelium",
+        "Option 4":"IgG-plasma cell",
+        "Option 5":"IgM-thymocyte",
+        "Correct Answer":"IgG-plasma cell"
+    },
+    {
+        "Question":"25 year old man undergoes splenectomy following blunt abdominal trauma. Three days postoperative venous blood testing is likely to reveal:",
+        "Option 1":"High platelet count",
+        "Option 2":"High red cell count",
+        "Option 3":"Low platelet count",
+        "Option 4":"Low white cell count",
+        "Option 5":"Low red cell count",
+        "Correct Answer":"High platelet count"
+    },
+    {
+        "Question":"A 42 year old woman has a cholecystectomy arid developes a self-limiting postoperative wound infection, by what process would bacterial ingestion have been enhanced?",
+        "Option 1":"Apoptosis",
+        "Option 2":"Autophagy",
+        "Option 3":"Metaplasia",
+        "Option 4":"Opsonization",
+        "Option 5":"Phagocytosis",
+        "Correct Answer":"Opsonization"
+    },
+    {
+        "Question":"A 23 year old man presents with three months following extraction of carious teeth with a plaque like infiltraition over the upper jaw with sinus formation. Yellow granules are present in the discharging pus. What is the most likely causative organism?",
+        "Option 1":"Actinomyces",
+        "Option 2":"Asperigillus",
+        "Option 3":"Blastomyce",
+        "Option 4":"Cryptococcus",
+        "Option 5":"Histoplasma",
+        "Correct Answer":"Actinomyces"
+    },
+    {
+        "Question":"A 38 year old man in end stage renal disease resulting from polycystic kidney disease receives a cadaveric renal transplant. Good renal function is established but four weeks later deteriorates, the serum creatinine rising by 25%, which of the following processes is most likely to be responsible for this deterioration?",
+        "Option 1":"B-cell mediated rejection",
+        "Option 2":"Circulating immune complex disease",
+        "Option 3":"IgG antibody mediated rejection",
+        "Option 4":"Post transplant lymphoproliferative disorder",
+        "Option 5":"T-cell mediated rejection",
+        "Correct Answer":"T-cell mediated rejection"
+    },
+    {
+        "Question":"A 45 year old man has established cirrhosis. At a follow up appointment a palpable spleen four fingers breadth below the costal margin is noticed. Full blood counts have shown a persistent thrombocytopenia. Bone marrow examination shows megakaryocyte hyperplasia. What is the most likely cause of thrombocytopenia?",
+        "Option 1":"Ineffective production in the bone marrow",
+        "Option 2":"Platelet destruction in the bone marrow",
+        "Option 3":"Platelet destruction in the spleen",
+        "Option 4":"Platelet destruction in the spleen",
+        "Option 5":"Platelet storage in the spleen",
+        "Correct Answer":"Platelet destruction in the spleen"
+    },
+    {
+        "Question":"In a 9 year old child with cellulitis of the hand, which chronological sequence of immunoglobulin production is correct?",
+        "Option 1":"Ig D precedes Ig E production",
+        "Option 2":"Ig G precedes Ig A production",
+        "Option 3":"Ig G precedes Ig E production",
+        "Option 4":"Ig M precedes IgA production",
+        "Option 5":"Ig M precedes IgG production",
+        "Correct Answer":"Ig M precedes IgG production"
+    },
+    {
+        "Question":"A 12 year old boy presents to the emergency department two hours after helping his father cut the grass. He complains of rhinorrhea, itchy eyes, sneezing and a blocked nose. He is apyrexial with hemoglobin of 12, wbc 6000 with raised eosinophil count. Chest Xray is clear. Which immunoglobulin is most likely to cause this reaction?",
+        "Option 1":"IgA",
+        "Option 2":"IgD",
+        "Option 3":"IgE",
+        "Option 4":"IgG",
+        "Option 5":"IgM",
+        "Correct Answer":"IgE"
+    },
+    {
+        "Question":"A 45 year old homeless man presents with a cough and weight loss over three months. On examination his BMI is 19 and he has reduced breath sounds in the upper zone. His chest Xray shows a caveating lesion in the right upper lobe. He undergoes a bronchoscopy and a bronchial biopsy. The biopsy shows featureless necrosis surrounded by epitheloid macrophages and giant cells. Which of the following is the most likely diagnosis?",
+        "Option 1":"Actinomycosis",
+        "Option 2":"Bronchiectasis",
+        "Option 3":"Sarcoidosis",
+        "Option 4":"Squamous cell carcinoma",
+        "Option 5":"Tuberculosis",
+        "Correct Answer":"Tuberculosis"
+    },
+    {
+        "Question":"A 20 year old man presents with abdominal pain and shock, he is found to have hemopritoneaum due to ruptured spleen. He denies any history of trauma what is the most likely predisposing cause of splenic rupture?",
+        "Option 1":"Epstein barr virus",
+        "Option 2":"Human immunedeficiency virus infection",
+        "Option 3":"Measles virus infection",
+        "Option 4":"Mumps virus infection",
+        "Option 5":"Varicella zoster virus infection",
+        "Correct Answer":"Epstein barr virus"
+    },
+    {
+        "Question":"A 32 year old mountain climber presents to the outpatient clinic. He fell awkwardly, with excessive lateral flexion of his neck to the left side. He describes some paraesthesia over his right shoulder and lateral arm. Which appears to have been improving over the past hour. What is the most likely injury suggested by this history?",
+        "Option 1":"Axonotmesis of the C5 nerve root",
+        "Option 2":"Axonotmesis of the T1 nerve root",
+        "Option 3":"Neuropraxia of the C5 nerve root",
+        "Option 4":"neuropraxia of the t1 nerve root",
+        "Option 5":"neurotmesis of the c5 nerve root",
+        "Correct Answer":"Neuropraxia of the C5 nerve root"
+    },
+    {
+        "Question":"tuberculin test is considered which type of hypersensitivity from the following types?",
+        "Option 1":"T cell mediated",
+        "Option 2":"Cytotoxic type",
+        "Option 3":"Type 1 hypersensitivity",
+        "Option 4":"Immune complex type",
+        "Option 5":"Type 5 hypersensitivity",
+        "Correct Answer":"T cell mediated"
+    },
+    {
+        "Question":"Which is the first immunologic cell present after rose thorn break?",
+        "Option 1":"Neutrophils",
+        "Option 2":"Macrophages",
+        "Option 3":"Basophils",
+        "Option 4":"Mast cells",
+        "Option 5":"Eosinophils",
+        "Correct Answer":"Neutrophils"
+    },
+    {
+        "Question":"After one week of injuring his arm, what process is undergoing from the following?",
+        "Option 1":"Angiogenesis",
+        "Option 2":"Hemostasis",
+        "Option 3":"Inflammation",
+        "Option 4":"Wound contraction",
+        "Option 5":"Remodelling",
+        "Correct Answer":"Angiogenesis"
+    },
+    {
+        "Question":"Which type of amyloid in present in renal failure patient from the following types?",
+        "Option 1":"AL",
+        "Option 2":"AA",
+        "Option 3":"B-amyloid",
+        "Option 4":"Transthyretin",
+        "Option 5":"Globulin",
+        "Correct Answer":"AA"
+    },
+    {
+        "Question":"After eating peanuts, patient developed significant wheezing and dyspnea, which of the following cells are responsible for these symptoms?",
+        "Option 1":"Neutrophils",
+        "Option 2":"Basophils",
+        "Option 3":"Eosinophils",
+        "Option 4":"Macrophages",
+        "Option 5":"T lymphocytes",
+        "Correct Answer":"Basophils"
+    },
+    {
+        "Question":"A 55 year old man presented with severe epigastric pain radiating to the back and vomiting. His investigaitons revealed elevated amylase and lipase, which type of necrosis may appear in thes patient?",
+        "Option 1":"Liquefactive",
+        "Option 2":"Fibrinoid",
+        "Option 3":"Fat",
+        "Option 4":"Gangrenous",
+        "Option 5":"Coagulative",
+        "Correct Answer":"Fat"
+    },
+    {
+        "Question":"22 year old female presented with right iliac fossa pain, positive tenderness and rebound tenderness on examination, which predominant cell present after 24 hours from examination?",
+        "Option 1":"Neutrophils",
+        "Option 2":"Basophils",
+        "Option 3":"Eosinophils",
+        "Option 4":"Macrophages",
+        "Option 5":"T lymphocytes",
+        "Correct Answer":"Neutrophils"
+    },
+    {
+        "Question":"Female nurse encounters problem regarding her skin when using latex gloves over the last 4 years which cell is responsible for this condition?",
+        "Option 1":"Neutrophils",
+        "Option 2":"Basophils",
+        "Option 3":"Eosinophils",
+        "Option 4":"Macrophages",
+        "Option 5":"T lymphocytes",
+        "Correct Answer":"T lymphocytes"
+    },
+    {
+        "Question":"Patient undergone fever and rash immediately after latex gloves, which type of hypersensitivity reactions is responsible?",
+        "Option 1":"T cell mediated",
+        "Option 2":"Cytotoxic type",
+        "Option 3":"Type 1 hypersensitivity",
+        "Option 4":"Immune complex type",
+        "Option 5":"Type 5 hypersensitivity",
+        "Correct Answer":"Type 1 hypersensitivity"
+    },
+    {
+        "Question":"Which one of the following immunoglobulins can cross placenta?",
+        "Option 1":"Ig G",
+        "Option 2":"Ig E",
+        "Option 3":"T cell",
+        "Option 4":"Ig M",
+        "Option 5":"Ig D",
+        "Correct Answer":"Ig G"
+    },
+    {
+        "Question":"Multiple myeloma is a disorder of which cell from the following choices?",
+        "Option 1":"Plasma cell",
+        "Option 2":"Neutrophils",
+        "Option 3":"Macrophages",
+        "Option 4":"Basophils",
+        "Option 5":"Eosinophils",
+        "Correct Answer":"Plasma cell"
+    },
+    {
+        "Question":"A 55 year old patient diagnosed as multiple myeloma. After examination of his tissue there is a protein like material (amyloidosis), what is the type of amyloidoisis in this patient?",
+        "Option 1":"AL",
+        "Option 2":"AA",
+        "Option 3":"B \u2013 amyloid",
+        "Option 4":"Transthyretin",
+        "Option 5":"Globulin",
+        "Correct Answer":"AL"
+    },
+    {
+        "Question":"Post splenectomy, a patient has diffuse lung opacities with respiratory disorders which is the organism likely to cause this opacity?",
+        "Option 1":"Pneumococci",
+        "Option 2":"H influenza",
+        "Option 3":"Meningiococci",
+        "Option 4":"Staph aureus",
+        "Option 5":"CMV",
+        "Correct Answer":"Pneumococci"
+    },
+    {
+        "Question":"A child fell and injured on left side of his arm with evidence of nerve injury, the affected area recovered fully. What is the most likely causing process?",
+        "Option 1":"Neuropraxia",
+        "Option 2":"Neurotemesis",
+        "Option 3":"Axonotemesis",
+        "Option 4":"Complete nerve injury",
+        "Option 5":"Partial tear",
+        "Correct Answer":"Neuropraxia"
+    },
+    {
+        "Question":"Which of the following cell types is least likely to be found in a wound 1 week following injury?",
+        "Option 1":"Macrophages",
+        "Option 2":"Fibroblasts",
+        "Option 3":"Myofibroblasts",
+        "Option 4":"Endothelial cells",
+        "Option 5":"Neutrophils",
+        "Correct Answer":"Myofibroblasts"
+    },
+    {
+        "Question":"17 year old lady with long standing anorexia nervosa is due to undergo excision of a lipoma. Which of the following nutritional deficiencies is most likely to be implicated in poor collagen formation as the wound heals?",
+        "Option 1":"Deficiency of copper",
+        "Option 2":"Deficiency of iron",
+        "Option 3":"deficiency of ascorbic acid",
+        "Option 4":"deficiency of phosphate",
+        "Option 5":"none of the above",
+        "Correct Answer":"deficiency of ascorbic acid"
+    },
+    {
+        "Question":"a 34 year old man presents to the surgical clinic 8 months after a laparotomy removal of ruptured spleen. He complains of a nodule in the center of his laparotomy wound. This is explored surgically , and a stitch granuloma is found and exised. From which of the following cell types do granulomata arise?",
+        "Option 1":"Polymorph neuclear",
+        "Option 2":"Plasma cells",
+        "Option 3":"Reed \u2013 Sternberg cells",
+        "Option 4":"Platelets",
+        "Option 5":"Macrophages",
+        "Correct Answer":"Macrophages"
+    },
+    {
+        "Question":"A 33 year old man is involved in a road traffic accident. He is initially stable and transferred to the accident and emergency department. On arrival he is catheterized. One minute later he becomes hypotensive, with evidence of angioedema surrounding his penis. What is the most likely explanation for this event?",
+        "Option 1":"Type V latex hypersensitivity reaction",
+        "Option 2":"Type IV latex hypersensitivity reaction",
+        "Option 3":"Type III latex hypersensitivity reaction",
+        "Option 4":"Type I latex hypersensitivity reaction",
+        "Option 5":"Type II hypersensitivity reaction",
+        "Correct Answer":"Type I latex hypersensitivity reaction"
+    },
+    {
+        "Question":"A 22 year old man undergoes a splenectomy for an iatrogenic splenic injury. On the second post operative day a full blood count is performed. Which of the following components of the full blood count is the first to be affected?",
+        "Option 1":"Erythrocyte count",
+        "Option 2":"Reticulocyte count",
+        "Option 3":"Eosinophil count",
+        "Option 4":"Monocyte count",
+        "Option 5":"lymphocyte count",
+        "Correct Answer":"Reticulocyte count"
+    },
+    {
+        "Question":"a 22 year old female is admitted to A&E with a splenic rupture. She has not been involved in any trauma. What infection can cause spontaneous splenic rupture?",
+        "Option 1":"Measles",
+        "Option 2":"Mumps",
+        "Option 3":"Influenza",
+        "Option 4":"Epstein barr virus",
+        "Option 5":"Rubella",
+        "Correct Answer":"Epstein barr virus"
+    },
+    {
+        "Question":"A 49 year old female is due to undergo a renal transplant. Apart from ABO compitability which of the following is most important in matching donor and reciepient organs?",
+        "Option 1":"HLA-DR",
+        "Option 2":"Rheusus",
+        "Option 3":"HLA-A",
+        "Option 4":"HLA-B",
+        "Option 5":"HLA-C",
+        "Correct Answer":"HLA-DR"
+    },
+    {
+        "Question":"A 24 year old Caucasian man presents with splenomegaly and is found to have significant antibodies titres to EPV what is the diagnosis?",
+        "Option 1":"Sickle cell disease",
+        "Option 2":"Polycythaemia vera",
+        "Option 3":"Cirrhosis",
+        "Option 4":"Infectious mononucleosis",
+        "Option 5":"Lymphoma",
+        "Correct Answer":"Infectious mononucleosis"
+    },
+    {
+        "Question":"A 21 year old man fractures his ulna and radius. He is treated by means of a plaster cast, which is removed after four weeks. What pathological process is most likely to have affected immobilized muscles?",
+        "Option 1":"Aplasia",
+        "Option 2":"Atrophy",
+        "Option 3":"Hyperplasia",
+        "Option 4":"Hypertrophy",
+        "Option 5":"Neoplasia",
+        "Correct Answer":"Atrophy"
+    },
+    {
+        "Question":"A 20 year old woman presents acutely with abdominal pain, imaging reveals a right ovarian cystic lesion which is excised. Histopathological examination shows a cyst lined by keratinizing stratified squamous epithelium. Areas of fat, muscle, thyroid and neural tissue are seen in the wall. What is the appropriate pathological designation for this lesion?",
+        "Option 1":"Adenocarcinoma",
+        "Option 2":"Cystadenoma",
+        "Option 3":"Dysgerminoma",
+        "Option 4":"Squamous cell carcinoma",
+        "Option 5":"Teratoma",
+        "Correct Answer":"Teratoma"
+    },
+    {
+        "Question":"60 year old man is found to have a 2 cm diameter mass in the upper lobe of his lung, the lesion is excised, and is found that the lesion includes connective tissue, mature cartilage and ciliated epithelium. What is the most likely diagnosis?",
+        "Option 1":"Adenoma",
+        "Option 2":"Carcinoma",
+        "Option 3":"Chondroma",
+        "Option 4":"Hamartoma",
+        "Option 5":"Sarcoma",
+        "Correct Answer":"Hamartoma"
+    },
+    {
+        "Question":"50 year old man with a 30 year history of pancolitis undergoes survillence colonoscopy which reveals a plaque like lesion in the descending colon, biopsy reveals a pre-malignant lesion. What is the name of this pre-malignant change?",
+        "Option 1":"Anaplasia",
+        "Option 2":"Dysplasia",
+        "Option 3":"Hyperplasia",
+        "Option 4":"Metaplasia",
+        "Option 5":"Neoplasia",
+        "Correct Answer":"Dysplasia"
+    },
+    {
+        "Question":"A 45 year old woman suffers form spina-bifida and is confined to a wheelchair. Her legs are not fully developed. What is the pathological process which has occurred in the legs?",
+        "Option 1":"Apoptosis",
+        "Option 2":"Atrophy",
+        "Option 3":"Hyperplasia",
+        "Option 4":"Hypertrophy",
+        "Option 5":"Hypoplasia",
+        "Correct Answer":"Hypoplasia"
+    },
+    {
+        "Question":"A 45 year old woman presents to the hospital with jaundice. She under-went an ultrasound scan and is diagnosed with hepatocellular carcinoma affecting the left lobe of the liver, which virus is the most likely to be implicated?",
+        "Option 1":"EBV",
+        "Option 2":"Hepatitis B",
+        "Option 3":"HIV",
+        "Option 4":"HPV",
+        "Option 5":"Human T cell lymph a trophic Virus 1",
+        "Correct Answer":"Hepatitis B"
+    },
+    {
+        "Question":"A 36 year old patient presented with weight loss, cough, tiredness, multiple neck lymphadenopathy, and lateral aspect of tongue hairy lesions. What is the most likely diagnosis?",
+        "Option 1":"Kaposi sarcoma",
+        "Option 2":"Herpes simplex virus",
+        "Option 3":"HIV",
+        "Option 4":"Actinomycosis",
+        "Option 5":"TB",
+        "Correct Answer":"HIV"
+    },
+    {
+        "Question":"A 55 chinese lady has conductive hearing loss, palatine ulcer and cervical lymphadenopathy, what is the most likely diagnosis?",
+        "Option 1":"Nasopharyngeal carcinoma",
+        "Option 2":"Oropharyngeal carcinoma",
+        "Option 3":"TB",
+        "Option 4":"Infectious mononeucleosis",
+        "Option 5":"Actinomycosis",
+        "Correct Answer":"Nasopharyngeal carcinoma"
+    },
+    {
+        "Question":"Which one of the following raises suspicion of testicular tumor?",
+        "Option 1":"Alph fetoprotein",
+        "Option 2":"Aflatoxin",
+        "Option 3":"CEA",
+        "Option 4":"CA 125",
+        "Option 5":"P53",
+        "Correct Answer":"Alph fetoprotein"
+    },
+    {
+        "Question":"Which one of the following is breast cancer tumor marker?",
+        "Option 1":"BRCA 1",
+        "Option 2":"CA 125",
+        "Option 3":"CA 15-3",
+        "Option 4":"Alfa fetoprotein",
+        "Option 5":"BHCG",
+        "Correct Answer":"CA 15-3"
+    },
+    {
+        "Question":"Which one of the following is tumor marker of melanoma?",
+        "Option 1":"S100",
+        "Option 2":"CA 125",
+        "Option 3":"CA 15-3",
+        "Option 4":"Alfa fetoprotein",
+        "Option 5":"BHCG",
+        "Correct Answer":"S100"
+    },
+    {
+        "Question":"Which virus from the following is implicated for cervical cancer?",
+        "Option 1":"HIV",
+        "Option 2":"HBV",
+        "Option 3":"HPV 16",
+        "Option 4":"Herpes simplex",
+        "Option 5":"HCV",
+        "Correct Answer":"HPV 16"
+    },
+    {
+        "Question":"A female patient has large appendicular mass associated with liver lesions which one is considered a urinary diagnostic marker for her condition?",
+        "Option 1":"Thyroglobulin",
+        "Option 2":"VMA",
+        "Option 3":"Chromogranin",
+        "Option 4":"PSA",
+        "Option 5":"5-HIAA",
+        "Correct Answer":"5-HIAA"
+    },
+    {
+        "Question":"A 5 year old boy presents to the clinic with short stature suggestive of achondroplasia. What is the genetic basis of his condition?",
+        "Option 1":"X linked defect",
+        "Option 2":"Y linked defect",
+        "Option 3":"YY linked defect",
+        "Option 4":"Autosomal dominant defect",
+        "Option 5":"Autosomal recessive defect",
+        "Correct Answer":"Autosomal dominant defect"
+    },
+    {
+        "Question":"Which of the following is tumor suppressor gene?",
+        "Option 1":"P53",
+        "Option 2":"Sis",
+        "Option 3":"Erb",
+        "Option 4":"CMV",
+        "Option 5":"Myc",
+        "Correct Answer":"P53"
+    },
+    {
+        "Question":"A 60 year old non smoker presents with three months history of loss of weight, malaise and breathlessness. On examination, he has left supraclavicular lymph node enlargement. Chest radiograph reveals multiple bilateral opacites. What abnormality would a biopsy of left supraclavicular lymph node most probably show?",
+        "Option 1":"Chronic inflammatory cells",
+        "Option 2":"Granuloma",
+        "Option 3":"Langerhan\u2019s type giant cells",
+        "Option 4":"Multiple abnormal mitotic figures in cells",
+        "Option 5":"Reed Sternberg cells",
+        "Correct Answer":"Multiple abnormal mitotic figures in cells"
+    },
+    {
+        "Question":"A 73 year old heavy smoker presents with hemoptysis. On examination, he is cachectic and shows evidence of clubbing. Imaging shows a main bronchial tumor with massive mediastinal lymphadenopathy together with a widespread visceral metastases.",
+        "Option 1":"Adenocarcinoma",
+        "Option 2":"Small cell lung cancer",
+        "Option 3":"Large cell lung cancer",
+        "Option 4":"Squamous cell carcinoma",
+        "Option 5":"None of the above",
+        "Correct Answer":"Small cell lung cancer"
+    },
+    {
+        "Question":"A 68 year old female who has never smoked presents with a mass at the periphery of her lung?",
+        "Option 1":"Adenocarcinoma",
+        "Option 2":"Small cell lung cancer",
+        "Option 3":"Large cell lung cancer",
+        "Option 4":"Squamous cell carcinoma",
+        "Option 5":"None of the above",
+        "Correct Answer":"Adenocarcinoma"
+    },
+    {
+        "Question":"A 84 year old man presents with a cough and hemoptysis. He has a mosdest smoking history of 15 pack years. He is found to have a tumor located in the right main bronchus. With no evidence of metastatic disease. He decides to undergo treatment and he remains well for the time being:",
+        "Option 1":"Adenocarcinoma",
+        "Option 2":"Small cell lung cancer",
+        "Option 3":"Large cell lung cancer",
+        "Option 4":"Squamous cell carcinoma",
+        "Option 5":"None of the above",
+        "Correct Answer":"Squamous cell carcinoma"
+    },
+    {
+        "Question":"79 year old woman with hypochromic microcytic anemia and axiallry and inguinal lymphadenopathy what is your diagnosis?",
+        "Option 1":"Bronchial cancer",
+        "Option 2":"Non-hodgkin lymphoma",
+        "Option 3":"Hodgkin lymphoma",
+        "Option 4":"Gastric cancer",
+        "Option 5":"None of the above",
+        "Correct Answer":"Hodgkin lymphoma"
+    },
+    {
+        "Question":"A 33 year old female presented with depression and irritability. Her investigations revealed low TSH and increased Ca. she was on antacids as treatment for her heart burn. The possible diagnosis of this condition is?",
+        "Option 1":"Milk alkali syndrome",
+        "Option 2":"Vitmin D toxicity",
+        "Option 3":"Hyperthyroidism",
+        "Option 4":"Sarcoidosis",
+        "Option 5":"Hyperparathyroidism",
+        "Correct Answer":"Milk alkali syndrome"
+    },
+    {
+        "Question":"Liver biopsy was taken, showing birefringence apple green with congo red stain. What is your diagnosis of this condition?",
+        "Option 1":"Abnormal deposition of copper",
+        "Option 2":"Amyloidosis",
+        "Option 3":"Hemochromatosis",
+        "Option 4":"Hemosiderin deposition",
+        "Option 5":"None of the above",
+        "Correct Answer":"Amyloidosis"
+    },
+    {
+        "Question":"63 year old man had undergone liver transplant. On staining the resected liver, it turned blue, what is the underlying pathology?",
+        "Option 1":"Hemochromatosis",
+        "Option 2":"Cirrhosis",
+        "Option 3":"Hepatocellular carcinoma",
+        "Option 4":"Wilson disease",
+        "Option 5":"Amyloidosis",
+        "Correct Answer":"Hemochromatosis"
+    },
+    {
+        "Question":"During parathyroidectomy, the surgeon wants to identify the parathyroid gland. Frozen section was done. What is the best answer describing the frozen section?",
+        "Option 1":"Put the specimen on paraffin",
+        "Option 2":"But stain firstly then put the specimen",
+        "Option 3":"Using labelled fluorecense",
+        "Option 4":"Put cells on slide then stain with H&E",
+        "Option 5":"Put the specimen in formaldehyde",
+        "Correct Answer":"Put cells on slide then stain with H&E"
+    },
+    {
+        "Question":"53 year old woman presented with cervical LN, on examination , supraclavicular, axillary and inguinal LN all enlarged. What is your possible diagnosis?",
+        "Option 1":"Lymphoma",
+        "Option 2":"TB",
+        "Option 3":"Cancer breast",
+        "Option 4":"Adenocarcinoma of the lung",
+        "Option 5":"Viral infection",
+        "Correct Answer":"Lymphoma"
+    },
+    {
+        "Question":"A man has cervical , inguinal and axillary lymph node enlargement his pathology showing Hodgkin lymphoma. Which cell in lymphoma originate?",
+        "Option 1":"B cell",
+        "Option 2":"T cell",
+        "Option 3":"NK cells",
+        "Option 4":"Eosinophils",
+        "Option 5":"Neutrophils",
+        "Correct Answer":"B cell"
+    },
+    {
+        "Question":"Which type of lymphoma is associated with celiac disease?",
+        "Option 1":"T cell lymphoma",
+        "Option 2":"B cell lymphoma",
+        "Option 3":"Burkitt\u2019s lymphoma",
+        "Option 4":"Mantle cell lymphoma",
+        "Option 5":"T cell lymphoma",
+        "Correct Answer":null
+    },
+    {
+        "Question":"Male patient 45 year old presented with red velvety like lesion in his tongue what is the most likely diagnosis?",
+        "Option 1":"Leukoplakia",
+        "Option 2":"Erythroplakia",
+        "Option 3":"Squamous cell carcinoma",
+        "Option 4":"AIDS",
+        "Option 5":"None of the above",
+        "Correct Answer":"Erythroplakia"
+    },
+    {
+        "Question":"A 55 year old smoker patient presented with hemoptysis and mucous phlegm. Pathological examination of his phlegm showing squamous cell in his sputum what is the most likely diagnosis?",
+        "Option 1":"Squamous cell carcinoma",
+        "Option 2":"Small cell carcinoma",
+        "Option 3":"Tuberculosis",
+        "Option 4":"Reversible metablasia",
+        "Option 5":"None of the above",
+        "Correct Answer":"Reversible metablasia"
+    },
+    {
+        "Question":"A 85 year old man presents with a cough and hemoptysis. He has modest smoking history of 15 pack years. He is found to have a tumor located in the right main bronchus, with no evidence of metastatic disease his pathology showing keratin between flat cells. He decides to undergo any treatment, what is your diagnosis?",
+        "Option 1":"Adenocarcinoma",
+        "Option 2":"Small cell lung cancer",
+        "Option 3":"Large cell lung cancer",
+        "Option 4":"Squamous cell carcinoma",
+        "Option 5":"None of the above",
+        "Correct Answer":"Squamous cell carcinoma"
+    },
+    {
+        "Question":"A biopsy specimen using prussion blue stain to detect which of the following material?",
+        "Option 1":"Amyloid",
+        "Option 2":"Sarcoid",
+        "Option 3":"Iron",
+        "Option 4":"Asteroid bodies",
+        "Option 5":"None of the above",
+        "Correct Answer":"Iron"
+    },
+    {
+        "Question":"Female patient diagnosed as Hashimoto thyroiditis on hemithyroidectomy she has had lymphoma. What type of cell causing lymphoma?",
+        "Option 1":"B cell",
+        "Option 2":"T cell",
+        "Option 3":"Plasma cell",
+        "Option 4":"Macrophage",
+        "Option 5":"None of the above",
+        "Correct Answer":"B cell"
+    },
+    {
+        "Question":"A patient had splenectomy 2 years ago regarding structure of spleen, macrophage in the spleen present mainly in?",
+        "Option 1":"Red pulp",
+        "Option 2":"White pulp",
+        "Option 3":"Cortex",
+        "Option 4":"Mantle zone",
+        "Option 5":"There is no macrophage in the spleen",
+        "Correct Answer":"Red pulp"
+    },
+    {
+        "Question":"A patient had a breast cancer. On gene analysis she had a gene mutation affecting DNA replication, which phase of cell cycle is affected?",
+        "Option 1":"G1",
+        "Option 2":"G2",
+        "Option 3":"S phase",
+        "Option 4":"M phase",
+        "Option 5":"None of the above",
+        "Correct Answer":"S phase"
+    },
+    {
+        "Question":"A patient underwent an inguinal hernia repair 4 days following the procedure, he developed fever and an abscess in the groin area. Which of the following best describes the process of inflammation?",
+        "Option 1":"Infiltration of the tissue by neutrophils causing edema",
+        "Option 2":"Increased vascular permeability causing edema and fluid accumulation then cell infiltration",
+        "Option 3":"Release of cytokines causing inflammation",
+        "Option 4":"Hypoalbuminemia causing edema",
+        "Option 5":"None of the above",
+        "Correct Answer":"Increased vascular permeability causing edema and fluid accumulation then cell infiltration"
+    },
+    {
+        "Question":"50 year old man presents with three month history of a cough with sputum, he also admits to evening pyrexia and losing 6 kg and cavities in his upper lobes. Sputum shows acid fast bacilli. Prominent accumulation of which cell type will be surrounded?",
+        "Option 1":"Eosinophils",
+        "Option 2":"Macrophages",
+        "Option 3":"Mast cells",
+        "Option 4":"Neutrophils",
+        "Option 5":"Plasma cells",
+        "Correct Answer":"Macrophages"
+    },
+    {
+        "Question":"A 65 year old man is seen as part of bowel screening program. He is found to have a 3 cm diameter lesion invading into submucosa which are presents at base of the stalk. Which term best describes these histological features?",
+        "Option 1":"Atrophy",
+        "Option 2":"Carcinoma",
+        "Option 3":"Dysplasia",
+        "Option 4":"Hamartomas",
+        "Option 5":"Hyperplasia",
+        "Correct Answer":"Carcinoma"
+    },
+    {
+        "Question":"A 60 year old man, who is a lifelong smoker, presents with increased dyspnea and chest infection. Histopathology of his phlegm have squamous cell. What is the infiltration of this process?",
+        "Option 1":"Irreversible damage of the cell type in response to an external pathogen",
+        "Option 2":"Programmed cell death",
+        "Option 3":"Response of vascularized tissue to autoimmune antibodies",
+        "Option 4":"Reversible change of the cell type in response to localized injury",
+        "Option 5":"Uncontrolled proliferation of clonal population of cells",
+        "Correct Answer":"Reversible change of the cell type in response to localized injury"
+    },
+    {
+        "Question":"A 30 year old man, who is a UK resident with longstanding HIV and low CD4 count, presents with generalized lymphadenopathy what is the cause of this process?",
+        "Option 1":"Dermatopathic lymphadenopathy",
+        "Option 2":"Follicular hyperplasia",
+        "Option 3":"Mycobacterium avium intracellulare",
+        "Option 4":"Onchocerciasis",
+        "Option 5":"Sinus histocytosis",
+        "Correct Answer":"Follicular hyperplasia"
+    },
+    {
+        "Question":"A 35 year old man presents with a three month history of cervical lymphadenopathy. A lymph node biopsy is carried out and Hodgkin lymphoma is diagnosed, which subtype of Hodgkin lymphoma will imply the worst prognosis?",
+        "Option 1":"Lymphocyte depleted",
+        "Option 2":"Lymphocyte rich",
+        "Option 3":"Mixed cellularity",
+        "Option 4":"Nodular lymphocyte predominant",
+        "Option 5":"Nodular sclerosing",
+        "Correct Answer":"Lymphocyte depleted"
+    },
+    {
+        "Question":"A 27 year old woman is admitted as an emergency following a road traffic accident. She was the front seat passenger and was wearing a seat belt. She is tachycardic and hypotensive with upper left quadrant tenderness. Chest Xray confirms fractures of the 10, 11, ribs on the left side and US confirms splenic injury with continued bleeding. She undergoes an emergency splenectomy what prophylaxis does she need in the future?",
+        "Option 1":"Pneumococcus",
+        "Option 2":"Pneumococcus, hemophilus influenza B",
+        "Option 3":"Pneumococcus, hemophilus influenza B, meningococcus A and C",
+        "Option 4":"Pneumococcus, hemophilus influenza B, meningococcus A and C and flucloxacillin",
+        "Option 5":"Pneumococcus, hemophilus influenza B, meningococcus A and C and penicillin",
+        "Correct Answer":"Pneumococcus, hemophilus influenza B, meningococcus A and C and penicillin"
+    },
+    {
+        "Question":"45 year old woman presents with a neck lymph node. A biopsy of the node shows sarcoidosis. What is the cell predominant in the biopsy?",
+        "Option 1":"Epithelloid granuloma",
+        "Option 2":"Foamy cells",
+        "Option 3":"Neutrophils",
+        "Option 4":"Plasma cell",
+        "Option 5":"Mast cell",
+        "Correct Answer":"Epithelloid granuloma"
+    },
+    {
+        "Question":"A 21 year old female African HIV +ve, presented with cough and weight loss, X ray revealed mass in the upper third of upper lobe of the lung. She also had mediastinal lymphadenopathy. HPE of the mass would most likely reveal?",
+        "Option 1":"Squamous cell carcinoma",
+        "Option 2":"Small cell carcinoma",
+        "Option 3":"Tuberculosis",
+        "Option 4":"Adenocarcinoma",
+        "Option 5":"Sarcoidosis",
+        "Correct Answer":"Tuberculosis"
+    },
+    {
+        "Question":"A 55 year old man complains of rectal bleeding at colonoscopy he is noted to have a single polyp in the sigmoid colon which pathological processes can be involved in the formation of the polyp?",
+        "Option 1":"Apoptosis",
+        "Option 2":"Calcification",
+        "Option 3":"Neoplasia",
+        "Option 4":"Hyperplasia",
+        "Option 5":"Metaplasia",
+        "Correct Answer":"Hyperplasia"
+    },
+    {
+        "Question":"25 year old patient has allergic manifestation after eating peanuts what is the substance you detected in the blood from the following?",
+        "Option 1":"ILK2",
+        "Option 2":"Histamine",
+        "Option 3":"IgE",
+        "Option 4":"Prostaglandin",
+        "Option 5":"None of the above",
+        "Correct Answer":"IgE"
+    },
+    {
+        "Question":"Post splenectomy blood film at 1 week, what in not seen?",
+        "Option 1":"Howell jolly bodies",
+        "Option 2":"Basophilia",
+        "Option 3":"Decreased WBC",
+        "Option 4":"Pitted RBCs",
+        "Option 5":"Target cells",
+        "Correct Answer":"Decreased WBC"
+    },
+    {
+        "Question":"After histopathological examination of amyloid tissue with congo red stain, the color of this tissue will be which of the following?",
+        "Option 1":"Negative birefringence",
+        "Option 2":"Congo red positive + blue under polarized light",
+        "Option 3":"Congo red positive + green under polarized light",
+        "Option 4":"Congo red positive + white under polarized light",
+        "Option 5":"None of the above",
+        "Correct Answer":"Congo red positive + green under polarized light"
+    },
+    {
+        "Question":"Complement proteins are formed in which cells?",
+        "Option 1":"Endothelial cells",
+        "Option 2":"Hepatocytes",
+        "Option 3":"T cell",
+        "Option 4":"B cell",
+        "Option 5":"Macrophages",
+        "Correct Answer":"Hepatocytes"
+    },
+    {
+        "Question":"Which of the following choices is correct about IgA",
+        "Option 1":"It is pentameric Ig",
+        "Option 2":"Produced in the mucosa of the gut",
+        "Option 3":"Can cross the placenta",
+        "Option 4":"IgA2 is the predominant IgA subclass",
+        "Option 5":"None of the above",
+        "Correct Answer":"Produced in the mucosa of the gut"
+    },
+    {
+        "Question":"Paneth cells present in which of the following?",
+        "Option 1":"Crypts of lieberkun",
+        "Option 2":"Intestinal villi",
+        "Option 3":"Gastric antrum",
+        "Option 4":"Lamina propria",
+        "Option 5":"Muscularis mucosa",
+        "Correct Answer":"Crypts of lieberkun"
+    }
+]

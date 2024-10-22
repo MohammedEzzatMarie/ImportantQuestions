@@ -1,0 +1,632 @@
+[
+    {
+        "Question":"A 66-year-old man complained of weak stream with a DRE showing a smooth enlarged prostate.  What pathology is underlying?",
+        "Option 1":"Hyperplasia",
+        "Option 2":"Hypertrophy",
+        "Option 3":"Dysplasia",
+        "Option 4":"Metaplasia",
+        "Option 5":"Neoplasia",
+        "Correct Answer":"Hyperplasia"
+    },
+    {
+        "Question":"A 70-year-old man presents to his general practitioner with back pain that has been worsening  over the last six weeks. He also complains of slow urinary flow. Digital rectal examination reveals  an irregular hard prostate. Prostate specific antigen is 300 ng\/ml (normal <4). What should be  the first line of treatment?",
+        "Option 1":"Bladder neck incision",
+        "Option 2":"Hormonal manipulation",
+        "Option 3":"Radical prostatectomy",
+        "Option 4":"Transurethral resection of prostate",
+        "Option 5":"Watchful waiting",
+        "Correct Answer":"Hormonal manipulation"
+    },
+    {
+        "Question":"3. A 6O-year-old woman with a history of meningomyelocele has had many years of recurrent  urinary tract infections. She had required an indwelling catheter on a long-term basis She has  recently developed frank hematuria and weight loss. What is the possible diagnosis?",
+        "Option 1":"Cystitis cystica",
+        "Option 2":"Interstitial cystitis",
+        "Option 3":"Multiple superficial transitional cell carcinomas",
+        "Option 4":"Muscle invasive transitional cell bladder cancer",
+        "Option 5":"Squamous cell carcinoma of the bladder",
+        "Correct Answer":"Squamous cell carcinoma of the bladder"
+    },
+    {
+        "Question":"A 60-year-old man who smokes, presents with microscopic hematuria and right loin pain. A renal  ultrasound scan demonstrates a hydronephrosis with a filing defect on the right posterior wall of  the bladder. What is the possible diagnosis?",
+        "Option 1":"Cystitis cystica",
+        "Option 2":"Interstitial cystitis",
+        "Option 3":"Multiple superficial transitional cell carcinomas",
+        "Option 4":"Muscle invasive transitional cell bladder cancer",
+        "Option 5":"Squamous cell carcinoma of the bladder",
+        "Correct Answer":"Muscle invasive transitional cell bladder cancer"
+    },
+    {
+        "Question":"A 49-year-old Egyptian man on holiday in the United Kingdom presents with hematuria. He gives  a history of bladder irritative symptoms for seven months . He has lived in a rural community for  his whole life . What is the possible dagnosis?",
+        "Option 1":"Cystitis cystica",
+        "Option 2":"Interstitial cystitis",
+        "Option 3":"Multiple superficial transitional cell carcinomas",
+        "Option 4":"Muscle invasive transitional cell bladder cancer",
+        "Option 5":"Squamous cell carcinoma of the bladder",
+        "Correct Answer":"Squamous cell carcinoma of the bladder"
+    },
+    {
+        "Question":"An 11 years old male with sudden attack of right testicular pain with bluish black spot above the  testis. What is the most likely underlying diagnosis?",
+        "Option 1":"Testicular hematoma",
+        "Option 2":"Torsion of hydatid of Morgagni",
+        "Option 3":"Testicular tumor",
+        "Option 4":"Testicular torsion",
+        "Option 5":"Viral epidydimo-orchitis",
+        "Correct Answer":"Torsion of hydatid of Morgagni"
+    },
+    {
+        "Question":"A 37 years old male had groin trauma during exercise 7 months ago. He then noticed a testicular  swelling which is not tender. The swelling gives slight transillumination. What is the most likely  underlying diagnosis?",
+        "Option 1":"Testicular torsion",
+        "Option 2":"Testicular hematoma",
+        "Option 3":"Teratoma",
+        "Option 4":"Hydrocele",
+        "Option 5":"Femoral hernia",
+        "Correct Answer":"Hydrocele"
+    },
+    {
+        "Question":"A 35 years old man noticed a painful swelling above the testis after vasectomy. What is the most  likely underlying diagnosis?",
+        "Option 1":"Teratoma",
+        "Option 2":"Hematoma",
+        "Option 3":"Hydrocele",
+        "Option 4":"Spermatocele",
+        "Option 5":"Sperm granuloma",
+        "Correct Answer":"Sperm granuloma"
+    },
+    {
+        "Question":"A 35-year-old woman presents to the Emergency department with a second attack of painful  frank hematuria. What is the most likely pathology underlying this presentation?",
+        "Option 1":"Gram negative urinary tract infection",
+        "Option 2":"Interstitial cystitis",
+        "Option 3":"Renal cell carcinoma",
+        "Option 4":"Transitional cell carcinoma of the bladder",
+        "Option 5":"Urinary TB",
+        "Correct Answer":"Interstitial cystitis"
+    },
+    {
+        "Question":"A 55-year-old man presents with a deep venous thrombosis. His full blood count shows a haemoglobin of 18.3 g\/dl (normal 13.5-17.5), a white cell count of 8 x 10\/L (normal 3.9- 10.0 x 10) and a platelet count of 200 x 10\/L (normal 150-400 x 10) This hematological picture is most likely to be associated with:",
+        "Option 1":"Bronchial carcinoma",
+        "Option 2":"Pancreatic carcinoma",
+        "Option 3":"Prostatic carcinoma",
+        "Option 4":"Renal cel carcinoma",
+        "Option 5":"Transitional cell carcinoma of the kidney",
+        "Correct Answer":"Renal cel carcinoma"
+    },
+    {
+        "Question":"A 16 years old male has a mid-ureteric obstructing stone with family history of renal stone in his  uncle. What's the most likely composition of this stone?",
+        "Option 1":"Calcium oxalate",
+        "Option 2":"Calcium Phosphate",
+        "Option 3":"Cysteine",
+        "Option 4":"Xanthine stone",
+        "Option 5":"Urate stone",
+        "Correct Answer":"Cysteine"
+    },
+    {
+        "Question":"A man developed acute scrotum after trauma with oedematous tender hemiscrotum. On  examination there's a tender testis with absent cremasteric reflex. The most likely underlying  cause is:",
+        "Option 1":"Testicular torsion",
+        "Option 2":"Testicular hematocele",
+        "Option 3":"Hydrocele",
+        "Option 4":"Teratoma",
+        "Option 5":"Spermatocele",
+        "Correct Answer":"Testicular torsion"
+    },
+    {
+        "Question":"A 23 years old man noticed a painless small swelling above testis with slight trans-illumination  What's the most likely underlying cause?",
+        "Option 1":"Epidydimal cyst",
+        "Option 2":"Testicular teratoma",
+        "Option 3":"Hydrocele",
+        "Option 4":"Sperm granuloma",
+        "Option 5":"Inguinoscrotal hernia",
+        "Correct Answer":"Epidydimal cyst"
+    },
+    {
+        "Question":"A 26 years old male suffered a scrotal trauma during a fight. 2 months later, he noticed a  heterogenous rapidly growing swelling within testis with surrounding fluid. His serum markers  showed a mildly elevated alpha fetoprotein. What's the most likely cause?",
+        "Option 1":"Testicular teratoma",
+        "Option 2":"Classical seminoma",
+        "Option 3":"Sperm granuloma",
+        "Option 4":"Choriocarcinoma",
+        "Option 5":"Spermatocystic seminoma",
+        "Correct Answer":"Testicular teratoma"
+    },
+    {
+        "Question":"A 45-year-old man is involved in a car accident. On admission he is in hypovolaemic shock, and radiographs show a displaced anterior pelvic fracture. On rectal examination, the prostate gland cannot be felt in its usual position, What is the possible cause?",
+        "Option 1":"The bladder is ruptured",
+        "Option 2":"The bulbar part of the urethra s ruptured",
+        "Option 3":"The membranous urethra is ruptured",
+        "Option 4":"The prostatic urethra is ruptured",
+        "Option 5":"None of the above",
+        "Correct Answer":"The membranous urethra is ruptured"
+    },
+    {
+        "Question":"A 32-year-old man falls from a height with his legs apart, landing heavily astride on an iron bar.  On examination there is extensive bruising in the anterior perineum and scrotum, extending onto  the anterior abdominal wall. What is the possible cause?",
+        "Option 1":"The bladder is ruptured",
+        "Option 2":"The bulbar part of the urethra is ruptured",
+        "Option 3":"The membranous urethra is ruptured",
+        "Option 4":"The prostatic urethra is ruptured",
+        "Option 5":"None of the above",
+        "Correct Answer":"The bulbar part of the urethra is ruptured"
+    },
+    {
+        "Question":"A 53 years old female received medical treatment for urinary tract infection for the last 3  years. She gradually developed weak urine stream. The most accepted cause is",
+        "Option 1":"Underactive bladder",
+        "Option 2":"Stone",
+        "Option 3":"Urethral stenosis",
+        "Option 4":"Bladder neck inactivity",
+        "Option 5":"PUJ obstruction",
+        "Correct Answer":"Urethral stenosis"
+    },
+    {
+        "Question":"A 2 years old child was diagnosed with retractile testis. What is the cause of condition?",
+        "Option 1":"Patent processus vaginalis",
+        "Option 2":"Testicular agenesis",
+        "Option 3":"Overactive cremasteric reflex",
+        "Option 4":"Idiopathic",
+        "Option 5":"None of the above",
+        "Correct Answer":"Overactive cremasteric reflex"
+    },
+    {
+        "Question":"A man with difficulty of micturition undergone some labs, of which serum PSA was elevated  Causes of raised PSA include all of the following except:",
+        "Option 1":"Prostatic cancer",
+        "Option 2":"Prostatitis",
+        "Option 3":"Urinary tract trauma",
+        "Option 4":"Ejaculation",
+        "Option 5":"Benign prostatic hyperplasia",
+        "Correct Answer":"Urinary tract trauma"
+    },
+    {
+        "Question":"What is the normal epithelial lining of the urinary bladder?",
+        "Option 1":"Stratified squamous epithelium non keratinized",
+        "Option 2":"Columnar epithelium with goblet cells",
+        "Option 3":"columnar epithelium without goblet cells",
+        "Option 4":"Transitional epithelium",
+        "Option 5":"Stratified squamous epithelium keratinized",
+        "Correct Answer":"Transitional epithelium"
+    },
+    {
+        "Question":"A 70 years old women after elective hip re placement presented with spontaneous urinary retention. Her examination is unremarkable. What is the most accepted cause of this condition?",
+        "Option 1":"Underactive bladder",
+        "Option 2":"Stone",
+        "Option 3":"Urethral stenosis",
+        "Option 4":"Bladder neck inactivity",
+        "Option 5":"PUj obstruction",
+        "Correct Answer":"Bladder neck inactivity"
+    },
+    {
+        "Question":"A 67 years old man presented with bilateral pelvic pain and weight loss. On ultrasound there is bilateral hydronephrosis with back pressure. He reported no history of trauma or UTL What is the most likely cause of this condition?",
+        "Option 1":"Ureteric stone",
+        "Option 2":"Bladder diverticulum",
+        "Option 3":"Urethral injury",
+        "Option 4":"Transitional cell carcinoma of the bladder",
+        "Option 5":"Bladder exstrophy",
+        "Correct Answer":"Transitional cell carcinoma of the bladder"
+    },
+    {
+        "Question":"A 63 years old diabetic patient presented with late onset painless urine retention following a total hip replacement surgery. What is the most likely cause of this condition?",
+        "Option 1":"Underactive bladder",
+        "Option 2":"Stone",
+        "Option 3":"Urethral stenosis",
+        "Option 4":"Bladder neck inactivity",
+        "Option 5":"None of the above",
+        "Correct Answer":"Underactive bladder"
+    },
+    {
+        "Question":"A 53 years old Egyptian presented with haematuria and dysuria. He was subsequently diagnosed as having Schistosomiasis. What is the pathological cellular change associated with Schistosomiasis?",
+        "Option 1":"Columnar dysplasia with goblet cells",
+        "Option 2":"Transitional cell neoplasia",
+        "Option 3":"Squamous metaplasia of transitional cells",
+        "Option 4":"Granulomatous metaplasia",
+        "Option 5":"None of the above",
+        "Correct Answer":"Squamous metaplasia of transitional cells"
+    },
+    {
+        "Question":"A 54 years old man presented with desire to urinate multiple times a day, He reports that after micturition, he has the same sensation to urinate with a large amount. What is the most likely cause of this condition?",
+        "Option 1":"Cystitis",
+        "Option 2":"Detrusor overactivity",
+        "Option 3":"Bladder diverticulum",
+        "Option 4":"UTI",
+        "Option 5":"BPH",
+        "Correct Answer":"Bladder diverticulum"
+    },
+    {
+        "Question":"A 2 years old child was noticed to have a dorsal slit on his penis. This anomaly is often associated with which of the following conditions?",
+        "Option 1":"Polycystic kidney disease",
+        "Option 2":"Horseshoe kidney",
+        "Option 3":"Bladder exstrophy",
+        "Option 4":"Undescended testis",
+        "Option 5":"Ectopic testis",
+        "Correct Answer":"Bladder exstrophy"
+    },
+    {
+        "Question":"A 55-year-old female developed proteus infection of urinary tracts. On radiogram, A complex  stone was found obstructing right ureter. The probable chemical composition of the stone is:",
+        "Option 1":"Oxalate",
+        "Option 2":"Ca phosphate",
+        "Option 3":"Struvite",
+        "Option 4":"Cysteine",
+        "Option 5":"Xanthine",
+        "Correct Answer":"Struvite"
+    },
+    {
+        "Question":"A 60-year-old man, who is a heavy smoker, presents with a 10-day history of frank painless  haematuria. His prostate is slightly enlarged on rectal examination. His haemoglobin is 11.3 mg\/dL  creatinine 84 pmol\/L and prostate specific antigen (PSA.) is 3,1 mg\/dL What is the most likely  pathological process?",
+        "Option 1":"Benign prostatic hyperplasia",
+        "Option 2":"Prostate cancer",
+        "Option 3":"Renal cell carcinoma",
+        "Option 4":"Transitional cell carcinoma of bladder",
+        "Option 5":"Urinary tract infection",
+        "Correct Answer":"Transitional cell carcinoma of bladder"
+    },
+    {
+        "Question":"A 72-year-old man who is a smoker presents to his doctor with a second episode of frank  hematuria. When an ultrasound scan of his urinary tract was performed it revealed a solid lesion  in the right kidney. What is the most likely pathology underlying this presentation?",
+        "Option 1":"Angiomyolipora",
+        "Option 2":"Renal cell carcinoma",
+        "Option 3":"Renal cyst",
+        "Option 4":"Renal oncocytoma",
+        "Option 5":"Transitional cell carcinoma",
+        "Correct Answer":"Renal cell carcinoma"
+    },
+    {
+        "Question":"A 39-year-old man presents with tearing left-sided loin to groin pain. Investigation reveals a radio dense opacity, confirmed to be in the ureter on intravenous urography. What is the most likely composition of this man's ureteric stone?",
+        "Option 1":"Ammonium magnesium phosphate",
+        "Option 2":"Calcium oxalate",
+        "Option 3":"Cholesterol",
+        "Option 4":"Cysteine",
+        "Option 5":"Urate",
+        "Correct Answer":"Calcium oxalate"
+    },
+    {
+        "Question":"A man has an upper ureteric obstruction with 0.7 mm stone and hydronephrosis and fever and rising TLC. What's the most appropriate treatment?",
+        "Option 1":"ESWL",
+        "Option 2":"Percutaneous nephrolithotomy",
+        "Option 3":"Ureteroscopy",
+        "Option 4":"PCN",
+        "Option 5":"Open drainage",
+        "Correct Answer":"PCN"
+    },
+    {
+        "Question":"Treatment of 1cm ureteric stone with no hydronephrosis is:",
+        "Option 1":"ESWL",
+        "Option 2":"PCN",
+        "Option 3":"Percutaneous nephrolithotomy",
+        "Option 4":"Medical treatment",
+        "Option 5":"Ureteroscopy",
+        "Correct Answer":"ESWL"
+    },
+    {
+        "Question":"A 43 years old man has a painless enlarged testis. Biopsy showed uniform cells with  lymphocytic infiltration. What's the most likely diagnosis?",
+        "Option 1":"Classical seminoma",
+        "Option 2":"Spermatocytic seminoma",
+        "Option 3":"Teratoma",
+        "Option 4":"Yolk sac tumor",
+        "Option 5":"Choriocarcinoma",
+        "Correct Answer":"Classical seminoma"
+    },
+    {
+        "Question":"A patient has tenderness in groin after some phenol injection for ingrowing toenail. What's the  most likely diagnosis?",
+        "Option 1":"Inguinal hernia",
+        "Option 2":"Encysted hydrocele",
+        "Option 3":"Inguinal lymph node",
+        "Option 4":"Testicular cancer",
+        "Option 5":"Femoral hernia",
+        "Correct Answer":"Inguinal lymph node"
+    },
+    {
+        "Question":"A 24 years old man developed a painful scrotal swelling after long periods of standing which  disappears on supine position. What is the most likely diagnosis?",
+        "Option 1":"Varicocele",
+        "Option 2":"Hydrocele",
+        "Option 3":"Inguinal hernia",
+        "Option 4":"Sperm granuloma",
+        "Option 5":"Spermatocele",
+        "Correct Answer":"Varicocele"
+    },
+    {
+        "Question":"A 2 years old child presented with a pathological fracture of femoral shaft associated with  abdominal pain. Investigations revealed a left irregular renal mass, 3 x 4 cm, with calcifications.  What is the most likely diagnosis?",
+        "Option 1":"Renal cell carcinoma",
+        "Option 2":"Transitional cell carcinoma",
+        "Option 3":"Nephroblastoma",
+        "Option 4":"Neuroblastoma",
+        "Option 5":"Squamous cell carcinoma",
+        "Correct Answer":"Neuroblastoma"
+    },
+    {
+        "Question":"During scrotal examination of a 3-year-old child, a unilateral scrotal swelling is found that does  not seem to be present all the time. Which of the following is the most likely diagnosis?",
+        "Option 1":"Benign adenomatoid tumor of the epididymis",
+        "Option 2":"Epididymal cyst",
+        "Option 3":"Hydrocele",
+        "Option 4":"Torsion of the hydatid of Morgagni",
+        "Option 5":"Torsion of testicular appendages",
+        "Correct Answer":"Hydrocele"
+    },
+    {
+        "Question":"A middle-aged man presented with 2 days history of fever reaching 39\", loin to groin pain, 8mm  stone at VUJ with a proximally dilated ureter. What is the best mode of management?",
+        "Option 1":"ESWL",
+        "Option 2":"Cystoscopy with double J stent",
+        "Option 3":"Ureteroscopy",
+        "Option 4":"Conservative treatment",
+        "Option 5":"IV antibiotics",
+        "Correct Answer":"Cystoscopy with double J stent"
+    },
+    {
+        "Question":"A S2 years old man presented with right loin pain. U\/S showed a 4-mm ureteric stone with a  minimally dilated ureter. What is the most appropriate management?",
+        "Option 1":"Rehydration with oral sodium bicarbonate",
+        "Option 2":"Observative management",
+        "Option 3":"ESWL",
+        "Option 4":"Percutaneous nephrolithotomy",
+        "Option 5":"PCN",
+        "Correct Answer":"Observative management"
+    },
+    {
+        "Question":"A 27-year-old female has several episodes of loin pain after drinking three cups of coffee every  morning. Diagnosis is",
+        "Option 1":"Ureteric calculi",
+        "Option 2":"Uretero-pelvic junction obstruction",
+        "Option 3":"Polycystic kidney disease",
+        "Option 4":"Hydronephrosis",
+        "Option 5":"Bladder hyperactivity",
+        "Correct Answer":"Uretero-pelvic junction obstruction"
+    },
+    {
+        "Question":"A 23 years old intoxicated student with an increased urge to urinate, runs into a post and got  traumatired. He then lost sensation of urge. Next morning, he came into ED with suprapubic pain  and no urine output. Bladder is not palpable but there is suprapubic tenderness. What is the  most probably cause?",
+        "Option 1":"Blocked catheter",
+        "Option 2":"Hypovolemia",
+        "Option 3":"Bladder diverticulum",
+        "Option 4":"Ureteric stone",
+        "Option 5":"Bladder rupture",
+        "Correct Answer":"Bladder rupture"
+    },
+    {
+        "Question":"A 16-year-old boy presented with loin to groin pain and hematuria. He has no history of  trauma. What is your diagnosis?",
+        "Option 1":"Urethra rupture",
+        "Option 2":"Wilms tumor",
+        "Option 3":"Ureteric stone",
+        "Option 4":"Pyelonephritis",
+        "Option 5":"Bladder rupture",
+        "Correct Answer":"Ureteric stone"
+    },
+    {
+        "Question":"A 10-year-old boy presents to the urology clinic with renal problem. Imaging revealed an  unequal small kidney. What is the most probable diagnosis?",
+        "Option 1":"Acute Pyelonephritis",
+        "Option 2":"Chronic Pyelonephritis",
+        "Option 3":"Acute glomerunephritis",
+        "Option 4":"ADPKD",
+        "Option 5":"Urethral valve",
+        "Correct Answer":"Chronic Pyelonephritis"
+    },
+    {
+        "Question":"An elderly man presented with a sclerotic femur lesion detected on Xray with history of  hematuria. What is the most accepted causative pathology?",
+        "Option 1":"Renal cell carcinoma",
+        "Option 2":"Adenocarcinoma of the prostate",
+        "Option 3":"Breast cancer",
+        "Option 4":"Squamous cell carcinoma of prostate",
+        "Option 5":"Transitional cell carcinoma",
+        "Correct Answer":"Adenocarcinoma of the prostate"
+    },
+    {
+        "Question":"A 61 years.old man complained of weak stream for 1 month. Investigations revealed a prostatic  carcinoma. Gleason grading was undertaken, Which of the following choices has the worst  prognosis?",
+        "Option 1":"Gleason score 4 +3 (with tertiary 5)",
+        "Option 2":"Gleason score 4+5",
+        "Option 3":"Gleason score 3+3",
+        "Option 4":"Intraepithelial prostatic neoplasia",
+        "Option 5":"Gleason score 4+3",
+        "Correct Answer":"Gleason score 4+5"
+    },
+    {
+        "Question":"A 42 years old male suffered a blunt trauma to lower abdomen during, a fight. On examination,  the patient has lower abdominal discomfort upon palpation. Investigations revealed a fracture  involving both pubic rami. The emergency registrar decided to insert a foley catheter which  drained frank hematuria. What is the most likely cause?",
+        "Option 1":"Bladder injury",
+        "Option 2":"Bulbar urethral injury",
+        "Option 3":"Retroperitoneal hematoma",
+        "Option 4":"Kidney injury",
+        "Option 5":"Membranous urethral injury",
+        "Correct Answer":"Bladder injury"
+    },
+    {
+        "Question":"A 9 years old child presented to ER after he was riding his bicycle with sudden severe testicular  pain with a red swollen scrotum. He had a similar episode 6 months ago which resolved  spontaneously after 6 minutes. There is no other significant history except for eating a bar of  chocolate 2 hours ago. What is the best management?",
+        "Option 1":"Immediate exploration",
+        "Option 2":"Ultrasonogram",
+        "Option 3":"Wait 4 hours then exploration",
+        "Option 4":"Reassure with analgesia",
+        "Option 5":"Manual untwisting",
+        "Correct Answer":"Immediate exploration"
+    },
+    {
+        "Question":"Which of the following tumor markers is raised in a patient with differentiated yolk sac tumor  of the testis?",
+        "Option 1":"Beta-HCG",
+        "Option 2":"Alkaline phosphatase",
+        "Option 3":"LDH",
+        "Option 4":"AFP",
+        "Option 5":"S100",
+        "Correct Answer":"AFP"
+    },
+    {
+        "Question":"A 9-year-old male child was brought by his mother with a unilateral testicular swelling.  Investigations revealed high Beta-HCG. Which is the most likely diagnosis?",
+        "Option 1":"Embryonal carcinoma",
+        "Option 2":"Seminoma",
+        "Option 3":"Differentiated Teratoma",
+        "Option 4":"Leydig cell tumor",
+        "Option 5":"Sertoli cell tumor",
+        "Correct Answer":"Embryonal carcinoma"
+    },
+    {
+        "Question":"A 15 years old male presents with a unilaterally enlarged testis. His labs are unremarkable, His  father reports a history of orchidopexy for ipsilateral undescended testis. What is the most likely  cause of his condition?",
+        "Option 1":"Choriocarcinoma",
+        "Option 2":"Seminoma",
+        "Option 3":"Teratoma",
+        "Option 4":"Yolk sac tumor",
+        "Option 5":"Leydig cell tumor",
+        "Correct Answer":"Seminoma"
+    },
+    {
+        "Question":"A 54 years old man presents with a left-sided persistent scrotal pain. Examination revealed a  left sided varicocele. The swelling seems to be still present on supine position. What is the next  step to order?",
+        "Option 1":"CT abdomen",
+        "Option 2":"Testicular ultrasound",
+        "Option 3":"MRI testis",
+        "Option 4":"Serum AFP",
+        "Option 5":"PET CT",
+        "Correct Answer":"CT abdomen"
+    },
+    {
+        "Question":"A 49-year-old Egyptian man on holiday in the United Kingdom presents with haematuria. He gives a history of bladder irritative symptoms for seven months. He has lived in a rural community for his whole life. What is the possible organism?",
+        "Option 1":"Proteus",
+        "Option 2":"Schistosoma mansoni",
+        "Option 3":"Schistosoma haematobium",
+        "Option 4":"Pseudomonas",
+        "Option 5":"Moraxella",
+        "Correct Answer":"Schistosoma haematobium"
+    },
+    {
+        "Question":"A 6 years old child was brought by his mother with history of hematuria. Examination revealed a mass in the right abdomen. What is the best initial investigation?",
+        "Option 1":"Abdominal ultrasonography",
+        "Option 2":"X ray abdomen",
+        "Option 3":"CT abdomen & pelvis",
+        "Option 4":"MRI abdomen & pelvis",
+        "Option 5":"Renal doppler",
+        "Correct Answer":"Abdominal ultrasonography"
+    },
+    {
+        "Question":"A 3 years old boy was brought by his mother with history of testicular discomfort. Examination  revealed a well circumscribed smooth heterogenous mass in his left testis. Laboratory results  showed alpha fetoprotein is more than 500. What is the most likely diagnosis?",
+        "Option 1":"Teratocarcinoma",
+        "Option 2":"Yolk sac tumor",
+        "Option 3":"Seminoma",
+        "Option 4":"Choriocarcinoma",
+        "Option 5":"Lymphoma",
+        "Correct Answer":"Yolk sac tumor"
+    },
+    {
+        "Question":"A 54 years old man suffered difficulty in micturition for 4 months ago. PSA is slightly high and a  diagnosis of BPH was made. Which of the following options will NOT be helpful for management?",
+        "Option 1":"Intermittent self-catheterization",
+        "Option 2":"Long term catheterization",
+        "Option 3":"Tamnsulosin",
+        "Option 4":"Transurethral needle ablation",
+        "Option 5":"Holmium laser enucleation of the prostate (HoLEP)",
+        "Correct Answer":"Long term catheterization"
+    },
+    {
+        "Question":"A 53 years old man presented with left loin pain with hematuria. Investigations revealed Peli  ureteric junction obstruction. Which of the following investigations would be appropriate to rule  out functional obstruction of the kidney?",
+        "Option 1":"MAG 3",
+        "Option 2":"Urethrogram",
+        "Option 3":"CT",
+        "Option 4":"Kidney US",
+        "Option 5":"MRI",
+        "Correct Answer":"MAG 3"
+    },
+    {
+        "Question":"51 year old female presented with painless frank hematuria. Investigations revealed a 1 cm mass in the distal ureter. Biopsy showed low grade transitional cell carcinoma. What is the most appropriate management?",
+        "Option 1":"Distal ureterectomy",
+        "Option 2":"Radical nephroureterectomy",
+        "Option 3":"Chemotherapy",
+        "Option 4":"Radiotherapy",
+        "Option 5":"TURBT",
+        "Correct Answer":"Distal ureterectomy"
+    },
+    {
+        "Question":"A 56 years old patient presented with a 2 week history of hematuria. Investigations revealed  staghorn stone with subsequent pyelonephritis with thickening of fascia between the kidney and  pancreas. U\/S showed a 8-cm mass in the kidney with poor function of ipsilateral kidney. Blopsy  showed xantho-granulomatous inflammation. Which of the following is the best management  option?",
+        "Option 1":"Nephrectomy",
+        "Option 2":"PCNL",
+        "Option 3":"Antibiotics",
+        "Option 4":"ESWL",
+        "Option 5":"PCN",
+        "Correct Answer":"Nephrectomy"
+    },
+    {
+        "Question":"A 34 years old female is in the 32\/40 week of pregnancy presented  and  loin pain. She has a family history of urinary stone formation. Which of the following is the best  initial investigation?",
+        "Option 1":"CT urethrogram with contrast",
+        "Option 2":"Renal U\/S",
+        "Option 3":"CT urethrogram without contrast",
+        "Option 4":"MRI",
+        "Option 5":"PET CT",
+        "Correct Answer":"Renal U\/S"
+    },
+    {
+        "Question":"A 43 years old schizophrenic patient is on selective serotonin reuptake inhibitor for 3 years. He  presented today with a 6-hours painful priapism. What is the best initial management option?",
+        "Option 1":"Intracavernosal aspiration + irrigation with saline",
+        "Option 2":"Analgesia",
+        "Option 3":"Surgical shunting",
+        "Option 4":"Embolization",
+        "Option 5":"follow up only",
+        "Correct Answer":"Intracavernosal aspiration + irrigation with saline"
+    },
+    {
+        "Question":"A 22 years old sickle cell anemia patient presented with painful priapism for which he  undergone aspiration and showed no improvement. What is the best next step?",
+        "Option 1":"Surgical shunting",
+        "Option 2":"Surgical exploration",
+        "Option 3":"Intracavemous injection of Phenylepherine",
+        "Option 4":"Embolization",
+        "Option 5":"Analgesia and follow up",
+        "Correct Answer":"Intracavemous injection of Phenylepherine"
+    },
+    {
+        "Question":"What is most accurate about prostate cancer?",
+        "Option 1":"It spreads via paravertebral arterial plexus.",
+        "Option 2":"Tumor cells itself induce new bone formation",
+        "Option 3":"Associated with induced sclerosis in vertebral bone",
+        "Option 4":"Tumor metastasis is highly vascular",
+        "Option 5":"Usually, it metastizes to liver",
+        "Correct Answer":"Associated with induced sclerosis in vertebral bone"
+    },
+    {
+        "Question":"What is most accurate about prostate cancer?",
+        "Option 1":"70% have metastasis on diagnosis",
+        "Option 2":"Usually metastize to bone",
+        "Option 3":"Metastasis via lymphatics occurs early",
+        "Option 4":"Usually metastize to lung",
+        "Option 5":"Usually metastize to liver",
+        "Correct Answer":"Usually metastize to bone"
+    },
+    {
+        "Question":"A 40-year-old woman presents with a two-week history of flank pain and episodic frank  haematuria and weight loss. An ultrasound demonstrates a 10 cm renal mass without  hydronephrosis. What is the most appropriate irvestigation?",
+        "Option 1":"Computerised tomography (CT) scan",
+        "Option 2":"Intravenous pyelogram",
+        "Option 3":"Isotope bone scan",
+        "Option 4":"Magnetic resonance imaging (MRI)",
+        "Option 5":"Renal biopsy",
+        "Correct Answer":"Computerised tomography (CT) scan"
+    },
+    {
+        "Question":"A 63 years old male patient was diagnosed with renal cell carcinoma 1 month ago. Which of the  following is the best modality to determine extent of associated venous thrombus?",
+        "Option 1":"Non-contrast CT abdomen",
+        "Option 2":"Venogram",
+        "Option 3":"MRI",
+        "Option 4":"PET scan",
+        "Option 5":"U\/S",
+        "Correct Answer":"MRI"
+    },
+    {
+        "Question":"66. A 49 years old female has nephrostomy for infected hydronephrosis 3 months ago. She is now  undergoing hysterectomy for a fibroid. What is the best investigation for follow up of  hydronephrosis?",
+        "Option 1":"Antegrade urethrogram",
+        "Option 2":"Retrograde urethrogram",
+        "Option 3":"CT abdomen",
+        "Option 4":"MRI",
+        "Option 5":"USS",
+        "Correct Answer":"Antegrade urethrogram"
+    },
+    {
+        "Question":"A 49 years old female has nephrostomy for infected hydronephrosis 3 months ago. She is now undergoing hysterectomy for a fibroid. What is the best investigation to know the cause of hydronephrosis?",
+        "Option 1":"Antegrade urethrogram",
+        "Option 2":"Retrograde urethrogram",
+        "Option 3":"CT abdomen",
+        "Option 4":"MRI",
+        "Option 5":"USS",
+        "Correct Answer":"CT abdomen"
+    },
+    {
+        "Question":"A 55 years old smoker presented to the ED with history of painless hematuria with clots causing  acute urine retention. What is the best next step?",
+        "Option 1":"Cystoscopy",
+        "Option 2":"CT urinary tract",
+        "Option 3":"MRI urinary tract",
+        "Option 4":"Renal U\/S",
+        "Option 5":"Urine dipstick",
+        "Correct Answer":"Cystoscopy"
+    },
+    {
+        "Question":"A 66-year-old man complained of high flow urine retention with a DRE showing a firm enlarged  prostate PSA is normal What pathology is underlying?",
+        "Option 1":"Hyperplasia",
+        "Option 2":"Hypertrophy",
+        "Option 3":"Calcification",
+        "Option 4":"Inflammation",
+        "Option 5":"Neoplasia",
+        "Correct Answer":"Hyperplasia"
+    },
+    {
+        "Question":"A 32-year-old man ran into a tree while riding a bike, Or examination there is blood at the meatus with urine retention. What is the best next step?",
+        "Option 1":"CT urinary tract",
+        "Option 2":"Ascending urethrogram",
+        "Option 3":"Folley catheter insertion",
+        "Option 4":"Renal US",
+        "Option 5":"MRI Urinary tract",
+        "Correct Answer":"Ascending urethrogram"
+    }
+]

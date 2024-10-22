@@ -1,0 +1,920 @@
+[
+    {
+        "Question":"60 year old man not known to be diabetic before prepared for elective colectomy operation, 2nd day post operative, he developed high glucose level. Which of the following may be its cause?",
+        "Option 1":"GH secretion",
+        "Option 2":"Insulin secretion",
+        "Option 3":"Thyroid secretion",
+        "Option 4":"Estrogen and testosterone secretion",
+        "Option 5":"All of the above",
+        "Correct Answer":"GH secretion"
+    },
+    {
+        "Question":"41 year old anterior lobe of pituitary removed because of tumor, without postoperative supplementation, which of the following may occur?",
+        "Option 1":"Failure to produce adequate amount of thyroxin",
+        "Option 2":"Fail to produce parathyroid hormones in response to hypocalcemia",
+        "Option 3":"Failure to secrete catecholamines in response to stress",
+        "Option 4":"Failure to secrete insulin in response to hyperglycemia",
+        "Option 5":"Failure to concentrate urine in response to water deprivation",
+        "Correct Answer":"Failure to produce adequate amount of thyroxin"
+    },
+    {
+        "Question":"54 year old presented by nocturia and thirst, the physician asked him to do FBF and PPG, the result of FBG was 5 and post prandial 2 hours later was 7 , what is your diagnosis?",
+        "Option 1":"Normoglycemia",
+        "Option 2":"Impaired glucose tolerance test",
+        "Option 3":"Diabetes mellitus",
+        "Option 4":"Diabetes insipidius",
+        "Option 5":"Cushing syndrome",
+        "Correct Answer":"Normoglycemia"
+    },
+    {
+        "Question":"A man complains of being thirsty and getting up in the middle of the night to go to the toilet. His weight is 85.5, height 1.65 and blood pressure is 167\/94 and oral glucose tolerance test was performed and produced the following results: fasting plasma glucose: 11.3 mmol\/L what is most likely diagnosis?",
+        "Option 1":"Diabetes mellitus",
+        "Option 2":"Diabetes insipidus",
+        "Option 3":"Impaired fasting blood sugar",
+        "Option 4":"Sepsis",
+        "Option 5":"Normoglycemia",
+        "Correct Answer":"Diabetes mellitus"
+    },
+    {
+        "Question":"A diabetic on metformin for 11 years, presented to emergency unit with hyperglycemia and drowsiness. What is the cause of lactic acidosis?",
+        "Option 1":"Metformin",
+        "Option 2":"Aspirin",
+        "Option 3":"Alcohol",
+        "Option 4":"Furosemide",
+        "Option 5":"Heparin",
+        "Correct Answer":"Metformin"
+    },
+    {
+        "Question":"Diabetic 70 years old female suffered from oliguria, hematura. His urine analysis show slough. What is the cause of these findings?",
+        "Option 1":"Acute tubular necrosis",
+        "Option 2":"Nephrocalcinosis",
+        "Option 3":"Bilateral papillary necrosis",
+        "Option 4":"Rapidly progressive glomerulonephritis",
+        "Option 5":"Amyloidosis",
+        "Correct Answer":"Bilateral papillary necrosis"
+    },
+    {
+        "Question":"The fight or flight, response produces a release of epinephrine (adrenaline). What is the primary metabolic effect of epinephrine?",
+        "Option 1":"Alanine shunt activation",
+        "Option 2":"Cortisol release",
+        "Option 3":"Glycolysis",
+        "Option 4":"Tachycardia",
+        "Option 5":"Vasoconstriction",
+        "Correct Answer":"Glycolysis"
+    },
+    {
+        "Question":"What is the structure most sensitive to insulin action to increase glucose uptake into cell?",
+        "Option 1":"Adipose tissue",
+        "Option 2":"Muscle",
+        "Option 3":"Liver",
+        "Option 4":"Bone",
+        "Option 5":"Blood",
+        "Correct Answer":"Muscle"
+    },
+    {
+        "Question":"Which of the following is the metabolic effect of insulin?",
+        "Option 1":"Increase glycogen synthesis in muscle",
+        "Option 2":"Increase potassium in blood",
+        "Option 3":"Increase glycolysis in liver",
+        "Option 4":"Increase Na in the blood",
+        "Option 5":"None of the above",
+        "Correct Answer":"Increase glycogen synthesis in muscle"
+    },
+    {
+        "Question":"Patient prepared for having major surgery. What is the primary action of cortisol in the postoperative period?",
+        "Option 1":"Stimulates glycolysis",
+        "Option 2":"Stimulates gluconeogenesis",
+        "Option 3":"Increase glycogen synthesis",
+        "Option 4":"Inhibits glycogenolysis",
+        "Option 5":"None of the above",
+        "Correct Answer":"Stimulates gluconeogenesis"
+    },
+    {
+        "Question":"A 76 year old woman falls and sustains an inter-trochanteric fracture neck of femur. Following operative fixation, her recovery is prolonged and she is discharged to a rehabilitation unit. Six weeks after her original operation, she is readmitted. She is drowsy, hypotensive and bradycardia. An ECG shows low voltage complexes and a prolonged QT interval. Under activity of which of the following glands gives the best explanation of the clinical picture?",
+        "Option 1":"Adrenal",
+        "Option 2":"Pancreas",
+        "Option 3":"Parathyroid",
+        "Option 4":"Pituitary",
+        "Option 5":"Thyroid",
+        "Correct Answer":"Thyroid"
+    },
+    {
+        "Question":"60 year old man presented by tachycardia and hypertension. Which of the following hormones decrease with hyperthermia?",
+        "Option 1":"TSH",
+        "Option 2":"ACTH",
+        "Option 3":"ADH",
+        "Option 4":"Cortisol",
+        "Option 5":"Catecholamine",
+        "Correct Answer":"TSH"
+    },
+    {
+        "Question":"A 55 year old woman presents to her GP with an enlarged thyroid gland and a 4 months history of feeling tired, investigations revealed low TSH and low T3. What is your diagnosis?",
+        "Option 1":"Primary hypothyroidism",
+        "Option 2":"Grave\u2019s disease",
+        "Option 3":"Secondary hypothyroidism",
+        "Option 4":"Subclinical hypothyroidism",
+        "Option 5":"Secondary hyperthyroidism",
+        "Correct Answer":"Secondary hypothyroidism"
+    },
+    {
+        "Question":"50 year old female patient is feeling tired and made thyroid profile and results are: normal T4, high T3 and low TSH. What is your provisional diagnosis?",
+        "Option 1":"Primary hypothyroidism",
+        "Option 2":"2ry hypothyroidism",
+        "Option 3":"Isolated T3 thyrotoxicosis",
+        "Option 4":"Sick euthyroid",
+        "Option 5":"2ry hyperthyroidism",
+        "Correct Answer":"Isolated T3 thyrotoxicosis"
+    },
+    {
+        "Question":"a 34 year old patient with feature of fatigue, lethargy, and weight gain. His blood tests show high TSH and high thyroid antibodies. What would be blood picture?",
+        "Option 1":"Low T4",
+        "Option 2":"High T4",
+        "Option 3":"High T3",
+        "Option 4":"Normal TSH",
+        "Option 5":"None of the above",
+        "Correct Answer":"Low T4"
+    },
+    {
+        "Question":"32 year old patient presented by low blood pressure , muscle weakness and lethargy then we found hypercholesterolemia in his blood level, what is your diagnosis?",
+        "Option 1":"Hyperthyroidism",
+        "Option 2":"Hypothyroidism",
+        "Option 3":"Addison",
+        "Option 4":"Hypertriglyceridemia",
+        "Option 5":"Cushing syndrome",
+        "Correct Answer":"Hypothyroidism"
+    },
+    {
+        "Question":"40 year old man admitted for hypotension, hypoglycemia and there is pigmentation on his body. His labs show low Na and high K and diagnosed as Addison\u2019s disease , which of the following is considered test for Addison disease?",
+        "Option 1":"Short synactin test",
+        "Option 2":"High dexamethasone suppression test",
+        "Option 3":"Desmopressin test",
+        "Option 4":"Water deprivation test",
+        "Option 5":"Low dexamethasone suppression test",
+        "Correct Answer":"Short synactin test"
+    },
+    {
+        "Question":"60 year old man has blood pressure 200\/100 and his potassium level is 2.1. what you expect to be found in his investigations?",
+        "Option 1":"High aldosterone",
+        "Option 2":"High cortisol",
+        "Option 3":"Low ACTH",
+        "Option 4":"High urinary VMA",
+        "Option 5":"High urinary catecolamines",
+        "Correct Answer":"High aldosterone"
+    },
+    {
+        "Question":"A myasthenia patient steroid treatment and then presented by low Na and high K. what is the best management?",
+        "Option 1":"Corticosteroids 100 mg IV",
+        "Option 2":"Antihistaminic IV",
+        "Option 3":"Adrenaline IM",
+        "Option 4":"Noradrenaline IV",
+        "Option 5":"Adrenaline SC",
+        "Correct Answer":"Corticosteroids 100 mg IV"
+    },
+    {
+        "Question":"Accident with subarachinoid hemorrhages and then develops polyuria and plasma osmolarity increases and urine osmolarity decreases. Deficiency of which hormone causes this?",
+        "Option 1":"Aldosterone",
+        "Option 2":"Cortisol",
+        "Option 3":"ANP",
+        "Option 4":"ADH",
+        "Option 5":"Insulin",
+        "Correct Answer":"ADH"
+    },
+    {
+        "Question":"30 year old man after car accident presented by fracture femur and his ultrasound show blood collection and liver laceration and there is no brain hemorrhage, but he admitted under conservative management. What is the psychological response to this hypovolemia?",
+        "Option 1":"Increase renin",
+        "Option 2":"Increase ADH",
+        "Option 3":"Increase aldosterone",
+        "Option 4":"Increase cortisol",
+        "Option 5":"All increase",
+        "Correct Answer":"All increase"
+    },
+    {
+        "Question":"35 years old young patient suffered from hypotension , low Na and high K on examination there is oral mucosa pigmentation. What is the cause of this pigmentation?",
+        "Option 1":"Increase ACTH",
+        "Option 2":"Increase MSH",
+        "Option 3":"Increase ADH",
+        "Option 4":"Increase aldosterone",
+        "Option 5":"Decrease ACTH",
+        "Correct Answer":"Increase ACTH"
+    },
+    {
+        "Question":"50 year old man diagnosed as primary hyperparathyroidism, which of the following is true regarding the parathyroid hormone?",
+        "Option 1":"It is polypeptide",
+        "Option 2":"Direct absorption on stomach",
+        "Option 3":"Increase blood phosphate",
+        "Option 4":"Act on proximal convoluted tubules on kidney",
+        "Option 5":"Increase bone mineralization",
+        "Correct Answer":"It is polypeptide"
+    },
+    {
+        "Question":"57 year old man diagnosed as tertiary hyperparathyroism after renal transplantation. Which of the following is considered as parathormone hormone function?",
+        "Option 1":"Activation of 1,25 hyrdoxy cholecalciferol",
+        "Option 2":"Direct increase absorption of calcium and phosphate through GIT",
+        "Option 3":"Increase bone mineralization",
+        "Option 4":"Decrease calcium reabsorption from kidney",
+        "Option 5":"Increase phosphorus absorption from kidney",
+        "Correct Answer":"Activation of 1,25 hyrdoxy cholecalciferol"
+    },
+    {
+        "Question":"A 45 year old man presents with a cough and weight loss over three months. She also complains of recent polyuria. On examination, pulse 90, BP: 100\/85 supine, BMI 21 and has reduced breath sounds in the right upper zone. Her chest X-ray shows an irregular mass lesion in the upper lobe. Her serum calcium corrected is 3.52 mmol\/L (n = 2.7) which of the following blood is most effective?",
+        "Option 1":"1,25 hydroxycholecalciferol",
+        "Option 2":"25 hydorxycholecalciferol",
+        "Option 3":"Glucose",
+        "Option 4":"Parathyroid hormone",
+        "Option 5":"Parathyroid hormone related peptide",
+        "Correct Answer":"Parathyroid hormone related peptide"
+    },
+    {
+        "Question":"45 years old presented diagnosed as paraneoplastic syndrome with SIADH action and hyponatremia. What is mainly the type of this cancer?",
+        "Option 1":"Small cell lung cancer",
+        "Option 2":"Squamous cell lung cancer",
+        "Option 3":"Large cell lung cancer",
+        "Option 4":"Adenocarcinoma",
+        "Option 5":"Renal cell cancer",
+        "Correct Answer":"Small cell lung cancer"
+    },
+    {
+        "Question":"Which of the following is direct physiological cause of release of aldosterone from suprarenal gland?",
+        "Option 1":"ADH",
+        "Option 2":"Angiotensinogen II",
+        "Option 3":"Atrial natriuretic peptide",
+        "Option 4":"Renin",
+        "Option 5":"Vasopressin",
+        "Correct Answer":"Angiotensinogen II"
+    },
+    {
+        "Question":"Lack of which of the following coagulation factor cause defect in intrinsic pathway,except?",
+        "Option 1":"Factor 9",
+        "Option 2":"Factor 8",
+        "Option 3":"Factor 10",
+        "Option 4":"Factor 12",
+        "Option 5":"Factor 7",
+        "Correct Answer":"Factor 7"
+    },
+    {
+        "Question":"Lack of which factor affect intrinsic pathway of coagulation cascade?",
+        "Option 1":"Factor IX a",
+        "Option 2":"Factor VII",
+        "Option 3":"Factor X",
+        "Option 4":"Factor XII",
+        "Option 5":"Factor VI",
+        "Correct Answer":"Factor IX a"
+    },
+    {
+        "Question":"Which one of the following is an extrinsic factor of coagulation cascade?",
+        "Option 1":"Factor I",
+        "Option 2":"Factor II",
+        "Option 3":"Factor IX",
+        "Option 4":"Factor VII",
+        "Option 5":"Factor X",
+        "Correct Answer":"Factor VII"
+    },
+    {
+        "Question":"50 year old man on heparin treatment. He bleeds as consequence of heparin infusion. Which of the following mechanisms is most likely to be responsible for this?",
+        "Option 1":"Factor V\/ VIII\/ X deficiency",
+        "Option 2":"Factor X deficiency",
+        "Option 3":"Prothrombin deficiency",
+        "Option 4":"Thrombin inhibition",
+        "Option 5":"Thrombocytopenia",
+        "Correct Answer":"Thrombin inhibition"
+    },
+    {
+        "Question":"A 46-old woman is seen in the preadmission clinic. She has a myocardial infarction two years ago. On examination she is in atrial fibrillation and a recent echocardiogram shows that she has a dilated left ventricle. She is on warfarin and her INR is 6.1. warfarin inhibits synthesis of which of the following?",
+        "Option 1":"Antithrombin",
+        "Option 2":"Kallikrein",
+        "Option 3":"Plasminogen",
+        "Option 4":"Prothrombin",
+        "Option 5":"Von willebrand\u2019s factor",
+        "Correct Answer":"Prothrombin"
+    },
+    {
+        "Question":"A 46-old woman is seen in the preadmission clinic. She has a myocardial infarction two years ago. On examination she is in atrial fibrillation and a recent echocardiogram shows that she has a dilated left ventricle. She is on warfarin and her INR is 6.1. warfarin inhibits synthesis of which of the following?",
+        "Option 1":"3,7,9,10",
+        "Option 2":"5,7,9,10",
+        "Option 3":"2,7,9,10",
+        "Option 4":"2,11,9,10",
+        "Option 5":"2,8,9,10",
+        "Correct Answer":"2,7,9,10"
+    },
+    {
+        "Question":"A 34 year old woman with systemic sclerosis develops swollen leg. An ultrasound scan confirms iliofemoral DVT. She is commenced on warfarin. What is the level of INR be maintained at?",
+        "Option 1":"1:2",
+        "Option 2":"2:3",
+        "Option 3":"3:4",
+        "Option 4":"4:5",
+        "Option 5":"5:6",
+        "Correct Answer":"2:3"
+    },
+    {
+        "Question":"A 50 year old man with atrial fibrillation. Patient on warfarin and his INR = 4, need urgent surgery for strangulated inguinal hernia, what will you do 1st step to do before surgery?",
+        "Option 1":"Stop warfarin then give Human prothrombin complex + give IV vitamin K",
+        "Option 2":"Stop warfarin then give IV vitamin K + fresh frozen plasma",
+        "Option 3":"Stop warfarin and give oral vitamin K",
+        "Option 4":"Stop warfarin and give fresh frozen plasma",
+        "Option 5":"Stop warfarin and give IV vitamin K",
+        "Correct Answer":"Stop warfarin then give Human prothrombin complex + give IV vitamin K"
+    },
+    {
+        "Question":"A 50 year old man with atrial fibrillation. Patient on warfarin and his INR = 4, need urgent surgery for strangulated inguinal hernia, what will you do 1st step to do before surgery?",
+        "Option 1":"IV vitamin K",
+        "Option 2":"Fresh frozen plasma",
+        "Option 3":"Aspirin",
+        "Option 4":"Human prothrombin complex",
+        "Option 5":"Oral vitamin K",
+        "Correct Answer":"Human prothrombin complex"
+    },
+    {
+        "Question":"50 year old man has history of liver problem and his INR more than 5 and he came for outpatient treatment suffered from bleeding per gum. What is the best management?",
+        "Option 1":"Stop warfarin then give Human prothrombin complex + vitamin K",
+        "Option 2":"Stop warfarin then give vitamin K + FFP",
+        "Option 3":"Stop warfarin and give IV vitamin K",
+        "Option 4":"Stop warfarin and give FFP",
+        "Option 5":"Stop warfarin only",
+        "Correct Answer":"Stop warfarin and give IV vitamin K"
+    },
+    {
+        "Question":"23 years old woman with congenital anti-thrombin 3 deficiency came to do an operation, what will you prescribe for her postoperative?",
+        "Option 1":"Warfarin 6 months",
+        "Option 2":"Warfarin for life",
+        "Option 3":"Heparin for 6 months",
+        "Option 4":"Heparin for life",
+        "Option 5":"LMWH for 3 months",
+        "Correct Answer":"Warfarin for life"
+    },
+    {
+        "Question":"23 year old man after a car accident presented to physician with large hematoma on his back. Which of the following cause this hematoma to subside?",
+        "Option 1":"Fibrin",
+        "Option 2":"Plasmin",
+        "Option 3":"Prothrombin",
+        "Option 4":"Calcium",
+        "Option 5":"Kallekrin",
+        "Correct Answer":"Plasmin"
+    },
+    {
+        "Question":"Lactic acid or Cori cycle is important in lactate metabolism in septic surgical patient. Which cell of the following relies in this cycle to most of energy needs?",
+        "Option 1":"Erythrocytes",
+        "Option 2":"Pneumocyte",
+        "Option 3":"Hepatocyte",
+        "Option 4":"Osteocyte",
+        "Option 5":"Leucocyte",
+        "Correct Answer":"Erythrocytes"
+    },
+    {
+        "Question":"A 63 year old man had undergone liver transplant. On staining of the resected liver, it turned blue. What is the underlying pathology?",
+        "Option 1":"Wilson\u2019s disease",
+        "Option 2":"Hemochromatosis",
+        "Option 3":"Cirrhosis",
+        "Option 4":"Hepatocellular carcinoma",
+        "Option 5":"Amyloidosis",
+        "Correct Answer":"Hemochromatosis"
+    },
+    {
+        "Question":"A patient with a history of MI and AF was admitted to ICU due to symptoms of abdominal pain, PR bleeding and abdominal distention. He had a blood picture consistent with metabolic acidosis, which of the following best describes lactate?",
+        "Option 1":"Produced due to anaerobic fermentation of glucose to pyruvate",
+        "Option 2":"Production of only 2 ATP, while spending 4 ATP in cori cycle",
+        "Option 3":"Produced due to reduced tissue perfusion",
+        "Option 4":"Produced due to aerobic aspiration",
+        "Option 5":"Produced in liver only",
+        "Correct Answer":"Produced due to anaerobic fermentation of glucose to pyruvate"
+    },
+    {
+        "Question":"A young man with family history of bleeding tendencies came with hemarthrosis in his knee joint. Which of the following is the most likely the mechanism?",
+        "Option 1":"Factor VIII deficiency",
+        "Option 2":"Factor X deficiency",
+        "Option 3":"Fibrinolysis",
+        "Option 4":"Thrombin inhibition",
+        "Option 5":"Thrombocytopenia",
+        "Correct Answer":"Factor VIII deficiency"
+    },
+    {
+        "Question":"A 33 year old female is admitted for varicose vein surgery. After the procedure, she is persistently bleeding. She is known to have menorrhagia before. Investigations show a prolonged bleeding time and increased APTT. She has a normal PT and platelet count. What is the most likely diagnosis?",
+        "Option 1":"Von Willebrand\u2019s disease",
+        "Option 2":"Hemophilia",
+        "Option 3":"Vitamin K deficiency",
+        "Option 4":"Liver cell failure",
+        "Option 5":"Thrombocytopenia",
+        "Correct Answer":"Von Willebrand\u2019s disease"
+    },
+    {
+        "Question":"A 70 year old coal miner presents with 3 weeks of hematuria and bruising. He is normally fit and fell. He in on no medications. His results reveal: Hemoglobin is 9, WBC are 11, platelets are 255 PT is normal and APTT is increased. What is most likely diagnosis?",
+        "Option 1":"Von Willebrans\u2019s disease",
+        "Option 2":"Acquired hemophilia",
+        "Option 3":"Hemophilia B",
+        "Option 4":"Vitamin K deficiency",
+        "Option 5":"Liver cell failure",
+        "Correct Answer":"Acquired hemophilia"
+    },
+    {
+        "Question":"A 16 year old Caucasian girl presented with mild jaundice, gall stones and splenomegaly, which of the following is the most likely the diagnosis?",
+        "Option 1":"Spherocytosis",
+        "Option 2":"Sickle cell anemia",
+        "Option 3":"Intermittent porphyria",
+        "Option 4":"ITP",
+        "Option 5":"Hemophilia",
+        "Correct Answer":"Spherocytosis"
+    },
+    {
+        "Question":"A 33 year old female attends the day unit for elective varicose vein surgery. She previously had recurrent pulmonary embolic events due to DVTs and she is on anticoagulant. After the procedure she is persistently bleeding. What is the cause of this recurrent DVT?",
+        "Option 1":"Factor V Leiden",
+        "Option 2":"Protein C deficiency",
+        "Option 3":"DIC",
+        "Option 4":"Anti phospholipid syndrome",
+        "Option 5":"Anemia",
+        "Correct Answer":"Factor V Leiden"
+    },
+    {
+        "Question":"34 year old pregnant woman develop swollen leg. Her mother and her maternal aunt have the same problem during pregnancies. Which of the following test will be positive in the blood?",
+        "Option 1":"Antinuclear antibodies",
+        "Option 2":"Antiphospholipid antibodies",
+        "Option 3":"Antithyroglobulin antibodies",
+        "Option 4":"Antimitocondrial antibodies",
+        "Option 5":"Antirheumatoid antibodies",
+        "Correct Answer":"Antiphospholipid antibodies"
+    },
+    {
+        "Question":"34 year old pregnant woman develop swollen leg. Her mother and her maternal aunt have the same problem during pregnancies. Which of the following test will be positive in the blood?",
+        "Option 1":"Antinuclear antibodies",
+        "Option 2":"Anticardiolipin antibodies",
+        "Option 3":"Antithyroglobulin antibodies",
+        "Option 4":"Antimitocondrial antibodies",
+        "Option 5":"Antirheumatoid antibodies",
+        "Correct Answer":"Anticardiolipin antibodies"
+    },
+    {
+        "Question":"40 year old female patient with symptoms of RA. What is the most specific factor for her condition?",
+        "Option 1":"ANCA",
+        "Option 2":"ANA",
+        "Option 3":"Antimitochondrial antibodies",
+        "Option 4":"Antiphospholipid antibodies",
+        "Option 5":"Antimicrosomal antibody",
+        "Correct Answer":"ANA"
+    },
+    {
+        "Question":"Which of the following factors affected by protein C deficiency?",
+        "Option 1":"5 and 8",
+        "Option 2":"8 and 13",
+        "Option 3":"5 and 13",
+        "Option 4":"10 and 13",
+        "Option 5":"8 and 10",
+        "Correct Answer":"5 and 8"
+    },
+    {
+        "Question":"What is the life span of platelet in circulation?",
+        "Option 1":"12 hours",
+        "Option 2":"2 days",
+        "Option 3":"10 days",
+        "Option 4":"30 days",
+        "Option 5":"50 days",
+        "Correct Answer":"10 days"
+    },
+    {
+        "Question":"40 years old man has chronic kidney diseas and he is on replacement therapy. He suffered from normocytic normochromic anemia. What is the cause of anemia?",
+        "Option 1":"Decrease iron absorption",
+        "Option 2":"Bone marrow depression",
+        "Option 3":"Increase hemolysis",
+        "Option 4":"Folic acid deficiency",
+        "Option 5":"Erythropoeitin deficiency",
+        "Correct Answer":"Erythropoeitin deficiency"
+    },
+    {
+        "Question":"A 35 year old female with double valve replacement suffered post operatively from anemia with hemoglobin of 7.2, what is the most likely cause?",
+        "Option 1":"Hemolysis on the valve",
+        "Option 2":"Hemorrhagic shock",
+        "Option 3":"Autoimmune disease",
+        "Option 4":"Hypersensitivity reaction",
+        "Option 5":"Macrocytic anemia",
+        "Correct Answer":"Hemolysis on the valve"
+    },
+    {
+        "Question":"34 year old man 5 days post hernia repair, he noticed that tissues surrounding the wound are swollen and erythematous. What is the cause of this edema?",
+        "Option 1":"Accumulation of bacteria in tissue",
+        "Option 2":"Increased vascular permeability",
+        "Option 3":"Decreased interstitial fluid",
+        "Option 4":"Increase intracellular fluid",
+        "Option 5":"Decrease intracellular fluid",
+        "Correct Answer":"Increased vascular permeability"
+    },
+    {
+        "Question":"50 year old patient suffered from bleeding intraoperative. Anesthesiologist order tranexamic acid for him to control bleeding. What is the mechanism of action of tranexamic?",
+        "Option 1":"Plasmin inhibitor",
+        "Option 2":"Thrombin inhibitor",
+        "Option 3":"Thromboxane inhibitor",
+        "Option 4":"Factor 10 inhibitor",
+        "Option 5":"Protein C and",
+        "Correct Answer":"Plasmin inhibitor"
+    },
+    {
+        "Question":"During major trauma what important factor that is increased and important in coagulopathy + hyper fibrinolysis?",
+        "Option 1":"TNF",
+        "Option 2":"Plasmin activator inhibitor",
+        "Option 3":"Activated protein C",
+        "Option 4":"Tissue plasminogen",
+        "Option 5":"Anti-thrombin",
+        "Correct Answer":"Activated protein C"
+    },
+    {
+        "Question":"Patient came with DVT. What is the body physiological mechanism of keeping thrombosis in control?",
+        "Option 1":"Protein C",
+        "Option 2":"Plasmin",
+        "Option 3":"TNF",
+        "Option 4":"Heparin",
+        "Option 5":"Anti-thrombin",
+        "Correct Answer":"Plasmin"
+    },
+    {
+        "Question":"40 year old female patient presented with anemia, autoimmune thyroiditis and atrophic gastritis, endoscopy is normal. What is the size of RBCs in her blood film?",
+        "Option 1":"Normal",
+        "Option 2":"Small and pale",
+        "Option 3":"Large oval",
+        "Option 4":"Sickle shaped",
+        "Option 5":"Spherocytosis",
+        "Correct Answer":"Large oval"
+    },
+    {
+        "Question":"What is true about thrombin coagulation factor?",
+        "Option 1":"Calcium aids in thrombosis",
+        "Option 2":"Thrombin helps in fibrin polymerization",
+        "Option 3":"Pro-thrombin activated by platelet",
+        "Option 4":"VD helps in coagulation",
+        "Option 5":"Intrinsic factors include factor 7",
+        "Correct Answer":"Thrombin helps in fibrin polymerization"
+    },
+    {
+        "Question":"34 years old female patient has thrombus on external iliac and has needle phobia. Oral anticoagulant was needed to be taken 5 days postoperative. What is the anticoagulant of choice?",
+        "Option 1":"Warfarin",
+        "Option 2":"Clopidogrel",
+        "Option 3":"Rivaroxaban",
+        "Option 4":"Low molecular weight heparin",
+        "Option 5":"Aspirin",
+        "Correct Answer":"Rivaroxaban"
+    },
+    {
+        "Question":"7 years old body has bleeding tendencies and his mother said his two sisters never had the issue before and she suspects this bleeding my from her divorced husband. What is the cause of these bleeding tendencies?",
+        "Option 1":"Factor 7",
+        "Option 2":"Factor 8",
+        "Option 3":"Factor 11",
+        "Option 4":"Factor 12",
+        "Option 5":"Factor 13",
+        "Correct Answer":"Factor 8"
+    },
+    {
+        "Question":"Patient presented to emergency room after accident with hypovolemic shock and now has metabolic acidosis with high lactate. Which of the following is in lactate cycle?",
+        "Option 1":"Pyruvate formed from lactate in the liver",
+        "Option 2":"Only due to anaerobic glycolysis in tissue",
+        "Option 3":"Cori cycle that use 2 ATP and produce 4 ATP",
+        "Option 4":"Produced due to reduced tissue perfusion",
+        "Option 5":"Produced in liver only",
+        "Correct Answer":"Pyruvate formed from lactate in the liver"
+    },
+    {
+        "Question":"40 year old patient suffered from severe bleeding after ascending aortic aneurysm operation and needs massive blood transfusion and his lab show hypocalcemia (Ca = 2.01) and other electrolytes are normal. What is the cause of this lab abnormality?",
+        "Option 1":"Citrate toxicity",
+        "Option 2":"Iatrogenic hypoparathyroidism",
+        "Option 3":"Hypothermia",
+        "Option 4":"Liver injury",
+        "Option 5":"Metabolic acidosis",
+        "Correct Answer":"Citrate toxicity"
+    },
+    {
+        "Question":"A 45 year old male is diagnosed with carcinoma of the head of pancreas. He reports that his stool sticks to the commode and will not flush away. Loss of which of the following enzymes is most likely to be responsible for this problem?",
+        "Option 1":"Lipase",
+        "Option 2":"Amylase",
+        "Option 3":"Trypsin",
+        "Option 4":"Elastase",
+        "Option 5":"Chemotrypsin",
+        "Correct Answer":"Lipase"
+    },
+    {
+        "Question":"A 45 year old male presented by upper abdominal pain and diagnosed as acute pancreatits. What enzyme is responsible for auto digestion in acute pancreatitis?",
+        "Option 1":"Lipase",
+        "Option 2":"Elastase",
+        "Option 3":"Trypsin",
+        "Option 4":"Amylase",
+        "Option 5":"Pepsin",
+        "Correct Answer":"Trypsin"
+    },
+    {
+        "Question":"35 year old female presented in outpatient clinic by vomiting and upper abdominal pain. She has history of chronic calcular cholycistis. CT abdomen shows acute pancreatitis. What is the enzyme first to be stimulated in acute pancreatitis?",
+        "Option 1":"Lipase",
+        "Option 2":"Elastase",
+        "Option 3":"Trypsinogen",
+        "Option 4":"Amylase",
+        "Option 5":"Pepsin",
+        "Correct Answer":"Trypsinogen"
+    },
+    {
+        "Question":"The first non-invasive test was done for patient with chronic pancreatitis?",
+        "Option 1":"Fecal elastase",
+        "Option 2":"Chymotrypsin",
+        "Option 3":"Lipase",
+        "Option 4":"Elastase",
+        "Option 5":"Trypsin",
+        "Correct Answer":"Fecal elastase"
+    },
+    {
+        "Question":"Which of the following enzyme first to be stimulated in acute pancreatitis?",
+        "Option 1":"Lipase",
+        "Option 2":"Elastase",
+        "Option 3":"Trypsinogen",
+        "Option 4":"Amylase",
+        "Option 5":"Pepsin",
+        "Correct Answer":"Trypsinogen"
+    },
+    {
+        "Question":"Which GIT hormone increase pancreatid secretion rich in water and bicarbonate?",
+        "Option 1":"CCK",
+        "Option 2":"Gastrin",
+        "Option 3":"Histamine",
+        "Option 4":"Secretin",
+        "Option 5":"Serotonin",
+        "Correct Answer":"Secretin"
+    },
+    {
+        "Question":"A 45 year old man has recurrent duodenal ulcer which is resistant to treatmen. The most likely physiological basis for excessive acid production is a combination of which of the following?",
+        "Option 1":"CCK, gastrin and vagal",
+        "Option 2":"Gastrin, histamine and secretin",
+        "Option 3":"Gastrin, histamine and vagal",
+        "Option 4":"Gastrin, secretin and vagal",
+        "Option 5":"Histamine, secretin and vagal",
+        "Correct Answer":"Gastrin, histamine and vagal"
+    },
+    {
+        "Question":"A 43 year old man has recurrent episodes of dyspepsia and treatment is commenced with oral antacids. Which of the hormones listed below is released in response to increased serum gastrin level and decreases intra gastric pH?",
+        "Option 1":"CCK",
+        "Option 2":"Histamine",
+        "Option 3":"Somatostatin",
+        "Option 4":"Insulin",
+        "Option 5":"Vasoactive intestinal peptide",
+        "Correct Answer":"Histamine"
+    },
+    {
+        "Question":"43 year old man presents with dyspepsia and undergoes an upper GI endoscopy. During the procedure diffuse gastric and duodenal ulcers are identified. A Clo test confirms the presence of H.pylori infection. What is the most likely explanation for the ulcers?",
+        "Option 1":"Decreased gastric motility",
+        "Option 2":"Increased urease activity",
+        "Option 3":"Decreased release of mucus and bicarbonate",
+        "Option 4":"Decreased gastrin levels",
+        "Option 5":"Increased acid production",
+        "Correct Answer":"Increased acid production"
+    },
+    {
+        "Question":"5 year old woman presented with recurrent peptic ulcer. She is on PPI and previously perceived H.Pylori eradication treatment. Which of the following is likely to rise in her venous blood?",
+        "Option 1":"CCK",
+        "Option 2":"Secretin",
+        "Option 3":"Gastrin",
+        "Option 4":"Histamine",
+        "Option 5":"Pancreozymin",
+        "Correct Answer":"Gastrin"
+    },
+    {
+        "Question":"A 20 year old girl presents with recurrent abdominal pain and diarrhea. She has high levels of serum gastrin. What is the cause of her steatorrhea?",
+        "Option 1":"Decrease lipase activity",
+        "Option 2":"Whipple disease",
+        "Option 3":"Gluten sensitivity",
+        "Option 4":"Decrease bile secretion",
+        "Option 5":"Increase output of juice in the duodenum and stomach",
+        "Correct Answer":"Decrease lipase activity"
+    },
+    {
+        "Question":"A 14 year old girl present with recurrent abdominal pain and diarrhea. She underwent an operation of parathyroidectomy 3 years ago. The physiologic basis of diarrhea is increase of which of the following?",
+        "Option 1":"Calcitonin",
+        "Option 2":"Gastrin",
+        "Option 3":"Glucagon",
+        "Option 4":"Secretin",
+        "Option 5":"Thyroxin",
+        "Correct Answer":"Gastrin"
+    },
+    {
+        "Question":"A 20 year old girl presents with recurrent abdominal pain and diarrhea. She has high level of serum gastrin. With regard to gastrin hormone, which one of the following is true?",
+        "Option 1":"It has stimulant or trophic effect on the gastric mucosa",
+        "Option 2":"Production is enhanced by gastric acid",
+        "Option 3":"Production is primarily in gastric body",
+        "Option 4":"Production is reduced by PPI",
+        "Option 5":"Release cause secretion of bicarbonate from pancreas",
+        "Correct Answer":"It has stimulant or trophic effect on the gastric mucosa"
+    },
+    {
+        "Question":"Which of the following reduces gastric acid secretion by parital cells?",
+        "Option 1":"PGE2",
+        "Option 2":"ADP",
+        "Option 3":"Histamine",
+        "Option 4":"Gastin",
+        "Option 5":"Serotonin",
+        "Correct Answer":"PGE2"
+    },
+    {
+        "Question":"50 year old male with gastric cancer at proximal part prepared for total gastrectomy. Post gastrectomy operation, it is expected to have deficiency of which of the following?",
+        "Option 1":"Vitamin B12",
+        "Option 2":"Folic acid",
+        "Option 3":"Iron",
+        "Option 4":"Calcium",
+        "Option 5":"Phosphorus",
+        "Correct Answer":"Vitamin B12"
+    },
+    {
+        "Question":"A 14 year old girl present with recurrent abdominal pain and diarrhea. She underwent an operation of parathyroidectomy 3 years ago. The physiologic basis of diarrhea is increase of which of the following?",
+        "Option 1":"Calcitonin",
+        "Option 2":"Gastrin",
+        "Option 3":"Glucagon",
+        "Option 4":"Secretin",
+        "Option 5":"Gastrin",
+        "Correct Answer":null
+    },
+    {
+        "Question":"Mechanism of gastric acid secretion includes which of the following?",
+        "Option 1":"Stimulation of chief cells",
+        "Option 2":"Stimulation of burner cells",
+        "Option 3":"Stimulation of parital cells",
+        "Option 4":"Somatostatin stimulation",
+        "Option 5":"CCK stimulation",
+        "Correct Answer":"Stimulation of parital cells"
+    },
+    {
+        "Question":"26 year old pregnant female diagnosed of having macrocytic anemia during her follow up in obstetric clinic, which of the following will  you give her?",
+        "Option 1":"Folic acid",
+        "Option 2":"Vitamin B12",
+        "Option 3":"IV iron",
+        "Option 4":"Oral iron",
+        "Option 5":"Vitamin K",
+        "Correct Answer":"Folic acid"
+    },
+    {
+        "Question":"27 year old female has admitted to hospital complaining form symptoms of anemia. Her labs show pernicious anemia and diagnosed as atrophic gastritis. What is the cause for this anemia?",
+        "Option 1":"Autoimmune antibodies to chief",
+        "Option 2":"Autoimmune antibodies to parietal",
+        "Option 3":"Autoimmune antibodies to goblet",
+        "Option 4":"Autoimmune antibodies to burners",
+        "Option 5":"Autoimmune antibodies to fundic cells",
+        "Correct Answer":"Autoimmune antibodies to parietal"
+    },
+    {
+        "Question":"50 year old patient diagnosed having microcytic hypochromic anemia due to iron deficiency and he is taken for upper endoscopy for detection of the cause, what is the site of biopsy will you take?",
+        "Option 1":"Gastric",
+        "Option 2":"Duodenum",
+        "Option 3":"Jejunum",
+        "Option 4":"Ileum",
+        "Option 5":"Colon",
+        "Correct Answer":"Duodenum"
+    },
+    {
+        "Question":"Which of the following changes is expected after cholecyctectomy?",
+        "Option 1":"Decreased secretion of bile salts",
+        "Option 2":"Reduced hepatic circulation of bile salts",
+        "Option 3":"Increased production of bile acids",
+        "Option 4":"Elevated bile salt secretion",
+        "Option 5":"None of the above",
+        "Correct Answer":"Reduced hepatic circulation of bile salts"
+    },
+    {
+        "Question":"55 year old female undergo cholecystectomy and show multiple dark irregular small stones. The most cause of these stones is elevating blood test of which of the following?",
+        "Option 1":"Bile salts",
+        "Option 2":"Cholesterol",
+        "Option 3":"Conjugated bilirubin",
+        "Option 4":"Unconjugated bilirubin",
+        "Option 5":"Mixed cholesterol and bile",
+        "Correct Answer":"Unconjugated bilirubin"
+    },
+    {
+        "Question":"15 year old underwent cholecystectomy for gall stones. Gall bladder shows multiple dark irregular stones. What is the pigmented gall stones composition?",
+        "Option 1":"Calcium oxalate",
+        "Option 2":"Calcium bilirubinate",
+        "Option 3":"Cholesterol",
+        "Option 4":"Bile salts",
+        "Option 5":"Triglycerides",
+        "Correct Answer":"Calcium bilirubinate"
+    },
+    {
+        "Question":"24 year female patient presented to ER by abdominal pain, vomiting and jaundice. He has also dark urine and pale offensive stool. Abdominal ultrasound show chronic cholecystitis with multiple stones in common bile duct. His labs also show elevated conjugated bilirubin due to this obstruction. What is the cause of pale offensive stool?",
+        "Option 1":"Decreased enterohepatic circulation",
+        "Option 2":"Increased conjugated bilirubin in blood",
+        "Option 3":"Decreased conjugated bilirubin in blood",
+        "Option 4":"Decreased hepatic secretion of bile",
+        "Option 5":"Increase enterohepatic circulation",
+        "Correct Answer":"Decreased enterohepatic circulation"
+    },
+    {
+        "Question":"34 year old female patient presented to ER by abdominal pain, vomiting, jaundice and itching. Abdominal ultrasound show chronic cholecystitis with multiple stones in common bile duct. His labs also show elevated conjugated bilirubin due to this obstruction. What is the cause of itching?",
+        "Option 1":"Increased conjugated bilirubin in the  blood",
+        "Option 2":"Decreased stercobilinogen or urobilinogen in the blood",
+        "Option 3":"Increased bile salts in the blood",
+        "Option 4":"Decreased bile salts in the stool",
+        "Option 5":"Increased enterohepatic circulation",
+        "Correct Answer":"Increased bile salts in the blood"
+    },
+    {
+        "Question":"34 year old female patient presented to ER by abdominal pain, vomiting, jaundice and itching. Abdominal ultrasound show chronic cholecystitis with multiple stones in common bile duct. His labs also show elevated conjugated bilirubin due to this obstruction. What is the cause of dark urine?",
+        "Option 1":"Unconjugated bilirubin",
+        "Option 2":"Conjugated bilirubin",
+        "Option 3":"Urobilinogen",
+        "Option 4":"Stercobilinogen",
+        "Option 5":"Bile salts",
+        "Correct Answer":"Conjugated bilirubin"
+    },
+    {
+        "Question":"60 year old man complains of abdominal discomfort and feeling of nausea 24 hours after right hemi colectomy. On auscultation, bowel sounds are silent and diagnosis of postoperative ilieu is made. Increase of which of the following neurotransmitters is responsible for decreasing bowel motility",
+        "Option 1":"Acetylcholine",
+        "Option 2":"Dopamine",
+        "Option 3":"Gama aminobuteryic acid",
+        "Option 4":"Noradrenaline",
+        "Option 5":"Serotonin",
+        "Correct Answer":"Noradrenaline"
+    },
+    {
+        "Question":"Paneth cells are one of the intestinal cells present in which of the following sites?",
+        "Option 1":"Crypts of lieberkuhan",
+        "Option 2":"intestinal villi",
+        "Option 3":"gastric antrum",
+        "Option 4":"lamina propria",
+        "Option 5":"muscularis mucosa",
+        "Correct Answer":"Crypts of lieberkuhan"
+    },
+    {
+        "Question":"which of the following vitamin supports collagen and its deficiency cause ecchymosis and delay wound healing?",
+        "Option 1":"Vitamin A",
+        "Option 2":"Vitamin E",
+        "Option 3":"Vitamin B6",
+        "Option 4":"Vitamin C",
+        "Option 5":"Vitamin B12",
+        "Correct Answer":"Vitamin C"
+    },
+    {
+        "Question":"40 year old man alcoholic and has peripheral neuropathy with cerebellar ataxia. Deficiency of which hormone cause these symptoms?",
+        "Option 1":"Thiamine",
+        "Option 2":"Pellagra",
+        "Option 3":"Folic acid",
+        "Option 4":"Iron",
+        "Option 5":"Vitamin B12 deficiency",
+        "Correct Answer":"Thiamine"
+    },
+    {
+        "Question":"A child has dry scaly skin and cloudy vision. Any vitamin deficiency will cause these symptoms?",
+        "Option 1":"Vitamin A",
+        "Option 2":"Vitamin E",
+        "Option 3":"Vitamin B6",
+        "Option 4":"Vitamin C",
+        "Option 5":"Vitamin B12",
+        "Correct Answer":"Vitamin A"
+    },
+    {
+        "Question":"20 year old male patient presented with angular cheliosis, what is the vitamin deficiency cause this manifestation?",
+        "Option 1":"Vitamin B2",
+        "Option 2":"Vitamin B12",
+        "Option 3":"Vitamin B1",
+        "Option 4":"Vitamin C",
+        "Option 5":"Vitamin K",
+        "Correct Answer":"Vitamin B2"
+    },
+    {
+        "Question":"Vitamin K is required for normal blood clotting. Which one of the following statements is true about the effects and availability of vitamin K?",
+        "Option 1":"Affects platelet function",
+        "Option 2":"Cause bleeding if taken in excess",
+        "Option 3":"Is provided only by fresh blood",
+        "Option 4":"Is depleted by oral broad-specturm antibiotics",
+        "Option 5":"Vitamin K absorption is affected by gastric resection",
+        "Correct Answer":"Is depleted by oral broad-specturm antibiotics"
+    },
+    {
+        "Question":"A 26 year old woman undergoes resection of terminal ileum secondary to chron\u2019s disease. Which of the following effects is most likely to be seen in this patient postoperatively?",
+        "Option 1":"Decrease absorption of vitamin B12",
+        "Option 2":"Decrease bile salts by liver",
+        "Option 3":"Decrease concentration of bile salts in colonic content",
+        "Option 4":"Decrease mean corpuscular volume",
+        "Option 5":"Decrease stool frequency",
+        "Correct Answer":"Decrease absorption of vitamin B12"
+    },
+    {
+        "Question":"During the second (proliferative) phase of wound healing , the predominant cells in the wound sites are fibroblasts. This cell is of mesenchymal origin and produces the matrix and collagen needed to strengthen the scar. Cross linkage of collagen requires hydroxy-proline and hydroxy-lysine residues, which requires a specific vitamin to be available in sufficient quantities. Deficiency of which vitamin results in collagen that is unstable?",
+        "Option 1":"Vitamin B2",
+        "Option 2":"Vitamin B6",
+        "Option 3":"Vitamin C",
+        "Option 4":"Vitamin D",
+        "Option 5":"Vitamin E",
+        "Correct Answer":"Vitamin C"
+    },
+    {
+        "Question":"Lactulose is a drug used in portal hypertension encephalopathy and treatment of chronic constipation. Where is lactulose activated?",
+        "Option 1":"Ascending colon",
+        "Option 2":"Duodenum",
+        "Option 3":"Jejunum",
+        "Option 4":"Stomach",
+        "Option 5":"Ileum",
+        "Correct Answer":"Ascending colon"
+    },
+    {
+        "Question":"Man suffered from chronic pancreatitis with undigested fat. The cause of undigested fat ?",
+        "Option 1":"CCK",
+        "Option 2":"Trypsin",
+        "Option 3":"Gastrin",
+        "Option 4":"Vasoactive intestinal peptide",
+        "Option 5":"Somatostatin",
+        "Correct Answer":"Trypsin"
+    },
+    {
+        "Question":"30 year old female vegan with history of anemia for 5 years and asked for medical advice. What is type of anemia mainly happened?",
+        "Option 1":"Macrocytic anemia",
+        "Option 2":"Microcytic anemia",
+        "Option 3":"Microcytic hypochromic anemia",
+        "Option 4":"Normocytic normochromic anemia",
+        "Option 5":"None of the above",
+        "Correct Answer":"Macrocytic anemia"
+    }
+]

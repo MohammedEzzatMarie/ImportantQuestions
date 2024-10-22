@@ -1,0 +1,182 @@
+[
+    {
+        "Question":"A 34-year-old lady presents with a long-standing offensive discharge from the ear and on  examination is noted to have a reduction in her hearing of 40 decibels compared to the opposite  side.",
+        "Option 1":"Acoustic neuroma",
+        "Option 2":"Preauricular sinus",
+        "Option 3":"Acute suppurative otitis media",
+        "Option 4":"Cholesteatoma",
+        "Option 5":"Otitis externa",
+        "Correct Answer":"Cholesteatoma"
+    },
+    {
+        "Question":"A 4-year-old is brought to the general practitioner by her mother. She has been distressed with  ear pain for the past 14 hours. She is constantly touching and pulling at her ear, Whilst she is sat  in the waiting room her mother notices a discharge of foul-smelling fluid from the ear, following  which the pain resolves",
+        "Option 1":"Acoustic neuroma",
+        "Option 2":"Preauricular sinus",
+        "Option 3":"Acute suppurative otitis media",
+        "Option 4":"Cholesteatoma",
+        "Option 5":"Otitis externa",
+        "Correct Answer":"Acute suppurative otitis media"
+    },
+    {
+        "Question":"A-4-year-old child is brought to the clinic by his father, They are concerned because she has been noted to have a small epithelial defect anterior to the left ear and is has been noted to  discharge foul smelling material for the past 2 days.",
+        "Option 1":"Acoustic neuroma",
+        "Option 2":"Preauricular sinus",
+        "Option 3":"Acute suppurative otitis media",
+        "Option 4":"Cholesteatoma",
+        "Option 5":"Otitis externa",
+        "Correct Answer":"Preauricular sinus"
+    },
+    {
+        "Question":"A 70-year-old male presented with. Neck rubbery mass with axillary and inguinal masses with splenomegaly what is the most common cause of neck masses?",
+        "Option 1":"HIV",
+        "Option 2":"Lymphoma",
+        "Option 3":"Squamous cell carcinoma in her tongue",
+        "Option 4":"Infectious mononucleosis",
+        "Option 5":"None of the above",
+        "Correct Answer":"Lymphoma"
+    },
+    {
+        "Question":"A 60-year old man presents with a one-month history of headache, confusion and recent onset of right sided hemiparesis. A CT scan demonstrates a 3-4 cm lesion with central necrosis in the left frontal lobe. It is seen extending across the midline along the corpus callosum. There is extensive edema around the lesion. Which of the following is the most likely diagnosis of this lesion?",
+        "Option 1":"Central neurocytoma",
+        "Option 2":"ependymoma",
+        "Option 3":"Glioblastoma",
+        "Option 4":"Meningioma",
+        "Option 5":"Oligodendroglioma",
+        "Correct Answer":"Glioblastoma"
+    },
+    {
+        "Question":"A week after surgical elevation of the zygomatic arch a 19 year old man returns with hearing  loss vertigo and clear fluid exuding from the external auditory meatus?",
+        "Option 1":"Belly palsy",
+        "Option 2":"Cholesteatoma",
+        "Option 3":"Sarcoidosis",
+        "Option 4":"Petrous temporal bone fracture",
+        "Option 5":"Herpes zoster infection",
+        "Correct Answer":"Petrous temporal bone fracture"
+    },
+    {
+        "Question":"A 4 year old man complains of increasing headache, associated with nausea and vomiting  especially in the morning He has no focal neurological sings but ophthalmic examination  showing bilateral papilledema. Which of the following in the most likely diagnosis?",
+        "Option 1":"Acoustic neuroma",
+        "Option 2":"Chronic subdural hemorrhage",
+        "Option 3":"Frontal lobe glioma",
+        "Option 4":"Subarachnoid hemorrhage",
+        "Option 5":"None of the above",
+        "Correct Answer":"Frontal lobe glioma"
+    },
+    {
+        "Question":"A 60 years old man presents to the emergency department wit epistaxis, The source of the  bleeding is identified as littie's area and resolves with direct cautery. Which vessel is most likely  responsible for bleeding?",
+        "Option 1":"Anterior ethmoidal artery",
+        "Option 2":"Infraorbital artery",
+        "Option 3":"Middle meningeal artery",
+        "Option 4":"Sphenopalatine artery",
+        "Option 5":"Supratrochlear artery",
+        "Correct Answer":"Sphenopalatine artery"
+    },
+    {
+        "Question":"A 56-year-old man presents with symptoms of nasal pain, anosmia and rhinorrhoea with pain in his eye ball He has been well until recently and has worked as a wood carver for many years.",
+        "Option 1":"Ethmoid sinus cancer",
+        "Option 2":"Maxillary sinus cancer",
+        "Option 3":"Nasal polyps",
+        "Option 4":"Ethmoidal sinusitis",
+        "Option 5":"Maxillary sinusitis",
+        "Correct Answer":"Ethmoid sinus cancer"
+    },
+    {
+        "Question":"A 32-year-old female presents with recurrent episodes of rhinorrhoea; the discharge is watery. She has a medical history of asthma and intolerance of aspirin. On examination she has multiple soft, semi-transparent polyps within her nasal cavity.",
+        "Option 1":"Ethmoid sinus cancer",
+        "Option 2":"Maxillary sinus cancer",
+        "Option 3":"Nasal polyps",
+        "Option 4":"Ethmoidal sinusitis",
+        "Option 5":"Maxillary sinusitis",
+        "Correct Answer":"Nasal polyps"
+    },
+    {
+        "Question":"A child is brought to casualty complaining of a headache and a sensation of pressure  between the eyes. On examination she is febrile with a smooth swelling overlying the  superomedial aspect of the right eye. The eye is uncomfortable and there is a purulent  discharge from the inner canthus",
+        "Option 1":"Ethmoid sinus cancer",
+        "Option 2":"Maxillary sinus cancer",
+        "Option 3":"Nasal polyps",
+        "Option 4":"Ethmoidal sinusitis",
+        "Option 5":"Maxillary sinusitis",
+        "Correct Answer":"Ethmoidal sinusitis"
+    },
+    {
+        "Question":"What is the Reason to give steroid to brain tumor before surgery?",
+        "Option 1":"Decrease peri tumor edema",
+        "Option 2":"Decrease tumor vascularity",
+        "Option 3":"Decrease tumor size",
+        "Option 4":"Treatment of papiledema",
+        "Option 5":"None of the above",
+        "Correct Answer":"Decrease peri tumor edema"
+    },
+    {
+        "Question":"A 9-year-old infant presented with fever and tender red mass below angle of mandible what is  your diagnosis?",
+        "Option 1":"Submandibular abscess",
+        "Option 2":"Branchial cyst",
+        "Option 3":"Sebaceous cyst",
+        "Option 4":"Submandibular gland tumor",
+        "Option 5":"None of the above",
+        "Correct Answer":"Submandibular abscess"
+    },
+    {
+        "Question":"A 64-year-old woman sustained a closed head injury. She is sedated and ventilated in the emergency department. A C.T scan of the brain shows significant cerebral edema Her intracranial pressure is elevated. Which of the following therapeutic strategies is most likely to lead to a rapid transient reduction in her Intra cranial pressure?",
+        "Option 1":"Elevation of central venous pressure",
+        "Option 2":"Elevation of PO2",
+        "Option 3":"Elevation of systollc arterial pressure",
+        "Option 4":"Reduction in cerebral perfusion pressure",
+        "Option 5":"Reduction of PCO2",
+        "Correct Answer":"Reduction of PCO2"
+    },
+    {
+        "Question":"A 60-year-old man presents with a short history of pain in the right cheek and night upper teeth. Maxillary sinus infection is diagnosed, This sinus is particularly prone to infection because of:",
+        "Option 1":"Absence of Celia on the epithelium lining the sinus",
+        "Option 2":"Closeness of the sinus to the nasal cavity",
+        "Option 3":"Poor blood supply",
+        "Option 4":"Position of the sinus ostium high on the medial wall",
+        "Option 5":"Relationship of the front teeth to the floor of the sinus",
+        "Correct Answer":"Position of the sinus ostium high on the medial wall"
+    },
+    {
+        "Question":"A 30-year-old male presents with Sudden Unilateral exophthalmos, limited eye movement in all direction, congestions, exophthalmos and has a bruit, erythematous eye what is the most likely diagnosis?",
+        "Option 1":"Cavernous sinus thrombosis",
+        "Option 2":"Graves' disease",
+        "Option 3":"Posterior communicating artery aneurysm",
+        "Option 4":"Carotid-cavernous fistula",
+        "Option 5":"Orbital sepsis",
+        "Correct Answer":"Carotid-cavernous fistula"
+    },
+    {
+        "Question":"A 40- year-old male presented with severe headache, vomiting and visual disturbance his CT showed Nonfunctioning pituitary macroadenoma what is your diagnosis?",
+        "Option 1":"Cavernous sinus thrombosis",
+        "Option 2":"Craniopharyngioma",
+        "Option 3":"Subarachnoid hemorrhage",
+        "Option 4":"Hydrocephalus",
+        "Option 5":"Pituitary apoplexy",
+        "Correct Answer":"Pituitary apoplexy"
+    },
+    {
+        "Question":"A 60-year-old patient presented with headache and dizziness his CT showed Anterior Dural sac tumor with surrounding cyst capping what is you diagnosis?",
+        "Option 1":"Glioma",
+        "Option 2":"Meningioma",
+        "Option 3":"Glioblastoma multiform",
+        "Option 4":"Acoustic neuroma",
+        "Option 5":"Astrocytoma",
+        "Correct Answer":"Meningioma"
+    },
+    {
+        "Question":"A 29 year old man has had a sore throat for the past 5 days. Over the past 24 hours he has noticed increasingly severe throbbing pain in the region of his right tonsil. He is pyrexial and on examination, he is noted to have a swelling of this area and uvula shifted to another site. What is the most likely cause?",
+        "Option 1":"Tonsillar cancer",
+        "Option 2":"Lymphoma",
+        "Option 3":"Quinsy",
+        "Option 4":"Glandular fever",
+        "Option 5":"Common cold",
+        "Correct Answer":"Quinsy"
+    },
+    {
+        "Question":"Child with high fever and neck spasm to one side with noisy breathing what is the diagnosis?",
+        "Option 1":"Retropharyngeal abscess",
+        "Option 2":"Ludwig angina",
+        "Option 3":"Quinsy",
+        "Option 4":"Glandular fever",
+        "Option 5":"Common cold",
+        "Correct Answer":"Ludwig angina"
+    }
+]

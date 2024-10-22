@@ -1,0 +1,740 @@
+[
+    {
+        "Question":"A Lactating female patient 27 -years old came to the clinic presented with fever and redness  on the her left breast, she also reported fluctuating mass with purulent discharge what is the  best investigation for diagnosis?",
+        "Option 1":"FNAC",
+        "Option 2":"USG",
+        "Option 3":"MRI",
+        "Option 4":"Core Biopsy",
+        "Option 5":"None of the above",
+        "Correct Answer":"USG"
+    },
+    {
+        "Question":"A 33 years old lady presented with mass on the UOQ of her left breast. She has history of  breast implants and positive family history of cancer breast what is the best investigation for diagnosis?",
+        "Option 1":"FNAC",
+        "Option 2":"U\/S",
+        "Option 3":"MRI",
+        "Option 4":"Core Biopsy",
+        "Option 5":"None of the above",
+        "Correct Answer":"U\/S"
+    },
+    {
+        "Question":"A 45 year old lady presented with RUOQ 3 cm mass appears irregular in shape in U\/S mention  the best investigation for her?",
+        "Option 1":"FNAC",
+        "Option 2":"U\/S",
+        "Option 3":"MRI",
+        "Option 4":"Core Biopsy",
+        "Option 5":"None of the above",
+        "Correct Answer":"Core Biopsy"
+    },
+    {
+        "Question":"A 66 year old female presented with a two week history of stridor, dysphagia and hoarseness of voice, On examination there were thyroid swelling with lymph node +ve. FNAC shows spindle cells what is your diagnosis?",
+        "Option 1":"Anaplastic thyroid carcinoma",
+        "Option 2":"Medullary thyroid carcinoma",
+        "Option 3":"Papilary thyroid carcinoma",
+        "Option 4":"Lymphoma",
+        "Option 5":"Follicular thyroid carcinoma",
+        "Correct Answer":"Anaplastic thyroid carcinoma"
+    },
+    {
+        "Question":"A 35 year- old female on the routine mammography has intermediate microcalcification and the mammography was negative 3 years ago with no lymph node what is the properly diagnosis?",
+        "Option 1":"Ductal carcinoma in situ",
+        "Option 2":"Lobular carcinoma in situ",
+        "Option 3":"Paget's disease of the nipple",
+        "Option 4":"Invasive ductal carcinoma",
+        "Option 5":"None of the above",
+        "Correct Answer":"Ductal carcinoma in situ"
+    },
+    {
+        "Question":"A 39 year old female presented with smooth fluctuant mass showing halo sign in mammography aspiration was done there is no blood; no fluid refilling what is your management?",
+        "Option 1":"Discharge no follow-up required",
+        "Option 2":"Surgical excision",
+        "Option 3":"True cut biopsy",
+        "Option 4":"FNAC",
+        "Option 5":"None of the above",
+        "Correct Answer":"Discharge no follow-up required"
+    },
+    {
+        "Question":"An 11-year-old boy with soft unilateral gynecomastia, with free medical history what is the cause of this condition?",
+        "Option 1":"Mumps",
+        "Option 2":"Orchidectomy",
+        "Option 3":"Pituitary tumor",
+        "Option 4":"Physiological",
+        "Option 5":"None of the above",
+        "Correct Answer":"Physiological"
+    },
+    {
+        "Question":"A 45 year old white smoker female come to your clinic presented with recurrent attack of inflammation in her right breast during her self-examination she noticed Creamy or greenish discharge from her nipple what is your provisional diagnosis?",
+        "Option 1":"Duct Papilloma",
+        "Option 2":"Lobular carcinoma in situ",
+        "Option 3":"Sclerosing adenosis",
+        "Option 4":"Duct ectasia",
+        "Option 5":"None of the above",
+        "Correct Answer":"Duct ectasia"
+    },
+    {
+        "Question":"A mother has Cancer breast with positive family history of cancer breast, concerned about her daughter getting it, should be tested for which gene?",
+        "Option 1":"Tumor suppressor Gene",
+        "Option 2":"Philadelphia gene",
+        "Option 3":"APC gene",
+        "Option 4":"BRCA1& 2",
+        "Option 5":"None of the above",
+        "Correct Answer":"BRCA1& 2"
+    },
+    {
+        "Question":"A female patient came to E\/R department presented with severe carpopedal spasm and  irritability after 48 hours from redo thyroidectomy what is the cause of her presentation?",
+        "Option 1":"Hypocalemia",
+        "Option 2":"Tracheomalacia",
+        "Option 3":"Hemorrhage",
+        "Option 4":"Physic problems",
+        "Option 5":"None of the above",
+        "Correct Answer":"Hypocalemia"
+    },
+    {
+        "Question":"Male patient has prostate Cancer. His mother had breast Cancer .patient brother and sister  are normal, what is the gene responsible about this condition?",
+        "Option 1":"P53",
+        "Option 2":"Kras",
+        "Option 3":"SIS",
+        "Option 4":"BRAC 1.2",
+        "Option 5":"None of the above",
+        "Correct Answer":"BRAC 1.2"
+    },
+    {
+        "Question":"A 56-year-old man is diagnosed with an abdominal aortic aneurysm and undergoes a CT scan  to assess the size of the aorta. During his investigations a lesion of the adrenal gland is  identified. It measures 1.5 cm in diameter and the gland is otherwise normal.  What is the most likely diagnosis?",
+        "Option 1":"Adrenal gland metastasis",
+        "Option 2":"Adrenal gland arterio-venous malformation",
+        "Option 3":"Adrenal cyst",
+        "Option 4":"Pheochromocytoma",
+        "Option 5":"Adrenal cortical adenoma",
+        "Correct Answer":"Adrenal cortical adenoma"
+    },
+    {
+        "Question":"A middle-aged lady is brought to the clinic by her husband who has noted a change in her appearance. She finds removal of rings difficult. her shoe size has changed, and photographs show a marked change in her appearance with enlarged mandible with enlarged breast tissue and increase in breast secretion Which one of the following cause abnormality of her breast?",
+        "Option 1":"Acromegaly causing gynecomastia",
+        "Option 2":"Increasing of estrogen production",
+        "Option 3":"Acromegaly causing galactorrhoea",
+        "Option 4":"Acromegaly causing hyperprolactinemia",
+        "Option 5":"None of the above",
+        "Correct Answer":"Acromegaly causing hyperprolactinemia"
+    },
+    {
+        "Question":"Female patient referred to general surgery registrar complaining of fluid Collection at the site of neck incision after thyroid surgery with laryngoscopy showing no abnormality aspiration of fluid was done and the collection disappeared what is your diagnosis?",
+        "Option 1":"Hematoma",
+        "Option 2":"Abscess",
+        "Option 3":"Seroma",
+        "Option 4":"Sebaceous cyst",
+        "Option 5":"None of the above",
+        "Correct Answer":"Seroma"
+    },
+    {
+        "Question":"A Young girl complaining of enlarged cervical lymph node. Diagnosed on Histopathology as Medullary thyroid carcinoma. What is appropriate management for this condition?",
+        "Option 1":"Total thyroidectomy with nodal clearance",
+        "Option 2":"Total thyroidectomy only",
+        "Option 3":"Hemithyroldectomy",
+        "Option 4":"Subtotal thyroidectomy",
+        "Option 5":"None of the above",
+        "Correct Answer":"Total thyroidectomy with nodal clearance"
+    },
+    {
+        "Question":"A 40 year old lady presented with solitary swelling on the front of her neck. U\/S showing solitary thyroid nodule with no sing of toxicity what is the best investigation to do?",
+        "Option 1":"True cut biopsy",
+        "Option 2":"Thyroid scan",
+        "Option 3":"Excisional biopsy",
+        "Option 4":"FNAC",
+        "Option 5":"None of the above",
+        "Correct Answer":"FNAC"
+    },
+    {
+        "Question":"A female patient 45 years old referred to surgeon with solitary, thyroid swelling. The pathology of the nodule showing papillary thyroid carcinoma 0.5 cm with, no lymph nodes enlarged what is the management of this case?",
+        "Option 1":"Total thyroidectomy with nodal clearance",
+        "Option 2":"Total thyroidectomy only",
+        "Option 3":"Hemithyroidectomy",
+        "Option 4":"Subtotal thyroidectomy",
+        "Option 5":"None of the above",
+        "Correct Answer":"Hemithyroidectomy"
+    },
+    {
+        "Question":"A 37 years old female presented with a thyroid nodule. She reported a family history of thyroid disease of both sisters. Her past medical history includes hypertension which has been difficult to manage what is the most likely underlying thyroid lesion?",
+        "Option 1":"Papillary thyroid carcinoma",
+        "Option 2":"Lymphoma",
+        "Option 3":"Follicular thyroid carcinoma",
+        "Option 4":"Medullary thyroid carcinoma",
+        "Option 5":"None of the above",
+        "Correct Answer":"Medullary thyroid carcinoma"
+    },
+    {
+        "Question":"A patient was diagnosed with medullary carcinoma. What will be his follow up plan?",
+        "Option 1":"Calcitonin",
+        "Option 2":"Thyroglobulin",
+        "Option 3":"Alpha fetoprotein",
+        "Option 4":"CEA (carcinoembryonic antigen)",
+        "Option 5":"None of the above",
+        "Correct Answer":"Calcitonin"
+    },
+    {
+        "Question":"A 70-year-old man presented with bilateral parotid swelling, bilateral inability to show his teeth or elevate his eyebrow in both side which indicates bilateral facial nerve involvement What is your diagnosis?",
+        "Option 1":"Sjogren syndrome",
+        "Option 2":"HIV infection",
+        "Option 3":"Warthin tumor",
+        "Option 4":"Sarcoidosis",
+        "Option 5":"Pleomorphic adenoma",
+        "Correct Answer":"Sarcoidosis"
+    },
+    {
+        "Question":"A 35 years old man came to your clinic presented with unilateral gynecomastia, irregular swelling in his testis and unintentional weight loss his CT abdomen showing Liver nodule what is your possible diagnosis?",
+        "Option 1":"Testicular seminoma",
+        "Option 2":"Teratoma",
+        "Option 3":"Testicular lymphoma",
+        "Option 4":"Liver cell Failure",
+        "Option 5":"Mumps",
+        "Correct Answer":"Teratoma"
+    },
+    {
+        "Question":"A 5 year old boy brought by his mother to paediatric surgery clinic complaining form bilateral gynecomastia , his examination revealed atrophied both testes with absent vas deferens what is the most suggestive cause of gynecomastia?",
+        "Option 1":"Kartagener syndrome",
+        "Option 2":"Sipple syndrome",
+        "Option 3":"Down syndrome",
+        "Option 4":"Klinefelter syndrome",
+        "Option 5":"Testicular feminization syndrome",
+        "Correct Answer":"Klinefelter syndrome"
+    },
+    {
+        "Question":"A 65 year old Female presented with breast cancer, her histopathology showing ER-ve - PR-ve Her2 neu + ve and 3 \/1 positive lymph node what is the regime you give her as adjuvant?",
+        "Option 1":"Tamoxifen",
+        "Option 2":"Tamoxifen and ECF regimen",
+        "Option 3":"Herceptin and ECF regimen",
+        "Option 4":"Herceptin only",
+        "Option 5":"None the above",
+        "Correct Answer":"Herceptin and ECF regimen"
+    },
+    {
+        "Question":"Renal transplant patient complaining of recurrent abdominal pain, bone pain and he mentioned multiple fractures in the last period His investigations showing High calcium, low phosphate, and high alkaline phosphate. What is the diagnosis?",
+        "Option 1":"Tertiary hyperparathyroidism",
+        "Option 2":"Secondary hyperparathyroidism",
+        "Option 3":"Primary hyperparathyroidism",
+        "Option 4":"Increase vitamin",
+        "Option 5":"Primary hyperthyroidism",
+        "Correct Answer":"Tertiary hyperparathyroidism"
+    },
+    {
+        "Question":"Female patient. SO years old has history of Hashimoto thyroiditis 8 years ago now she noticed the gland rapidly enlarged and have difficulty of swallowing with pathology bland cells and CD 20 +ve phenotype what's your diagnosis?",
+        "Option 1":"Lymphoma",
+        "Option 2":"Medullary thyroid carcinoma",
+        "Option 3":"Follicular thyroid carcinoma",
+        "Option 4":"Papillary thyroid carcinoma",
+        "Option 5":"Anaplastic carcinoma",
+        "Correct Answer":"Lymphoma"
+    },
+    {
+        "Question":"A lactating female presented with redness and swelling in her breast which is not responding to antibiotics during her examination clinical jaundice was noticed what your possible diagnosis is?",
+        "Option 1":"Inflammatory breast malignancy",
+        "Option 2":"Cellulitis",
+        "Option 3":"Breast abscess",
+        "Option 4":"Mammary duct ectasia",
+        "Option 5":"Periductal mastitis",
+        "Correct Answer":"Inflammatory breast malignancy"
+    },
+    {
+        "Question":"A 30-year-old woman presents to the general surgical clinic with a 1.5 cm cervical lymph node along the anterior border of sternocleidomastoid muscle. -Clinical examination and routine blood tests are; unremarkable, She undergoes an excisional biopsy of the lump as a day case. The histology report reveals encapsulated infiltrative carcinoma with marked fibrosis and cystic changes within the lymph node. What is the most likely primary pathology?",
+        "Option 1":"Anaplastic thyroid carcinoma",
+        "Option 2":"Follicular thyroid carcinoma",
+        "Option 3":"Malignant lymphoma of the thyroid",
+        "Option 4":"Medullary thyroid carcinoma",
+        "Option 5":"Papillary thyroid carcinoma",
+        "Correct Answer":"Papillary thyroid carcinoma"
+    },
+    {
+        "Question":"A tall, thin, 25-year-old woman presents to the surgical clinic with a complaint of swelling in the front of her neck for the last four months. On clinical examination she has a swelling in the left lobe of the thyroid and multiple neuromas lesions within the oral cavity. Her blood pressure is 220\/120 mmHg. Laboratory investigations show that his calcium and electrolytes are normal and serum calcitonin and urinary VMA levels are elevated, which of the following is the most likely cause of the hypertension?",
+        "Option 1":"Conn's syndrome",
+        "Option 2":"Cushing's disease",
+        "Option 3":"Essential hypertension",
+        "Option 4":"Pheochromocytoma",
+        "Option 5":"Renal artery stenosis",
+        "Correct Answer":"Pheochromocytoma"
+    },
+    {
+        "Question":"A nulliparous 30-year-old Woman presents with a recurrent painful red area in the areola. She gives a history of smoking cigarettes. The lesion is excised, and the histology shows squamous metaplasia of lactiferous ducts. Microbiological culture does not grow any organism. Which of the following is the most likely diagnosis?",
+        "Option 1":"Breast abscess",
+        "Option 2":"Carcinoma of the breast",
+        "Option 3":"Fibroadenoma",
+        "Option 4":"Galactorrhoea",
+        "Option 5":"Subareolar abscess",
+        "Correct Answer":"Subareolar abscess"
+    },
+    {
+        "Question":"65 year-old woman presents with a 2.5 cm diameter mass in the upper outer quadrant of the left breast with associated axillary lymphadenopathy. A core biopsy is taken which confirms the presence of carcinoma. Which of the following types of carcinoma is this most likely to be?",
+        "Option 1":"Invasive ductal carcinoma",
+        "Option 2":"Invasive lobular carcinoma",
+        "Option 3":"Medullary carcinoma",
+        "Option 4":"Mucinous carcinoma",
+        "Option 5":"Tubular carcinoma",
+        "Correct Answer":"Invasive ductal carcinoma"
+    },
+    {
+        "Question":"A 40-year-old woman presents with a parotid tumor, A biopsy reveals extensive perineural invasion. What is the most likely pathology?",
+        "Option 1":"Actinic cell carcinoma",
+        "Option 2":"Adenocarcinoma",
+        "Option 3":"Adenoid cystic carcinoma",
+        "Option 4":"Lymphoma",
+        "Option 5":"Pleomorphic salivary adenoma",
+        "Correct Answer":"Adenoid cystic carcinoma"
+    },
+    {
+        "Question":"A 62. year-old woman presents with a firm irregular mass in the upper outer quadrant of her right breast. This appears malignant on mammography. and. fine needle aspiration cytology is reported as Cancer Which is the first Lymph node to which the tumour is most likely to metastasis?",
+        "Option 1":"Initial node",
+        "Option 2":"Primary node",
+        "Option 3":"Secondary node",
+        "Option 4":"Sentinel node",
+        "Option 5":"Virchow\u2019s node",
+        "Correct Answer":"Sentinel node"
+    },
+    {
+        "Question":"A 25-year-old woman presented in the surgical clinic with a three-month history diarrhea. On examination she is found to have a smooth 2 cm swelling in the front of her neck her sister has a similar swelling which was operated on 2 years ago the swelling moves on swallowing and the patient is clinically euthyroid Fine needle aspiration cytology of the swelling shows amyloid stroma and serum calcitonin levels are elevated. Which of the following is the most likely diagnosis?",
+        "Option 1":"Anaplastic thyroid carcinoma",
+        "Option 2":"Follicular thyroid carcinoma",
+        "Option 3":"Medullary thyroid carcinoma",
+        "Option 4":"Metastatic thyroid carcinoma",
+        "Option 5":"Papillary thyroid carcinoma",
+        "Correct Answer":"Medullary thyroid carcinoma"
+    },
+    {
+        "Question":"A 62-year old woman presents with a firm \"irregular mass in-the upper outer quadrant of the right breast. This is shown to be malignant on mammography and fine needle aspiration- cytology. She is treated with wide local excision and axillary clearance. Which of the following histopathological findings would imply a better prognosis?",
+        "Option 1":"Absence of HER2 amplification",
+        "Option 2":"Bloom and Richardson Grade Ill",
+        "Option 3":"More than three positive axillary nodes",
+        "Option 4":"Presence of lymph vascular invasion",
+        "Option 5":"Presence of estrogen receptors",
+        "Correct Answer":"Presence of estrogen receptors"
+    },
+    {
+        "Question":"A 39 years old multiparous woman who smokes 10 cigarettes per day presents with 2cm x 2 cm tender lump in her right breast. There is a brown discharge from the nipple. Mammography is unhelpful. And ultrasound shows some dilated lactation ducts what is the most likely pathological diagnosis?",
+        "Option 1":"Breast abscess",
+        "Option 2":"Fat Necrosis",
+        "Option 3":"Fibrocystic disease",
+        "Option 4":"Phyllodes tumor",
+        "Option 5":"Plasma cell mastitis",
+        "Correct Answer":"Plasma cell mastitis"
+    },
+    {
+        "Question":"Histology of a discrete palpable lump in the breast of a 34-year-old woman has shown apocrine metaplasia, epithelial overgrowth and papillary projections with halo sing in mammography. What is the most likely pathological process?",
+        "Option 1":"Benign breast cyst",
+        "Option 2":"Carcinoma of the breast",
+        "Option 3":"Fibroadenoma",
+        "Option 4":"Phyllodes tumor",
+        "Option 5":"Plasma mastitis",
+        "Correct Answer":"Benign breast cyst"
+    },
+    {
+        "Question":"A 30-year-old woman is sent to the outpatient clinic with weight loss of 5 kg over the Last 6 months, she also complains of anxiety, panic attacks and palpations. On Examination. There is a swelling in the anterior neck which moves on swallowing Which of the following is most likely pathology underlying this presentation?",
+        "Option 1":"Graves' disease",
+        "Option 2":"Hashimoto\u2019s thyroiditis",
+        "Option 3":"Metastasis to the thyroid",
+        "Option 4":"Papillary carcinoma",
+        "Option 5":"Undifferentiated carcinoma",
+        "Correct Answer":"Graves' disease"
+    },
+    {
+        "Question":"A thin menopausal 52-year-old woman is diagnosed with breast cancer. Her menarche was at the age of 14. She had her first child at age 40 years, During lactation, she developed breast abscess that necessitated surgical intervention. She has no family history of breast cancer. Which of the following is the most significant risk factor for this patient?",
+        "Option 1":"Age at first full term pregnancy",
+        "Option 2":"Familial predisposition",
+        "Option 3":"History of breast abscess",
+        "Option 4":"Interval between in menarche and menopause",
+        "Option 5":"Physical stature",
+        "Correct Answer":"Age at first full term pregnancy"
+    },
+    {
+        "Question":"Brown tumors of bone are associated with which of the following condition?",
+        "Option 1":"Hyperthyroidism",
+        "Option 2":"Hypothyroidism",
+        "Option 3":"Hyperparathyroidism",
+        "Option 4":"Hypoparathyroidism",
+        "Option 5":"Osteopetrosis",
+        "Correct Answer":"Hyperparathyroidism"
+    },
+    {
+        "Question":"A 32-year-old woman presents with a tender breast lump. She has a 2-month-old child.  Clinically there is a tender, fluctuant mass of the breast?",
+        "Option 1":"Duct ectasia",
+        "Option 2":"Fibroadenoma",
+        "Option 3":"Fat necrosis",
+        "Option 4":"Intraductal papilloma",
+        "Option 5":"Breast abscess",
+        "Correct Answer":"Breast abscess"
+    },
+    {
+        "Question":"A 52-year-old lady presents with an episode of nipple discharge. It is usually clear in nature.  On examination the discharge is seen to originate from a single duct and although it appears clear, when the discharge is tested with benzidine test it is shown to contain blood what is  the possible diagnosis?",
+        "Option 1":"Duct ectasia",
+        "Option 2":"Fibroadenoma",
+        "Option 3":"Fat necrosis",
+        "Option 4":"Intraductal papilloma",
+        "Option 5":"Breast abscess",
+        "Correct Answer":"Intraductal papilloma"
+    },
+    {
+        "Question":"A thyroidectomy specimen from a 43-year-old lady shows a mass with prominent oxyphil cells and scanty thyroid colloid what is the pathological type of specimen?",
+        "Option 1":"Follicular carcinoma",
+        "Option 2":"Anaplastic carcinoma",
+        "Option 3":"Medullary carcinoma",
+        "Option 4":"Papillary carcinoma",
+        "Option 5":"Lymphoma",
+        "Correct Answer":"Follicular carcinoma"
+    },
+    {
+        "Question":"44-A 32-year-old lady undergoes a thyroidectomy for a mild goitre. The resected specimen shows an intense atypical lymphocytic cell infiltration with acinar destruction and fibrosis what is the possible pathological type of it?",
+        "Option 1":"Follicular carcinoma",
+        "Option 2":"Anaplastic carcinoma",
+        "Option 3":"Medullary carcinoma",
+        "Option 4":"Papillary carcinoma",
+        "Option 5":"Lymphoma",
+        "Correct Answer":"Lymphoma"
+    },
+    {
+        "Question":"45-A 33-year-old man is recovering following a protracted stay on the intensive care unit  recovering from an anastomotic leak following a difficult Trans hiatal esophagectomy. His  progress is slow, and the intensive care doctors receive the following thyroid function test  results: TSH 1.0 u\/l(low) Free T4 = 8(low) T3 1.0= (low)",
+        "Option 1":"Sick euthyroid",
+        "Option 2":"Hyperthyroidism",
+        "Option 3":"Hypothyroidism",
+        "Option 4":"Normal euthyroid",
+        "Option 5":"Anxiety state",
+        "Correct Answer":"Sick euthyroid"
+    },
+    {
+        "Question":"46- A 56-year-old man presents with symptoms of neuropathic facial pain and some weakness of  the muscles of facial expression on the right side. On examination he has a hard mass  approximately 6cm anterior to the right external auditory meatus. What is the most likely  diagnosis?",
+        "Option 1":"Pleomorphic adenoma",
+        "Option 2":"Adenocarcinoma",
+        "Option 3":"Mucoepidermoid carcinoma",
+        "Option 4":"Adenoid cystic carcinoma",
+        "Option 5":"Lymphoma",
+        "Correct Answer":"Adenoid cystic carcinoma"
+    },
+    {
+        "Question":"A 20-year-old girl presents with a thyroid cancer, she is otherwise well with no significant family history. On examination she has a nodule in the left lobe of the thyroid with a small discrete mass separate from the gland itself. Which of the following is the most likely cause?",
+        "Option 1":"Follicular carcinoma",
+        "Option 2":"Anaplastic carcinoma",
+        "Option 3":"Medullary carcinoma",
+        "Option 4":"Papillary carcinoma",
+        "Option 5":"B Cell Lymphoma",
+        "Correct Answer":"Papillary carcinoma"
+    },
+    {
+        "Question":"A 50-year-old female presents with bilateral parotid gland swelling and symptoms of a dry mouth. On examination she has bilateral facial nerve palsies. This improved following steroid treatment",
+        "Option 1":"Pleomorphic adenoma",
+        "Option 2":"Adencid cystic carcinoma",
+        "Option 3":"Sarcoid",
+        "Option 4":"Sjogren's syndrome",
+        "Option 5":"Sialolithiasis",
+        "Correct Answer":"Sarcoid"
+    },
+    {
+        "Question":"A 50-year-old lady presents with symptoms of a dry mouth that has been present for the past few months. She also has a sensation of grittiness in her eyes. On examination she has a diffuse swelling of her parotid gland. There is no evidence of facial nerve palsy. what is your diagnosis",
+        "Option 1":"Adenoid cystic carcinoma",
+        "Option 2":"Sarcoid",
+        "Option 3":"Sjogren's syndrome",
+        "Option 4":"Sialolithiasis",
+        "Option 5":"Warthin's tumor",
+        "Correct Answer":"Sjogren's syndrome"
+    },
+    {
+        "Question":"A 40-year-old lady with longstanding rheumatoid arthritis presents with a dry mouth and parotid gland swelling. Her symptoms transiently improved following administration of a course of steroids for her rheumatoid disease. What is your diagnosis?",
+        "Option 1":"Adenoid cystic carcinoma",
+        "Option 2":"Sarcoid",
+        "Option 3":"Sjogren's syndrome",
+        "Option 4":"Sialolithiasis",
+        "Option 5":"Warthin's tumor",
+        "Correct Answer":"Sjogren's syndrome"
+    },
+    {
+        "Question":"A 45 years old woman presents with cough and weight loss over three months. she also complains of recent onset of polyuria. On examination her pulse rate was 90 and her blood pressure is 100\/85 mmHg. Her BMI is 21 and she has reduced breath sounds in the right upper zone. Her chest X-ray shows an irregular mass lesion in the right upper lobe. Her calcium serum corrected 3.52mmol\/l (normal <2.70) which of the following assays would be the most informative?",
+        "Option 1":"1,2 dihydroxycholecalcifrol",
+        "Option 2":"2 hydroxycholecalcalifrol",
+        "Option 3":"Glucose",
+        "Option 4":"Parathyroid hormone related peptide",
+        "Option 5":"Parathyroid hormone",
+        "Correct Answer":"Parathyroid hormone related peptide"
+    },
+    {
+        "Question":"Female patient has Mediastinal mass biopsy taken from the mass which showing- Hassall corpuscles what the most probably diagnosis?",
+        "Option 1":"Lymphoma",
+        "Option 2":"Follicular carcinoma",
+        "Option 3":"Schwannoma",
+        "Option 4":"Thymoma",
+        "Option 5":"Pheochromocytoma",
+        "Correct Answer":"Thymoma"
+    },
+    {
+        "Question":"A 18-year-old female presented with mobile breast lump in her right breast what is your possible diagnosis?",
+        "Option 1":"Phyllode tumor",
+        "Option 2":"Traumatic fat necrosis",
+        "Option 3":"Breast cyst",
+        "Option 4":"Intra ducat papilloma",
+        "Option 5":"Fibroadenoma",
+        "Correct Answer":"Fibroadenoma"
+    },
+    {
+        "Question":"A patient had a breast cancer. On gene analysis she had a gene mutation affecting DNA replication, Which phase of cell cycle is affected?",
+        "Option 1":"G1 phase",
+        "Option 2":"G2 phase",
+        "Option 3":"S phase",
+        "Option 4":"M phase",
+        "Option 5":"Metaphase",
+        "Correct Answer":"S phase"
+    },
+    {
+        "Question":"22 year old lady presents with symptoms and signs of hyperthyroidism. Her diagnostic work up results in a diagnosis of Graves\u2019 disease, Which of the following best describes the pathophysiology of the condition?",
+        "Option 1":"Formation of IgG antibodies to the TSH receptors on the thyroid gland",
+        "Option 2":"Formation of IgG antibodies to the TRH receptors on the anterior pituitary",
+        "Option 3":"Formation of IgM antibodies to the TSH receptors on the thyroid gland",
+        "Option 4":"Formation of IgA antibodies to the TSH receptors on the thyroid gland",
+        "Option 5":"Formation of IgM antibodies to the TRH receptors on the anterior",
+        "Correct Answer":"Formation of IgG antibodies to the TSH receptors on the thyroid gland"
+    },
+    {
+        "Question":"Patient with graves' disease came after 12 months with relapse what to give her now?",
+        "Option 1":"Propylthiouracil",
+        "Option 2":"Propranolol",
+        "Option 3":"Steroids",
+        "Option 4":"Carbimazole",
+        "Option 5":"Thyroxine",
+        "Correct Answer":"Carbimazole"
+    },
+    {
+        "Question":"A patient presented with renal stones and scrum Ca 2.94 moles\/l, what is the best investigation of choice for solitary parathyroid adenoma?",
+        "Option 1":"Sestamib scan",
+        "Option 2":"USG",
+        "Option 3":"CT",
+        "Option 4":"MRI",
+        "Option 5":"I131 uptake scan",
+        "Correct Answer":"Sestamib scan"
+    },
+    {
+        "Question":"32 years old female presented with thyroid nodule and hyperthyroidism followed by hypothyroidism in her thyroid function what is the most distinctive investigation to reach diagnosis?",
+        "Option 1":"FNAC",
+        "Option 2":"Antibodies",
+        "Option 3":"MRI",
+        "Option 4":"Repeat thyroid function",
+        "Option 5":"None of the above",
+        "Correct Answer":"Antibodies"
+    },
+    {
+        "Question":"A 60-year-old lady presented with breast mass which is tethering to the skin & nipple retraction. what is your possible diagnosis?",
+        "Option 1":"Duct ectasia",
+        "Option 2":"Breast cancer",
+        "Option 3":"Ductal papilloma",
+        "Option 4":"Fibroadenoma",
+        "Option 5":"None of the above",
+        "Correct Answer":"Breast cancer"
+    },
+    {
+        "Question":"A Homeless self-neglected man found in the street having bilateral gynecomastia with no other abnormality detected what is the possible cause?",
+        "Option 1":"Alcoholic cirrhosis",
+        "Option 2":"Malnutrition",
+        "Option 3":"Liver disease",
+        "Option 4":"Testicular tumor",
+        "Option 5":"Mumps",
+        "Correct Answer":"Malnutrition"
+    },
+    {
+        "Question":"A 27 year old lactating mother presented with non-tender mass in her breast u\/s revealed a big cyst what is the most likely diagnosis?",
+        "Option 1":"Fibro adenosis",
+        "Option 2":"Breast cancer",
+        "Option 3":"Breast abscess",
+        "Option 4":"Duct ectasia",
+        "Option 5":"Galactocele",
+        "Correct Answer":"Galactocele"
+    },
+    {
+        "Question":"62 \u2013 year - old woman presents with an erythematous rash originating in the nipple. It is spreading  to the surrounding areolar area and the associated normal tissue. What is the most likely cause?",
+        "Option 1":"Nipple eczema",
+        "Option 2":"Paget's disease of the nipple",
+        "Option 3":"Fibro adenosis",
+        "Option 4":"Invasive lobular carcinoma",
+        "Option 5":"Radial scar",
+        "Correct Answer":"Paget's disease of the nipple"
+    },
+    {
+        "Question":"Erythematous tender swelling of the breast How to differentiate it from inflammatory  carcinomatous?",
+        "Option 1":"No response to Antibiotic",
+        "Option 2":"Nipple inversion",
+        "Option 3":"Associated with mass",
+        "Option 4":"Fever",
+        "Option 5":"None of the above",
+        "Correct Answer":"No response to Antibiotic"
+    },
+    {
+        "Question":"A 53 years old man taking carbimazole for hyperthyroidism suddenly developed agitation,  tachycardia and elevated blood pressure upon emotional stress. What is the most Likely  cause?",
+        "Option 1":"Carbimazole overdose",
+        "Option 2":"Hypothyroidism",
+        "Option 3":"Hyperthyroidism",
+        "Option 4":"Thyrotoxic crisis",
+        "Option 5":"Myxoedema coma",
+        "Correct Answer":"Thyrotoxic crisis"
+    },
+    {
+        "Question":"A 6 week pregnant woman presented with palpitation, heat intolerance and swelling in her neck what is the best treatment for here?",
+        "Option 1":"Propranolol",
+        "Option 2":"Thyroidectomy",
+        "Option 3":"Propylthiouracil",
+        "Option 4":"Carbimazole",
+        "Option 5":"Radioactive iodine",
+        "Correct Answer":"Propylthiouracil"
+    },
+    {
+        "Question":"A 20-year-old lady presents with a lump in the upper outer aspect of her right breast. On examination, she has a firm mobile mass in the upper outer quadrant of her right breast What is the most likely underlying disease process?",
+        "Option 1":"Atypical ductal hyperplasia",
+        "Option 2":"Breast cyst",
+        "Option 3":"Duct ectasia",
+        "Option 4":"Fibroadenoma",
+        "Option 5":"Fat necrosis",
+        "Correct Answer":"Fibroadenoma"
+    },
+    {
+        "Question":"A 43-year-old lady has recently undergone a wide local excision and sentinel Lymph node  biopsy for carcinoma of the breast. Of the factors listed below, which will provide the most  important prognostic information?",
+        "Option 1":"Mitotic number",
+        "Option 2":"Grade",
+        "Option 3":"Nodal status",
+        "Option 4":"Size",
+        "Option 5":"Eestrogen receptor status",
+        "Correct Answer":"Nodal status"
+    },
+    {
+        "Question":"A patient presented with episodes of fainting & sweating following exercise. She has history  of parathyroid disease. What is your possible diagnosis?",
+        "Option 1":"Insulinoma",
+        "Option 2":"Glucagonoma",
+        "Option 3":"VIPoma",
+        "Option 4":"Gastrinoma",
+        "Option 5":"Paraganglioma",
+        "Correct Answer":"Insulinoma"
+    },
+    {
+        "Question":"A Female patient 44 years old diagnosed as Graves' disease, what is the pathological change  occur in the gland in this condition?",
+        "Option 1":"Hyperplasia",
+        "Option 2":"Aplasia",
+        "Option 3":"Neoplasia",
+        "Option 4":"Hypertrophy",
+        "Option 5":"None of the above",
+        "Correct Answer":"Hyperplasia"
+    },
+    {
+        "Question":"A 50 year's old female on warfarin as a treatment for AF. She presented with irregular mass in her right breast what is the popper instrumental procedure for diagnosis of this condition?",
+        "Option 1":"FNAC",
+        "Option 2":"U\/S",
+        "Option 3":"MRI",
+        "Option 4":"Core Biopsy",
+        "Option 5":"None of the above",
+        "Correct Answer":"Core Biopsy"
+    },
+    {
+        "Question":"A 75-year-old women presents with 6 cm diameter tumor in her right breast. There is no attachment of the primary tumor to the skin of her chest wall. the only other positive findings are enlarged irregular axillary lymph nodes, Which of the following is the clnical staging?",
+        "Option 1":"T3 N1 M0",
+        "Option 2":"T3 N2 Mx",
+        "Option 3":"T3 N3 Mx",
+        "Option 4":"T4 N1 M0",
+        "Option 5":"T4 N1 Mx",
+        "Correct Answer":"T3 N1 M0"
+    },
+    {
+        "Question":"55 year old female presents with 2 cm thyroid nodule and no other symptoms FNAC was benign. What is the best management of this case?",
+        "Option 1":"Hemithyroidectomy",
+        "Option 2":"Discharge with follow up",
+        "Option 3":"Review us",
+        "Option 4":"Total thyroidectomy",
+        "Option 5":"Lumpectomy",
+        "Correct Answer":"Discharge with follow up"
+    },
+    {
+        "Question":"Patient with bilateral hailer lymphadenopathy. FNAC of mediastinal mass shows glandular cells, pleomorphic nuclei and is negative for many neuroendocrine stains what your diagnosis is?",
+        "Option 1":"Adenocarcinoma",
+        "Option 2":"Small cell carcinoma",
+        "Option 3":"Squamous cell carcinoma",
+        "Option 4":"Mesothelioma",
+        "Option 5":"Hamartoma",
+        "Correct Answer":"Adenocarcinoma"
+    },
+    {
+        "Question":"A 40 year old patient presented with painful thyroid nodule FNAC was done which revealed siderophages with some epithelial cells what your diagnosis?",
+        "Option 1":"Follicular carcinoma",
+        "Option 2":"Anaplastic carcinoma",
+        "Option 3":"Medullary carcinoma",
+        "Option 4":"Papilary carcinoma",
+        "Option 5":"Thyroid cyst",
+        "Correct Answer":"Thyroid cyst"
+    },
+    {
+        "Question":"A 58-year-old woman presented to the Emergency Department with a large fluctuant swelling at the site of a recent insect bite. She is anxious, tachycardic, and pyrexia. ECG shows critical fibrillation. She is noted to have a goitre. The swelling at the site of the bite requires surgical drainage . Which of the following classes of drug, would be most appropriate as part of her preoperative preparation for surgery?",
+        "Option 1":"Apha-1 adrenoceptor agonist",
+        "Option 2":"Alpha-2 adrenoceptor agonist",
+        "Option 3":"Alpha adrenoceptor blocker",
+        "Option 4":"Beta adrenoceptor agonist",
+        "Option 5":"Beta adrenoceptor blocker",
+        "Correct Answer":"Beta adrenoceptor blocker"
+    },
+    {
+        "Question":"A 66-year-old woman with a crusty lesion on the areola on examination there is No underiying breast mass What is your possible diagnosis?",
+        "Option 1":"Paget's disease of the nipple",
+        "Option 2":"Breast cancer",
+        "Option 3":"intraductal papililoma",
+        "Option 4":"plasma cell mastitis",
+        "Option 5":"breast cyst",
+        "Correct Answer":"Paget's disease of the nipple"
+    },
+    {
+        "Question":"Female patient had mammogram 2 years ago which was normal result , now mammogram showed microcalcification, her examination and u\/s revealed 2 cm mass in her right breast what is your management?",
+        "Option 1":"Conservative surgery",
+        "Option 2":"Modified radical mastectomy",
+        "Option 3":"Radiotherapy",
+        "Option 4":"Chemotherapy",
+        "Option 5":"None of the above",
+        "Correct Answer":"Conservative surgery"
+    },
+    {
+        "Question":"A 45-year-old female with tender, mobile lump of right inner lower breast and has erratic menstrual cycle. What is the best possible cause?",
+        "Option 1":"Sclerosing adenosis",
+        "Option 2":"Pseudo angiomatous stromal hyperplasia",
+        "Option 3":"Benign breast cyst",
+        "Option 4":"Fibroadenoma",
+        "Option 5":"Ductal carcinoma",
+        "Correct Answer":"Sclerosing adenosis"
+    },
+    {
+        "Question":"A 45 year old female has positive BRCA1 mutation presented with firm painless mass on the right breast, what the next step?",
+        "Option 1":"MRI",
+        "Option 2":"US",
+        "Option 3":"Sono mammography",
+        "Option 4":"FNAC",
+        "Option 5":"True cut biopsy",
+        "Correct Answer":"Sono mammography"
+    },
+    {
+        "Question":"A 35 year female patient has a 6 week History of unilateral breast pains she rated severity of her pain as 8\/10, not related to menstrual cycle, what is your next step of management?",
+        "Option 1":"Reassure and discharge",
+        "Option 2":"USS",
+        "Option 3":"Mammogram",
+        "Option 4":"FNAC",
+        "Option 5":"None of the above",
+        "Correct Answer":"USS"
+    },
+    {
+        "Question":"A Patient presented with parotid mass, FNAC is insufficient, shows lymphocytes. facial nerve is unaffected with CT showing lobulated lesion with intraparotid Lymph node and abdominal CT showing para-aortic nodes what is the next best step?",
+        "Option 1":"True cut core biopsy",
+        "Option 2":"Superficial parotid excision",
+        "Option 3":"Radical parotid excision",
+        "Option 4":"Lumpectomy",
+        "Option 5":"Open biopsy",
+        "Correct Answer":"Superficial parotid excision"
+    },
+    {
+        "Question":"A 45-year-old Patient has a slow growing firm painless lump in front of her ear on examination what is you probable diagnosis?",
+        "Option 1":"Lipoma",
+        "Option 2":"Skin cancer",
+        "Option 3":"Pleomorphic adenoma",
+        "Option 4":"Osteoma",
+        "Option 5":"Preauricular sinus",
+        "Correct Answer":"Pleomorphic adenoma"
+    },
+    {
+        "Question":"Which feature of a mammogram is LEAST likely to be suggestive of carcinoma?",
+        "Option 1":"Popcorn calcifications",
+        "Option 2":"Micro calcifications",
+        "Option 3":"Speculations",
+        "Option 4":"Difference in density of breast tissue",
+        "Option 5":"Nipple retraction",
+        "Correct Answer":"Popcorn calcifications"
+    }
+]

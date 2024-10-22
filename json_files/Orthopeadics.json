@@ -1,0 +1,902 @@
+[
+    {
+        "Question":"A 45-year-old woman was crossing the road while she felt a sudden pain in her left leg and feels  as if she has been hit in the back of the ankle. Which of the following is the most appropriate  test?",
+        "Option 1":"An impingement sign",
+        "Option 2":"Apley's grinding test",
+        "Option 3":"Phalen's manoeuvre",
+        "Option 4":"Simmonds' squeeze test",
+        "Option 5":"Thomas test",
+        "Correct Answer":"Simmonds' squeeze test"
+    },
+    {
+        "Question":"Retropulsion test is often used to test the function of which structure?",
+        "Option 1":"Extensor hallucis longus muscle",
+        "Option 2":"Achille's tendon",
+        "Option 3":"Extensor pollicis longus muscle",
+        "Option 4":"Abductor pollicis longus muscle",
+        "Option 5":"Anterior cruciate ligament",
+        "Correct Answer":"Extensor pollicis longus muscle"
+    },
+    {
+        "Question":"A 32 years old patient came at A& E with a tense swelling at mid-thigh. On examination, his foot  is internally rotated with absent dorsalis pedis pulse with painful thigh. What is the most likely  cause?",
+        "Option 1":"Anterior hip dislocation",
+        "Option 2":"Posterior hip dislocation",
+        "Option 3":"Fracture neck of femur",
+        "Option 4":"Fracture femoral shaft",
+        "Option 5":"Per-trochanteric fracture femur",
+        "Correct Answer":"Fracture femoral shaft"
+    },
+    {
+        "Question":"A 53 years old woman presented with left knee pain. Xray shows a radiolucent lesion at diaphysis of the femur extending to joint line. What is the most likely diagnosis?",
+        "Option 1":"Avascular necrosis of bone",
+        "Option 2":"Giant cell tumor",
+        "Option 3":"Osteosarcoma",
+        "Option 4":"Osteoid osteoma",
+        "Option 5":"Paget disease of bone",
+        "Correct Answer":"Giant cell tumor"
+    },
+    {
+        "Question":"A 6-year-old boy was brought by his mother with a 2-day history of right hip pain and inability to bear welght. On examination, he is apyrexial and systemically well but his hip movements are generally painful. Which of the following is the most likely diagnosis?",
+        "Option 1":"Perthes disease",
+        "Option 2":"Slipped upper femoral epiphysis",
+        "Option 3":"Congenital dislocation of the hip",
+        "Option 4":"Septic arthritis",
+        "Option 5":"Juvenile rheumatoid arthritis",
+        "Correct Answer":"Perthes disease"
+    },
+    {
+        "Question":"A 12 years old overweight child presented with obvious limping and limited internal rotation. He  denies any history of trauma. What is the most accurate diagnosis?",
+        "Option 1":"Perthes disease",
+        "Option 2":"Slipped upper femoral epiphysis",
+        "Option 3":"Developmental dysplasia of the hip",
+        "Option 4":"Septic arthritis",
+        "Option 5":"Osteoarthritis",
+        "Correct Answer":"Slipped upper femoral epiphysis"
+    },
+    {
+        "Question":"A 2 months old neonate was brought by his mother after a breech delivery. She is concerned that  there is a prominent skin crease on the left hip. What is the most accurate diagnosis?",
+        "Option 1":"Perthes disease",
+        "Option 2":"Slipped upper femoral epiphysis",
+        "Option 3":"Developmental dysplasia of the hip",
+        "Option 4":"Congenital hip dislocation",
+        "Option 5":"Osteoarthritis",
+        "Correct Answer":"Developmental dysplasia of the hip"
+    },
+    {
+        "Question":"A 21 years old soldier presented with metatarsal pain. Xray revealed no bony abnormality. Two  weeks later, Xray revealed callus formation. What is the most likely cause?",
+        "Option 1":"March fracture",
+        "Option 2":"Freiburg disease",
+        "Option 3":"Morton's neuroma",
+        "Option 4":"Osteoarthritis",
+        "Option 5":"Tarsal syndrome",
+        "Correct Answer":"March fracture"
+    },
+    {
+        "Question":"A patient had trauma to his knee. On examination he noticed that pushing his knee from lateral  to medial causes instability and pain. What's the most Likely underlying diagnosis?",
+        "Option 1":"Medial collateral ligament injury",
+        "Option 2":"Anterior cruciate ligament injury",
+        "Option 3":"Lateral collateral ligament injury",
+        "Option 4":"Posterior cruciate ligament injury",
+        "Option 5":"Meniscal teal",
+        "Correct Answer":"Medial collateral ligament injury"
+    },
+    {
+        "Question":"A 50 years old woman, who is on her feet for much of the working day, complains of pain and paraesthesia affecting the third and fourth toes of her left foot. On examination, a painful click and reproduction of her symptoms is felt on applying horizontal pressure across the metatarsal heads. What is the most likely cause?",
+        "Option 1":"Gout",
+        "Option 2":"Hallux rigidus",
+        "Option 3":"Morton's neuroma",
+        "Option 4":"Hallux valgus",
+        "Option 5":"Plantar fasciitis",
+        "Correct Answer":"Morton's neuroma"
+    },
+    {
+        "Question":"A patient has a suspected an intraarticular fracture of the elbow joint. The most appropriate  investigation is:",
+        "Option 1":"Stress Xray",
+        "Option 2":"CT",
+        "Option 3":"MRI",
+        "Option 4":"Bone scan",
+        "Option 5":"Repeat Xray",
+        "Correct Answer":"CT"
+    },
+    {
+        "Question":"A patient has noticed a slowly growing painful swelling in the lateral aspect of the knee at the  joint line. There's no history of trauma. What's the most likely underlying diagnosis?",
+        "Option 1":"Loose body",
+        "Option 2":"Anterior cruciate ligament injury",
+        "Option 3":"Chondromalacia patellae",
+        "Option 4":"Meniscal cyst",
+        "Option 5":"Medial collateral ligament injury",
+        "Correct Answer":"Meniscal cyst"
+    },
+    {
+        "Question":"External fixator in Pilon fracture is often fixed between:",
+        "Option 1":"Tibia and calcaneus",
+        "Option 2":"Tibia and fibula",
+        "Option 3":"Talus and calcaneus",
+        "Option 4":"Navicular and talus",
+        "Option 5":"Navicular and 4th metatarsal",
+        "Correct Answer":"Tibia and calcaneus"
+    },
+    {
+        "Question":"A patient has suffered a fractured distal radius. Examination revealed a tense and shiny palm skin at the site of fracture, What's the most likely underlying diagnosis?",
+        "Option 1":"Osteoarthritis",
+        "Option 2":"Bone necrosis",
+        "Option 3":"Complex regional pain syndrome",
+        "Option 4":"Osteosarcoma",
+        "Option 5":"Non union",
+        "Correct Answer":"Complex regional pain syndrome"
+    },
+    {
+        "Question":"Which muscle is the most affected in rotator cuff tear?",
+        "Option 1":"Subscapularis",
+        "Option 2":"Teres minor",
+        "Option 3":"Infraspinatus",
+        "Option 4":"Supraspinatus",
+        "Option 5":"Teres major",
+        "Correct Answer":"Supraspinatus"
+    },
+    {
+        "Question":"A patient has symptoms of painful arc of shoulder abduction between (60-120) degrees. What's the most likely underlying diagnosis?",
+        "Option 1":"Frozen shoulder",
+        "Option 2":"Calcific tendinitis",
+        "Option 3":"Dislocated shoulder",
+        "Option 4":"Supraspinatus tendinitis",
+        "Option 5":"Occupational pain",
+        "Correct Answer":"Supraspinatus tendinitis"
+    },
+    {
+        "Question":"A 23 years old footballer has a sudden pain in calf. On examination, while he is lying prone  squeezing his calf muscle causes no plantar flexion. What's the most likely underlying diagnosis?",
+        "Option 1":"Myopathy",
+        "Option 2":"Tendon Achille's rupture",
+        "Option 3":"Ankle dislocation",
+        "Option 4":"Pott's fracture",
+        "Option 5":"Deltoid ligament injury",
+        "Correct Answer":"Tendon Achille's rupture"
+    },
+    {
+        "Question":"A patient has posterior dislocation of hip, ORIF was done through a posterior approach. Post  operatively, he noticed loss of power in muscles below knee. What's the most likely underlying  diagnosis?",
+        "Option 1":"Tourniquet palsy",
+        "Option 2":"Sciatic nerve injury",
+        "Option 3":"Compartment syndrome",
+        "Option 4":"Femoral nerve injury",
+        "Option 5":"None of the above",
+        "Correct Answer":"Sciatic nerve injury"
+    },
+    {
+        "Question":"A patient has tibial shaft fracture, which was managed conservatively. Now he shows signs of  compartment syndrome. The Least reliable sign of compartment syndrome is:",
+        "Option 1":"Loss of sensation",
+        "Option 2":"Absent distal pulse",
+        "Option 3":"Pain on passive movement",
+        "Option 4":"Tense swollen leg",
+        "Option 5":"None of the above",
+        "Correct Answer":"Absent distal pulse"
+    },
+    {
+        "Question":"Histology of a patient with rheumatoid arthritis may reveal:",
+        "Option 1":"Onion peel appearance of bone",
+        "Option 2":"Osteophytes",
+        "Option 3":"Granulomatous necrobiotic inflammation",
+        "Option 4":"Excessive calcification",
+        "Option 5":"None of the above",
+        "Correct Answer":"Granulomatous necrobiotic inflammation"
+    },
+    {
+        "Question":"An 8 years old child falls onto an outstretched hand and is brought to the emergency department. He is examined by a doctor and a bony injury is cleared clinically. He re-presents a week later with pain in the anatomical snuff box. What is the most Likely underlying injury?",
+        "Option 1":"Fracture of the distal radius",
+        "Option 2":"Fracture of the scaphoid",
+        "Option 3":"Dislocation of the lunate",
+        "Option 4":"Rupture of flexor pollicis longus tendon",
+        "Option 5":"Bennett's fracture",
+        "Correct Answer":"Fracture of the scaphoid"
+    },
+    {
+        "Question":"Histological feature of gout is typically:",
+        "Option 1":"Rhomboid shaped crystals with negative birefringence",
+        "Option 2":"Needle shaped crystals with positive birefringence",
+        "Option 3":"Calcified crystals",
+        "Option 4":"Negative birefringence needle shaped crystals",
+        "Option 5":"Fibrotic nodules with negative birefringence",
+        "Correct Answer":"Negative birefringence needle shaped crystals"
+    },
+    {
+        "Question":"A child known with sickle cell anemia experienced hip pain with high grade fever and TLC of 16  and ESR up to 66. What is the most likely underlying organism?",
+        "Option 1":"Staphylococcus aureus",
+        "Option 2":"Streptococcus pneumonia",
+        "Option 3":"Salmonella",
+        "Option 4":"Neisseria meningitis",
+        "Option 5":"None of the above",
+        "Correct Answer":"Salmonella"
+    },
+    {
+        "Question":"A 32 years old athlete presented with back stiffness affecting all regions of the back with  limited expansion. What is the most likely underlying cause?",
+        "Option 1":"Ankylosing spondylitis",
+        "Option 2":"Spinal canal stenosis",
+        "Option 3":"Spina bifida",
+        "Option 4":"Spondylolisthesis",
+        "Option 5":"Spondylosis",
+        "Correct Answer":"Ankylosing spondylitis"
+    },
+    {
+        "Question":"A patient with history of back trauma presented with back stiffness and limitation of  movement. Xray revealed prominent sacrum. What is the most likely underlying cause?",
+        "Option 1":"Spondylolisthesis",
+        "Option 2":"Ankylosing spondylitis",
+        "Option 3":"Spinal canal stenosis",
+        "Option 4":"Scheuermann's disease",
+        "Option 5":"Spondylolysis",
+        "Correct Answer":"Spondylolisthesis"
+    },
+    {
+        "Question":"A 25 years old man sustains a twisting injury while playing football. He develops immediate  swelling of the knee, and he cannot continue the game. Six months later, he is still not able to  play football. His knee feels unsteady and tends to give way. On examination, he has a full range  motion. There is a positive anterior draw test and a small effusion. What is the most  likely structure damaged?",
+        "Option 1":"Anterior cruciate ligament",
+        "Option 2":"Lateral collateral ligament",
+        "Option 3":"Medial collateral ligament",
+        "Option 4":"Oblique popliteal ligament",
+        "Option 5":"Posterior cruciate Ligament",
+        "Correct Answer":"Anterior cruciate ligament"
+    },
+    {
+        "Question":"A 30-year-old man injures his right knee, causing a painful swelling in that area, during a road  traffic accident. Radiographs show no bony injury. A fortnight later, he notices difficulty in  walking downhill, At the orthopaedic clinic, he is found to have a small effusion in the knee joint  and when both knees are flexed to 90 and are viewed from the side, the upper part of the right  tibia is seen to be posteriorly displaced compared with the left tibia, What is the most likely  diagnosis?",
+        "Option 1":"Medial collateral ligament injury",
+        "Option 2":"Anterior cruciate ligament injury",
+        "Option 3":"Posterior cruciate ligament injury",
+        "Option 4":"Lateral collateral ligament injury",
+        "Option 5":"Meniscal tear",
+        "Correct Answer":"Posterior cruciate ligament injury"
+    },
+    {
+        "Question":"A 30 years old patient came with subcapital femoral neck fracture managed by closed  reduction, with excellent prognosis and follow up, came after 1 years with pain and hip stiffness.  What is the diagnosis?",
+        "Option 1":"Avascular necrosis",
+        "Option 2":"Malunion",
+        "Option 3":"Nonunion",
+        "Option 4":"Osteoarthritis",
+        "Option 5":"None of the above",
+        "Correct Answer":"Avascular necrosis"
+    },
+    {
+        "Question":"A man suffered a car accident with multiple tibial and fibular fracture. Intramedullary nailing  was done. 6 hours later, he had severe pain at leg with loss of sensation. What is the most Ekely  underlying cause?",
+        "Option 1":"DVT",
+        "Option 2":"Compartment syndrome",
+        "Option 3":"Ischemic limb",
+        "Option 4":"Avascular necrosis",
+        "Option 5":"None of the above",
+        "Correct Answer":"Compartment syndrome"
+    },
+    {
+        "Question":"A 12-year-old boy is brought to hospital with a trauma to his left thigh after being struck on the  side by a motor vehicle. What is the expected type of fracture?",
+        "Option 1":"Greenstick",
+        "Option 2":"Oblique",
+        "Option 3":"Spiral",
+        "Option 4":"Transverse",
+        "Option 5":"None of the above",
+        "Correct Answer":"Transverse"
+    },
+    {
+        "Question":"A 70 years old woman, who suffers from multiple metastatic bony lesion, sustains a fracture in her humerus after reaching out for bus as it was pulling away from the bus stop. What is the expected type of fracture?",
+        "Option 1":"Greenstick",
+        "Option 2":"Oblique",
+        "Option 3":"Spiral",
+        "Option 4":"Transverse",
+        "Option 5":"None of the above",
+        "Correct Answer":"Oblique"
+    },
+    {
+        "Question":"A 79 years old female patient has a hemiarthroplasty for a fractured neck of femur following a fall. What would be the features of the resected head of femur?",
+        "Option 1":"Increased calcified bone and normal bone density",
+        "Option 2":"Increased osteoblast activity with reduced osteoclast activity",
+        "Option 3":"Architecturally irregular bone, reduced mineralization and diminished bone mass",
+        "Option 4":"Architecturally normal bone, diminished bone mass",
+        "Option 5":"Architecturally normal bone, reduced calcified bone and normal bone mass",
+        "Correct Answer":"Architecturally normal bone, diminished bone mass"
+    },
+    {
+        "Question":"A 22-year-old patient came to E\/R department presented with tenderness on his hand at  anatomical snuff box. He reported a history of falling on his outstretched hand 12 hours ago. You  suspected facture scaphoid. X-ray failed to exclude scaphoid fracture. What next?",
+        "Option 1":"CT",
+        "Option 2":"Repeat X-ray",
+        "Option 3":"DEXA scan",
+        "Option 4":"MRI",
+        "Option 5":"Stress Xray",
+        "Correct Answer":"MRI"
+    },
+    {
+        "Question":"A 55 years old female complaining of pain in legs on walking and gets better by walking uphill  and pushing a trolley with a positive cart wheel sign. What is your provisional diagnosis?",
+        "Option 1":"Chronic limb ischemia",
+        "Option 2":"Disc prolapse L4 -LS",
+        "Option 3":"Canal stenosis",
+        "Option 4":"Ankylosis spondylitis",
+        "Option 5":"Spina bifida syndrome",
+        "Correct Answer":"Canal stenosis"
+    },
+    {
+        "Question":"A 23 years old patient suffered a fracture shaft of femur which was reduced, with internal  fixation done. At the end of operation, you note that the leg seems pale with reduced pulse.  What is the best next step in management?",
+        "Option 1":"Immediate revision of surgery",
+        "Option 2":"Follow up for 2 hours",
+        "Option 3":"Cardiac monitoring",
+        "Option 4":"Fasciotomy",
+        "Option 5":"None of the above",
+        "Correct Answer":"Immediate revision of surgery"
+    },
+    {
+        "Question":"An elderly man has bilateral femur shaft fracture underwent fixation, intra-operative blood  loss was 800 ml. After 1 hour post operatively, he became tachypnoeic with skin rashes and then  arrested. What is the most likely cause?",
+        "Option 1":"Fat embolism",
+        "Option 2":"Tension pneumothorax",
+        "Option 3":"Pulmonary infarction",
+        "Option 4":"Acute left ventricular failure",
+        "Option 5":"Myocardial infarction",
+        "Correct Answer":"Fat embolism"
+    },
+    {
+        "Question":"A 14 years old boy presents with a slowly enlarging painful mass in his right leg associated with  low grade fever and weight loss. Imaging confirms an osteolytic lesion involving the medullary  cavity of the diaphysis of the fibula associated with a soft tissue mass. An onion skin periosteal  reaction is seen. Molecular studies confirm an 11: 22 chromosome translocations. What is the  most likely diagnosis?",
+        "Option 1":"Osteosarcoma",
+        "Option 2":"Chondroblastoma",
+        "Option 3":"Eosinophilic granuloma",
+        "Option 4":"Ewing sarcoma",
+        "Option 5":"Primary bone lymphoma",
+        "Correct Answer":"Ewing sarcoma"
+    },
+    {
+        "Question":"A 52-year-old man is found to have multiple myeloma. What skull X-ray appearances would be characteristic?",
+        "Option 1":"Diffuse thickening of the calvarium",
+        "Option 2":"Hair on end appearance",
+        "Option 3":"Multiple fractures",
+        "Option 4":"Multiple osteolytic lesions",
+        "Option 5":"Multiple osteosclerotic lesions",
+        "Correct Answer":"Multiple osteolytic lesions"
+    },
+    {
+        "Question":"A 56 years old patient with metastatic cancer is presented with lytic bone lesion on Xray. Which of the following lab finding would be expected?",
+        "Option 1":"Hypocakemia",
+        "Option 2":"Normocalcemia",
+        "Option 3":"Hypercalcemia",
+        "Option 4":"Hypophosphatemia",
+        "Option 5":"None of the above",
+        "Correct Answer":"Hypercalcemia"
+    },
+    {
+        "Question":"A 10 years old child presented with left knee hemarthrosis. He denied any trauma parents reported a similar family history including, his father. What is your diagnosis?",
+        "Option 1":"Factor VII deficiency",
+        "Option 2":"Traumatic hemarthrosis",
+        "Option 3":"Haemophilia A",
+        "Option 4":"Lyme disease",
+        "Option 5":"Lymphedema",
+        "Correct Answer":"Haemophilia A"
+    },
+    {
+        "Question":"Which of the following is NOT a feature of Xray in osteoarthritis",
+        "Option 1":"Cyst formation",
+        "Option 2":"Narrow joint space",
+        "Option 3":"Subcondral sclerosis",
+        "Option 4":"Osteophytes",
+        "Option 5":"Fibrosis",
+        "Correct Answer":"Fibrosis"
+    },
+    {
+        "Question":"Ten years previously, a 41 years old man sustained a mid-tarsal dislocation. The dislocation was unstable and required open reduction plus temporary internal fixation with a Kirschner wire. He now returns to the clinic with a mid-tarsal pain, Which of the following is the most likely diagnosis?",
+        "Option 1":"Primary osteoarthritis",
+        "Option 2":"Malunion",
+        "Option 3":"Nonunion",
+        "Option 4":"Post-traumatic osteoarthritis",
+        "Option 5":"Avascular necrosis",
+        "Correct Answer":"Post-traumatic osteoarthritis"
+    },
+    {
+        "Question":"A 22 years old football player sustained a twisting injury to his right knee and was unable to carry on playing due to pain. The next day his GP noted that he had a patellar tap. He required four weeks to regain full fitness. In his first post-injury match, the knee suffers a similar twisting injury. On this occasion the GP noted that the knee lacked full extension. Which of the following is the most likely diagnosis?",
+        "Option 1":"Osteochondritis dissecans",
+        "Option 2":"Tear of medial collateral ligament",
+        "Option 3":"Torn posterior cruciate ligament",
+        "Option 4":"Bucket handle meniscal tear",
+        "Option 5":"Torn anterior cruciate ligament",
+        "Correct Answer":"Bucket handle meniscal tear"
+    },
+    {
+        "Question":"A 23-year-old man presents with pain at the sole of the right forefoot between the second and third metatarsals. The pain is progressively worse on walking. Examination reveals tenderness and thickening of the area and a diagnosis of Morton neuroma is made. Which of the following pathological features is characteristic of this condition?",
+        "Option 1":"Multiple ectatic vascular structures",
+        "Option 2":"Nerve bundles associated with fibrosis",
+        "Option 3":"Cells suggestive of a fibromatosis",
+        "Option 4":"Structure containing inflammatory cells and fibrous tissue",
+        "Option 5":"Wallerian degeneration",
+        "Correct Answer":"Nerve bundles associated with fibrosis"
+    },
+    {
+        "Question":"A 23 years old patient fractured his fibula and tibia 2-4 cm above ankle joint. There's angulation and tenderness. What is the most appropriate management??",
+        "Option 1":"Intra medullary nailing",
+        "Option 2":"Fixation by plate",
+        "Option 3":"Below knee cast",
+        "Option 4":"Above knee cast",
+        "Option 5":"Arthroscopy",
+        "Correct Answer":"Fixation by plate"
+    },
+    {
+        "Question":"A 32 years old athlete presented to the ED after a fall. Examination revealed a bruised knee.  Xray showed multi-fragmented fracture patella. What is the most appropriate management?",
+        "Option 1":"Patellectomy",
+        "Option 2":"Wire binding",
+        "Option 3":"Open reduction and internal fixation",
+        "Option 4":"Open reduction and external fixation",
+        "Option 5":"Casting",
+        "Correct Answer":"Patellectomy"
+    },
+    {
+        "Question":"An elderly bronchitic man fell in the street. He has very severe pain localized in the mid axillary  line. A postero-anterior chest Xray taken half an hour later excludes pneumothorax and  hemothorax but confirms a fracture in the fourth rib. Which of the following is the most  appropriate therapeutic action?",
+        "Option 1":"Intercostal chest drain",
+        "Option 2":"Admit for observation and analgesia",
+        "Option 3":"Oral analgesia",
+        "Option 4":"Internal fixation of the rib fracture",
+        "Option 5":"Phenol intercostal nerve block",
+        "Correct Answer":"Admit for observation and analgesia"
+    },
+    {
+        "Question":"A 53 years old diabetic hand worker presented with a fixed bent left ring finger. Extending the  finger produces a popping sound. What is the most likely diagnosis?",
+        "Option 1":"Rheumatoid arthritis",
+        "Option 2":"Carpal tunnel syndrome",
+        "Option 3":"Trigger finger",
+        "Option 4":"Heberden disease",
+        "Option 5":"None of the above",
+        "Correct Answer":"Trigger finger"
+    },
+    {
+        "Question":"A 53 years old female presented with pain after completing her hand work as a typist. She reported dropping of objects from her hand. What is the most appropriate treatment?",
+        "Option 1":"Steroids",
+        "Option 2":"Physiotherapy",
+        "Option 3":"Carbal tunnel release",
+        "Option 4":"Analgesia",
+        "Option 5":"None of the above",
+        "Correct Answer":"Carbal tunnel release"
+    },
+    {
+        "Question":"A 13 years old boy presented with a focal swelling at the distal end of his left thigh. Investigations revealed an osteoid forming tumor in lower distal femur, What is the most likely diagnosis?",
+        "Option 1":"Osteosarcoma",
+        "Option 2":"Ewing sarcoma",
+        "Option 3":"Chondrosarcoma",
+        "Option 4":"Osteoblastoma",
+        "Option 5":"Benign bone cyst",
+        "Correct Answer":"Osteosarcoma"
+    },
+    {
+        "Question":"A 53 years old man presents with left thigh pain. Xray revealed a soft tissue mass in the left  femur raising the periosteum. Microscopic examination revealed malignant polygonal cells with  increased mitosis. What is the most likely cause?",
+        "Option 1":"Osteoclastoma",
+        "Option 2":"Multiple myeloma",
+        "Option 3":"Ewing sarcoma",
+        "Option 4":"Osteoporosis",
+        "Option 5":"Osteosarcoma",
+        "Correct Answer":"Osteosarcoma"
+    },
+    {
+        "Question":"A 4-year-old boy presents to the Emergency Department with a two-day history of fever  difficulty walking and is unable to weight bear on the right leg. He has been on oral Amoxicillin  250 mg three times a day for a chest infection over the last five days. He is irritable with a  temperature of 39.4C. He does not allow examination and keeps his right hip flexed and  abducted. Blood tests are: white blood cell count; (WBC) 12.3 x -109\/dL, C-Reactive protein (CRP)  146, haemoglobin 11.3 g\/dL What ls the most likely diagnosis?",
+        "Option 1":"Acute avascular necrosis of hip",
+        "Option 2":"Dislocation of hip",
+        "Option 3":"Perthes disease",
+        "Option 4":"Septic arthritis",
+        "Option 5":"Slipped upper femoral epiphysis",
+        "Correct Answer":"Septic arthritis"
+    },
+    {
+        "Question":"A 50 years old female patient in on double anti platelet for mitral valve replacement. While she  was going down the stairs, she felt that her knee gave away. Examination revealed a large  swelling above the patella, and she cannot straight her leg. Which of the following is the most  likely diagnosis?",
+        "Option 1":"Spontaneous hemarthrosis",
+        "Option 2":"Pathological fracture patella",
+        "Option 3":"Quadriceps muscle rupture",
+        "Option 4":"Patellar ligament rupture",
+        "Option 5":"Anterior cruciate ligament rupture",
+        "Correct Answer":"Quadriceps muscle rupture"
+    },
+    {
+        "Question":"A 33 years old man presented with a prolonged history of shoulder pain. On passive shoulder abduction, he is unable to maintain his shoulder abducted. Which of the following is the most accurate diagnosis?",
+        "Option 1":"Supraspinatus tendinitis",
+        "Option 2":"Rotator cuff tear",
+        "Option 3":"Volkmann ischemic contracture",
+        "Option 4":"Frozen shoulder",
+        "Option 5":"None of the above",
+        "Correct Answer":"Rotator cuff tear"
+    },
+    {
+        "Question":"A 79 years old woman has a hemiarthroplasty for a fractured neck of femur following a fall. What would be the features of the resected head of femur?",
+        "Option 1":"Architecturally irregular bone, increased mineralization & normal bone density",
+        "Option 2":"Architecturally irregular bone, normal mineralization & normal bone density",
+        "Option 3":"Architecturally irregular bane, reduced mineralization & diminished bone density",
+        "Option 4":"Architecturally normal bone. normal mineralization & diminished bone density",
+        "Option 5":"Architecturally normal bone, reduced mineralization & normal bone density",
+        "Correct Answer":"Architecturally normal bone. normal mineralization & diminished bone density"
+    },
+    {
+        "Question":"32 years old man suffered a tibial fracture during a match. It was managed with closed reduction with above knee cast. 6 hours later, he developed tingling. numbness and severe pain in his leg. Which of the following is the most appropriate management?",
+        "Option 1":"Measure compartment pressure",
+        "Option 2":"Analgesia and follow up",
+        "Option 3":"Asses distal pulses",
+        "Option 4":"Four compartment fasciotomy",
+        "Option 5":"Refer to vascular surgeon",
+        "Correct Answer":"Four compartment fasciotomy"
+    },
+    {
+        "Question":"A 50-year-old woman sustains a displaced distal radial fracture. This is manipulated under anaesthetic and treated in a cast for six weeks. After three months she returns to the fracture clinic with painful and limited pronation and supination. which of the following is the most diagnoses?",
+        "Option 1":"Complex regional pain syndrome Type 1 (reflex sympathetic dystrophy)",
+        "Option 2":"Malunion",
+        "Option 3":"Non-union",
+        "Option 4":"Posterior interosseous nerve palsy",
+        "Option 5":"Radial nerve compression",
+        "Correct Answer":"Malunion"
+    },
+    {
+        "Question":"A 10-year-old boy fall while playing on his outstretched hand, on examination he has minimal pain and swelling at site of injury, what is the type of fracture to be found in x-ray?",
+        "Option 1":"Transverse",
+        "Option 2":"Comminuted",
+        "Option 3":"Oblique",
+        "Option 4":"Spiral",
+        "Option 5":"Greenstick",
+        "Correct Answer":"Greenstick"
+    },
+    {
+        "Question":"A 35 years old athlete suffered fracture in both tibia and fibula 2 cm from ankle joint after a twisting injury. Xray show which type of fractures?",
+        "Option 1":"Transverse",
+        "Option 2":"Comminuted",
+        "Option 3":"Oblique",
+        "Option 4":"Spiral",
+        "Option 5":"Greenstick",
+        "Correct Answer":"Spiral"
+    },
+    {
+        "Question":"36 year old heavy lifter complained of back pain radiating to his leg. MRI ordered and is shown in picture. What is the level of lesion?",
+        "Option 1":"L3-4",
+        "Option 2":"L4-5",
+        "Option 3":"L5-S1",
+        "Option 4":"L2-3",
+        "Option 5":"S1-2",
+        "Correct Answer":"L4-5"
+    },
+    {
+        "Question":"A 55-year-old man complains of long-standing pain in the lumbar region on heavy physical  activity. He is very stiff in the morning and the pain is worse at the end of the day. Anti-  inflammatory medication provides moderate relief of his symptoms. Examination reveals  restriction of his movements in the spine with pain on extension of the spine. There are no  clinical signs in the legs. Which of the following is the most likely diagnosis?",
+        "Option 1":"Central prolapsed lumbar disc",
+        "Option 2":"Disc infection",
+        "Option 3":"Facet joint arthrosis",
+        "Option 4":"Malignant vertebral lesion",
+        "Option 5":"Posterolateral disc prolapse",
+        "Correct Answer":"Facet joint arthrosis"
+    },
+    {
+        "Question":"A 23 years old footballer has injured his left knee during a match. Xray revealed a displaced  patellar fracture. What is the most appropriate management?",
+        "Option 1":"Wire binding",
+        "Option 2":"Excision of quadriceps tendon",
+        "Option 3":"Boot cast",
+        "Option 4":"Nailing",
+        "Option 5":"None of the above",
+        "Correct Answer":"Wire binding"
+    },
+    {
+        "Question":"A 20-year-old rugby player falls to the ground with severe pain in his right knee after being  tackled. When seen a week later at the orthopaedic clinic. He is found to have an effusion in his  right knee, persistent tenderness 2.5 cm above the joint line on the medial side and on testing  sideways tilting with the knee at 30 degrees of flexion, increased lateral angulation is noted  compared with the unaffected side. What is the possible cause?",
+        "Option 1":"Anterior cruciate ligament",
+        "Option 2":"Lateral collateral ligament",
+        "Option 3":"Lateral meniscus",
+        "Option 4":"Medial collateral ligament",
+        "Option 5":"Medial meniscus",
+        "Correct Answer":"Medial collateral ligament"
+    },
+    {
+        "Question":"A 51 years old female with claustrophobla and metallic valve sustained a trauma to her shoulder after a fall, How to investigate?",
+        "Option 1":"CT",
+        "Option 2":"MRI",
+        "Option 3":"Xray",
+        "Option 4":"PETscan",
+        "Option 5":"USG",
+        "Correct Answer":"Xray"
+    },
+    {
+        "Question":"A 50-year-old under medical treatment of systemic lupus erythromatosus presents to the emergency department after a fall. An Xray shows a displaced subcapital femoral neck fracture with an area of radiolucency in the femoral head. The patient undergoes hemiarthroplasty. Which of the following medications for SLE is the most likely cause for her presentation?",
+        "Option 1":"Azathioprine",
+        "Option 2":"Hydroxychloroquine",
+        "Option 3":"Methotrexate",
+        "Option 4":"Prednisolone",
+        "Option 5":"Rituximab",
+        "Correct Answer":"Prednisolone"
+    },
+    {
+        "Question":"A 25-year-old man gives a history of several attacks of backache and low back pains after lifting.  Each of which has resolved spontaneously after one week off work The patient reports that the  pain is reaching down the left leg and foot. There is loss of lumbar lordosis. Which of the  following is the most likely diagnosis?",
+        "Option 1":"Central prolapse of lumbar intervertebral disc",
+        "Option 2":"Spondylolisthesis of L4 And L5 Vertebrae",
+        "Option 3":"Posterolateral prolapse of lumbar intervertebral disc",
+        "Option 4":"Stress fracture of vertebral body",
+        "Option 5":"Spinal stenosis",
+        "Correct Answer":"Posterolateral prolapse of lumbar intervertebral disc"
+    },
+    {
+        "Question":"A patient developed acromioclavicular joint dislocation after trauma during rugby game. Xray  showed no fracture. What is the expected ligamentous injury?",
+        "Option 1":"Coracoacromlal ligament injury",
+        "Option 2":"Coracoclavicular ligament injury",
+        "Option 3":"Deltoid ligament injury",
+        "Option 4":"Ligamentum teres injury",
+        "Option 5":"None of the above",
+        "Correct Answer":"Coracoclavicular ligament injury"
+    },
+    {
+        "Question":"A 16-year-old boy presented with knee swelling He reports history of sports injury but no  direct trauma to knee. X-ray shows lifted periosteum and soft tissue mass. What's the expected  finding under microscopy?",
+        "Option 1":"Small round blue cell with 11:22 chromosomal translocation",
+        "Option 2":"Malignant polygonal cells with osteoid formation",
+        "Option 3":"Epithelial cells",
+        "Option 4":"Endothelial cells",
+        "Option 5":"Multiple osteolytic lesions",
+        "Correct Answer":"Malignant polygonal cells with osteoid formation"
+    },
+    {
+        "Question":"An 8 year old child presented with his mother after she noticed limping. On examination, there is bilateral limitation of hip movements on extreme range of motions. What is the best diagnosis?",
+        "Option 1":"Missed DDH",
+        "Option 2":"Perthes disease",
+        "Option 3":"Transient synovitis",
+        "Option 4":"Septic arthritis",
+        "Option 5":"Osteoarthritis",
+        "Correct Answer":"Missed DDH"
+    },
+    {
+        "Question":"A 12 years old boy presents to the ED with finger drop and no sensory loss. Which of the  following injuries is the most likely cause?",
+        "Option 1":"Scapular fracture",
+        "Option 2":"Mid shaft uina fracture (Monteggia fracture)",
+        "Option 3":"Mid shaft radius fracture (Galeazzi fracture)",
+        "Option 4":"Fracture of thumb",
+        "Option 5":"Median nerve injury",
+        "Correct Answer":"Mid shaft uina fracture (Monteggia fracture)"
+    },
+    {
+        "Question":"A patient presents with cervical pain and loss of sensation along the C8 dermatome. Which Is  the best investigation?",
+        "Option 1":"X-ray",
+        "Option 2":"CT",
+        "Option 3":"MRI",
+        "Option 4":"PET CT",
+        "Option 5":"USG",
+        "Correct Answer":"MRI"
+    },
+    {
+        "Question":"A motor biker fell on the highway and presented with a closed fracture of tibia at the lower end. Pilon fracture was diagnosed. What is the best next step of management?",
+        "Option 1":"IM nail",
+        "Option 2":"Screw and plate fixation",
+        "Option 3":"Plaster cast",
+        "Option 4":"Dynamic hip screw",
+        "Option 5":"Delta Frame",
+        "Correct Answer":"Delta Frame"
+    },
+    {
+        "Question":"A 23 years old athlete fell over during a marathon suffering pain on deep flexion of his left hip.  The orthopaedic surgeon suspects acetabular labral tear. Which investigations is the most  appropriate?",
+        "Option 1":"CT arthrogram",
+        "Option 2":"Xray",
+        "Option 3":"Stress Xray",
+        "Option 4":"MR arthrogram",
+        "Option 5":"Bone scan",
+        "Correct Answer":"MR arthrogram"
+    },
+    {
+        "Question":"A 45 years old female presented with pain and swelling over the lateral aspect of her left knee. She reports history of \"giving way\". With her knee flexed at 30, passive flexion and extension are limited due to pain. There is no history of trauma. What is the most likely diagnosis?",
+        "Option 1":"Lateral meniscal injury",
+        "Option 2":"LCL",
+        "Option 3":"Loose body",
+        "Option 4":"ACL",
+        "Option 5":"Patellar dislocation",
+        "Correct Answer":"Loose body"
+    },
+    {
+        "Question":"A 40-year-old man is involved in a road traffic accident. Radiographs reveal a minimally displaced sub capital fracture of the neck of femur. Which of the following is the best appropriate treatment?",
+        "Option 1":"External fixation",
+        "Option 2":"Hemiarthroplasty",
+        "Option 3":"Internal fixation with canulated screws",
+        "Option 4":"Primary total hip replacement",
+        "Option 5":"Traction",
+        "Correct Answer":"Internal fixation with canulated screws"
+    },
+    {
+        "Question":"A 24 years old man with a history of Crohn's disease presents with generalized bone pains and  tenderness in his thighs. He also has increasing muscle weakness, increasing difficulty in walking  and a change of gait. Serum calcium and phosphate levels are low but alkaline phosphatase and  parathyroid hormone levels are elevated. A bone biopsy shows increase in non-mineralized  osteoid. What is the most likely diagnosis?",
+        "Option 1":"Osteitis fibrosa cystica",
+        "Option 2":"Osteomalacia",
+        "Option 3":"Osteoporosis",
+        "Option 4":"Paget disease of the bone",
+        "Option 5":"Multiple myeloma",
+        "Correct Answer":"Osteomalacia"
+    },
+    {
+        "Question":"A 15 years old girl sustains a minimally displaced spiral fracture of her tibia while ice skating.  Which of the following is the most appropriate initial treatment?",
+        "Option 1":"External fixation",
+        "Option 2":"Patellar tendon bearing below knee cast",
+        "Option 3":"Plaster of Paris cast from toes to groin",
+        "Option 4":"Reduction and internal fixation with intramedullary nail",
+        "Option 5":"Reduction and internal fixation with plates and screws",
+        "Correct Answer":"Plaster of Paris cast from toes to groin"
+    },
+    {
+        "Question":"A 76 years old woman presented with pain in the lower back and right leg. A skeletal Xray  survey shows abnormal extensive opacity of the spine. There is thickening and deformity of the  tibia and skull. A bone biopsy shows thickened bone trabeculae and multiple cement lines. What  is the likely diagnosis?",
+        "Option 1":"Metastatic carcinoma of prostate",
+        "Option 2":"Osteogenesis imperfecta",
+        "Option 3":"Osteomalacia",
+        "Option 4":"Osteoporosis",
+        "Option 5":"Paget disease of the bone",
+        "Correct Answer":"Paget disease of the bone"
+    },
+    {
+        "Question":"A 3 years old male child presented with his mother with evident limping. Xray revealed fragmentation of femoral head and increased joint space. Which of the following is the most likely diagnosis?",
+        "Option 1":"Missed DDH",
+        "Option 2":"Perthes disease",
+        "Option 3":"Transient synovitis",
+        "Option 4":"Septic arthritis",
+        "Option 5":"Osteoarthritis",
+        "Correct Answer":"Perthes disease"
+    },
+    {
+        "Question":"A 43 years old man presents to the orthopaedic clinic with a 45 degrees flexion of the little and ring fingers, He can flex them fully on the palm. His brother has the same condition. What is the most likely appropriate treatment?",
+        "Option 1":"Physiotherapy",
+        "Option 2":"Extensor splint",
+        "Option 3":"Release trigger finger",
+        "Option 4":"Fasciectomy",
+        "Option 5":"Carpal tunnel release",
+        "Correct Answer":"Fasciectomy"
+    },
+    {
+        "Question":"A 32 years old athlete suffered a knee injury during a rugby match. His knee was pushed  vigorously from outside with his opponent knee when he felt severe pain on the medial aspect.  He has tender knee joint with minimal patellar effusion. What is the most likely diagnosis?",
+        "Option 1":"Meniscal injury",
+        "Option 2":"Medial collateral ligament tear",
+        "Option 3":"Lateral collateral ligament tear",
+        "Option 4":"Anterior cruciate ligament tear",
+        "Option 5":"Loose body",
+        "Correct Answer":"Medial collateral ligament tear"
+    },
+    {
+        "Question":"A 23 years old patient was admitted after falling on his outstretched hand. His examination  revealed that he has lost sensation over the palmar aspect of the index and middle finger. What  is the most appropriate Xray view to detect the cause of this injury?",
+        "Option 1":"Volar tilt",
+        "Option 2":"Posterior anterior",
+        "Option 3":"Dorsal tilt",
+        "Option 4":"True Lateral",
+        "Option 5":"Axial",
+        "Correct Answer":"True Lateral"
+    },
+    {
+        "Question":"A 32 years old athlete presented with an open tibial fracture on the left side. Following initial  management, what is the best definitive treatment?",
+        "Option 1":"Early external fixation",
+        "Option 2":"Immediate nailing",
+        "Option 3":"Fixation with plates and screws",
+        "Option 4":"Delayed external fixation",
+        "Option 5":"Casting",
+        "Correct Answer":"Early external fixation"
+    },
+    {
+        "Question":"85. A 75-year-old active man suffered a fall when he was returning from the town. Xray revealed a  displaced subcapital femoral neck fracture. What is the most appropriate management?",
+        "Option 1":"Cemented THR",
+        "Option 2":"Cemented hemiathroplasty",
+        "Option 3":"Cementless bipolar arthroplasty",
+        "Option 4":"Open reduction and internal fixation",
+        "Option 5":"Cementless THR",
+        "Correct Answer":"Cemented THR"
+    },
+    {
+        "Question":"A 55 year old man presents to the orthopaedic clinic with leg pain. Investigations revealed a soft tissue mass in femur raising the periosteum. A diagnosis of osteosarcoma was made. Where would you examine this patient for metastasis?",
+        "Option 1":"Brain",
+        "Option 2":"Lung",
+        "Option 3":"Liver",
+        "Option 4":"Ribs",
+        "Option 5":"Vertebrae",
+        "Correct Answer":"Lung"
+    },
+    {
+        "Question":"A 53 years old patient developed back pain, Her bloods showed high phosphate, Ca and alkaline  phosphatase levels. What is the most likely cause?",
+        "Option 1":"Tertiary hyperparathyroidism",
+        "Option 2":"Metastatic cancer",
+        "Option 3":"Osteomalacia",
+        "Option 4":"Paget disease",
+        "Option 5":"Secondary hyperparathyroidism",
+        "Correct Answer":"Metastatic cancer"
+    },
+    {
+        "Question":"A 14 years old child presented with left knee pain that has been persistent and progressive.  There is no history of trauma. Xray of the knee was normal, What is the best next step?",
+        "Option 1":"Xray left Hip AP",
+        "Option 2":"US of the knee",
+        "Option 3":"MRI",
+        "Option 4":"CT",
+        "Option 5":"Xray pelvis frog leg view",
+        "Correct Answer":"Xray pelvis frog leg view"
+    },
+    {
+        "Question":"89. A 45 years old man came with a 24-hours history of severe knee pain which prevents all  movements of the knee in any direction, he is apyrexial, WBC count normal. What is the most  definitive investigations to know the cause?",
+        "Option 1":"Arthroscopy",
+        "Option 2":"Knee aspiration",
+        "Option 3":"ESR",
+        "Option 4":"Xray",
+        "Option 5":"USG",
+        "Correct Answer":"Arthroscopy"
+    },
+    {
+        "Question":"A 45 years old man was hit in the knee by a hockey stick. He later came with a 24-hours history  of tense and swollen knee. X-ray shows no fractures, and he is apyrexial, WbC count normal.  What is the next definitive investigations to know the cause?",
+        "Option 1":"Arthroscopy",
+        "Option 2":"Knee aspiration",
+        "Option 3":"Bone scan",
+        "Option 4":"CT",
+        "Option 5":"MRI",
+        "Correct Answer":"MRI"
+    },
+    {
+        "Question":"A 14 years old girl was skiing while she crashed into soft snow causing sudden knee swelling with positive patellar tap. On examination, she has difficulty extending her knee. Knee aspiration showed hemarthrosis. What is the most likely type of injury?",
+        "Option 1":"Patellar tendon rupture",
+        "Option 2":"Meniscal damage",
+        "Option 3":"Anterior cruciate ligament tear",
+        "Option 4":"Posterior cruciate ligament tear",
+        "Option 5":"Injury to the lateral collateral Ligament",
+        "Correct Answer":"Patellar tendon rupture"
+    },
+    {
+        "Question":"A 62 years old male patient presented with history of progressive back pain. Blood tests  showed high ESR and abnormal electrophoresis. CT scan showed osteolytic lesions in sacrum.  The oncologist decides to take biopsy from the sacrum, What would be the most likely  predominant cell?",
+        "Option 1":"Plasma cells",
+        "Option 2":"Reed sternburg cells",
+        "Option 3":"Oxyphil cells",
+        "Option 4":"Langerhans cell",
+        "Option 5":"Polygonal cell",
+        "Correct Answer":"Plasma cells"
+    },
+    {
+        "Question":"A 63 years old male patient presents to the orthopedic clinic with history of progressive back  pain. On examination, focal sclerotic changes were detected affecting his spine by bone scan.  What is the most likely finding would you expect in his labs?",
+        "Option 1":"Hypercalcemia",
+        "Option 2":"Increased PSA",
+        "Option 3":"Hypocalcemia",
+        "Option 4":"High Carboxy prothrombin",
+        "Option 5":"High Bence jones protein ratio",
+        "Correct Answer":"Increased PSA"
+    },
+    {
+        "Question":"A 23 years old patient suffered a fracture supracondylar fracture of humerus with anterior  interosseus nerve affection. The fracture was reduced, and internal fixation done. Backslap was  applied and the patient was transferred to the ward. 6 hours postoperatively, you note that the  forearm is painful especially with passive movement. What is the best next step in management?",
+        "Option 1":"Transfer the patient to theatre and perform decompression",
+        "Option 2":"Physiotherapy",
+        "Option 3":"Removal  of slap and reassess after 4 hours",
+        "Option 4":"Analgesia and follow up",
+        "Option 5":"Nerve conduction velocity",
+        "Correct Answer":"Transfer the patient to theatre and perform decompression"
+    },
+    {
+        "Question":"Which one of the following is most correct regarding Osgood-Schlatter disease?",
+        "Option 1":"It is a disease of old age",
+        "Option 2":"Mainly treated by rest",
+        "Option 3":"It is self-limiting",
+        "Option 4":"Common in females than males",
+        "Option 5":"Treated with casting",
+        "Correct Answer":"It is self-limiting"
+    },
+    {
+        "Question":"A 32 years old patient was diagnosed with disc prolapse with compression of LS-S1 nerve weeks ago. On examination there is loss of ankle jerk with associated severe limb pain. Straight leg raise test is positive at 60 degrees. What is the best initial step?",
+        "Option 1":"Lumbosacral support corset",
+        "Option 2":"NSAIDs",
+        "Option 3":"Physiotherapy",
+        "Option 4":"Steroid injection",
+        "Option 5":"Spinal decompression",
+        "Correct Answer":"NSAIDs"
+    },
+    {
+        "Question":"A 79 years old female patient has a hemiarthroplasty for a fractured neck of femur following a  fall. What would be the features of the resected head of femur?",
+        "Option 1":"Increased calcified bone and normal bone density",
+        "Option 2":"Increased osteoblast activity & replacement with fibrous tissue",
+        "Option 3":"Architecturally irregular bone, reduced mineralization and diminished bone mass",
+        "Option 4":"Reduced calcified bone to the total bone volume ratio with normal mineralization",
+        "Option 5":"Architecturally normal bone, reduced calcified bone and normal bone mass",
+        "Correct Answer":"Reduced calcified bone to the total bone volume ratio with normal mineralization"
+    },
+    {
+        "Question":"A 20-year-old rugby player falls to the ground with severe pain in his right knee after being after  being hit by a hockey stick. When seen a week later at the orthopedic clinic. He is found to have  an effusion in his right knee, persistent tenderness 2.5 cm above the joint line on the medial side  What is the possible cause?",
+        "Option 1":"Anterior cruciate ligament injury",
+        "Option 2":"Lateral collateral ligament injury",
+        "Option 3":"Unhappy triad injury",
+        "Option 4":"Medial collateral ligament injury",
+        "Option 5":"Posterior horn medial meniscus injury",
+        "Correct Answer":"Medial collateral ligament injury"
+    },
+    {
+        "Question":"A 19 years old skier female fell down injuring her left knee. She felt severe pain and the knee  got swollen instantly. The doctor decided to perform aspiration which revealed a large amount of  hemarthrosis. Which of the following is the most likely diagnosis?",
+        "Option 1":"Patellar tendon rupture",
+        "Option 2":"Meniscal damage",
+        "Option 3":"ACL tear",
+        "Option 4":"PCL tear",
+        "Option 5":"Injury to the medial collateral ligament",
+        "Correct Answer":"Patellar tendon rupture"
+    },
+    {
+        "Question":"A 53 years old female known as breast cancer under chemotherapy was brushing her teeth when she felt sudden pain in her right arm. Investigations revealed a supracondylar fracture humerus with no associated neurovascular injury Bone scan revealed single well circumscribed lesion affecting the site of fracture No other lesions were detected, What would be the best management?",
+        "Option 1":"External fixation",
+        "Option 2":"Radiotherapy",
+        "Option 3":"Internal fixation and radiotherapy",
+        "Option 4":"Internal fixation and chemotherapy",
+        "Option 5":"Chemotherapy",
+        "Correct Answer":"Internal fixation and radiotherapy"
+    },
+    {
+        "Question":"A 35 year old female cancer patient was on her chemotherapy regimen when a femoral metastatic lesion was detected during follow up. On Xray, a subtrochanteric femoral fracture was noted with associated soft tissue edema. Which of the following would be the most appropriate management option?",
+        "Option 1":"Total hip replacement",
+        "Option 2":"Hemiarthroplasty",
+        "Option 3":"Internal fixation",
+        "Option 4":"External fixation",
+        "Option 5":"Traction",
+        "Correct Answer":"Internal fixation"
+    }
+]

@@ -1,0 +1,632 @@
+[
+    {
+        "Question":"A 20 year old patient with vomiting and diarrhea, acid base balance obtained and found: PH: 7.4 PCO2 = 5.5 PO2 = 115 and HCO3 = 25. What is the diagnosis?",
+        "Option 1":"Respiratory acidosis",
+        "Option 2":"Metabolic acidosis",
+        "Option 3":"Mixed alkalosis",
+        "Option 4":"Respiratory alkalosis",
+        "Option 5":"Normal acid base balance",
+        "Correct Answer":"Normal acid base balance"
+    },
+    {
+        "Question":"A man develops septicemia following surgery for perforated acute appendicitis. He is hypotensive. ABG : PH = 7.26 \u2013 PaCO2 = 7.2 KPA, PaO2 = 75 kPa \u2013 bicarbonate = 17 mmol\/L. what is the most likely explanation for these findings?",
+        "Option 1":"Compensated metabolic acidosis",
+        "Option 2":"Compensated respiratory acidosis",
+        "Option 3":"Mixed metabolic and respiratory acidosis",
+        "Option 4":"Uncompensated metabolic acidosis",
+        "Option 5":"Uncompensated respiratory acidosis",
+        "Correct Answer":"Mixed metabolic and respiratory acidosis"
+    },
+    {
+        "Question":"A woman with emphysema receiving 28% oxygen by mask has the following blood gas results: PH = 7.28 , PO2 = 6.2 \/ pCO2 = 8 , bicarbonate = 36 and base excess  = +5, what is the most likely interpretation of this?",
+        "Option 1":"Metabolic acidosis",
+        "Option 2":"Metabolic alkalosis",
+        "Option 3":"Mixed respiratory and metabolic acidosis",
+        "Option 4":"Partially compensated metabolic acidosis",
+        "Option 5":"partially compensated respiratory acidosis",
+        "Correct Answer":"partially compensated respiratory acidosis"
+    },
+    {
+        "Question":"An 80 year old man is admitted to the surgical admission unit with central abdominal pain. His blood pressure is 100\/60 mmHg and his pulse is 110 beats per minute with a respiratory rate of 25 breath \/ minute. He is known to have severe chronic obstructive pulmonary disease and has been a heavy smoker all his life. On examination, he has a rigid abdomen, abg: Ph = 7.24, pao2 = 9, paco2 = 5.3 , hco3 = 17 base excess = -3, what is the most likely diagnosis?",
+        "Option 1":"Hypovolemic shock complicated by COPD",
+        "Option 2":"Metabolic acidosis due to peritonitis",
+        "Option 3":"Respiratory acidosis due to COPD",
+        "Option 4":"Respiratory acidosis due to peritonitis",
+        "Option 5":"None of the above",
+        "Correct Answer":"Metabolic acidosis due to peritonitis"
+    },
+    {
+        "Question":"What is the expected acid base balance associated with pulmonary embolism?",
+        "Option 1":"Respiratory alkalosis",
+        "Option 2":"Metabolic acidosis",
+        "Option 3":"metabolic alkalosis",
+        "Option 4":"respiratory acidosis",
+        "Option 5":"none of the above",
+        "Correct Answer":"Respiratory alkalosis"
+    },
+    {
+        "Question":"a 30 year old motorcyclist is brought to the Emergency department after a road traffic accident. He has an open fracture of the right femur. On arrival, he is tachypnic and confused with cold and clammy skin. Which of the following physiological changes is most likely to occur?",
+        "Option 1":"Decreased reabsorption of water from the collecting tubules",
+        "Option 2":"Decreased serum bicarbonate level",
+        "Option 3":"Increased pH of the blood",
+        "Option 4":"Increased secretion of sodium in the urine",
+        "Option 5":"Increased synthesis of glycogen in the liver",
+        "Correct Answer":"Decreased serum bicarbonate level"
+    },
+    {
+        "Question":"In surgical ICU, 50 year old patient his ABG shows metabolic alkalosis. What is the most common cause of this metabolic alkalosis?",
+        "Option 1":"DKA",
+        "Option 2":"Nasogastric aspiration",
+        "Option 3":"Peritonitis",
+        "Option 4":"COPD",
+        "Option 5":"Sepsis",
+        "Correct Answer":"Nasogastric aspiration"
+    },
+    {
+        "Question":"An 80-year-old man with history of hypertension, controlled with thiazide diuretics undergoes transurethral resection of prostate under general anesthesia. The surgery is prolonged and in the recovery room he complains of nausea and a headache. He later becomes agitated and confused. Which of the following is the most likely diagnosis?",
+        "Option 1":"Hypercalcemia",
+        "Option 2":"Hyperkalemia",
+        "Option 3":"Hypocalcemia",
+        "Option 4":"Hypokalemia",
+        "Option 5":"Hyponatremia",
+        "Correct Answer":"Hyponatremia"
+    },
+    {
+        "Question":"A 75 year-old insulin dependant diabetic man has undergone a hemicolectomy. On the 1st postoperative day, he is nil-by-mouth. On subcutaneous insulin, maintenance IV infusion with saline and intravenous morphine via patient controlled analgesia. He is confused after a brief convulsion, has slurred speech and weakness of his right side, his pulse is 110, RR 25, BP 160\/95 , SPO2 95% on room air, what is the most likely cause of convulsions and confusion?",
+        "Option 1":"Hypoglycemia",
+        "Option 2":"Hyponatremia",
+        "Option 3":"Inhibition of noradrenaline re-uptake",
+        "Option 4":"Stimulation of opioid receptors",
+        "Option 5":"stimulation of GABA receptors",
+        "Correct Answer":"Hypoglycemia"
+    },
+    {
+        "Question":"a 55 year old woman presented to the ER with persistent diarrhea. On examination, she was apyrexial and had an irregularly irregular pulse of 140 , what is the most likely cause of the abnormal cardiac rhythm?",
+        "Option 1":"Hypernateremia",
+        "Option 2":"Hypokalemia",
+        "Option 3":"Hypovolemia",
+        "Option 4":"Myocardial ischemia",
+        "Option 5":"Sepsis",
+        "Correct Answer":"Hypokalemia"
+    },
+    {
+        "Question":"A woman with metastatic breast cancer is admitted to hospital confused and acutely unwell with nausea and vomiting. Her vitals are normal. What abnormality is most likely to contribute to her clinical condition?",
+        "Option 1":"Hypercalcemia",
+        "Option 2":"Hyperkalemia",
+        "Option 3":"Hypocalcemia",
+        "Option 4":"Hypokalemia",
+        "Option 5":"Hyponateremia",
+        "Correct Answer":"Hypercalcemia"
+    },
+    {
+        "Question":"30 year old alcoholic man presents with acute severe upper abdominal pain and vomiting. He is admitted to the intensive care unit with a diagnosis of severe acute pancreatitis. 48 hours later, he developed peripheral paresthesia and carpopedal spasms. What is the most likely underlying metabolic abnormality?",
+        "Option 1":"Hypercalcemia",
+        "Option 2":"Hyponateremia",
+        "Option 3":"Hypocalcemia",
+        "Option 4":"Hypokalemia",
+        "Option 5":"Hypernateremia",
+        "Correct Answer":"Hypocalcemia"
+    },
+    {
+        "Question":"50 year old woman with history of insulin dependant DM presented by chest infection and drowsiness. She admitted in the ICU and started antibiotic. DKA is diagnosed, what is the electrolyte imbalance related to DKA?",
+        "Option 1":"Hyperkalemia",
+        "Option 2":"Hypokalemia",
+        "Option 3":"Hyponatremia",
+        "Option 4":"Hypernatremia",
+        "Option 5":"Hypocalcemia",
+        "Correct Answer":"Hypokalemia"
+    },
+    {
+        "Question":"50 year old woman with history of insulin dependent DM presented by chest infection and drowsiness. She admitted in the ICU and started antibiotic. DKA is diagnosed, what is the metabolic abnormality related to DKA?",
+        "Option 1":"Metabolic acidosis",
+        "Option 2":"Metabolic alkalosis",
+        "Option 3":"Respiratory acidosis",
+        "Option 4":"Respiratory alkalosis",
+        "Option 5":"Mixed repiratory and metabolic alkalosis",
+        "Correct Answer":"Metabolic acidosis"
+    },
+    {
+        "Question":"A man, who has undergone emergency surgery two days previously. Is noted to be confused. He has been on furosemide for mild hear failure. The plasma sodium is 122 mml. Inspection of the fluid chart shows that he has been written-up 1L,four-hourly 5% glucose infusions, what is the most llikely cause for the hyponateriemia?",
+        "Option 1":"An ACTH response to surgery",
+        "Option 2":"Excessive saline free IVF",
+        "Option 3":"Osmotic effect of hyperglycemia induced by glucose infusions",
+        "Option 4":"Syndrome of inappropriate antidiuretic hormone",
+        "Option 5":"Use of loop diuretic in the long term",
+        "Correct Answer":"Excessive saline free IVF"
+    },
+    {
+        "Question":"60 year old man diagnosed as BPH. He underwent TURP operation. After the operation, his serum sodium is 120 mmol. What will happen due to hyponatremia?",
+        "Option 1":"Confusion",
+        "Option 2":"Muscle spasm",
+        "Option 3":"Abdominal pain",
+        "Option 4":"Excitability",
+        "Option 5":"Hypertension",
+        "Correct Answer":"Confusion"
+    },
+    {
+        "Question":"5 year old child presented by severe diarrhea and dehydration. Diarrhea causing metabolic acidosis due to loss of which electrolyte?",
+        "Option 1":"HCO3",
+        "Option 2":"HCL",
+        "Option 3":"K",
+        "Option 4":"Ca",
+        "Option 5":"Na",
+        "Correct Answer":"HCO3"
+    },
+    {
+        "Question":"59 year old man with severe diarrhea. On PR exam, there is soft tissue mass. What is the electrolyte change in this patient?",
+        "Option 1":"Hyperkalemia",
+        "Option 2":"Hypokalemia",
+        "Option 3":"Hyponatremia",
+        "Option 4":"Hypernatremia",
+        "Option 5":"Hypocalcemia",
+        "Correct Answer":"Hypokalemia"
+    },
+    {
+        "Question":"What is the electrolyte disturbance causes widened QRS and flat p wave in ECG?",
+        "Option 1":"Hypercalcemia",
+        "Option 2":"Hyperkalemia",
+        "Option 3":"Hypocalcemia",
+        "Option 4":"Hypokalemia",
+        "Option 5":"Hyponatremia",
+        "Correct Answer":"Hyperkalemia"
+    },
+    {
+        "Question":"What is the electrolyte disturbance cause long QT on ECG?",
+        "Option 1":"Hypercalcemia",
+        "Option 2":"Hyperkalemia",
+        "Option 3":"Hypocalcemia",
+        "Option 4":"Hypokalemia",
+        "Option 5":"Hyponatremia",
+        "Correct Answer":"Hypocalcemia"
+    },
+    {
+        "Question":"A 60 year old man presents with a one week history of epigastric pain and profuse vomiting and diagnosed as pancreatic cancer causing gastric outlet obstruction. What is the most likely consequence of vomiting?",
+        "Option 1":"Hyperchloremic acidosis",
+        "Option 2":"Hypokalemic alkalosis",
+        "Option 3":"Raised serum chloride",
+        "Option 4":"Raised urine sodium",
+        "Option 5":"Reduced renin release",
+        "Correct Answer":"Hypokalemic alkalosis"
+    },
+    {
+        "Question":"50 year old patient in ITU with prolonged nasogastric suction. What is the most likely electrolyte disturbance due to long duration of NGT?",
+        "Option 1":"Low chloride",
+        "Option 2":"Low Na",
+        "Option 3":"High K",
+        "Option 4":"Metabolic acidosis",
+        "Option 5":"Respiratory alkalosis",
+        "Correct Answer":"Low chloride"
+    },
+    {
+        "Question":"What is the electrolyte disturbance associated with Addison disease?",
+        "Option 1":"Hyperkalemia",
+        "Option 2":"Hypokalemia",
+        "Option 3":"Hypocalcemia",
+        "Option 4":"Hypocalcemia",
+        "Option 5":"Hypernatremia",
+        "Correct Answer":"Hyperkalemia"
+    },
+    {
+        "Question":"What is the electrolyte disturbance associated with cushing syndrome?",
+        "Option 1":"Hyperkalemia",
+        "Option 2":"Hypokalemia",
+        "Option 3":"Hypocalcemia",
+        "Option 4":"Hypocalcemia",
+        "Option 5":"Hyponatremia",
+        "Correct Answer":"Hypokalemia"
+    },
+    {
+        "Question":"Heparin intoxication associated with which electrolyte disturbance?",
+        "Option 1":"Hyperkalemia",
+        "Option 2":"Hypokalemia",
+        "Option 3":"Hypocalcemia",
+        "Option 4":"Hypocalcemia",
+        "Option 5":"Hypernatremia",
+        "Correct Answer":"Hyperkalemia"
+    },
+    {
+        "Question":"Massive infusion of Saline 0.9% will produce?",
+        "Option 1":"Hyperchloremic metabolic acidosis",
+        "Option 2":"Hyperchloremic metabolic alkalosis",
+        "Option 3":"Hyperchloremic respiratory acidosis",
+        "Option 4":"Hyperchloremic respiratory alkalosis",
+        "Option 5":"Hyochloremic metabolic alkalosis",
+        "Correct Answer":"Hyperchloremic metabolic acidosis"
+    },
+    {
+        "Question":"50 year old patient with history of metastatic breast cancer. He has abdominal pain, psychic disturbance and renal stones. His lab shows hypercalcemia. How this abnormality firstly treated?",
+        "Option 1":"IV saline chloride 0.9%",
+        "Option 2":"IV Ca chelating",
+        "Option 3":"K supplementation",
+        "Option 4":"Pamidronate",
+        "Option 5":"Zolendronate",
+        "Correct Answer":"IV saline chloride 0.9%"
+    },
+    {
+        "Question":"50 year old lady with history of rheumatoid disease with long term steroids intake prepared for exploration operation. 1st day postoperative, she presented with hypotension and low sodium and high potassium. What is the appropriate diagnosis?",
+        "Option 1":"Adrenal insufficiency",
+        "Option 2":"Cushing syndrome",
+        "Option 3":"Conn\u2019s disease",
+        "Option 4":"SIADH",
+        "Option 5":"Diabetes insipidus",
+        "Correct Answer":"Adrenal insufficiency"
+    },
+    {
+        "Question":"A man has trauma to his head 3 days ago presented with headache, drowsiness, fatigue and blurring of vision. His serum osmolarity is 250 mOsm\/kgH2O, serum sodium is 128 mmol\/L and urine osmolarity is 850 mOsm\/kgH2O. what is suitable for treatment of this case?",
+        "Option 1":"Mannitol",
+        "Option 2":"Loop diuretics",
+        "Option 3":"Thiazide diuretics",
+        "Option 4":"K sparing diuretics",
+        "Option 5":"Fluid restriction",
+        "Correct Answer":"Fluid restriction"
+    },
+    {
+        "Question":"72 years old patient diagnosed as subdural hemorrhage after head injury. Next day after evacuation, he presented by headache, nausea, vomiting, low plasma sodium 122, low plasma osmolarity and high urinary osmolarity. What is your appropriate management?",
+        "Option 1":"50ml 3% saline",
+        "Option 2":"Vasopressor antagonist",
+        "Option 3":"Bedroflumethiazide",
+        "Option 4":"Mannitol",
+        "Option 5":"Aldosterone",
+        "Correct Answer":"50ml 3% saline"
+    },
+    {
+        "Question":"A 63 year old man with history of small cell lung cancer with paraneoplastic effect having inappropriate ADH secretion, what is the main effect of high ADH?",
+        "Option 1":"Decrease collecting epithelial permeability to water",
+        "Option 2":"Decrease contraction of splanchnic arteriole",
+        "Option 3":"Decrease plasma sodium",
+        "Option 4":"Increase plasma osmolarity",
+        "Option 5":"Increase vasa recta blood flow",
+        "Correct Answer":"Decrease plasma sodium"
+    },
+    {
+        "Question":"Man has short history of vomiting and abdominal distention. On examination, cold peripheries are present and blood pressure is 95\/70 and pulse is 100. What will be the effect of fluid with giving 4 litres of glucose 5%?",
+        "Option 1":"Increase plasma osmolarity",
+        "Option 2":"Decrease plasma osmolarity",
+        "Option 3":"Decrease extracellular fluid",
+        "Option 4":"Decrease intracellular fluid",
+        "Option 5":"Decrease interstitial fluid",
+        "Correct Answer":"Decrease plasma osmolarity"
+    },
+    {
+        "Question":"Which of the following is one of the causes of normal anion gap metabolic acidosis?",
+        "Option 1":"Diabetic ketoacidosis",
+        "Option 2":"Lactate",
+        "Option 3":"Uremia",
+        "Option 4":"Salicylate toxicity",
+        "Option 5":"Diarrhea",
+        "Correct Answer":"Diarrhea"
+    },
+    {
+        "Question":"Normal anion gap acidosis is caused by which of the following?",
+        "Option 1":"Renal failure",
+        "Option 2":"DKA",
+        "Option 3":"Lactate",
+        "Option 4":"Dehydration",
+        "Option 5":"Salicylate",
+        "Correct Answer":"Dehydration"
+    },
+    {
+        "Question":"56 year old male presented to acute surgical unit with severe abdominal pain. He is normally fit and well. There is no history of malignancy. The biochemistery labarotomy contacts the ward urgently, his corrected calcium results is 3.6 mmol\/L what is the initial treatment?",
+        "Option 1":"IV pamidronate",
+        "Option 2":"Oral alendronate",
+        "Option 3":"Dexamethasone",
+        "Option 4":"Calcitonin",
+        "Option 5":"Monitor ECG + fluid resuscitation + IV bisphosphonates",
+        "Correct Answer":"Monitor ECG + fluid resuscitation + IV bisphosphonates"
+    },
+    {
+        "Question":"50 years old woman with history of insulin dependent DM presented by chest infection and drowsiness. She is admitted to ITU and started antibiotic. DKA is diagnosed, what is the electrolyte imbalance related to DKA",
+        "Option 1":"Metabolic acidosis normal anion gap",
+        "Option 2":"Metabolic acidosis high anion gap",
+        "Option 3":"metabolic alkalosis",
+        "Option 4":"respiratory acidosis",
+        "Option 5":"respiratory alkalosis",
+        "Correct Answer":"Metabolic acidosis high anion gap"
+    },
+    {
+        "Question":"50 year old patient after splenectomy operation, he receives 3 L of dextrose 5%, what is the initial change occurs in this patient?",
+        "Option 1":"Raised JVP",
+        "Option 2":"Increase urine osmolarity",
+        "Option 3":"Decrease urine osmolarity",
+        "Option 4":"Oliguria",
+        "Option 5":"Decreases blood pressure",
+        "Correct Answer":"Raised JVP"
+    },
+    {
+        "Question":"Patient presented by muscle weakness and polyuria. Blood pressure 175\/100 Na = 142 and K 3.3 and diagnosed as Conn syndrome , what is the consequences of high aldosterone?",
+        "Option 1":"Increased plasma volume",
+        "Option 2":"Increased renin secretion",
+        "Option 3":"Increased interstitial fluid volume",
+        "Option 4":"Low urine osmolarity",
+        "Option 5":"High urine osmolarity",
+        "Correct Answer":"Increased plasma volume"
+    },
+    {
+        "Question":"A 40 year old patient after RTA presented with hypotension, tachycardia, drowsiness and cold clammy extremities, which compartment of body fluid is affected?",
+        "Option 1":"Decreased extracellular volume",
+        "Option 2":"Increased interstitial volume",
+        "Option 3":"Increased intracellular volume",
+        "Option 4":"No change in fluids",
+        "Option 5":"Increase trans cellular fluid",
+        "Correct Answer":"Decreased extracellular volume"
+    },
+    {
+        "Question":"A 45 year old patient known to be hypertensive and on medical treatment. His urea and creatinine are elevated, low GFR, Na = 120 and K = 6.5, blocking of which receptor by his medical treatment cause these effects?",
+        "Option 1":"B-adrenergic receptors",
+        "Option 2":"A- adrenergic receptors",
+        "Option 3":"ADH receptors",
+        "Option 4":"Vasopressin receptors",
+        "Option 5":"Angiotensin converting enzyme",
+        "Correct Answer":"Angiotensin converting enzyme"
+    },
+    {
+        "Question":"Patient with urinary bladder cancer and made an operation for resection of urinary bladder and then new bladder is formed from small intestine mainly ileum, creatinine is high. What is the electrolyte disturbance?",
+        "Option 1":"Hyperkalemia",
+        "Option 2":"Hypokalemia",
+        "Option 3":"Hyperchloremia",
+        "Option 4":"Hypochloremia",
+        "Option 5":"Hypocalcemia",
+        "Correct Answer":"Hyperchloremia"
+    },
+    {
+        "Question":"A 28-year-old woman collapses and is found to be deeply comatose with a GCS of 3, she is admitted to hospital, intubated and ventilated. A CT scan shows an extensive subarachnoid hemorrhage. A urinary catheter is inserted. What type of urine output would be expected?",
+        "Option 1":"30 ml concentrated urine per hour",
+        "Option 2":"30 ml diluted urine per hour",
+        "Option 3":"60 ml diluted urine per hour",
+        "Option 4":"300 ml concentrated urine per hour",
+        "Option 5":"300 ml diluted urine per hour",
+        "Correct Answer":"300 ml diluted urine per hour"
+    },
+    {
+        "Question":"A 23 year old is stabbed in the groin and develops hypovolemic shock. What is the most likely finding on analysis of his urine?",
+        "Option 1":"Decreased specific gravity",
+        "Option 2":"Increased specific gravity",
+        "Option 3":"Increased urinary glucose",
+        "Option 4":"Increased urinary protein",
+        "Option 5":"Increased red blood cells in the urine",
+        "Correct Answer":"Increased specific gravity"
+    },
+    {
+        "Question":"A 63 year-old man undergoes a laparotomy and small bowel resection. Twelve hour post operatively, he is noted to have a decreased urine output. Which of the hormones listed below is most likely to be responsible?",
+        "Option 1":"Cortisol",
+        "Option 2":"Atrial natruritc peptide",
+        "Option 3":"Vasopressin",
+        "Option 4":"Insulin",
+        "Option 5":"Glucagon",
+        "Correct Answer":"Vasopressin"
+    },
+    {
+        "Question":"A 42 years old man attends pre assessment clinic prior to spinal decompression. He has history of hypertension but he is otherwise healthy. He is taking codeine phosphate, ibuprophen and benzfluthiaziade. The result of his electrolytes is severe hyponatremia. Which of the following site on which the benzfluthiazide act?",
+        "Option 1":"Proximal convoluted tubule",
+        "Option 2":"Ascending loop of henle",
+        "Option 3":"descending loop of henle",
+        "Option 4":"distal convoluted tubules",
+        "Option 5":"collecting tubules",
+        "Correct Answer":"distal convoluted tubules"
+    },
+    {
+        "Question":"A 47 year old man presents to the ED six hours after climbing accident initial assessment suggests that he had lost 1 L of blood. His blood pressure is 105\/70 and his pulse rate is 88 . he is catheterized and his bladder contains 120 ml of urine. Activation of which of the following transport systems best describes how aldosterone leads to maintenance of the intravascular volume and oliguria in this man?",
+        "Option 1":"Na\/glucose in the proximal tubule",
+        "Option 2":"Na\/H\u2019 in the descending loop of Henle",
+        "Option 3":"Na\/K in the ascending loop of Henle",
+        "Option 4":"Na\/Cl in the distal tubule",
+        "Option 5":"Na\/K in the collecting ducts",
+        "Correct Answer":"Na\/K in the collecting ducts"
+    },
+    {
+        "Question":"ADH is one of hormones controlling urine volume and concentration. What is the site of action of ADH on the kidney?",
+        "Option 1":"Proximal convoluted tubules",
+        "Option 2":"Distal convoluted tubules",
+        "Option 3":"Ascending loop of henle",
+        "Option 4":"Descending loop of Henle",
+        "Option 5":"Collecting tubules",
+        "Correct Answer":"Collecting tubules"
+    },
+    {
+        "Question":"What is the counter current multiplier mechanism that leads to the concentration of urine in the loop of Henle?",
+        "Option 1":"Active transport of solute out of the thin section of ascending limb",
+        "Option 2":"Impermeability to water in thick ascending limb",
+        "Option 3":"Permeability to solute in descending limb",
+        "Option 4":"permeability to solute in thick ascending limb",
+        "Option 5":"permeability to water of thin section ascending limb",
+        "Correct Answer":"Impermeability to water in thick ascending limb"
+    },
+    {
+        "Question":"44 year old woman is seen in pre admission clinic. Her blood glucose is 12 mmol\/L and her urine is positive for glucose. Sodium glucose transporter has become saturated in the woman. In which part of nephron is protein predominantly found?",
+        "Option 1":"Distal convoluted tubule",
+        "Option 2":"Collecting ducts",
+        "Option 3":"Proximal convoluted tubule",
+        "Option 4":"Loop of Henle ascending limb",
+        "Option 5":"Loop of Henle descending limb",
+        "Correct Answer":"Proximal convoluted tubule"
+    },
+    {
+        "Question":"43 year old woman is seen in pre admission clinic. Her blood glucose is 12 mmol\/L and her urine is positive for glucose. What is the cause of glucosuria in DKA?",
+        "Option 1":"Decrease absorption at proximal convoluted tubules",
+        "Option 2":"Decrease absorption at distal convoluted tubules",
+        "Option 3":"Increase renal threshold",
+        "Option 4":"Decrease serum blood glucose",
+        "Option 5":"Increase transporter",
+        "Correct Answer":"Decrease absorption at proximal convoluted tubules"
+    },
+    {
+        "Question":"A 60 years old man known to be hypertensive taking ramipril for controlling his blood pressure. Which of the following causing constriction of the efferent arteriole?",
+        "Option 1":"Angeiotensin 2",
+        "Option 2":"Angiotensin 1",
+        "Option 3":"Renin",
+        "Option 4":"Angiotensinogen",
+        "Option 5":"Aldosterone",
+        "Correct Answer":"Angeiotensin 2"
+    },
+    {
+        "Question":"21 year old man is admitted to the emergency department with a stab injury to his right chest. Pulse rate is 110 and BP is 85\/40 mmHg. Chest xray shows a large right hemithorax and a very small light apical pneumothorax. Which is the first substance secreted in the process leading to increased renal reabsorption of sodium in response to the above injury?",
+        "Option 1":"Angiotensin 1",
+        "Option 2":"Angiotensin 2",
+        "Option 3":"Angiotensinogen",
+        "Option 4":"ADH",
+        "Option 5":"Renin",
+        "Correct Answer":"Renin"
+    },
+    {
+        "Question":"Renin acts on which of the following substances in the kidney?",
+        "Option 1":"Angiotensin 1",
+        "Option 2":"Angiotensin 2",
+        "Option 3":"Angiotensinogen",
+        "Option 4":"Prostaglandin",
+        "Option 5":"ADH",
+        "Correct Answer":"Angiotensinogen"
+    },
+    {
+        "Question":"Which substance of the following is most accurate for measuring the GFR in the kidney?",
+        "Option 1":"Creatinine clearance",
+        "Option 2":"Glucose clearance",
+        "Option 3":"Inulin clearance",
+        "Option 4":"PAH",
+        "Option 5":"Urea clearance",
+        "Correct Answer":"Inulin clearance"
+    },
+    {
+        "Question":"A 68 year old man with insulin dependant diabetes presents to the preadmission clinic prior to surgery for rectal carcinoma. His creatinine is found to be 590 pmol\/L. he is referred to a renal unit where a measure of his glomerular filtration rate is made. Which of the following best describes why inulin could be used to measure the GFR?",
+        "Option 1":"It is filtered and not reabsorbed",
+        "Option 2":"It is filtered and reabsorbed",
+        "Option 3":"It is filtered , secreted and reabsorbed",
+        "Option 4":"It is filtered, secreted but not reabsorbed",
+        "Option 5":"It is not filtered but is secreted and not reabsorbed",
+        "Correct Answer":"It is filtered and not reabsorbed"
+    },
+    {
+        "Question":"Which substance of the following is most accurate for measuring the effective renal plasma flow in the kidney?",
+        "Option 1":"Creatinine clearance",
+        "Option 2":"Glucose clearance",
+        "Option 3":"Inulin clearance",
+        "Option 4":"PAH",
+        "Option 5":"Urea clearance",
+        "Correct Answer":"PAH"
+    },
+    {
+        "Question":"Which of the following best describes why PAH could be used to measure effective renal plasma flow?",
+        "Option 1":"It is filtered and not reabsorbed",
+        "Option 2":"It is filtered and reabsorbed",
+        "Option 3":"It is filtered , secreted and reabsorbed",
+        "Option 4":"It is filtered, secreted but not reabsorbed",
+        "Option 5":"It is not filtered but is secreted and not reabsorbed",
+        "Correct Answer":"It is filtered, secreted but not reabsorbed"
+    },
+    {
+        "Question":"Erythropoietin is hormone produced by kidney by which cells?",
+        "Option 1":"Mesangial cells",
+        "Option 2":"Interstitial fibroblast cells",
+        "Option 3":"Juxta glomerular cells",
+        "Option 4":"Podocytes",
+        "Option 5":"Macula densa",
+        "Correct Answer":"Interstitial fibroblast cells"
+    },
+    {
+        "Question":"Lady old age known to be diabetic and hypertensive. 3 day post operative, she is on insulin infusion and take 3 L of fluids and suffered from dyspnea, shortness of breath, hypoxia, bilateral wheeze, oliguria and BP 160\/90. What is the cause of this oliguria?",
+        "Option 1":"Pre-renal hypovolemia",
+        "Option 2":"Pre-renal cardiac failure",
+        "Option 3":"Diabetic nephropathy",
+        "Option 4":"Hypertensive nephropathy",
+        "Option 5":"Autoimmune nephropathy",
+        "Correct Answer":"Pre-renal cardiac failure"
+    },
+    {
+        "Question":"Why NSAIDS drung is contraindicated for patien who has risk to renal failure?",
+        "Option 1":"Acute tubular necrosis",
+        "Option 2":"Papillary necrosis",
+        "Option 3":"Decrease renal perfusion",
+        "Option 4":"Autoimmune affection of glomerular membrane",
+        "Option 5":"Increase GFR",
+        "Correct Answer":"Decrease renal perfusion"
+    },
+    {
+        "Question":"A patient is given a drug, however, due to its harmful effects, you decide to stop it. The half life of the drug is 7 hours, clinically speaking, how long does it take for the drug to be cleared from the system?",
+        "Option 1":"7 hours",
+        "Option 2":"14 hours",
+        "Option 3":"24 hours",
+        "Option 4":"36 hours",
+        "Option 5":"52 hours",
+        "Correct Answer":"36 hours"
+    },
+    {
+        "Question":"60 year old man takes ibuprofen for longstanding osteoarthritis. Twenty-four hour after emergency embolectomy his blood pressure is 90\/60 and he pass very dark brown urine. A dipstick shows myoglobin and traces of blood. His blood glucose is 15 mmol\/L , urea 12 mmol\/L and creatinine is 180 mmol\/L. what is the most likely cause of his abnormal renal function?",
+        "Option 1":"Durg induced nephropathy",
+        "Option 2":"Hypovolemia",
+        "Option 3":"Methmooglobinemia",
+        "Option 4":"Rhabdomyolysis",
+        "Option 5":"Sepsis",
+        "Correct Answer":"Rhabdomyolysis"
+    },
+    {
+        "Question":"A 22 year old man is brought to the emergency department. He was found lying unconscious on his right arm and it is evident that he has taken a trmazepam overdose. His right arm is mottled in color and swollen, his hand is insenate and stiff. What substance is most likely to be present in the urine in increased quantities?",
+        "Option 1":"Protein",
+        "Option 2":"Hemoglobin",
+        "Option 3":"Myoglobin",
+        "Option 4":"Erythrocytes",
+        "Option 5":"Lymphocytes",
+        "Correct Answer":"Myoglobin"
+    },
+    {
+        "Question":"34 year old patient with cast on his limb. After removal of it, he presented by oliguria, dark urine and myoglobin and ck 1000. What is the first treatment for this patient?",
+        "Option 1":"Hemodyalisis",
+        "Option 2":"IV fluids",
+        "Option 3":"Mannitol",
+        "Option 4":"Insulin glucose",
+        "Option 5":"Alkalinization of urine",
+        "Correct Answer":"IV fluids"
+    },
+    {
+        "Question":"A healthy 24 years old man is admitted to hospital 10 hours after complaining 25 km running race. He complains of muscle pain. Especially limbs and has passed abnormal colored urine since finishing the race. Catheterization of bladder reveals discolored urine with output of 6 ml\/h which of the following is the most likely observation?",
+        "Option 1":"Glucosuria",
+        "Option 2":"Hematuria",
+        "Option 3":"Low urine specific gravity <1.003 U\/L",
+        "Option 4":"Raised serum CK > 300 U\/L",
+        "Option 5":"Raised specific gravity > 1.015 U\/L",
+        "Correct Answer":"Raised serum CK > 300 U\/L"
+    },
+    {
+        "Question":"Which of the following requires immediate renal replacement?",
+        "Option 1":"K > 6.5 mmol\/L",
+        "Option 2":"PH acidotic",
+        "Option 3":"Increase creatinine",
+        "Option 4":"Increase BUN",
+        "Option 5":"Increase urea",
+        "Correct Answer":"K > 6.5 mmol\/L"
+    },
+    {
+        "Question":"What is absolute contraindication to contrast study?",
+        "Option 1":"Allergy to iodinated contrast",
+        "Option 2":"GFR 40",
+        "Option 3":"Dehydration",
+        "Option 4":"Sepsis",
+        "Option 5":"Respiratory acidosis",
+        "Correct Answer":"Allergy to iodinated contrast"
+    },
+    {
+        "Question":"Patient with oliguria was prescribed thiazide with loop diuretic. His urine output is improved. What is the mechanism of action of both drugs?",
+        "Option 1":"Antagonism",
+        "Option 2":"Synergism",
+        "Option 3":"Additive",
+        "Option 4":"Potentiation",
+        "Option 5":"Agonist",
+        "Correct Answer":"Synergism"
+    },
+    {
+        "Question":"30 years old patient after RTA patient suffered from oliguria his weight is about 70 kg, below which point do you get worried about urine output?",
+        "Option 1":"10 ml\/hr",
+        "Option 2":"15 ml\/hr",
+        "Option 3":"25 ml\/hr",
+        "Option 4":"35 ml\/hr",
+        "Option 5":"45 ml\/hr",
+        "Correct Answer":"35 ml\/hr"
+    },
+    {
+        "Question":"After road traffic accident, 34 years old man admitted to emergency room and presented by hypovolemia and oliguria. Physician give to him fluid challenge but he still be oliguric. What is the character finding in this patient?",
+        "Option 1":"Urine to plasma osmolarity 1:1",
+        "Option 2":"Urine specific gravity 1010",
+        "Option 3":"Urine osmolarity 250",
+        "Option 4":"Urine sodium 10",
+        "Option 5":"All of the above",
+        "Correct Answer":"Urine osmolarity 250"
+    }
+]

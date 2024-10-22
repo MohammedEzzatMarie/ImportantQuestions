@@ -1,0 +1,677 @@
+[
+    {
+        "Question":"A 53-year-old man presents with a nodule on his chin, He is concerned because it has  grown extremely rapidly over the course of the preceding week. On examination he has a  swollen, red, dome shaped lesion with a central defect that contains a keratinous type  material. What is the provisional diagnosis?",
+        "Option 1":"Squamous cell carcinoma",
+        "Option 2":"Bowens disease",
+        "Option 3":"Actinic keratosis",
+        "Option 4":"Basal cell carcinoma",
+        "Option 5":"Keratoacanthoma",
+        "Correct Answer":"Keratoacanthoma"
+    },
+    {
+        "Question":"A 70-year-old lady presents with skin lesions. On examination she has raised lesions with  a greasy surface located over her trunk. Apart from having a greasy surface the lesions  also seem to have scattered keratin plugs located within them. What is the provisional  diagnosis?",
+        "Option 1":"Seborrheic keratosis",
+        "Option 2":"Keratoacanthoma",
+        "Option 3":"Squamous cell cancer",
+        "Option 4":"Basal cell cancer",
+        "Option 5":"Actinic keratosis",
+        "Correct Answer":"Seborrheic keratosis"
+    },
+    {
+        "Question":"A 28-year-old female presents with a small nodule located on the back of her neck. It is excised for cosmetic reasons and the histology report states that the lesion consists of a sebum filled lesion surrounded by the outer root sheath of a halr follicle. What Is the diagnosis?",
+        "Option 1":"Pilar cyst",
+        "Option 2":"Epidermoid cyst",
+        "Option 3":"Dermoid cyst",
+        "Option 4":"Sebaceous cyst",
+        "Option 5":"Ganglion cyst",
+        "Correct Answer":"Pilar cyst"
+    },
+    {
+        "Question":"A 22 year old man is investigated for weight loss. A duodenal biopsy taken as part of his investigations shows total villous atrophy and lymphocytic infiltrate. He has a skin lesion that has small itchy papules. . What is the diagnosis?",
+        "Option 1":"Dermatitis herpetiformis",
+        "Option 2":"Pyogenic granuloma",
+        "Option 3":"Pyoderma gangrenosum",
+        "Option 4":"Acanthosis nigricans",
+        "Option 5":"None of the above",
+        "Correct Answer":"Dermatitis herpetiformis"
+    },
+    {
+        "Question":"A 21-year-old lady presents with a nodule on the posterior aspect of her right calf. It has  been present at the site for the past 6 months and occurred at the site of a previous insect  bite. Although the nodule appears small, on palpation it appears to be nearly twice the  size it appears on examination and the overlying skin is faintly pigmented. What is your  diagnosis?",
+        "Option 1":"Dermatofibroma",
+        "Option 2":"Malignant melanoma",
+        "Option 3":"Pyogenic granuloma",
+        "Option 4":"Decrum disease",
+        "Option 5":"Squamous cell cancer",
+        "Correct Answer":"Dermatofibroma"
+    },
+    {
+        "Question":"A 34-year-old gardener presents with a lesion affecting the dorsum of his right hand. It  has been present for the past 10 days and occurred after he had been pruning rose  bushes. On examination he has a raised ulcerated lesion which bleeds easily on contact  What is your diagnosis?",
+        "Option 1":"Pyogenic granuloma",
+        "Option 2":"Keratoacanthoma",
+        "Option 3":"Dermatofibroma",
+        "Option 4":"Basal cell carcinoma",
+        "Option 5":"Epidermoid cyst",
+        "Correct Answer":"Pyogenic granuloma"
+    },
+    {
+        "Question":"A 21-year-old lady presents with scar overgrowth after healing skin incision for evacuation of an abscess. This scar forms a painful mass rapidly growing and the Skin is immobile over lesion. What is your diagnosis?",
+        "Option 1":"Epidermoid cyst",
+        "Option 2":"Dermatofibroma",
+        "Option 3":"Lipoma",
+        "Option 4":"Dermoid cyst",
+        "Option 5":"Pyogenic granuloma",
+        "Correct Answer":"Dermatofibroma"
+    },
+    {
+        "Question":"A 25 year-old lady presents with finger swelling with history of trauma not tender not attached to skin and no foreign body inside, what is your diagnosis?",
+        "Option 1":"Abscess",
+        "Option 2":"Foreign body granuloma",
+        "Option 3":"Aneurysm digital aneurism",
+        "Option 4":"Epidermoid cyst",
+        "Option 5":"Ganglion cyst",
+        "Correct Answer":"Epidermoid cyst"
+    },
+    {
+        "Question":"A 22-year-old man presents with an infected sebaceous cyst. The cyst itself is swollen,  discharging pus and has some surrounding erythema. What is the most appropriate  treatment?",
+        "Option 1":"Excision of the cyst of closure of the defect with interrupted 3\/0 silk",
+        "Option 2":"Excision of the cyst and closure of the defect with subcuticular 4\/0 undyed nylon",
+        "Option 3":"Incision and drainage with excision of the cyst wall and packing of the defect",
+        "Option 4":"Incision and drainage with conservation of the cyst wall and packing of the defect",
+        "Option 5":"Administration of oral co-amoxiclav and definitive surgery once the infection has  cleared",
+        "Correct Answer":"Incision and drainage with excision of the cyst wall and packing of the defect"
+    },
+    {
+        "Question":"A 26 years old man presents with lesion surrounding ileostomy with long standing of Crohn's disease. What Is mostly diagnosis?",
+        "Option 1":"Dermatitis herpetiformis",
+        "Option 2":"Pyogenic granuloma",
+        "Option 3":"Pyoderma gangrenosum",
+        "Option 4":"Acanthosis nigricans",
+        "Option 5":"Dermatofibroma",
+        "Correct Answer":"Pyoderma gangrenosum"
+    },
+    {
+        "Question":"A 68-year-old farmer presents with a skin lesion on his forehead. It has been present for  the past 6 months and has grown slightly in size during that time. On examination he has  an ulcerated lesion with pearly white raised edges that measures 2cm in diameter. What  is mostly diagnosis?",
+        "Option 1":"Squamous cell carcinoma",
+        "Option 2":"Bowens disease",
+        "Option 3":"Actinic keratosis",
+        "Option 4":"Keratoacanthoma",
+        "Option 5":"Basal cell carcinoma",
+        "Correct Answer":"Basal cell carcinoma"
+    },
+    {
+        "Question":"A 32-year-old woman has a pigmented lesion excised from her left calf, The histo-pathological diagnosis is melanoma In situ, which is completely excised with a 1 cm margin. What is the next most appropriate management?",
+        "Option 1":"Education about skin self-examination and discharge from follow up",
+        "Option 2":"Elective inguinal lymph node dissection",
+        "Option 3":"Re excision with 2 cm margin",
+        "Option 4":"Removal of any other pigmented lesion",
+        "Option 5":"Chemotherapy",
+        "Correct Answer":"Education about skin self-examination and discharge from follow up"
+    },
+    {
+        "Question":"70-year-old man has skin lesion in his left temple and diagnosed as a basal cell  carcinoma after resection. What is the most important prognostic indicator for this  lesion?",
+        "Option 1":"Clinical pathological type",
+        "Option 2":"Completeness of excision",
+        "Option 3":"Intensity of the lymphocytic infiltrate",
+        "Option 4":"Lymph vascular space invasion",
+        "Option 5":"Mitotic index in the tumor islands",
+        "Correct Answer":"Completeness of excision"
+    },
+    {
+        "Question":"An elderly 70 years old patient presented with an ulcer which is painless over lower lip  with no cervical LNs enlargement. What is mostly diagnosis?",
+        "Option 1":"Squamous cell carcinoma",
+        "Option 2":"Keratoacanthoma",
+        "Option 3":"Herpes labialis",
+        "Option 4":"Basal cell carcinoma",
+        "Option 5":"Metastatic",
+        "Correct Answer":"Basal cell carcinoma"
+    },
+    {
+        "Question":"A 60 years old patient presented with small ulcer on tip of nose. This patient suffered  from a lesion was excised from his ear few months ago and diagnosed as basal cell cancer.  What is your diagnosis?",
+        "Option 1":"Basal cell carcinoma",
+        "Option 2":"Squamous cell carcinoma",
+        "Option 3":"Keratoacanthoma",
+        "Option 4":"Herpes labialis",
+        "Option 5":"Metastatic",
+        "Correct Answer":"Basal cell carcinoma"
+    },
+    {
+        "Question":"40 Years old Female came from Australia. She noted to have pigmented flat well defined lesion on her thigh. Excision was done. What is most likely to be?",
+        "Option 1":"Keratoacanthoma",
+        "Option 2":"Histiocytoma",
+        "Option 3":"Seborrheic Keratosis",
+        "Option 4":"Malignant Melanoma",
+        "Option 5":"Neurofibroma",
+        "Correct Answer":"Malignant Melanoma"
+    },
+    {
+        "Question":"A 52 years old lady that had lived in Australia a long time and recently returned to the UK presented with a suspicious skin lesion. What is mostly diagnosis?",
+        "Option 1":"BCC",
+        "Option 2":"SCC",
+        "Option 3":"Malignant melanoma",
+        "Option 4":"Pyogenic granuloma",
+        "Option 5":"Keratoacanthoma",
+        "Correct Answer":"BCC"
+    },
+    {
+        "Question":"A 50 years old woman presents with a 1 cm diameter pigmented, crusting and bleeding  lesion on her back clinically suggestive of a malignant melanoma. Which of the following  is the most appropriate diagnostic procedure to be performed?",
+        "Option 1":"Curettage",
+        "Option 2":"Excisional biopsy",
+        "Option 3":"Incisional biopsy",
+        "Option 4":"Punch biopsy",
+        "Option 5":"Wide local excision with a 2 cm margin",
+        "Correct Answer":"Excisional biopsy"
+    },
+    {
+        "Question":"55 years old man presented by inguinal swelling with blulsh lesion over his right big toe.  What is the diagnosis of this lesion?",
+        "Option 1":"Malignant Melanoma",
+        "Option 2":"Squamous cell carcinoma",
+        "Option 3":"Basal cell carcinoma",
+        "Option 4":"Keratoacanthoma",
+        "Option 5":"Kaposi sarcoma",
+        "Correct Answer":"Malignant Melanoma"
+    },
+    {
+        "Question":"50 years old women presented by pigmented lesion over her torso. What is mostly  diagnosis?",
+        "Option 1":"Superficial spreading melanoma",
+        "Option 2":"Nodular melanoma",
+        "Option 3":"Squamous cell carcinoma",
+        "Option 4":"Basal cell carcinoma",
+        "Option 5":"Kaposi sarcoma",
+        "Correct Answer":"Superficial spreading melanoma"
+    },
+    {
+        "Question":"30 years old female presented by pigmented mole 1 cm in diameter on her back that has enlarged and bleeds easily over the last two months. What is the next step?",
+        "Option 1":"Excisional biopsy with 2 mm safety margin",
+        "Option 2":"Excisional biopsy with 2 cm safety margin",
+        "Option 3":"Incisional biopsy",
+        "Option 4":"Fine needle biopsy",
+        "Option 5":"Punch biopsy",
+        "Correct Answer":"Excisional biopsy with 2 mm safety margin"
+    },
+    {
+        "Question":"68 years old male presented with irregular long standing painless 4 cm ulcer over the  medial malleolus of the right leg. What will you do for diagnosis?",
+        "Option 1":"5mm punch biopsy",
+        "Option 2":"Shave biopsy",
+        "Option 3":"Excisional biopsy",
+        "Option 4":"Wide excision of 5cm",
+        "Option 5":"Excisional biopsy with 2 mm safety margin",
+        "Correct Answer":"5mm punch biopsy"
+    },
+    {
+        "Question":"50 years old woman presented by 3 cm solitary swelling in her right lobe of the thyroid  gland. What is the next step for diagnosis?",
+        "Option 1":"Excisional biopsy with 2 mm safety margin",
+        "Option 2":"Excisional biopsy with 2 cm safety margin",
+        "Option 3":"Incisional biopsy",
+        "Option 4":"Fine needle aspiration and biopsy",
+        "Option 5":"Core biopsy",
+        "Correct Answer":"Fine needle aspiration and biopsy"
+    },
+    {
+        "Question":"An 83-year-old lady presents with multiple patches of pigmented irregular, superficial  lesions over the torso. They do not bleed but have become Increasingly itchy. What is  mostly next step?",
+        "Option 1":"5mm punch biopsy",
+        "Option 2":"Shave biopsy",
+        "Option 3":"Excisional biopsy",
+        "Option 4":"Wide excision of 5cm",
+        "Option 5":"Incisional biopsy",
+        "Correct Answer":"Shave biopsy"
+    },
+    {
+        "Question":"A patient with malignant melanoma. What is the best prognostic factor?",
+        "Option 1":"0.5 mm Breslow thickness",
+        "Option 2":"Free margins",
+        "Option 3":"No lymph nodes involved",
+        "Option 4":"No distant spread",
+        "Option 5":"Completeness of excision",
+        "Correct Answer":"0.5 mm Breslow thickness"
+    },
+    {
+        "Question":"A patient with malignant melanoma. What is the best prognostic factor?",
+        "Option 1":"Depth of tumor invasion",
+        "Option 2":"Free margins",
+        "Option 3":"No lymph nodes involved",
+        "Option 4":"No distant spread",
+        "Option 5":"Completeness of excision",
+        "Correct Answer":"Depth of tumor invasion"
+    },
+    {
+        "Question":"45 years old man presented by thigh mass. Ultrasound shows that lesion is about 15X9 cm  and in the deep fascia of the thigh, what is the next step for diagnosis?",
+        "Option 1":"Excisional biopsy",
+        "Option 2":"Incisional biopsy",
+        "Option 3":"Punch biopsy",
+        "Option 4":"Core biopsy",
+        "Option 5":"Fine needle biopsy",
+        "Correct Answer":"Core biopsy"
+    },
+    {
+        "Question":"Male 65 years old with 4cm ulcer in his scalp and recent dementia with history of colon  cancer excision 3 years ago. What is the next step for management of scalp ulcer?",
+        "Option 1":"Excisional biopsy",
+        "Option 2":"Incision biopsy",
+        "Option 3":"CT abdomen",
+        "Option 4":"Shave biopsy",
+        "Option 5":"Fine needle biopsy",
+        "Correct Answer":"Incision biopsy"
+    },
+    {
+        "Question":"A 68-year-old man presents with an irregular, painless, 4 cm ulcer above the medial part  of his right leg. What is the type of biopsy taken?",
+        "Option 1":"Excisional biopsy with a 2 cm margin",
+        "Option 2":"Excisional biopsy with a 2 mm margin",
+        "Option 3":"Incisional biopsy",
+        "Option 4":"Fine needle aspiration cytology (FNAC)",
+        "Option 5":"Needle core biopsy (True-Cut)",
+        "Correct Answer":"Incisional biopsy"
+    },
+    {
+        "Question":"45 years old man has 15 cm retroperitoneal mass displacing the stomach, spleen and kidney in his CT abdomen. He has also long history of L4\/5 prolapses. What is the type of biopsy taken from mass?",
+        "Option 1":"Radical excision",
+        "Option 2":"Incision",
+        "Option 3":"Fine Needle",
+        "Option 4":"Radical excision",
+        "Option 5":"Core biopsy",
+        "Correct Answer":"Core biopsy"
+    },
+    {
+        "Question":"31. 45 years old woman presented with nose ulcer about 1cm. excision of lesion over nose is done up to mucosa level and ala of cartilage. What ls your management?",
+        "Option 1":"Skin grafting",
+        "Option 2":"Split skin graft",
+        "Option 3":"Full thickness graft",
+        "Option 4":"Local flap",
+        "Option 5":"Leave it by dressing",
+        "Correct Answer":"Local flap"
+    },
+    {
+        "Question":"30 years old suffers from deep burn to his leg after rood traffic collision by vehicle. Three  weeks later he has 7 X 5 cm area of ulceration exposing the tibia. Which of the following is  appropriate management?",
+        "Option 1":"Conservative management",
+        "Option 2":"Free flap reconstruction",
+        "Option 3":"Primary direct closure",
+        "Option 4":"Split thickness graft",
+        "Option 5":"Surgical debridement and delayed primary closure",
+        "Correct Answer":"Free flap reconstruction"
+    },
+    {
+        "Question":"A 71-year-old lady trips over and falls landing on her left shin. She sustains a large  pretibial laceration of her leg leaving a dirty wound with rugged flap edges. What is the  appropriate wound management?",
+        "Option 1":"Immediate split thickness skin graft",
+        "Option 2":"Delayed split thickness skin graft",
+        "Option 3":"Primary closure",
+        "Option 4":"Delayed primary closure",
+        "Option 5":"Randomized free flap",
+        "Correct Answer":"Delayed split thickness skin graft"
+    },
+    {
+        "Question":"A 63-year-old male is gardening when he trips and lands on a scythe. he sustains a deep  laceration of his lateral thigh, it measures 3cm depth by 7cm length, it penetrates down  to the bone but no fracture is evident on imaging or examination. His co- morbidities include type II diabetes mellitus (diet controlled) and polymyalgia rheumatica (takes regular low dose prednisolone). What is appropriate management?",
+        "Option 1":"Immediate split thickness skin graft",
+        "Option 2":"Delayed split thickness skin graft",
+        "Option 3":"Delayed Primary closure",
+        "Option 4":"Local pedicle flap",
+        "Option 5":"Primary closure",
+        "Correct Answer":"Delayed Primary closure"
+    },
+    {
+        "Question":"25 years old stabbed on his foot with a garden fork. On examination, there is indurated swelling of the foot and discoloration of the skin 1 cm around the wound. What is your management?",
+        "Option 1":"Wound excision and allow to heal with secondary intention",
+        "Option 2":"Wound excision with suture",
+        "Option 3":"Delayed primary closure",
+        "Option 4":"Flap",
+        "Option 5":"Primary Wound closure",
+        "Correct Answer":"Wound excision and allow to heal with secondary intention"
+    },
+    {
+        "Question":"A 30 years old patient suffered from keloid after old scar what is the best management  for this keloid?",
+        "Option 1":"Intra-lesion steroids",
+        "Option 2":"Re-excision",
+        "Option 3":"Parenteral steroids",
+        "Option 4":"Full thickness graft",
+        "Option 5":"Split thickness graft",
+        "Correct Answer":"Intra-lesion steroids"
+    },
+    {
+        "Question":"50 years old man with superficial ulcer or defect on the cheek with 1 cm tissue loss. What  is the appropriate management?",
+        "Option 1":"Split skin grafting",
+        "Option 2":"Full thickness graft",
+        "Option 3":"Free flap",
+        "Option 4":"Simple dressing",
+        "Option 5":"Random flap",
+        "Correct Answer":"Simple dressing"
+    },
+    {
+        "Question":"45 years old man with 6 cm laceration on his scalp with dirty wound. What is the  appropriate management?",
+        "Option 1":"Free flap",
+        "Option 2":"Primary closure",
+        "Option 3":"Healing by secondary intention",
+        "Option 4":"Simple suture",
+        "Option 5":"Random flap",
+        "Correct Answer":"Primary closure"
+    },
+    {
+        "Question":"65 years old man post-operative after an operation of total colectomy then suffered from heel pressure sore with skin necrosis, what is the management?",
+        "Option 1":"Debridement and heal by secondary intention",
+        "Option 2":"Closure",
+        "Option 3":"Flap",
+        "Option 4":"Immediate split thickness graft",
+        "Option 5":"Delayed split thickness graft",
+        "Correct Answer":"Debridement and heal by secondary intention"
+    },
+    {
+        "Question":"43 years old man attacked from dog and his nose has bitten off with tissue lost. What is the appropriate management?",
+        "Option 1":"Pedicle flap",
+        "Option 2":"Heal by secondary intention",
+        "Option 3":"Immediate split thickness graft",
+        "Option 4":"Delayed split thickness graft",
+        "Option 5":"Primary closure",
+        "Correct Answer":"Heal by secondary intention"
+    },
+    {
+        "Question":"50 years old patient with laceration of the scalp about 3 cm with periosteum removed.  What is your management?",
+        "Option 1":"Split thickness graft",
+        "Option 2":"Full thickness graft",
+        "Option 3":"Rotational flap",
+        "Option 4":"Secondary intention",
+        "Option 5":"Primary closure",
+        "Correct Answer":"Rotational flap"
+    },
+    {
+        "Question":"A 75-year-old diabetic male presented with black small toe. What is the management?",
+        "Option 1":"Debridement and healed by secondary intension",
+        "Option 2":"Primary Closure",
+        "Option 3":"Graft",
+        "Option 4":"Flap",
+        "Option 5":"Conservative dressing",
+        "Correct Answer":"Conservative dressing"
+    },
+    {
+        "Question":"Female hit with glass table show pre tibial triangular lacerated flap base 2 cm and length 6  cm but we can't be fully approximate the edges and presented 12 hours after trauma and  periosteal not exposed. What is the appropriate management?",
+        "Option 1":"Approximation under tension",
+        "Option 2":"Approximation without tension and remaining covered by split thickness graft",
+        "Option 3":"Approximate without tension and remaining covered by full thickness graft",
+        "Option 4":"Excision of non-viable with split thickness graft",
+        "Option 5":"Excision of non-viable with rotational flap",
+        "Correct Answer":"Excision of non-viable with split thickness graft"
+    },
+    {
+        "Question":"Male 35 years old presented with tender fluctuate perianal and rectal swelling he is feverish for that past 2 days and cannot tolerate PR examination. What is the most appropriate treatment?",
+        "Option 1":"Incision of this swelling and primary closure",
+        "Option 2":"Excision of this swelling",
+        "Option 3":"Haemorrhoidectomy",
+        "Option 4":"Medical Treatment",
+        "Option 5":"Incision of the swelling and lay open",
+        "Correct Answer":"Incision of the swelling and lay open"
+    },
+    {
+        "Question":"A 49 year old patient needs kidney transplant from identical twin, that is the type of this graft?",
+        "Option 1":"Isograft",
+        "Option 2":"Autograft",
+        "Option 3":"Allograft",
+        "Option 4":"Xenograft",
+        "Option 5":"All of the above",
+        "Correct Answer":"Isograft"
+    },
+    {
+        "Question":"35 years old man suffers from burn over his trunk and physician needs skin  grafting from his thigh to cover this raw area on abdomen, what is the type of graft?",
+        "Option 1":"Allograft",
+        "Option 2":"Autograft",
+        "Option 3":"Isograft",
+        "Option 4":"Xenograft",
+        "Option 5":"All of the above",
+        "Correct Answer":"Autograft"
+    },
+    {
+        "Question":"A 20 years old man with congenital bicuspid aortic stenosis receives human cadaveric  aortic valve to replace his diseased valve, what is the type of graft?",
+        "Option 1":"Isograft",
+        "Option 2":"Autograft",
+        "Option 3":"Allograft",
+        "Option 4":"Xenograft",
+        "Option 5":"All of the above",
+        "Correct Answer":"Allograft"
+    },
+    {
+        "Question":"A 34 years old man with temporary porcine skin graft ls applied to his trunk due to bum  after house fire, what is the type of graft?",
+        "Option 1":"Xenograft",
+        "Option 2":"Isograft",
+        "Option 3":"Autograft",
+        "Option 4":"Allograft",
+        "Option 5":"All of the above",
+        "Correct Answer":"Xenograft"
+    },
+    {
+        "Question":"Patient is scheduled in transplantation list for transplantation a cadaveric liver for him due to liver cell failure, what is the type of graft?",
+        "Option 1":"Allograft",
+        "Option 2":"Xenograft",
+        "Option 3":"Autograft",
+        "Option 4":"Isograft",
+        "Option 5":"All of the above",
+        "Correct Answer":"Allograft"
+    },
+    {
+        "Question":"A 39-year-old woman is making a slow but adequate recovery after sustaining a 40% surface area burn injury. On the 4th  postoperative day she becomes unwell. She vomits intermittently, has painless abdominal distension. What is the most likely cause of these symptoms?",
+        "Option 1":"Acute gastric dilatation",
+        "Option 2":"Acute intestinal obstruction",
+        "Option 3":"Clostridium difficile infection",
+        "Option 4":"Fecal impaction",
+        "Option 5":"Systemic sepsis",
+        "Correct Answer":"Acute gastric dilatation"
+    },
+    {
+        "Question":"years old suffered from 5 % full thickness on arm and torso with dry crust, what is your  management to cover this burn are?",
+        "Option 1":"Full thickness graft",
+        "Option 2":"Split thickness graft",
+        "Option 3":"Fasciotomy",
+        "Option 4":"Flap",
+        "Option 5":"Escharotomy",
+        "Correct Answer":"Split thickness graft"
+    },
+    {
+        "Question":"Patient presented with hematemesis in the 4\" day after burn. What is the cause of this  hematemesis?",
+        "Option 1":"Acute gastric dilatation",
+        "Option 2":"Curling ulcer",
+        "Option 3":"Cushing ulcer",
+        "Option 4":"Ileus",
+        "Option 5":"Fecal impaction",
+        "Correct Answer":"Curling ulcer"
+    },
+    {
+        "Question":"34 years old patient admitted to burn center with 20% second degree burns on his leg and  hand by hot water. What is the most important step in management?",
+        "Option 1":"Secure airway",
+        "Option 2":"Crystalloids and colloid infusion",
+        "Option 3":"IV antibiotic",
+        "Option 4":"Plasma infusion",
+        "Option 5":"IV proton pump inhibitor",
+        "Correct Answer":"Crystalloids and colloid infusion"
+    },
+    {
+        "Question":"40 year old patient with body weight 70 kg suffered from 50% surface area burn. What are the crystalloid fluid requirements during the 24 hours?",
+        "Option 1":"20 Litres",
+        "Option 2":"18 Litres",
+        "Option 3":"16 Litres",
+        "Option 4":"14 Litres",
+        "Option 5":"7 Litres",
+        "Correct Answer":"7 Litres"
+    },
+    {
+        "Question":"50 year old patient with body weight 90 kg suffered form 60% burn. What is the crystalloid fluid calculation required for this patient duing 24 hours?",
+        "Option 1":"28 Litres",
+        "Option 2":"26 Litres",
+        "Option 3":"24 Litres",
+        "Option 4":"22 Litres",
+        "Option 5":"11 Litres",
+        "Correct Answer":"11 Litres"
+    },
+    {
+        "Question":"50 years old patient with 60%surface area burn presented with bilateral leg edema In the  4th  day after burn. What is the common cause of this edema?",
+        "Option 1":"Hypoalbuminemia",
+        "Option 2":"Sepsis",
+        "Option 3":"Heart failure",
+        "Option 4":"DVT",
+        "Option 5":"Cellulitis",
+        "Correct Answer":"Hypoalbuminemia"
+    },
+    {
+        "Question":"50 years old patient with body weight 90 kg suffered from 60% burn. What is the  crystalloid fluid preferred in management of burn?",
+        "Option 1":"Hartman",
+        "Option 2":"Saline",
+        "Option 3":"Glucose 5%",
+        "Option 4":"Glucose 10%",
+        "Option 5":"Na bicarbonate",
+        "Correct Answer":"Hartman"
+    },
+    {
+        "Question":"32 years old female who weighs 90 kg with circumferential burn to a lower limb and  perineum. What is the fluids requirement in 24 hours?",
+        "Option 1":"11-13 Liters",
+        "Option 2":"9-11 Liters",
+        "Option 3":"7-9 Liters",
+        "Option 4":"5-7 liters",
+        "Option 5":"3-5 Liters",
+        "Correct Answer":"3-5 Liters"
+    },
+    {
+        "Question":"A 40 years old female patient presented by 20% burn over her chest, for which she underwent graft treatment, 10 days later she came with sweeping discharge from the graft edges, fever and chest pain, what medication you will give?",
+        "Option 1":"Flucloxacillin",
+        "Option 2":"Cephalosporin",
+        "Option 3":"Cephalosporin and Metronidazole",
+        "Option 4":"Ampicillin",
+        "Option 5":"Ciprofloxacin",
+        "Correct Answer":"Cephalosporin and Metronidazole"
+    },
+    {
+        "Question":"A patient has sustained 50 % body surface area burns all over the trunk and limbs. Which of the following is mostly likely to be helpful in guiding fluid resuscitation?",
+        "Option 1":"Central venous pressure",
+        "Option 2":"Heart rate",
+        "Option 3":"Respiratory rate",
+        "Option 4":"Serum lactate",
+        "Option 5":"Urinary sodium",
+        "Correct Answer":"Central venous pressure"
+    },
+    {
+        "Question":"A 50 years old man with 20 % burn following house fire, which of the following is feature  of stress response of this?",
+        "Option 1":"Decrease glycogenolysis",
+        "Option 2":"Decrease lipolysis",
+        "Option 3":"Decrease urinary nitrogen secretion",
+        "Option 4":"Increase protein catabolism",
+        "Option 5":"Increase total protein synthesis",
+        "Correct Answer":"Increase protein catabolism"
+    },
+    {
+        "Question":"A 45 years old man with 5% superficial burns with blistering on his arm. How to manage?",
+        "Option 1":"Keep open",
+        "Option 2":"Occlusive dressing",
+        "Option 3":"Partial thickness skin graft",
+        "Option 4":"Full thickness skin graft",
+        "Option 5":"Flap",
+        "Correct Answer":"Keep open"
+    },
+    {
+        "Question":"51 years old female admitted to hospital with 20% full thickness burn on her leg and  abdomen, what is your management?",
+        "Option 1":"Free flap",
+        "Option 2":"meshed split thickness graft",
+        "Option 3":"full thickness graft",
+        "Option 4":"local flap",
+        "Option 5":"xenograft",
+        "Correct Answer":"meshed split thickness graft"
+    },
+    {
+        "Question":"23 years old female admitted to hospital with Full thickness burn or 4th degree burn.  Which of following is characteristic of this type of burn?",
+        "Option 1":"No sensation for pain",
+        "Option 2":"Blacking of edge of burn",
+        "Option 3":"Have Blisters",
+        "Option 4":"Have severe Pain",
+        "Option 5":"Redness of skin",
+        "Correct Answer":"No sensation for pain"
+    },
+    {
+        "Question":"20 years old patient removed from burnt house. Which of the following is indication of  intubation for that patient?",
+        "Option 1":"Dyspnoea",
+        "Option 2":"Hypoxia",
+        "Option 3":"Decreased conscious level",
+        "Option 4":"Blood level of carboxy hemoglobin 20%",
+        "Option 5":"Chest burn",
+        "Correct Answer":"Blood level of carboxy hemoglobin 20%"
+    },
+    {
+        "Question":"20 years old patient removed from burnt house. Which of the following is indication of  Intubation for that patient?",
+        "Option 1":"20% total surface area burn",
+        "Option 2":"10% total surface area burn",
+        "Option 3":"Limb 3rd  degree burn",
+        "Option 4":"Chest 3rd  degree burn",
+        "Option 5":"Blood level of carboxy hemoglobin 20%",
+        "Correct Answer":"Blood level of carboxy hemoglobin 20%"
+    },
+    {
+        "Question":"A 24 years old man presented with a 1cm soft and cystic swelling in the inner aspect of  the lower lip mucosa. It is not painful with clear content. What is the cause of swelling?",
+        "Option 1":"Abscess",
+        "Option 2":"Dermoid cyst",
+        "Option 3":"Pyocele",
+        "Option 4":"Chylocele",
+        "Option 5":"Mucocele",
+        "Correct Answer":"Mucocele"
+    },
+    {
+        "Question":"18 years old female presented by painful small ulcer inside Inner lip appears during the  period of her exam and stayed for a week. What is the appropriate diagnosis?",
+        "Option 1":"Aphthous ulcer",
+        "Option 2":"Traumatic ulcer",
+        "Option 3":"Malignant ulcer",
+        "Option 4":"Erythroplakia",
+        "Option 5":"Leukoplakia",
+        "Correct Answer":"Aphthous ulcer"
+    },
+    {
+        "Question":"68 years male smoker with bilateral lymph nodes enlargement on the neck anterior to sternomastoid muscle, what is most likely cancer cause enlargement of these lymph nodes?",
+        "Option 1":"Tongue cancer",
+        "Option 2":"Papillary thyroid cancer",
+        "Option 3":"Basal cell cancer",
+        "Option 4":"Follicular cell cancer",
+        "Option 5":"Anaplastic thyroid cancer",
+        "Correct Answer":"Tongue cancer"
+    },
+    {
+        "Question":"What is the cause of precancerous red velvety lesion on the mucosa of the tongue?",
+        "Option 1":"Erythroplakia",
+        "Option 2":"Leucoplakia",
+        "Option 3":"Ranula",
+        "Option 4":"Squamous cell cancer",
+        "Option 5":"Basal cell cancer",
+        "Correct Answer":"Erythroplakia"
+    },
+    {
+        "Question":"45 years old patient had a velvety red lesion on the mouth. Biopsy from lesion revealed  keratin. What is the cause?",
+        "Option 1":"Squamous cell cancer",
+        "Option 2":"adenocarcinoma",
+        "Option 3":"Basal cell carcinoma",
+        "Option 4":"Keratoacanthoma",
+        "Option 5":"Leucoplakia",
+        "Correct Answer":"Squamous cell cancer"
+    },
+    {
+        "Question":"A 70 years old ex-sailor presents with a crusty exophytic ulcer over his left cheek since 6  months. On examination, the ulcer has got an everted edge with basaloid features. A few  enlarged lymph nodes are palpable in his neck. What is your diagnosis?",
+        "Option 1":"Squamous cell cancer",
+        "Option 2":"Basal cell cancer",
+        "Option 3":"Keratoacathoma",
+        "Option 4":"Malignant melanoma",
+        "Option 5":"Merkel cell tumor",
+        "Correct Answer":"Squamous cell cancer"
+    },
+    {
+        "Question":"5 years old child has burn on anterior abdominal wall & thigh. What is the first step on  management to minimize burn damage?",
+        "Option 1":"Rinse area",
+        "Option 2":"Fluids",
+        "Option 3":"100% O2",
+        "Option 4":"Non-adhesive dressing",
+        "Option 5":"Graft",
+        "Correct Answer":"Rinse area"
+    },
+    {
+        "Question":"40 year old patient with body weight 65 kg suffered from 20% surface area burn, what are the crystalloid fluid requirements during the first 8 hours?",
+        "Option 1":"1.3 Liters",
+        "Option 2":"2.6 Liters",
+        "Option 3":"5.2 litres",
+        "Option 4":"6.4 Liters",
+        "Option 5":"7 Liters",
+        "Correct Answer":"1.3 Liters"
+    },
+    {
+        "Question":"Squamous cell cancer histology contain which of the following?",
+        "Option 1":"Keratin pearls",
+        "Option 2":"Peripheral palisading",
+        "Option 3":"Spindle cell tumor",
+        "Option 4":"Deposits of melanin",
+        "Option 5":"Mucus secretion",
+        "Correct Answer":"Keratin pearls"
+    }
+]

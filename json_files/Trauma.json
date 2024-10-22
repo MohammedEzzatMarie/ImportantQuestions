@@ -1,0 +1,443 @@
+[
+    {
+        "Question":"27 years old patient brought to ER after RTA presented with muffled heart sounds, his blood  pressure 90\/60 and increased JVP what is the most probably cause of this condition?",
+        "Option 1":"Cardiac Tamponade",
+        "Option 2":"Hemothorax",
+        "Option 3":"Pneumothorax",
+        "Option 4":"Diaphragmatic rupture",
+        "Option 5":"None of the above",
+        "Correct Answer":"Cardiac Tamponade"
+    },
+    {
+        "Question":"A 60 years old patient admitted in your HDU after total colectomy operation, you noticed that  he became Hypoxic after subclavian central venous line insertion, what is the probable Cause?",
+        "Option 1":"Tension pneumothorax",
+        "Option 2":"Pneumothorax",
+        "Option 3":"Subclavian artery injury",
+        "Option 4":"Cardiac tamponade",
+        "Option 5":"None of the above",
+        "Correct Answer":"Pneumothorax"
+    },
+    {
+        "Question":"A 30 years old patient brought to ER with rib fracture patient is intubated, then becomes  hypotensive and hypoxic what is your diagnosis?",
+        "Option 1":"Tension pneumothorax",
+        "Option 2":"Hemothorax",
+        "Option 3":"Hemopericardium",
+        "Option 4":"Hemopneumothorax",
+        "Option 5":"None of the above",
+        "Correct Answer":"Tension pneumothorax"
+    },
+    {
+        "Question":"A 28 years old patient stabbed on right side posterior to axillary line. x ray showing pneumothorax with fluid level. What is the best management?",
+        "Option 1":"Chest drain with suction",
+        "Option 2":"Needle Decompression",
+        "Option 3":"thoracentesis",
+        "Option 4":"Chest drain Without suction",
+        "Option 5":"None of the above",
+        "Correct Answer":"Chest drain Without suction"
+    },
+    {
+        "Question":"A 50-year-old alcoholic man attends the emergency department. His main reason for presenting is that he has no home to go to, On examination he has no evidence of involvement in recent trauma; a skull x-ray fails to show any, evidence of skull fracture. He is admitted and twelve hours following admission he develops sudden onset headache, becomes comatose and then dies.",
+        "Option 1":"Intraventricular haemorrhage",
+        "Option 2":"Chronic sub Dural bleed",
+        "Option 3":"Acute sub Dural bleed",
+        "Option 4":"Extra Dural haemorrhage",
+        "Option 5":"Sub arachnoid haemorrhage",
+        "Correct Answer":"Sub arachnoid haemorrhage"
+    },
+    {
+        "Question":"A 50-year-old lady is admitted having fallen down some stairs sustaining mutiple rib fractures  36 hours previously. On examination she is confused and agitated and has clinical evidence of  lateralizing signs. She deteriorates further and then dies with no response to resuscitation.",
+        "Option 1":"Intraventricular hemorrhage",
+        "Option 2":"Chronic sub Dural bleed",
+        "Option 3":"Acute sub Dural bleed",
+        "Option 4":"Extra Dural hemorrhage",
+        "Option 5":"Sub arachnoid hemorrhage",
+        "Correct Answer":"Acute sub Dural bleed"
+    },
+    {
+        "Question":"A male infant is born at 28 weeks gestation by emergency cesarean section. He is taken to  theatre for a colostomy. Due to an imperforate anus. He initially seems to be progressing well.  However, he begins to develop decerebrate. Posturing and is becoming increasingly obtunded.",
+        "Option 1":"Intraventricular hemorrhage",
+        "Option 2":"Chronic sub Dural bleed",
+        "Option 3":"Acute sub Dural bleed",
+        "Option 4":"Extra Dural hemorhage",
+        "Option 5":"Sub arachnoid hemorrhage",
+        "Correct Answer":"Intraventricular hemorrhage"
+    },
+    {
+        "Question":"A previously fit 21-year-old man collapses while running a Marathon. Resuscitation  unsuccessful a post-mortem examination shows an intracranial hemorrhage. what is Likely site of the hemorrhage?",
+        "Option 1":"Intraventricular hemorrhage",
+        "Option 2":"Chronic sub Dural bleed",
+        "Option 3":"Acute sub Dural bleed",
+        "Option 4":"Extra Dural hemorrhage",
+        "Option 5":"Subarachnoid hemorrhage",
+        "Correct Answer":"Subarachnoid hemorrhage"
+    },
+    {
+        "Question":"Patient hit by ball, has depressed skull fracture, no vomiting or loss of consciousness what is the next step should to do?",
+        "Option 1":"CT within 1 hour",
+        "Option 2":"CT within 8 hours",
+        "Option 3":"Call neurosurgeon",
+        "Option 4":"Admission under observation",
+        "Option 5":"None of the above",
+        "Correct Answer":"CT within 1 hour"
+    },
+    {
+        "Question":"A man brought to emergency department with head injury initially GCS was 15, after some time GCS deteriorated to 10 what is the possible cause?",
+        "Option 1":"intraventricular hemorthage",
+        "Option 2":"Chronic sub Dural bleed",
+        "Option 3":"Acute sub Dural bleed",
+        "Option 4":"Extra Dural hemorrhage",
+        "Option 5":"Sub arachnoid hemorrhage",
+        "Correct Answer":"Extra Dural hemorrhage"
+    },
+    {
+        "Question":"A 30 years old patient brought to ER with history of RTA his Echo showing cardiac Tamponade  for which pericardiocentesis was done what is the proper site of insertion?",
+        "Option 1":"Between Xephoid process and left sternocostal margin",
+        "Option 2":"Between Xephoid process and right sternocostal margin",
+        "Option 3":"Safety triangle in the chest",
+        "Option 4":"2nd  intercostal space",
+        "Option 5":"None of the above",
+        "Correct Answer":"Between Xephoid process and left sternocostal margin"
+    },
+    {
+        "Question":"Man presenting with head injury showing deterioration in GCS which becomes 3 with unilateral  unreactive pupil?",
+        "Option 1":"Intraventricular hemorrhage",
+        "Option 2":"Chronic sub Dural bleed",
+        "Option 3":"Acute sat Dural bleed",
+        "Option 4":"Sub arachnoid hemorrhage",
+        "Option 5":"Tentorial Herniation",
+        "Correct Answer":"Tentorial Herniation"
+    },
+    {
+        "Question":"Man presenting with head injury showing deterioration in GCS which becomes 11 with his  mean atrial blood pressure 78mmHlg and ICP 18mmHlg calculate Cerebral perfusion pressure?",
+        "Option 1":"60mmHg",
+        "Option 2":"80mmHg",
+        "Option 3":"70 mmHg",
+        "Option 4":"100mmHg",
+        "Option 5":"None of the above",
+        "Correct Answer":"60mmHg"
+    },
+    {
+        "Question":"A baby is brought to casualty unconscious and in a vegetative state. She has cigarette burns on  her legs. What is the most likely underlying injury?",
+        "Option 1":"Acute subdural hematoma",
+        "Option 2":"Chronic subdural hematoma",
+        "Option 3":"Acute extradural hematoma",
+        "Option 4":"Diffuse axonal injury",
+        "Option 5":"Subarachnoid hemorrhage",
+        "Correct Answer":"Diffuse axonal injury"
+    },
+    {
+        "Question":"A 50 year old patient came to ER assessment of consciousness level was done according to GCS patient can localizes pain, open eye to pain and sounds what the GCS?",
+        "Option 1":"9",
+        "Option 2":"7",
+        "Option 3":"12",
+        "Option 4":"11",
+        "Option 5":"None of the above",
+        "Correct Answer":"9"
+    },
+    {
+        "Question":"Injury to orbit of eye due to direct hit by a squash ball. Now presents with diplopia. Visual acuity normal. Xray orbit anatomy is normal. Best next investigation?",
+        "Option 1":"MRI",
+        "Option 2":"3D CT",
+        "Option 3":"X ray skull",
+        "Option 4":"US",
+        "Option 5":"None of the above",
+        "Correct Answer":"3D CT"
+    },
+    {
+        "Question":"A27 year old patient admitted at ICU Having a manifestation of increased ICP Which of the following intervention will decrease raised ICP with immediate effect?",
+        "Option 1":"Hyperventilation",
+        "Option 2":"Hypoventilation",
+        "Option 3":"Hypotonic saline",
+        "Option 4":"CPAP mood of ventilation",
+        "Option 5":"None of the above",
+        "Correct Answer":"Hyperventilation"
+    },
+    {
+        "Question":"Trauma to face affecting orbit with periorbital hematoma and subconjunctival hemorrhage and epistaxis the type of injury?",
+        "Option 1":"Le fort1",
+        "Option 2":"Le fort 2",
+        "Option 3":"Le fort 3",
+        "Option 4":"Facture base of the skull",
+        "Option 5":"None of the above",
+        "Correct Answer":"Le fort 3"
+    },
+    {
+        "Question":"A 29 year old patient brought to ER after falling from the floor. A patient is non responsive to any stimuli there is no eye opening what is his GCS?",
+        "Option 1":"3",
+        "Option 2":"0",
+        "Option 3":"5",
+        "Option 4":"6",
+        "Option 5":"None of the above",
+        "Correct Answer":"3"
+    },
+    {
+        "Question":"A young man stabbed in the left 5th ICS, vitally stable apart of tachycardia, normal chest x-ray, what is the next step to do?",
+        "Option 1":"Echo",
+        "Option 2":"CT scan",
+        "Option 3":"Thoracotomy",
+        "Option 4":"Insert chest drain",
+        "Option 5":"None of the above",
+        "Correct Answer":"Echo"
+    },
+    {
+        "Question":"In an emergency what is the most appropriate surgical method of obtaining an airway?",
+        "Option 1":"Cutting and retracting the cricothyroid muscle",
+        "Option 2":"Cutting the thyrohyoid membrane",
+        "Option 3":"Dividing the thyroid isthmus",
+        "Option 4":"Entering the trachea at the C7 level",
+        "Option 5":"Piercing the cricothyroid membrane",
+        "Correct Answer":"Piercing the cricothyroid membrane"
+    },
+    {
+        "Question":"A 25-year-old man is admitted having been stabbed in the interior chest. On examination he is alert and coherent He has congested neck veins His pulse is 140 beats\/ minute and his blood pressure 90\/60 mmHg. He has normal breath sounds. What is the most likely cause of his cardiac arrest 15 minutes later?",
+        "Option 1":"Cardiac tamponade",
+        "Option 2":"Congestive cardiac failure",
+        "Option 3":"Hypovolemia",
+        "Option 4":"Tension pneumothorax",
+        "Option 5":"Ventricular arrhythmia",
+        "Correct Answer":"Cardiac tamponade"
+    },
+    {
+        "Question":"A 19 year-old man fell down a flight of stairs On presentation to the Emergency Department his Glasgow Coma Score (GCS) was 14\/15 with no local neurological signs An hour later he Vomited, and his GCS deteriorated to 10. He developed a fixed and dilated left pupil Which of the following is likely to seen on the scan?",
+        "Option 1":"Left-sided acute subdural hematoma",
+        "Option 2":"Left-sided extradural hematoma",
+        "Option 3":"Left-sided midbrain hematoma",
+        "Option 4":"Right-sided acute subdural hematoma",
+        "Option 5":"Right-sided extradural hematoma",
+        "Correct Answer":"Left-sided extradural hematoma"
+    },
+    {
+        "Question":"23-year-old man is stabbed in the right upper quadrant and is hemodynamically unstable. A laparotomy is performed, and the liver has some extensive superficial lacerations and is bleeding profusely. The patient becomes progressively more hemodynamically unstable. What is the best management option?",
+        "Option 1":"Pack the liver and close the abdomen with Bogota bag system",
+        "Option 2":"Occlude the hepatic inflow with a pringles maneuver and suture the defects",
+        "Option 3":"Occlude vascular inflow and resect the most severely affected area anatomically",
+        "Option 4":"Perform a portosystemic shunt procedure",
+        "Option 5":"Suture the defects without vascular occlusion",
+        "Correct Answer":"Pack the liver and close the abdomen with Bogota bag system"
+    },
+    {
+        "Question":"Three days after an isolated head injury from the fall, 76-year-old woman is admitted for drowsiness and confusion. There are no localizing sings. ACT scan is most likely to show.",
+        "Option 1":"A cerebral hematoma on the right side with cerebral swelling and midline shift to the left",
+        "Option 2":"A depressed frontal fracture communicating with the frontal sinus and sing of the infection",
+        "Option 3":"An expanding extradural hematoma on the left side with cerebral swelling",
+        "Option 4":"Blood in the subarachnoid space and cerebral ventricles with secondary hydrocephalus",
+        "Option 5":"Cerebral atrophy with subdural collection on the left side",
+        "Correct Answer":"Cerebral atrophy with subdural collection on the left side"
+    },
+    {
+        "Question":"Trauma to face affecting orbit with periorbital hematoma ad subconjunctival hemorrhage and epistasis the fracture site",
+        "Option 1":"Nasal bone",
+        "Option 2":"Neso-ethmoidal",
+        "Option 3":"Maxillary",
+        "Option 4":"Maxilloorbital",
+        "Option 5":"None of the above",
+        "Correct Answer":"Neso-ethmoidal"
+    },
+    {
+        "Question":"A 19-year-old man fell down a flight of stairs. On presentation to the Emergency Department his Glasgow Coma Score (GCS) was 14\/15 with no local neurological signs. An hour later he Vomited, and his GCS deteriorated to 10.He developed a fixed and dilated left pupil Which of the following accounts for pupillary sings?",
+        "Option 1":"Compression of oculomotor nerve parasympathetic fibers",
+        "Option 2":"Compression of sympathetic fibers to the left iris",
+        "Option 3":"Compression of the afferent fibers of the optic nerve",
+        "Option 4":"Compression on Edinger Westphal nucleus",
+        "Option 5":"Compression on optic chiasma",
+        "Correct Answer":"Compression of oculomotor nerve parasympathetic fibers"
+    },
+    {
+        "Question":"A 70-year-old man with carcinoma of the bronchus presents with blurring of vision, headaches and nausea, particularly in the morning. Which of the following is the most appropriate treatment?",
+        "Option 1":"Carbamazepine",
+        "Option 2":"Dexamethasone",
+        "Option 3":"Morphine elixir",
+        "Option 4":"Paracetamol",
+        "Option 5":"Radiotherapy",
+        "Correct Answer":"Dexamethasone"
+    },
+    {
+        "Question":"A young man stabbed in the Left Sth ICS, he is vitally stable apart of tachycardia, normal chest x- ray, what is the next step to do?",
+        "Option 1":"Echocardiogram",
+        "Option 2":"CT scan",
+        "Option 3":"thoracotomy",
+        "Option 4":"insert chest drain",
+        "Option 5":"MRA",
+        "Correct Answer":"Echocardiogram"
+    },
+    {
+        "Question":"52 years old fell from stairs, his wife believes he lost consciousness for 15 seconds only, he feels totally recovered now, what to do?",
+        "Option 1":"Admit and observe",
+        "Option 2":"Immediate CT",
+        "Option 3":"CT after 1 Hour",
+        "Option 4":"CT after 2 hours",
+        "Option 5":"Discharge and advise on warning sings",
+        "Correct Answer":"Discharge and advise on warning sings"
+    },
+    {
+        "Question":"31-year-old lady is struck by a car and is 32 weeks pregnant. On arrival in the emergency department she has a systolic blood pressure of 105mmHg and a pulse rate of 126 beats per minute. Abdominal examination demonstrates a diffusely tender abdomen and some left sided flank bruising. A FAST scan is normal, What is the most appropriate course of action?",
+        "Option 1":"Arrange a departmental abdominal USS scan",
+        "Option 2":"Arrange an urgent abdominal MRI scan",
+        "Option 3":"Perform a laparotomy",
+        "Option 4":"Perform diagnostic peritoneal lavage",
+        "Option 5":"Arrange an urgent abdominal CT scan",
+        "Correct Answer":"Arrange an urgent abdominal CT scan"
+    },
+    {
+        "Question":"What is the imaging of choice for fracture of the face?",
+        "Option 1":"MRI",
+        "Option 2":"3D CT",
+        "Option 3":"X-ray",
+        "Option 4":"U\/S",
+        "Option 5":"None of the above",
+        "Correct Answer":"3D CT"
+    },
+    {
+        "Question":"A22 year old patient w history of RTA and his examination showing Raised JVP, trachea shifted to right no breath sounds on left, what to do?",
+        "Option 1":"A chest drain to anterior left side",
+        "Option 2":"chest drain to posterior right side",
+        "Option 3":"ETT",
+        "Option 4":"Needle decompression",
+        "Option 5":"None of the above",
+        "Correct Answer":"Needle decompression"
+    },
+    {
+        "Question":"A 19- year-old man fell down a flight of stairs., On presentation to the Emergency Department his Glasgow Coma Score (GCS) was 14\/15 with no local neurological signs. An hour later he Vomited, and his GCS deteriorated to 7 what should to do as a next step?",
+        "Option 1":"Immediate C T brain with in 1 hour",
+        "Option 2":"Call neurosurgeon",
+        "Option 3":"Intubate patient to protect airway",
+        "Option 4":"Arrange C.T within 2 hours",
+        "Option 5":"None of the above",
+        "Correct Answer":"Intubate patient to protect airway"
+    },
+    {
+        "Question":"Dissecting thoracic aorta management in patient came in shock but he regains his vitality?",
+        "Option 1":"IV access and transfer to theatre",
+        "Option 2":"ECG to detect any rhythm abnormality",
+        "Option 3":"Echocardiogam",
+        "Option 4":"Thoracotomy in ED",
+        "Option 5":"Chest X ray",
+        "Correct Answer":"IV access and transfer to theatre"
+    },
+    {
+        "Question":"A 25-year-old male pedestrian is hit by a van on a busy road, He is brought to the Emergency Department by ambulance. On examination he is dyspnoeic, and hypoxic despite administration of high flow 100% oxygen. His blood pressure is 110\/70 and pulse rate is 115 bpm. The right side of his chest is hyper-resonant on percussion and has decreased breath sounds. The trachea is deviated to the left. What is your management?",
+        "Option 1":"Needle in 5th  intercostal space at the mid axillary line",
+        "Option 2":"Between Xiphoidal process and left sternocostal margin",
+        "Option 3":"Between Xiphoidal process and right sternocostal margin",
+        "Option 4":"3rd intercostal space",
+        "Option 5":"None of the above",
+        "Correct Answer":"Needle in 5th  intercostal space at the mid axillary line"
+    },
+    {
+        "Question":"A 24-year-old patient presented with trauma to the chest his CR shown widening of the mediastinum. What should to do?",
+        "Option 1":"CT chest",
+        "Option 2":"Echocardiogram",
+        "Option 3":"ECG",
+        "Option 4":"U\/S",
+        "Option 5":"None of the above",
+        "Correct Answer":"CT chest"
+    },
+    {
+        "Question":"28 year old male is involved in a road traffic accident he is thrown from his motorbike into the pavement and sustains a hemopneumothorax on the right chest. What is the most appropriate course of action?",
+        "Option 1":"CT scan of thorax",
+        "Option 2":"IV cannula 2nd intercostal space",
+        "Option 3":"Chest cannula 5th intercostal space mid axillary line",
+        "Option 4":"Thoracotomy",
+        "Option 5":"None of the above",
+        "Correct Answer":"Chest cannula 5th intercostal space mid axillary line"
+    },
+    {
+        "Question":"A 16 year old man sustains a basal skull fracture and is suspected of having CSF rhinorrhoea Which of the following laboratory tests would most accurately identity whether CSF is present or not?",
+        "Option 1":"Microscopy to identify red blood cells",
+        "Option 2":"Lab stix testing for glucose",
+        "Option 3":"Lab stix testing for protein",
+        "Option 4":"Beta 2 transferrin assay",
+        "Option 5":"Microscopy, gram stain and culture",
+        "Correct Answer":"Beta 2 transferrin assay"
+    },
+    {
+        "Question":"RTA Patient hits his head ,he has GCS of 15 upon arrival and his GCS of 13 after 2 hours there is a small laceration over his cheek. What is the next step should to do?",
+        "Option 1":"CT within 1 hour",
+        "Option 2":"CT within 8 hours",
+        "Option 3":"Call neurosurgeon",
+        "Option 4":"Admission under observation",
+        "Option 5":"Discharge to home",
+        "Correct Answer":"CT within 1 hour"
+    },
+    {
+        "Question":"A 27-year-old man is involved in a road traffic accident. He is seen in the emergency department  with chest pain. Clinical examination is essentially unremarkable, and he is discharged. He  subsequently is found dead at home. What is the most likely underlying injury?",
+        "Option 1":"Tracheobronchial tree injury",
+        "Option 2":"Traumatic aortic disruption",
+        "Option 3":"Cardiac laceration",
+        "Option 4":"Diaphragmatic rupture",
+        "Option 5":"Rupture of the oesophagus",
+        "Correct Answer":"Traumatic aortic disruption"
+    },
+    {
+        "Question":"RTA patient admitted after observation then discharged by giving treatment. 10 days later came  with abdominal discomfort especially after eating, it became worse. What is the cause?",
+        "Option 1":"Diaphragm rupture",
+        "Option 2":"Diaphragmatic hernia",
+        "Option 3":"Curling ulcer",
+        "Option 4":"Acute gastric dilatation",
+        "Option 5":"Oesophageal perforation",
+        "Correct Answer":"Diaphragm rupture"
+    },
+    {
+        "Question":"A 19-year-old student falls from a 2nd floor window. He is hypotensive, though this improves  with a small volume of crystalloid. A CXR shows depression of the left main bronchus and  deviation of the trachea to the right. What is the most likely injury?",
+        "Option 1":"Tension pneumothorax",
+        "Option 2":"Parenchymal lung injury",
+        "Option 3":"Aortic rupture",
+        "Option 4":"Cardiac tamponade",
+        "Option 5":"Flail chest",
+        "Correct Answer":"Aortic rupture"
+    },
+    {
+        "Question":"Old Patient attended A&E with history of falling in the pavement of a pub. He admits that he was drunk but this never happened before. It's unclear if he lost consciousness or not. He lives alone. He has a small cut by eye otherwise normal on examination. What is your management?",
+        "Option 1":"Discharge with advice and be accompanied",
+        "Option 2":"Admit for observation",
+        "Option 3":"CT head within 1 bour (Immediate)",
+        "Option 4":"CT head within 8 hours (urgent)",
+        "Option 5":"Refer to neurosurgeon",
+        "Correct Answer":"Admit for observation"
+    },
+    {
+        "Question":"What would prompt you to do an urgent CT scanning under the NICE guidelines?",
+        "Option 1":"A single episode of vomiting",
+        "Option 2":"GCS 14",
+        "Option 3":"Retro-auricular hematoma",
+        "Option 4":"Child vomit 2 episodes",
+        "Option 5":"None of the above",
+        "Correct Answer":"Retro-auricular hematoma"
+    },
+    {
+        "Question":"A 25 year old man with face trauma his radiological investigation shows maxillary sinus wall tear drop sign what is the site of the fracture?",
+        "Option 1":"Zygomatic bone",
+        "Option 2":"Orbital floor",
+        "Option 3":"Naso -maxillary buttress",
+        "Option 4":"Frontal bone",
+        "Option 5":"Sphenoid bone",
+        "Correct Answer":"Orbital floor"
+    },
+    {
+        "Question":"Patient fell onto chin his teeth to become separated from each other On examination patient has reduced mouth opening, Jaws are not aligned like they used to and also complains of tenderness in the pre-auricular area, which part of mandible is affected?",
+        "Option 1":"Body of the mandible",
+        "Option 2":"Ramus",
+        "Option 3":"Coronoid process",
+        "Option 4":"Condyle",
+        "Option 5":"Angle of the mandible",
+        "Correct Answer":"Condyle"
+    },
+    {
+        "Question":"A 33 Year old patient has severe orbital fracture he has severe respiratory distress. his GCS was 8 and large amount of blood going into the oropharynx. What is the method of definitive airway?",
+        "Option 1":"Surgical cricothyroidotomy",
+        "Option 2":"Needle cricothyroidotomy",
+        "Option 3":"Tracheostomy",
+        "Option 4":"Orotracheal intubation",
+        "Option 5":"None of the above",
+        "Correct Answer":"Surgical cricothyroidotomy"
+    },
+    {
+        "Question":"30 year-old male is involved in a road traffic accident he thrown from his motorbike onto the pavement and his X-ray as following, what is the management of this case?",
+        "Option 1":"CT thorax",
+        "Option 2":"IV cannula 2nd intercostal space",
+        "Option 3":"Chest drain 5th intercostal space midaxillary line",
+        "Option 4":"Thoracotomy",
+        "Option 5":"Chest drain 4th intercostal space midaxillary line",
+        "Correct Answer":"Chest drain 5th intercostal space midaxillary line"
+    }
+]

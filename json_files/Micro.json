@@ -1,0 +1,632 @@
+[
+    {
+        "Question":"A patient undergone hernlotomy a day case surgery. Postoperatively, he developed diarrhea. 2  other patients in the same ward had the same manifestations. Clostridium difficile was found to  be causative organism. What is possible mode of transmission of the Clostridium difficile toxin?",
+        "Option 1":"Endogenous",
+        "Option 2":"Feco-oral",
+        "Option 3":"Nosocomlal",
+        "Option 4":"Respiratory",
+        "Option 5":"Contact",
+        "Correct Answer":"Feco-oral"
+    },
+    {
+        "Question":"A patient recently came from Bangladesh. He developed jaundice, anorexia and abdominal  fullness. What is the most likely cause?",
+        "Option 1":"E.coli",
+        "Option 2":"Hepatito A virus",
+        "Option 3":"Cytomegalovirus",
+        "Option 4":"C.deficile",
+        "Option 5":"Fasciola",
+        "Correct Answer":"Hepatito A virus"
+    },
+    {
+        "Question":"A patient is due to undergo surgery was proved to be a nasal MASA carrier. What is the most  appropriate treatment option?",
+        "Option 1":"Chlorhexidine gluconate",
+        "Option 2":"Mupirocin 2%",
+        "Option 3":"IV vancomycin",
+        "Option 4":"Oral teicoplanin",
+        "Option 5":"None of the above",
+        "Correct Answer":"Mupirocin 2%"
+    },
+    {
+        "Question":"A patient has infection with painless dark black eschars. What is the Likely causative organism?",
+        "Option 1":"Bacillus anthracis",
+        "Option 2":"C. Perfringens",
+        "Option 3":"Mixed aerobe and anaerobe",
+        "Option 4":"Streptococcus pyrogens",
+        "Option 5":"Staphylococcus aureus",
+        "Correct Answer":"Bacillus anthracis"
+    },
+    {
+        "Question":"A patient undergone herniotomy a day case surgery. Postoperatively, he developed diarrhea. 2 other patients in the same ward had the same features. What is the likely causative organism?",
+        "Option 1":"Streptococcus pyrogens",
+        "Option 2":"Staphylococcus aureus",
+        "Option 3":"Clostridium deficile",
+        "Option 4":"Clostridium Perfrengens",
+        "Option 5":"None of the above",
+        "Correct Answer":"Clostridium deficile"
+    },
+    {
+        "Question":"Hospital staff is a common carrier for which of the following?",
+        "Option 1":"Bacteroides",
+        "Option 2":"Hepatitis B virus",
+        "Option 3":"Fasciollasis",
+        "Option 4":"Hepatitis A virus",
+        "Option 5":"Staphylococcus aureus",
+        "Correct Answer":"Staphylococcus aureus"
+    },
+    {
+        "Question":"A 2 years old child has pruritis ani, stool analysis showed ova and cysts in stool. What is the most  likely causative organism?",
+        "Option 1":"Entamocba histolytica",
+        "Option 2":"Ascaris",
+        "Option 3":"Entrobius vermicularis",
+        "Option 4":"Anklystoma",
+        "Option 5":"Glardiasis",
+        "Correct Answer":"Entrobius vermicularis"
+    },
+    {
+        "Question":"A child has Pruritis ani, stool analysis showed ova and cysts in stool. What is the most  appropriate treatment option?",
+        "Option 1":"Metronidazole",
+        "Option 2":"Mebendazole",
+        "Option 3":"Estradiol",
+        "Option 4":"Tinidazole",
+        "Option 5":"None of the above",
+        "Correct Answer":"Mebendazole"
+    },
+    {
+        "Question":"A patient developed gangrene of anterior abdominal wall with crepitus sensation and dark discoloration. What is the most likely caus ative organism?",
+        "Option 1":"Streptococcus pyrogens",
+        "Option 2":"Staphylococeus aureus",
+        "Option 3":"Costridium deficile",
+        "Option 4":"Clostridium Perfringens",
+        "Option 5":"Bacillus anthracis",
+        "Correct Answer":"Clostridium Perfringens"
+    },
+    {
+        "Question":"A patient developed infection affecting his right elbow. Yellow granules are present in the discharging pus. What is the most likely causative organism?",
+        "Option 1":"Streptococcus pyrogens",
+        "Option 2":"Staphylococcus aureus",
+        "Option 3":"Costridium deficile",
+        "Option 4":"Actinomyces",
+        "Option 5":"Clostridium perfringens",
+        "Correct Answer":"Actinomyces"
+    },
+    {
+        "Question":"A patient developed UTI after a prolonged period of urinary catheterization for chronic urine  retention. What is the most likely causative organism?",
+        "Option 1":"Ecoli",
+        "Option 2":"Streptococcus pyrogens",
+        "Option 3":"Pseudomonas",
+        "Option 4":"Staphylococcus aureus",
+        "Option 5":"Clostridium Perfringens",
+        "Correct Answer":"Pseudomonas"
+    },
+    {
+        "Question":"A patient is shifted to a ward after laparotomy. Blood culture shows Gram positive cocci. He is  asymptomatic. But another patient in the ward has MRSA infection. What treatment would you  give?",
+        "Option 1":"Oral vancomycin",
+        "Option 2":"IV vancomycin",
+        "Option 3":"IV penicilin",
+        "Option 4":"Mupirocin nasal spray",
+        "Option 5":"Chlorhexidine",
+        "Correct Answer":"IV vancomycin"
+    },
+    {
+        "Question":"A young guy with testicular pain describing features of Epidydemoorchitis. Which organism  causes this condition?",
+        "Option 1":"Chlamydia",
+        "Option 2":"E.coli",
+        "Option 3":"Staph aureus",
+        "Option 4":"S.pyogens",
+        "Option 5":"None of the above",
+        "Correct Answer":"Chlamydia"
+    },
+    {
+        "Question":"A child has ova and cysts noticed in his stool noticed by his mother. He then developed bloody diarrhea. What is the most suitable option of treatment?",
+        "Option 1":"Metronidazole",
+        "Option 2":"Tinidazole",
+        "Option 3":"Mebendazole",
+        "Option 4":"Bithionol",
+        "Option 5":"None of the above",
+        "Correct Answer":"Metronidazole"
+    },
+    {
+        "Question":"A patient had painful defecation. On examination the doctor noticed a painful fluctuant swelling near the anus. Which organism causes this condition?",
+        "Option 1":"Chlamydia",
+        "Option 2":"E coli",
+        "Option 3":"Staph aureus",
+        "Option 4":"S.pyogenes",
+        "Option 5":"None of the above",
+        "Correct Answer":"E coli"
+    },
+    {
+        "Question":"A patient had painful defecation. On examination the doctor noticed a painful fluctuant sweling near the anus. He undergone perianal abscess incision and drainage. Several days later the patient came shocked with the wound severely infected with bad odour and discoloration. What is the possible diagnosis?",
+        "Option 1":"Perianal abscess",
+        "Option 2":"Necrotizing fascitis",
+        "Option 3":"Gas gangrene",
+        "Option 4":"Erysipelas",
+        "Option 5":"Cellulitis",
+        "Correct Answer":"Necrotizing fascitis"
+    },
+    {
+        "Question":"A patient had a 24-hour duration colicky pain and bloody diarrhea after eating barbecued chicken. Which organism causes this condition?",
+        "Option 1":"Staph aureus",
+        "Option 2":"E coli",
+        "Option 3":"Campylobacter",
+        "Option 4":"S. pyogenes",
+        "Option 5":"None of the above",
+        "Correct Answer":"Campylobacter"
+    },
+    {
+        "Question":"A child developed sore throat, breathing difficulty. On examination, the doctor noticed a  pseudo membrane which bleeds on removal. What is the most likely cause of this condition?",
+        "Option 1":"Candida albicans",
+        "Option 2":"Diphtheria",
+        "Option 3":"Strep pneumonia",
+        "Option 4":"Staph aureus",
+        "Option 5":"None of the above",
+        "Correct Answer":"Diphtheria"
+    },
+    {
+        "Question":"What is the most common cause of otitis media in children?",
+        "Option 1":"H Influenza",
+        "Option 2":"Streptococcus pneumonia",
+        "Option 3":"Staph aureus",
+        "Option 4":"E.coll",
+        "Option 5":"Neisseria meningitides",
+        "Correct Answer":"Streptococcus pneumonia"
+    },
+    {
+        "Question":"A 68 years old female had undergone mitral valve replacement 6 months ago. Later on, she  developed endocarditis. What is the most Iikely cause of this condition?",
+        "Option 1":"Strept viridans",
+        "Option 2":"Staph epidermidis",
+        "Option 3":"Staph aureus",
+        "Option 4":"Strept pneumonia",
+        "Option 5":"None of the above",
+        "Correct Answer":"Staph epidermidis"
+    },
+    {
+        "Question":"A woman sustained needle brick to her thigh. Several days later she noticed red streaks around  site of the brick What is the most likely cause of this condition?",
+        "Option 1":"Strept viridians",
+        "Option 2":"Strept pyogens",
+        "Option 3":"Staph aureus",
+        "Option 4":"Strept pneumonia",
+        "Option 5":"None of the above",
+        "Correct Answer":"Strept pyogens"
+    },
+    {
+        "Question":"A child sustained diarrhea after a bird was on her glass bottle What is the most likely cause of  this condition?",
+        "Option 1":"Strept viridians",
+        "Option 2":"Strept Pyrogens",
+        "Option 3":"Staph aureus",
+        "Option 4":"Strept pneumonie",
+        "Option 5":"Campylobacter",
+        "Correct Answer":"Campylobacter"
+    },
+    {
+        "Question":"What is the causative organism of clean wound infection?",
+        "Option 1":"Strept viridans",
+        "Option 2":"Strept Pyrogens",
+        "Option 3":"Staph aureus",
+        "Option 4":"Strept pneumonia",
+        "Option 5":"Campylobacter",
+        "Correct Answer":"Staph aureus"
+    },
+    {
+        "Question":"A patient in ward developed MRSA. Later 3 other patients were identified. What is the mode of  transmission of MRSA?",
+        "Option 1":"Airborne",
+        "Option 2":"Contact",
+        "Option 3":"Droplet",
+        "Option 4":"Feco-oral",
+        "Option 5":"None of the above",
+        "Correct Answer":"Contact"
+    },
+    {
+        "Question":"What is the causative organism in a case of acute appendicitis?",
+        "Option 1":"E coli",
+        "Option 2":"Strept Bovis",
+        "Option 3":"Strept Pyrogens",
+        "Option 4":"Staph aureus",
+        "Option 5":"Cl .deficile",
+        "Correct Answer":"E coli"
+    },
+    {
+        "Question":"A patient undergone colectomy for a colon cancer. Post operatively he was admitted to ICU and  ventilated. Several days later his chest Xray showed bilateral patches of pneumonia. What is the  causative organism of this case?",
+        "Option 1":"Strept pneumonia",
+        "Option 2":"Staph aureus",
+        "Option 3":"Pseudomonas",
+        "Option 4":"E coli",
+        "Option 5":"H.influenza",
+        "Correct Answer":"Pseudomonas"
+    },
+    {
+        "Question":"Which organism causes diverticular abscess in adults?",
+        "Option 1":"E.coli",
+        "Option 2":"Strept Bovis",
+        "Option 3":"Strept Pyrogens",
+        "Option 4":"Staph aureus",
+        "Option 5":"Cl deficile",
+        "Correct Answer":"E.coli"
+    },
+    {
+        "Question":"What is the most common reported infection transmitted by needle prick?",
+        "Option 1":"Hepatitis C",
+        "Option 2":"Hepatitis B",
+        "Option 3":"HIV",
+        "Option 4":"Hepatitis A",
+        "Option 5":"CMV",
+        "Correct Answer":"Hepatitis B"
+    },
+    {
+        "Question":"A 30-year-old woman undergoes subtotal thyroidectomy. Five days later the wound  appears red and inflamed. Which of the following is the most likely causative organism?",
+        "Option 1":"Hemophilus influenzae",
+        "Option 2":"Proteus mirabilis",
+        "Option 3":"Pseudomonas auerginosa",
+        "Option 4":"Staphylococcus aureus",
+        "Option 5":"Streptococcus pyogens",
+        "Correct Answer":"Staphylococcus aureus"
+    },
+    {
+        "Question":"A 32 years old man suffered jaundice for 2 days. Investigations revealed hepatomegaly and the patient  gives a history of eating raw watercress a month ago. What is your provisional diagnosis?",
+        "Option 1":"Bacteroides",
+        "Option 2":"Hepatitis B virus",
+        "Option 3":"Fascioliasis",
+        "Option 4":"Hepatitis A virus",
+        "Option 5":"Staphylococcus aureus",
+        "Correct Answer":"Fascioliasis"
+    },
+    {
+        "Question":"What is the causative organism of epiglottitis in children?",
+        "Option 1":"E.coli",
+        "Option 2":"Strept pneumonia",
+        "Option 3":"Strept Pyrogens",
+        "Option 4":"Staph aureus",
+        "Option 5":"H.influenza",
+        "Correct Answer":"H.influenza"
+    },
+    {
+        "Question":"A male patient in Africa presented with a swollen scrotum associated with chryluria. There is no  other symptoms. What is the most likely cause?",
+        "Option 1":"Schistosoma",
+        "Option 2":"E.coli",
+        "Option 3":"Staphylococcus aureus",
+        "Option 4":"Wuchereria Bancrofti",
+        "Option 5":"Bacteroides",
+        "Correct Answer":"Wuchereria Bancrofti"
+    },
+    {
+        "Question":"A patient presented with a wound with dirty odour and crepitation. What is empirical antibiotic  to be used till the result of swap appear?",
+        "Option 1":"Metronidazole",
+        "Option 2":"High dose penicillin",
+        "Option 3":"Low dose penicillin",
+        "Option 4":"Rifampicin",
+        "Option 5":"Tetracycline",
+        "Correct Answer":"High dose penicillin"
+    },
+    {
+        "Question":"A 35 years old motorcyclist presents to the emergency department after being involved in a  road traffic accident. A deep lacerated wound was present on the anterior aspect of the thigh  with pain and tenderness and with an unpleasant smell coming from the wound. A plain X-ray  reveals the presence of gas in the deep tissues. What is the best empirical antibiotic or antibiotic  combination?",
+        "Option 1":"Cephalosporin (Cefotaxime or Ceftriaxone)",
+        "Option 2":"Flucloxacillin",
+        "Option 3":"Gentamycin",
+        "Option 4":"Glycopeptide (Vancomycin or teicoplanin)",
+        "Option 5":"Metronidazole and penicillin",
+        "Correct Answer":"Metronidazole and penicillin"
+    },
+    {
+        "Question":"A wound swap performed on an 85-year-old woman with a long-standing venous leg ulcer is  reported as methicillin resistant staphylococcus aureus (MRSA) cultured. Which of the following  is the most appropriate management option?",
+        "Option 1":"Cephalosporin (Cefotaxime or Ceftriaxone)",
+        "Option 2":"Flucloxacillin",
+        "Option 3":"Gentamycin",
+        "Option 4":"Glycopeptide (Vancomycin or Teicoplanin)",
+        "Option 5":"No antibiotics",
+        "Correct Answer":"Glycopeptide (Vancomycin or Teicoplanin)"
+    },
+    {
+        "Question":"A 35-year-old female has left hand lymphedema after breast surgery. She reports that after an  insect bite, the area became swollen, tender and reddish. What is the most likely causative  organism?",
+        "Option 1":"Staphylococcus aureus",
+        "Option 2":"Streptococcus pyogenes",
+        "Option 3":"Salmonella",
+        "Option 4":"E.coli",
+        "Option 5":"Staphylococcus epidermidis",
+        "Correct Answer":"Streptococcus pyogenes"
+    },
+    {
+        "Question":"The most appropriate treatment of traveller\u2019s diarrhoea is:",
+        "Option 1":"Metronidazole",
+        "Option 2":"Azithromycin",
+        "Option 3":"Tinidazole",
+        "Option 4":"Bithionol",
+        "Option 5":"Azathioprine",
+        "Correct Answer":"Azithromycin"
+    },
+    {
+        "Question":"A 53 years old diabetic presented with an infected wound in the mid-thigh with crepitations on  palpation. What is the most likely diagnosis?",
+        "Option 1":"Erysipelas",
+        "Option 2":"Necrotizing fascitis",
+        "Option 3":"Clostridial myonecrosis",
+        "Option 4":"Fournier gangrene",
+        "Option 5":"None of the above",
+        "Correct Answer":"Clostridial myonecrosis"
+    },
+    {
+        "Question":"A 53 years old female undergone a major abdominal surgery for which she got lV antibiotics at  ICU. Subsequently, she developed severe diarrhea and crampy abdominal pain. What is the most  appropriate next investigation?",
+        "Option 1":"Blood culture",
+        "Option 2":"Stool culture",
+        "Option 3":"Drug sensitivity review",
+        "Option 4":"Urine analysis",
+        "Option 5":"Colonoscopy",
+        "Correct Answer":"Stool culture"
+    },
+    {
+        "Question":"A 51 years old Gardener injured the pulp of his index finger with plant thorn. Three days later  develops throbbing pain and erythema to side of nail What is the causative organism?",
+        "Option 1":"Staphylococcus aureus",
+        "Option 2":"Streptococcus pyogenes",
+        "Option 3":"Anthrax",
+        "Option 4":"Kiebsiella",
+        "Option 5":"Bacillus anthracis",
+        "Correct Answer":"Staphylococcus aureus"
+    },
+    {
+        "Question":"An IVDU patient presented with knee swelling. Aspiration shows gram +ve cocci. Surgical lavage  and cephalosporins was done. Subsequently he collapsed two days later. Chest X-ray shows  apical lung lesion with cavitation. What is the most likely causative organism?",
+        "Option 1":"Staphylococcus aureus",
+        "Option 2":"Streptococcus pyogenes",
+        "Option 3":"Peptostreptococcus",
+        "Option 4":"Pseudomonas aeruginosa",
+        "Option 5":"Klebsiella",
+        "Correct Answer":"Staphylococcus aureus"
+    },
+    {
+        "Question":"Which pathogen is responsible for pneumonia in sickle cell patient?",
+        "Option 1":"E.coli",
+        "Option 2":"Salmonella",
+        "Option 3":"Strept pneumonia",
+        "Option 4":"Pseudomonas",
+        "Option 5":"Staph aureus",
+        "Correct Answer":"Strept pneumonia"
+    },
+    {
+        "Question":"A 2-year-old boy presented with fever, halitosis, hot potato voice. what is the causative  organism?",
+        "Option 1":"Staph-aureus",
+        "Option 2":"Strep. Pneumoniae",
+        "Option 3":"H.Influenza",
+        "Option 4":"Pseudomonas",
+        "Option 5":"E.coli",
+        "Correct Answer":"H.Influenza"
+    },
+    {
+        "Question":"A 9 years old girl presented with fever, upper respiratory tract infection and haematuria.  Diagnosis of haemolytic uremic syndrome was made. What is the most responsible organism?",
+        "Option 1":"Staphylococcus aureus",
+        "Option 2":"Streptococcus pyogenes",
+        "Option 3":"E coli",
+        "Option 4":"Clostridium deficile",
+        "Option 5":"Bacteroids",
+        "Correct Answer":"E coli"
+    },
+    {
+        "Question":"A 22 years old man presented with a wound on the  lateral aspect of his forearm. 2 days later, the wound  appeared erythematous as in the picture. What is the most  likely underlying organism?",
+        "Option 1":"Strept pyogenes",
+        "Option 2":"E coli",
+        "Option 3":"Staphylococcus aureus",
+        "Option 4":"Clostridium deficile",
+        "Option 5":"Bacteroides",
+        "Correct Answer":"Strept pyogenes"
+    },
+    {
+        "Question":"46. A 43 years old diabetic female is brought to the emergency room with a lower imb infection.  Examination revealed that the area is discoloured with crepitus and bad odour. The causative  bacteria has the following type:",
+        "Option 1":"Gram negative rods",
+        "Option 2":"Gram negative cocci",
+        "Option 3":"Gram positive rods",
+        "Option 4":"Gram positive cocci",
+        "Option 5":"Atypical bacteria",
+        "Correct Answer":"Gram positive rods"
+    },
+    {
+        "Question":"A group of 3 ladies presented to the ED two hours after eating a meal with severe vomiting and  diarrhoea. Examination revealed abdominal tenderness with low grade fever. Which organism is  the most likely cause?",
+        "Option 1":"Staphylococcus aureus",
+        "Option 2":"E Coli",
+        "Option 3":"Clostridium perfringens",
+        "Option 4":"Clostridium botulinum",
+        "Option 5":"Pseudomonas",
+        "Correct Answer":"Staphylococcus aureus"
+    },
+    {
+        "Question":"A 52 years old male presented with bilateral ear pain. He reported that he suffered similar  attacks before. Bilateral otitis externa was diagnosed. Which one is the least beneficial  management?",
+        "Option 1":"Oral Amoxicilin",
+        "Option 2":"Spray Acetic acid",
+        "Option 3":"Regular microscopy and suction",
+        "Option 4":"Ciprofloxacin & dexamethasone",
+        "Option 5":"Neomycin & steroids",
+        "Correct Answer":"Oral Amoxicilin"
+    },
+    {
+        "Question":"A homosexual 26 years old man was admitted for some labs. A registrar is going to perform  aspiration while the patient was bricked by the needle. Which one of the following infections is  the most likely to be transmitted by needlestick in this situation?",
+        "Option 1":"Hepatitis C",
+        "Option 2":"Malaria",
+        "Option 3":"Hepatitis B",
+        "Option 4":"HIV",
+        "Option 5":"Infectious mononucleosis",
+        "Correct Answer":"Hepatitis B"
+    },
+    {
+        "Question":"A 54-year-old female is admitted one week following a cholecystectomy with profuse diarrhoea.  Apart from a minor intra-operative bile spillage ocurred during removal of the gallbladder, the  procedure was uncomplicated. What is the most likely diagnosis?",
+        "Option 1":"Giardia lamblia",
+        "Option 2":"E coli infection",
+        "Option 3":"Clostridium difficile infection",
+        "Option 4":"Salmonella infection",
+        "Option 5":"Pelvic abscess",
+        "Correct Answer":"Clostridium difficile infection"
+    },
+    {
+        "Question":"Vancomycin is considered of which type of antibiotics?",
+        "Option 1":"B lactam",
+        "Option 2":"Quinolone",
+        "Option 3":"Glycopeptide",
+        "Option 4":"Carbapenem",
+        "Option 5":"Cephalosporins",
+        "Correct Answer":"Glycopeptide"
+    },
+    {
+        "Question":"Which of the following antibiotics is best used for treating bacteroid infection?",
+        "Option 1":"Metronidazole",
+        "Option 2":"Clindamycin",
+        "Option 3":"Ciprofloxacin",
+        "Option 4":"Penicillin",
+        "Option 5":"Cephalosporins",
+        "Correct Answer":"Metronidazole"
+    },
+    {
+        "Question":"A 65 years old female is seen in clinic 20 days following cholecystectomy. Her operative sheet denotes minor blood loss, the gall bladder was shrinked over small stones and was extracted in a plastic bag with no biliary spillage. Of which type of wounds is her wound considered?",
+        "Option 1":"Clean",
+        "Option 2":"Clean contaminated",
+        "Option 3":"Contaminated",
+        "Option 4":"Dirty",
+        "Option 5":"None of the above",
+        "Correct Answer":"Clean contaminated"
+    },
+    {
+        "Question":"A Little girl recently recovered from fever but keeps pulling her ear and crying- Her mother notices yellow purulent discharge from her ear. What is the most likely causative organism?",
+        "Option 1":"Streptococcus intermedius",
+        "Option 2":"Staph aureus",
+        "Option 3":"Moraxella catarrhalis",
+        "Option 4":"Streptococcus pyogenes",
+        "Option 5":"Pseudomonas",
+        "Correct Answer":"Moraxella catarrhalis"
+    },
+    {
+        "Question":" A 43 years old female patient developed surgical site infection after an emergency complicated  appendicectomy. What is the most responsible organism?",
+        "Option 1":"E coli",
+        "Option 2":"Staphylococcus aureus",
+        "Option 3":"Bacteroides",
+        "Option 4":"Clostridium deficile",
+        "Option 5":"Streptococcus bovis",
+        "Correct Answer":"Bacteroides"
+    },
+    {
+        "Question":"A 43 years old patient admitted with a penicillin sensitive bacterial infection causing an acute  attack of endocarditis. He reports a history of rash at the last time he previously took penicillin.  What would be the appropriate medication?",
+        "Option 1":"Amoxycillin",
+        "Option 2":"Linezolid",
+        "Option 3":"Cefuroxime",
+        "Option 4":"Gentamicin",
+        "Option 5":"Vancomycin",
+        "Correct Answer":"Vancomycin"
+    },
+    {
+        "Question":"A 4 years old child was playing, with his father in his pig farm couple of days before. Suddenly he  presented with right sided abdominal pain, bloody diarrhoea with red tender nodules in his limbs  Surgical laparoscopy was done, and appendix was found to be grossly normal What is the most  likely causative organism?",
+        "Option 1":"Yersinia enterocolitica",
+        "Option 2":"Staphylococcus aureus",
+        "Option 3":"Campylobacter",
+        "Option 4":"E.Coli",
+        "Option 5":"Entamoeba histolytica",
+        "Correct Answer":"Yersinia enterocolitica"
+    },
+    {
+        "Question":"A man has been bitten in his arm during a fight. Which organism would be found in the wound  area?",
+        "Option 1":"Bartonella",
+        "Option 2":"Pasteurella multocida",
+        "Option 3":"Pasteurella Canis",
+        "Option 4":"Ekinella corrodens",
+        "Option 5":"Staphylococcus bovis",
+        "Correct Answer":"Ekinella corrodens"
+    },
+    {
+        "Question":"A 60 years old female was eating pork sausage and egg when she suddenly felt abdominal pain  6 hours later, she developed diarrhea and fever. Sellotape analysis showed flagellated bacteria  What is the most likely causative organism?",
+        "Option 1":"Campylobacter jejuni",
+        "Option 2":"E.Coll",
+        "Option 3":"Salmonella",
+        "Option 4":"Streptococcus pyogenes",
+        "Option 5":"Entamoeba histolytica",
+        "Correct Answer":"Campylobacter jejuni"
+    },
+    {
+        "Question":"A 59 years old diabetic female had an abdominal U\/5 for recurrent abdominal pain. U\/S showed presence of gas in the GB. Which on the following is the most likely causative organism?",
+        "Option 1":"Clostridium perfringens",
+        "Option 2":"E. Coli",
+        "Option 3":"Bacteroides",
+        "Option 4":"Klebsiella",
+        "Option 5":"Campylobacter",
+        "Correct Answer":"Clostridium perfringens"
+    },
+    {
+        "Question":"A 43 years old man was diagnosed with bacterial infective endocarditis. Culture revealed  sensitivity to amoxicillin and the patient has active penicillin allergy. Which of the following  antibiotics would be appropriate?",
+        "Option 1":"Amoxycillin",
+        "Option 2":"Linezolid",
+        "Option 3":"Cefiroxime",
+        "Option 4":"Gentamycin",
+        "Option 5":"Cephalosporin",
+        "Correct Answer":"Gentamycin"
+    },
+    {
+        "Question":"A 23 years old male was brought to the ED with a 4 day history of abdominal pain. The pain  became severe this morning. U\/S showed a complicated appendicular mass with purulent  content. Aspiration was done. Which of the following organisms would be found under  microscopy during analysts of this aspirate?",
+        "Option 1":"Streptococcus pyogenes",
+        "Option 2":"Bacteroids",
+        "Option 3":"Clostridium defcile",
+        "Option 4":"Staphylococcus aureus",
+        "Option 5":"Salmonella",
+        "Correct Answer":"Bacteroids"
+    },
+    {
+        "Question":"A 54 years old patient presented to the clinic with recurrent attacks of painful urination  associated with low grade fever. His investigations revealed nitrates in urine with evidence of  pulmonary fibrosis in his chest radiology. Which of the following antibiotics is contraindicated in  management of his condition?",
+        "Option 1":"Amoxicillin",
+        "Option 2":"Cefuroxime",
+        "Option 3":"Nitrofurantoin",
+        "Option 4":"Ciprofloxacin",
+        "Option 5":"Trimethoprim",
+        "Correct Answer":"Nitrofurantoin"
+    },
+    {
+        "Question":" A 34 years old patient who is under chemotherapy for lymphoma undergone emergency appendectomy. 5 days after, the wound appeared gangrenous with foul discharge. What is the best initial management?",
+        "Option 1":"IV broad spectrum antibiotics",
+        "Option 2":"Remove sutures in ward",
+        "Option 3":"U\/S guided drainage",
+        "Option 4":"Intraoperative debridement",
+        "Option 5":"Follow up only",
+        "Correct Answer":"Intraoperative debridement"
+    },
+    {
+        "Question":"A 43 years old dabetic man presented with gangrene in the lower thigh. Examination revealed  crepits and fluctuation with foulish discharge. Which of the following is the best initial  treatment?",
+        "Option 1":"Pepracillin-Tazobactam",
+        "Option 2":"levofloxacin",
+        "Option 3":"Low dose penicillin",
+        "Option 4":"Co-amoxiclav",
+        "Option 5":"Oral vancomycin",
+        "Correct Answer":"Pepracillin-Tazobactam"
+    },
+    {
+        "Question":"A patient developed severe diarrhea while he is in at ICU, colonoscopy was done and revealed a yellowish plaque affecting the colon. What is the causative organism?",
+        "Option 1":"Streptococcus bovis",
+        "Option 2":"Streptococcus Pyrogens",
+        "Option 3":"Staphylococcus aureus",
+        "Option 4":"Clostridium deficile",
+        "Option 5":"Campylobacter",
+        "Correct Answer":"Clostridium deficile"
+    },
+    {
+        "Question":"A 43 years old man presented to the clinic with history of persistent watery profuse stool. Sigmoidoscopy was performed showing whitish creamy coating plaques affecting colonic wall. What is the most likely causative organism",
+        "Option 1":"Clostridium defficile",
+        "Option 2":"Giardia",
+        "Option 3":"Entamoeba histolytics",
+        "Option 4":"Candida",
+        "Option 5":"Streptococcus bovis",
+        "Correct Answer":"Candida"
+    },
+    {
+        "Question":"A 65 years old diabetic patient presented to vascular unit with infected distal 2\/3rds of the left  foot. On examination, wet gangrene and cellulitis was noticed. What is the most likely causative  organism of diabetic foot infection?",
+        "Option 1":"Staphylococcus aureus",
+        "Option 2":"Streptococcus pneumoni",
+        "Option 3":"Klebsiela",
+        "Option 4":"Clostridium perfringens",
+        "Option 5":"Polymicrobial",
+        "Correct Answer":"Polymicrobial"
+    },
+    {
+        "Question":"A patient is under medical treatment for chest infection. His report showed that he is on  Ciprofloxacin and fluconazole. How would you monitor his case?",
+        "Option 1":"Serum level of Ciprofloxacin",
+        "Option 2":"ECG",
+        "Option 3":"Serum level of fluconazole",
+        "Option 4":"Echo cardiography",
+        "Option 5":"Serum Sodium level",
+        "Correct Answer":"ECG"
+    },
+    {
+        "Question":"A 54 years old male patient undergone abdominal aortic aneurysm repair using aortic graft 3  weeks after, the patient developed fever, rising TLC and CRP. Which organism is the most Likely  to cause this condition?",
+        "Option 1":"Staphyiococcus aureus",
+        "Option 2":"Streptococcus sp.",
+        "Option 3":"Staphylococcus epidermedis",
+        "Option 4":"Pseudomonas",
+        "Option 5":"Clostridium deficile",
+        "Correct Answer":"Staphyiococcus aureus"
+    }
+]
