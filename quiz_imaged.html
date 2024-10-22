@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz App</title>
+    <style>
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            min-height: 100vh;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        #quiz-container {
+            max-width: 800px;
+            width: 100%;
+            background-color: #fff;
+            padding: 25px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 25px;
+            font-size: 28px;
+        }
+
+        .question {
+            font-weight: bold;
+            margin-bottom: 25px;
+            text-align: justify;
+            font-size: 20px;
+        }
+
+        .question img {
+            display: block;
+            margin: 10px auto;
+            max-width: 100%; /* Responsive width for all screen sizes */
+            height: auto;
+        }
+
+        .options {
+            margin-bottom: 20px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .options button {
+            width: 100%;
+            max-width: 500px;
+            padding: 12px;
+            margin: 8px 0;
+            font-size: 18px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+        }
+
+        .options button.correct {
+            background-color: green;
+        }
+
+        .options button.wrong {
+            background-color: red;
+        }
+
+        .result {
+            margin-top: 25px;
+            font-size: 20px;
+            font-weight: bold;
+            color: green;
+        }
+
+        #next-btn {
+            padding: 12px 25px;
+            font-size: 18px;
+            cursor: pointer;
+            background-color: #007BFF;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            margin-top: 25px;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        @media (max-width: 768px) {
+            #quiz-container {
+                padding: 20px;
+            }
+
+            .options button {
+                font-size: 16px;
+                padding: 10px;
+            }
+
+            #next-btn {
+                font-size: 16px;
+                padding: 10px 20px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            .question {
+                font-size: 18px;
+            }
+
+            .options button {
+                font-size: 16px;
+                padding: 10px;
+            }
+
+            #next-btn {
+                font-size: 16px;
+                padding: 10px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <h1 id="quiz-title">Quiz</h1>
+    <div id="quiz-container"></div>
+    <div class="result" id="result"></div>
+    <button id="next-btn" style="display:none;">Next Question</button>
+
+    <script>
+        const quizContainer = document.getElementById('quiz-container');
+        const resultContainer = document.getElementById('result');
+        const nextButton = document.getElementById('next-btn');
+        const quizTitle = document.getElementById('quiz-title');
+
+        let questions = [];
+        let currentQuestionIndex = 0;
+
+        // Fetch the questions from the selected JSON file
+        fetch(`imaged_json_file/imaged_questions.json`)
+            .then(response => response.json())
+            .then(data => {
+                questions = data;
+                loadQuestion();
+            })
+            .catch(error => {
+                console.error('Error loading the questions:', error);
+            });
+
+        function loadQuestion() {
+            if (currentQuestionIndex < questions.length) {
+                const q = questions[currentQuestionIndex];
+                quizContainer.innerHTML = `<p class="question">${currentQuestionIndex + 1}. ${q.Question} <img src="${q.image}"> </p>`;
+
+                for (let i = 1; i <= 5; i++) {
+                    const optionKey = `Option ${i}`;
+                    if (q[optionKey]) {
+                        const optionDiv = document.createElement('div');
+                        optionDiv.className = 'options';
+                        optionDiv.innerHTML = `<button value="${q[optionKey]}">${q[optionKey]}</button>`;
+                        quizContainer.appendChild(optionDiv);
+                    }
+                }
+
+                resultContainer.textContent = '';
+                nextButton.style.display = 'none'; 
+            } else {
+                resultContainer.innerHTML = `Quiz completed! Your score: ${currentQuestionIndex} out of ${questions.length}`;
+                quizContainer.innerHTML = '';
+                nextButton.style.display = 'none'; 
+            }
+        }
+
+        function checkAnswer(selectedButton) {
+            const correctAnswer = questions[currentQuestionIndex]["Correct Answer"];
+            if (selectedButton.value === correctAnswer) {
+                selectedButton.classList.add('correct');
+                resultContainer.textContent = 'Correct!';
+            } else {
+                selectedButton.classList.add('wrong');
+                resultContainer.textContent = 'Wrong answer. Try again!';
+            }
+            nextButton.style.display = 'block'; 
+            window.scrollTo(0, nextButton.offsetTop); // Scroll to next button immediately
+        }
+
+        quizContainer.addEventListener('click', (event) => {
+            if (event.target.tagName === 'BUTTON') {
+                checkAnswer(event.target);
+            }
+        });
+
+        nextButton.addEventListener('click', () => {
+            currentQuestionIndex++;
+            loadQuestion();
+        });
+    </script>
+</body>
+</html>
