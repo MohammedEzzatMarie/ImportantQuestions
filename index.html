@@ -111,7 +111,7 @@
             const button = document.createElement('button');
             button.textContent = quizName; // Display without .json
             button.onclick = () => {
-                window.location.href = `quiz.html?file=${encodeURIComponent(fileName)}`; // Encode file name
+                window.location.href = `quiz_page_with_pager.html?file=${encodeURIComponent(fileName)}`; // Encode file name
             };
             quizList.appendChild(button);
         });
@@ -121,6 +121,13 @@
                 window.location.href = `./quiz_imaged.html`; // Encode file name
             };
             quizList.appendChild(img_page);
+
+        const tables_page = document.createElement('button');
+        tables_page.textContent = "Questions with Tables";
+        tables_page.onclick = () => {
+                window.location.href = `./quiz_tabled.html`; // Encode file name
+            };
+            quizList.appendChild(tables_page);
     </script>
 </body>
 </html>

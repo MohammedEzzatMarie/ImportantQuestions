@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz App</title>
     <style>
+        /* Existing styles */
         * {
             box-sizing: border-box;
             margin: 0;
@@ -92,6 +93,12 @@
             background-color: #0056b3;
         }
 
+        #question-select {
+            margin-bottom: 20px;
+            padding: 10px;
+            font-size: 16px;
+        }
+
         @media (max-width: 768px) {
             #quiz-container {
                 padding: 20px;
@@ -105,6 +112,10 @@
             #next-btn {
                 font-size: 16px;
                 padding: 10px 20px;
+            }
+
+            #question-select {
+                font-size: 14px;
             }
         }
 
@@ -122,11 +133,16 @@
                 font-size: 16px;
                 padding: 10px 20px;
             }
+
+            #question-select {
+                font-size: 12px;
+            }
         }
     </style>
 </head>
 <body>
     <h1 id="quiz-title">Quiz</h1>
+    <select id="question-select" style="display:none;"></select> <!-- Dropdown for selecting questions -->
     <div id="quiz-container"></div>
     <div class="result" id="result"></div>
     <button id="next-btn" style="display:none;">Next Question</button>
@@ -136,6 +152,7 @@
         const resultContainer = document.getElementById('result');
         const nextButton = document.getElementById('next-btn');
         const quizTitle = document.getElementById('quiz-title');
+        const questionSelect = document.getElementById('question-select'); // Dropdown for question selection
 
         let questions = [];
         let currentQuestionIndex = 0;
@@ -150,11 +167,28 @@
             .then(response => response.json())
             .then(data => {
                 questions = data;
+                populateDropdown();
                 loadQuestion();
+                questionSelect.style.display = 'block'; // Show the dropdown once questions are loaded
             })
             .catch(error => {
                 console.error('Error loading the questions:', error);
             });
+
+        function populateDropdown() {
+            questionSelect.innerHTML = ''; // Clear the dropdown
+            questions.forEach((_, index) => {
+                const option = document.createElement('option');
+                option.value = index;
+                option.textContent = `Question ${index + 1}`;
+                questionSelect.appendChild(option);
+            });
+
+            questionSelect.addEventListener('change', () => {
+                currentQuestionIndex = parseInt(questionSelect.value);
+                loadQuestion();
+            });
+        }
 
         function loadQuestion() {
             if (currentQuestionIndex < questions.length) {

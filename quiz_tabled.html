@@ -43,13 +43,6 @@
             font-size: 20px;
         }
 
-        .question img {
-            display: block;
-            margin: 10px auto;
-            max-width: 100%; /* Responsive width for all screen sizes */
-            height: auto;
-        }
-
         .options {
             margin-bottom: 20px;
             display: flex;
@@ -99,51 +92,39 @@
             background-color: #0056b3;
         }
 
-        #question-selector {
-            margin-bottom: 20px;
+        select {
             padding: 10px;
-            font-size: 18px;
+            font-size: 16px;
+            margin-bottom: 20px;
         }
 
-        @media (max-width: 768px) {
-            #quiz-container {
-                padding: 20px;
-            }
-
-            .options button {
-                font-size: 16px;
-                padding: 10px;
-            }
-
-            #next-btn {
-                font-size: 16px;
-                padding: 10px 20px;
-            }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 20px 0;
         }
 
-        @media (max-width: 480px) {
-            .question {
-                font-size: 18px;
-            }
+        table, th, td {
+            border: 1px solid black;
+        }
 
-            .options button {
-                font-size: 16px;
-                padding: 10px;
-            }
+        th, td {
+            padding: 10px;
+            text-align: center;
+        }
 
-            #next-btn {
-                font-size: 16px;
-                padding: 10px 20px;
-            }
+        th {
+            background-color: #007BFF;
+            color: white;
         }
     </style>
 </head>
 <body>
     <h1 id="quiz-title">Quiz</h1>
-    
-    <!-- Dropdown Menu for Selecting Question -->
-    <select id="question-selector">
-        <option value="0">Select Question</option>
+
+    <!-- Dropdown to choose question number -->
+    <select id="question-select">
+        <option value="" disabled selected>Select Question</option>
     </select>
 
     <div id="quiz-container"></div>
@@ -154,37 +135,66 @@
         const quizContainer = document.getElementById('quiz-container');
         const resultContainer = document.getElementById('result');
         const nextButton = document.getElementById('next-btn');
-        const questionSelector = document.getElementById('question-selector');
+        const quizTitle = document.getElementById('quiz-title');
+        const questionSelect = document.getElementById('question-select');
 
         let questions = [];
         let currentQuestionIndex = 0;
 
         // Fetch the questions from the selected JSON file
-        fetch(`./imaged_questions.json`)
+        fetch(`./tabled_questions.json`)
             .then(response => response.json())
             .then(data => {
                 questions = data;
-                populateDropdown();
+                populateQuestionSelect(); // Populate dropdown
                 loadQuestion();
             })
             .catch(error => {
                 console.error('Error loading the questions:', error);
             });
 
-        function populateDropdown() {
-            questions.forEach((_, index) => {
+        // Populate the dropdown with question numbers
+        function populateQuestionSelect() {
+            questions.forEach((q, index) => {
                 const option = document.createElement('option');
                 option.value = index;
                 option.textContent = `Question ${index + 1}`;
-                questionSelector.appendChild(option);
+                questionSelect.appendChild(option);
             });
         }
+
+        // Load question when selected from dropdown
+        questionSelect.addEventListener('change', (event) => {
+            currentQuestionIndex = parseInt(event.target.value);
+            loadQuestion();
+        });
 
         function loadQuestion() {
             if (currentQuestionIndex < questions.length) {
                 const q = questions[currentQuestionIndex];
-                quizContainer.innerHTML = `<p class="question">${currentQuestionIndex + 1}. ${q.Question} <img src="${q.image}"> </p>`;
+                let questionText = q.Question;
 
+                // Update the dropdown selection to the current question
+                questionSelect.value = currentQuestionIndex;
+
+                // Check if "Table Data:" exists in the question text
+                if (questionText.includes('Table Data:')) {
+                    const tableStart = questionText.indexOf('Table Data:');
+                    const tableEnd = questionText.lastIndexOf('|') + 1;
+
+                    const beforeTable = questionText.slice(0, tableStart).trim();
+                    const afterTable = questionText.slice(tableEnd).trim();
+                    const tableData = questionText.slice(tableStart + 'Table Data:'.length, tableEnd).trim();
+
+                    // Append the cleaned question text (before and after table data)
+                    quizContainer.innerHTML = `<p class="question">${currentQuestionIndex + 1}. ${beforeTable}</p>`;
+                    quizContainer.innerHTML += generateTableFromData(tableData);
+                    quizContainer.innerHTML += `<p class="question">${afterTable}</p>`;
+                } else {
+                    quizContainer.innerHTML = `<p class="question">${currentQuestionIndex + 1}. ${q.Question}</p>`;
+                }
+
+                // Render options
                 for (let i = 1; i <= 5; i++) {
                     const optionKey = `Option ${i}`;
                     if (q[optionKey]) {
@@ -196,12 +206,33 @@
                 }
 
                 resultContainer.textContent = '';
-                nextButton.style.display = 'none';
+                nextButton.style.display = 'none'; 
             } else {
                 resultContainer.innerHTML = `Quiz completed! Your score: ${currentQuestionIndex} out of ${questions.length}`;
                 quizContainer.innerHTML = '';
-                nextButton.style.display = 'none';
+                nextButton.style.display = 'none'; 
             }
+        }
+
+        function generateTableFromData(data) {
+            const rows = data.split('\n').map(row => row.trim().split('|').map(cell => cell.trim()));
+            if (rows.length === 0) return '';
+
+            let tableHTML = '<table>';
+            rows.forEach((row, index) => {
+                tableHTML += '<tr>';
+                row.forEach(cell => {
+                    if (index === 0) {
+                        tableHTML += `<th>${cell}</th>`;  // Header row
+                    } else {
+                        tableHTML += `<td>${cell}</td>`;  // Data rows
+                    }
+                });
+                tableHTML += '</tr>';
+            });
+            tableHTML += '</table>';
+
+            return tableHTML;
         }
 
         function checkAnswer(selectedButton) {
@@ -214,7 +245,7 @@
                 resultContainer.textContent = 'Wrong answer. Try again!';
             }
             nextButton.style.display = 'block'; 
-            window.scrollTo(0, nextButton.offsetTop); // Scroll to next button immediately
+            window.scrollTo(0, nextButton.offsetTop);
         }
 
         quizContainer.addEventListener('click', (event) => {
@@ -226,14 +257,6 @@
         nextButton.addEventListener('click', () => {
             currentQuestionIndex++;
             loadQuestion();
-        });
-
-        // Event listener for dropdown change to select a specific question
-        questionSelector.addEventListener('change', (event) => {
-            currentQuestionIndex = parseInt(event.target.value);
-            if (!isNaN(currentQuestionIndex)) {
-                loadQuestion();
-            }
         });
     </script>
 </body>

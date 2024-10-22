@@ -828,6 +828,15 @@
         "Correct Answer":"Hemopericardium"
     },
     {
+        "Question":"Patient on inotropes for treatment of shock, noradrenaline was given. What is the most indication of it?",
+        "Option 1":"Neurogenic shock",
+        "Option 2":"Anaphylactic shock",
+        "Option 3":"Septic shock",
+        "Option 4":"Hypovolemic shock",
+        "Option 5":"Cardiogenic shock",
+        "Correct Answer":"Septic shock"
+    },
+    {
         "Question":"30 year old patient with chest trauma. He has bruises on the chest and external jugular veins are visible. What is the type of shock occur?",
         "Option 1":"Distributive",
         "Option 2":"Obstructive",
