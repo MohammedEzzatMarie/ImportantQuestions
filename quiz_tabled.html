@@ -98,36 +98,25 @@
             margin-bottom: 20px;
         }
 
-        .table-container {
-            display: flex;
-            justify-content: center; /* Centers the table horizontally */
-            overflow-x: auto; /* Enables scrolling if the table exceeds the container width */
-            width: 100%;
-        }
-
         table {
-            width: 100%; /* Allow the table to take up the full width */
-            max-width: 800px; /* Max width to keep table from getting too stretched */
+            width: 100%;
             border-collapse: collapse;
             margin: 20px 0;
+            font-size: 0.8em; /* Decrease font size for tables */
+        }
+
+        table, th, td {
+            border: 1px solid black;
         }
 
         th, td {
-            padding: 10px;
+            padding: 8px; /* Decrease padding */
             text-align: center;
-            border: 1px solid black;
         }
 
         th {
             background-color: #007BFF;
             color: white;
-        }
-
-        @media (max-width: 768px) {
-            th, td {
-                padding: 8px;
-                font-size: 14px; /* Adjust the font size for smaller screens */
-            }
         }
     </style>
 </head>
@@ -230,10 +219,12 @@
             const rows = data.split('\n').map(row => row.trim().split('|').map(cell => cell.trim()));
             if (rows.length === 0) return '';
 
-            let tableHTML = '<div class="table-container"><table>';
+            let tableHTML = '<table>';
             rows.forEach((row, index) => {
                 tableHTML += '<tr>';
-                row.forEach(cell => {
+                // Remove the first and last columns
+                const trimmedRow = row.slice(1, -1);
+                trimmedRow.forEach(cell => {
                     if (index === 0) {
                         tableHTML += `<th>${cell}</th>`;  // Header row
                     } else {
@@ -242,7 +233,7 @@
                 });
                 tableHTML += '</tr>';
             });
-            tableHTML += '</table></div>';
+            tableHTML += '</table>';
 
             return tableHTML;
         }
